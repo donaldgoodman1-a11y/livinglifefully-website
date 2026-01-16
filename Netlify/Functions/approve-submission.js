@@ -1,8 +1,11 @@
 const fetch = require('node-fetch');
 
-exports.handler = async (event, context) => {
-  // Check for authentication
-  if (!context.clientContext || !context.clientContext.user) {
+exports.handler = async (event) => {
+  // Check for admin key
+  const adminKey = event.headers['x-admin-key'];
+  const expectedKey = process.env.ADMIN_KEY;
+
+  if (!adminKey || adminKey !== expectedKey) {
     return {
       statusCode: 401,
       body: JSON.stringify({ error: 'Unauthorized' })
@@ -33,7 +36,7 @@ exports.handler = async (event, context) => {
     if (!githubToken) {
       return {
         statusCode: 500,
-        body: JSON.stringify({ error: 'Server configuration error: Missing GitHub token' })
+        body: JSON.stringify({ error: 'Server configuration error: Missing GITHUB_TOKEN' })
       };
     }
 
@@ -93,7 +96,7 @@ exports.handler = async (event, context) => {
       throw new Error('Failed to update community wisdom file');
     }
 
-    // Step 4: Delete the submission from Netlify Forms (optional, but keeps things clean)
+    // Step 4: Delete the submission from Netlify Forms
     if (id && netlifyToken) {
       try {
         await fetch(`https://api.netlify.com/api/v1/submissions/${id}`, {
@@ -103,13 +106,13 @@ exports.handler = async (event, context) => {
           }
         });
       } catch (e) {
-        // Non-critical if this fails
         console.log('Could not delete submission from Netlify Forms:', e);
       }
     }
 
     return {
       statusCode: 200,
+      headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ 
         success: true, 
         message: 'Wisdom approved and published!',
