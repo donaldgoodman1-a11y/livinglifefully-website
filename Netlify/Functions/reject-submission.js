@@ -1,8 +1,11 @@
 const fetch = require('node-fetch');
 
-exports.handler = async (event, context) => {
-  // Check for authentication
-  if (!context.clientContext || !context.clientContext.user) {
+exports.handler = async (event) => {
+  // Check for admin key
+  const adminKey = event.headers['x-admin-key'];
+  const expectedKey = process.env.ADMIN_KEY;
+
+  if (!adminKey || adminKey !== expectedKey) {
     return {
       statusCode: 401,
       body: JSON.stringify({ error: 'Unauthorized' })
@@ -31,11 +34,11 @@ exports.handler = async (event, context) => {
     if (!netlifyToken) {
       return {
         statusCode: 500,
-        body: JSON.stringify({ error: 'Server configuration error: Missing API token' })
+        body: JSON.stringify({ error: 'Server configuration error: Missing NETLIFY_API_TOKEN' })
       };
     }
 
-    // Mark the submission as spam (this removes it from the main list but keeps a record)
+    // Mark the submission as spam (removes from main list but keeps record)
     const spamResponse = await fetch(
       `https://api.netlify.com/api/v1/submissions/${id}/spam`,
       {
@@ -47,7 +50,7 @@ exports.handler = async (event, context) => {
     );
 
     if (!spamResponse.ok) {
-      // If marking as spam fails, try to delete it instead
+      // If marking as spam fails, try to delete it
       const deleteResponse = await fetch(
         `https://api.netlify.com/api/v1/submissions/${id}`,
         {
@@ -65,6 +68,7 @@ exports.handler = async (event, context) => {
 
     return {
       statusCode: 200,
+      headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ 
         success: true, 
         message: 'Submission rejected'
