@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Verified Submissions</title>
+  <style>
+    body { font-family: system-ui, Arial, sans-serif; max-width: 900px; margin: 40px auto; padding: 0 16px; }
+    form { padding: 16px; border: 1px solid #ddd; border-radius: 10px; margin: 16px 0 28px; }
+    label { display:block; margin: 10px 0 6px; font-weight: 600; }
+    input, textarea { width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 8px; }
+    button { margin-top: 12px; padding: 10px 14px; border-radius: 8px; border: 0; cursor: pointer; }
+    .quote { padding: 14px 16px; border-left: 4px solid #ccc; background: #fafafa; border-radius: 10px; margin: 14px 0; }
+    .meta { margin-top: 8px; font-size: 0.95rem; opacity: 0.8; }
+    .error { color: #b00020; }
+    .loading { opacity: 0.8; }
+  </style>
+</head>
+<body>
+  <h1>Submit a Quote</h1>
+
+  <form name="Verified Submissions" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+    <input type="hidden" name="form-name" value="Verified Submissions" />
+    <p style="display:none;">
+      <label>Don’t fill this out: <input name="bot-field" /></label>
+    </p>
+
+    <label for="quote">Quote</label>
+    <textarea id="quote" name="quote" rows="4" required></textarea>
+
+    <label for="author">Name (optional)</label>
+    <input id="author" name="author" placeholder="Anonymous" />
+
+    <button type="submit">Submit</button>
+    <p style="opacity:.8">Submissions are moderated. Items marked spam will not appear.</p>
+  </form>
+
+  <h2>Approved Quotes</h2>
+  <div id="status" class="loading">Loading…</div>
+  <div id="quotes"></div>
+
+  <script>
+    const statusEl = document.getElementById('status');
+    const quotesEl = document.getElementById('quotes');
+
+    function esc(s) {
+      return String(s ?? '').replace(/[&<>"']/g, c => ({
+        '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'
+      }[c]));
+    }
+
+    async function loadQuotes() {
+      statusEl.textContent = 'Loading…';
+      statusEl.className = 'loading';
+
+      try {
+        const res = await fetch('/.netlify/functions/quotes', { cache: 'no-store' });
+        if (!res.ok) throw new Error(res.status);
+
+        const data = await res.json();
+        const quotes = data.quotes || [];
+
+        if (!quotes.length) {
+          statusEl.textContent = 'No approved quotes yet.';
+          statusEl.className = '';
+          quotesEl.innerHTML = '';
+          return;
+        }
+
+        statusEl.textContent = '';
+        statusEl.className = '';
+        quotesEl.innerHTML = quotes.map(q => `
+          <div class="quote">
+            <div>"${esc(q.quote)}"</div>
+            <div class="meta">— ${esc(q.author || 'Anonymous')}</div>
+          </div>
+        `).join('');
+      } catch {
+        statusEl.textContent = 'Could not load quotes.';
+        statusEl.className = 'error';
+      }
+    }
+
+    loadQuotes();
+    setInterval(loadQuotes, 60000);
+  </script>
+</body>
+</html>
