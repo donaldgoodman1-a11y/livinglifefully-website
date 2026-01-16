@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Community Wisdom - Living Life Fully</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        header {
+            text-align: center;
+            color: white;
+            margin-bottom: 40px;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .subtitle {
+            font-size: 1.2rem;
+            opacity: 0.9;
+        }
+
+        .nav-buttons {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 12px 30px;
+            margin: 0 10px;
+            background: white;
+            color: #667eea;
+            text-decoration: none;
+            border-radius: 25px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+        }
+
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 12px rgba(0,0,0,0.3);
+        }
+
+        .quotes-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 25px;
+            margin-top: 30px;
+        }
+
+        .quote-card {
+            background: white;
+            border-radius: 15px;
+            padding: 25px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .quote-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 25px rgba(0,0,0,0.3);
+        }
+
+        .quote-text {
+            font-size: 1.1rem;
+            font-style: italic;
+            color: #555;
+            margin-bottom: 15px;
+            line-height: 1.6;
+        }
+
+        .quote-text::before {
+            content: '"';
+            font-size: 3rem;
+            color: #667eea;
+            opacity: 0.3;
+            line-height: 0;
+            vertical-align: -0.4em;
+        }
+
+        .quote-author {
+            text-align: right;
+            color: #667eea;
+            font-weight: 600;
+            font-size: 0.95rem;
+        }
+
+        .loading {
+            text-align: center;
+            color: white;
+            font-size: 1.2rem;
+            padding: 40px;
+        }
+
+        .no-quotes {
+            text-align: center;
+            color: white;
+            font-size: 1.2rem;
+            padding: 40px;
+            background: rgba(255,255,255,0.1);
+            border-radius: 15px;
+        }
+
+        .error {
+            text-align: center;
+            color: white;
+            background: rgba(255,0,0,0.3);
+            padding: 20px;
+            border-radius: 10px;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Community Wisdom</h1>
+            <p class="subtitle">Inspiring quotes from our community</p>
+        </header>
+
+        <div class="nav-buttons">
+            <a href="/" class="btn">Home</a>
+            <a href="/contribute" class="btn">Share Your Quote</a>
+        </div>
+
+        <div id="loading" class="loading">Loading community wisdom...</div>
+        <div id="quotes-container" class="quotes-grid"></div>
+    </div>
+
+    <script>
+        async function loadQuotes() {
+            const loading = document.getElementById('loading');
+            const container = document.getElementById('quotes-container');
+            
+            try {
+                // Fetch approved quotes
+                const response = await fetch('/.netlify/functions/get-submissions');
+                
+                if (!response.ok) {
+                    throw new Error('Failed to load quotes');
+                }
+                
+                const data = await response.json();
+                const quotes = data.submissions || [];
+                
+                // Hide loading
+                loading.style.display = 'none';
+                
+                // Filter only approved quotes
+                const approvedQuotes = quotes.filter(q => q.status === 'approved');
+                
+                if (approvedQuotes.length === 0) {
+                    container.innerHTML = '<div class="no-quotes">No quotes have been shared yet. Be the first to contribute!</div>';
+                    return;
+                }
+                
+                // Display quotes
+                container.innerHTML = approvedQuotes.map(quote => `
+                    <div class="quote-card">
+                        <div class="quote-text">${escapeHtml(quote.quote)}</div>
+                        <div class="quote-author">— ${escapeHtml(quote.author)}</div>
+                    </div>
+                `).join('');
+                
+            } catch (error) {
+                loading.style.display = 'none';
+                container.innerHTML = `
+                    <div class="error">
+                        <p>Sorry, we couldn't load the quotes at this time.</p>
+                        <p>Please try again later.</p>
+                    </div>
+                `;
+                console.error('Error loading quotes:', error);
+            }
+        }
+        
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+        
+        // Load quotes when page loads
+        loadQuotes();
+    </script>
+</body>
+</html>
