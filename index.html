@@ -11,6 +11,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 <body>
 
@@ -120,28 +121,36 @@
         const allBookWisdom = [...bookWisdom.foundations, ...bookWisdom.practices, ...bookWisdom.wisdom, ...bookWisdom.path];
 
         // ===== APPROVED COMMUNITY WISDOM =====
-        // After reviewing submissions in your Netlify dashboard, add approved wisdom here
-        // Format: { text: "wisdom quote", author: "name", date: "YYYY-MM-DD" }
-        const approvedCommunityWisdom = [
-          // Example (delete this once you have real submissions):
-          // { 
-          //   text: "The best time to plant a tree was 20 years ago. The second best time is now.",
-          //   author: "Sarah M.",
-          //   date: "2025-01-10"
-          // }
-        ];
+        // Quotes are now managed via the CMS at /admin
+        // They are stored in data/community-wisdom.json
+        const approvedCommunityWisdom = [];
 
         const LivingFullyCompanion = () => {
           const [activeTab, setActiveTab] = useState('explore');
           const [currentWisdom, setCurrentWisdom] = useState(allBookWisdom[0]);
           const [communityWisdom, setCommunityWisdom] = useState([]);
+          const [isLoading, setIsLoading] = useState(true);
 
           useEffect(() => {
-            // Load approved community wisdom from the hardcoded array
-            const sortedWisdom = [...approvedCommunityWisdom].sort((a, b) => 
-              new Date(b.date) - new Date(a.date)
-            );
-            setCommunityWisdom(sortedWisdom);
+            // Fetch approved community wisdom from the JSON file
+            const fetchCommunityWisdom = async () => {
+              try {
+                const response = await fetch('/data/community-wisdom.json');
+                const data = await response.json();
+                const sortedWisdom = [...data.quotes].sort((a, b) => 
+                  new Date(b.date) - new Date(a.date)
+                );
+                setCommunityWisdom(sortedWisdom);
+              } catch (error) {
+                console.error('Error loading community wisdom:', error);
+                // Fallback to empty array if file doesn't exist yet
+                setCommunityWisdom([]);
+              } finally {
+                setIsLoading(false);
+              }
+            };
+            
+            fetchCommunityWisdom();
           }, []);
 
           const getRandomWisdom = () => {
@@ -312,7 +321,13 @@ return (
                       </p>
                     </div>
 
-                    {communityWisdom.length === 0 ? (
+                    {isLoading ? (
+                      <div className="text-center py-12">
+                        <div className="bg-slate-800 bg-opacity-90 border-2 border-blue-500 rounded-lg p-12 max-w-2xl mx-auto">
+                          <p className="text-blue-200 text-xl">Loading community wisdom...</p>
+                        </div>
+                      </div>
+                    ) : communityWisdom.length === 0 ? (
                       <div className="text-center py-12">
                         <div className="bg-slate-800 bg-opacity-90 border-2 border-blue-500 rounded-lg p-12 max-w-2xl mx-auto">
                           <Users size={64} className="mx-auto mb-6 text-blue-400 opacity-50" />
@@ -482,6 +497,18 @@ return (
         };
 
         ReactDOM.render(<LivingFullyCompanion />, document.getElementById('root'));
+    </script>
+    
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
     </script>
 </body>
 </html>

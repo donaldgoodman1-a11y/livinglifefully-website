@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moderate Community Wisdom - Living Life Fully</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Crimson Text', serif;
+            background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%);
+            min-height: 100vh;
+        }
+    </style>
+</head>
+<body>
+    <div id="app" class="container mx-auto px-4 py-8 max-w-6xl">
+        <!-- Header -->
+        <header class="text-center mb-12">
+            <h1 class="text-5xl font-bold text-white mb-4">Community Wisdom Moderator</h1>
+            <p class="text-blue-100 text-xl">Review and approve submissions from your community</p>
+            <div id="user-info" class="mt-4 text-blue-200"></div>
+        </header>
+
+        <!-- Loading State -->
+        <div id="loading" class="text-center py-12">
+            <div class="bg-white rounded-lg shadow-2xl p-12 max-w-md mx-auto">
+                <div class="animate-spin rounded-full h-16 w-16 border-b-4 border-blue-700 mx-auto mb-4"></div>
+                <p class="text-slate-700 text-xl">Loading submissions...</p>
+            </div>
+        </div>
+
+        <!-- Error State -->
+        <div id="error" class="hidden text-center py-12">
+            <div class="bg-red-100 border-2 border-red-500 rounded-lg p-8 max-w-md mx-auto">
+                <p class="text-red-700 text-lg font-semibold mb-2">Error Loading Submissions</p>
+                <p id="error-message" class="text-red-600"></p>
+                <button onclick="location.reload()" class="mt-4 px-6 py-2 bg-red-600 text-white rounded-lg hover:bg-red-700">
+                    Try Again
+                </button>
+            </div>
+        </div>
+
+        <!-- Login Required -->
+        <div id="login-required" class="hidden text-center py-12">
+            <div class="bg-white rounded-lg shadow-2xl p-12 max-w-md mx-auto">
+                <h2 class="text-2xl font-bold text-slate-900 mb-4">Authentication Required</h2>
+                <p class="text-slate-700 mb-6">Please log in to access the moderation dashboard.</p>
+                <button id="login-btn" class="px-8 py-3 bg-blue-700 text-white rounded-lg font-bold text-lg hover:bg-blue-800">
+                    Log In
+                </button>
+            </div>
+        </div>
+
+        <!-- Submissions Grid -->
+        <div id="submissions-container" class="hidden space-y-6">
+            <div class="bg-white bg-opacity-10 rounded-lg p-4 mb-6">
+                <p class="text-white text-center">
+                    <span id="submission-count" class="font-bold text-2xl">0</span> 
+                    <span class="text-blue-100">pending submissions</span>
+                </p>
+            </div>
+            
+            <div id="submissions-grid" class="grid md:grid-cols-2 gap-6">
+                <!-- Submissions will be inserted here -->
+            </div>
+
+            <!-- Empty State -->
+            <div id="empty-state" class="hidden text-center py-12">
+                <div class="bg-white rounded-lg shadow-2xl p-12 max-w-md mx-auto">
+                    <svg class="w-24 h-24 mx-auto mb-6 text-green-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                    </svg>
+                    <h2 class="text-2xl font-bold text-slate-900 mb-2">All caught up!</h2>
+                    <p class="text-slate-600">No pending submissions to review.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Success Toast -->
+    <div id="success-toast" class="hidden fixed bottom-8 right-8 bg-green-500 text-white px-6 py-4 rounded-lg shadow-2xl">
+        <p class="font-bold">Success!</p>
+        <p id="success-message"></p>
+    </div>
+
+    <script>
+        let currentUser = null;
+
+        // Check authentication on load
+        netlifyIdentity.on('init', user => {
+            currentUser = user;
+            if (!user) {
+                showLoginRequired();
+            } else {
+                showUserInfo(user);
+                loadSubmissions();
+            }
+        });
+
+        netlifyIdentity.on('login', user => {
+            currentUser = user;
+            location.reload();
+        });
+
+        netlifyIdentity.on('logout', () => {
+            currentUser = null;
+            location.reload();
+        });
+
+        document.getElementById('login-btn')?.addEventListener('click', () => {
+            netlifyIdentity.open();
+        });
+
+        function showLoginRequired() {
+            document.getElementById('loading').classList.add('hidden');
+            document.getElementById('login-required').classList.remove('hidden');
+        }
+
+        function showUserInfo(user) {
+            const userInfo = document.getElementById('user-info');
+            userInfo.innerHTML = `
+                Logged in as <strong>${user.email}</strong> | 
+                <button onclick="netlifyIdentity.logout()" class="underline hover:text-white">Logout</button>
+            `;
+        }
+
+        function showError(message) {
+            document.getElementById('loading').classList.add('hidden');
+            document.getElementById('error').classList.remove('hidden');
+            document.getElementById('error-message').textContent = message;
+        }
+
+        function showSuccess(message) {
+            const toast = document.getElementById('success-toast');
+            const messageEl = document.getElementById('success-message');
+            messageEl.textContent = message;
+            toast.classList.remove('hidden');
+            setTimeout(() => {
+                toast.classList.add('hidden');
+            }, 3000);
+        }
+
+        async function loadSubmissions() {
+            try {
+                const response = await fetch('/.netlify/functions/get-submissions', {
+                    headers: {
+                        'Authorization': `Bearer ${currentUser.token.access_token}`
+                    }
+                });
+
+                if (!response.ok) {
+                    throw new Error(`Failed to load submissions: ${response.status}`);
+                }
+
+                const submissions = await response.json();
+                displaySubmissions(submissions);
+            } catch (error) {
+                console.error('Error loading submissions:', error);
+                showError(error.message);
+            }
+        }
+
+        function displaySubmissions(submissions) {
+            document.getElementById('loading').classList.add('hidden');
+            document.getElementById('submissions-container').classList.remove('hidden');
+            
+            const count = document.getElementById('submission-count');
+            const grid = document.getElementById('submissions-grid');
+            const emptyState = document.getElementById('empty-state');
+
+            count.textContent = submissions.length;
+
+            if (submissions.length === 0) {
+                grid.classList.add('hidden');
+                emptyState.classList.remove('hidden');
+                return;
+            }
+
+            grid.innerHTML = submissions.map(sub => createSubmissionCard(sub)).join('');
+        }
+
+        function createSubmissionCard(submission) {
+            const wisdom = submission.data.wisdom;
+            const author = submission.data.author || 'Anonymous Reader';
+            const date = new Date(submission.created_at).toLocaleString();
+            
+            return `
+                <div class="bg-white rounded-lg shadow-xl p-6 border-2 border-blue-200 hover:border-blue-400 transition-all">
+                    <div class="mb-4">
+                        <p class="text-xs text-slate-500 mb-2">Submitted on ${date}</p>
+                        <blockquote class="text-lg text-slate-800 leading-relaxed italic mb-4">
+                            "${wisdom}"
+                        </blockquote>
+                        <p class="text-slate-600 font-semibold">— ${author}</p>
+                    </div>
+                    
+                    <div class="flex gap-3 mt-6">
+                        <button 
+                            onclick="approveSubmission('${submission.id}', '${wisdom.replace(/'/g, "\\'")}', '${author.replace(/'/g, "\\'")}')"
+                            class="flex-1 px-4 py-3 bg-green-600 text-white rounded-lg font-bold hover:bg-green-700 transition-all transform hover:scale-105">
+                            ✓ Approve
+                        </button>
+                        <button 
+                            onclick="rejectSubmission('${submission.id}')"
+                            class="flex-1 px-4 py-3 bg-red-600 text-white rounded-lg font-bold hover:bg-red-700 transition-all transform hover:scale-105">
+                            ✗ Reject
+                        </button>
+                    </div>
+                </div>
+            `;
+        }
+
+        async function approveSubmission(submissionId, wisdom, author) {
+            if (!confirm('Approve and publish this quote?')) return;
+
+            try {
+                const response = await fetch('/.netlify/functions/approve-submission', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'Authorization': `Bearer ${currentUser.token.access_token}`
+                    },
+                    body: JSON.stringify({ submissionId, wisdom, author })
+                });
+
+                if (!response.ok) {
+                    throw new Error('Failed to approve submission');
+                }
+
+                showSuccess('Quote approved and published! Refreshing...');
+                setTimeout(() => location.reload(), 2000);
+            } catch (error) {
+                alert('Error approving submission: ' + error.message);
+            }
+        }
+
+        async function rejectSubmission(submissionId) {
+            if (!confirm('Reject and delete this submission?')) return;
+
+            try {
+                const response = await fetch('/.netlify/functions/reject-submission', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'Authorization': `Bearer ${currentUser.token.access_token}`
+                    },
+                    body: JSON.stringify({ submissionId })
+                });
+
+                if (!response.ok) {
+                    throw new Error('Failed to reject submission');
+                }
+
+                showSuccess('Submission rejected. Refreshing...');
+                setTimeout(() => location.reload(), 1500);
+            } catch (error) {
+                alert('Error rejecting submission: ' + error.message);
+            }
+        }
+    </script>
+</body>
+</html>

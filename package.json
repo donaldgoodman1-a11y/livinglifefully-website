@@ -1,0 +1,8 @@
+{
+  "name": "livinglifefully-functions",
+  "version": "1.0.0",
+  "description": "Netlify Functions for community wisdom moderation",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
