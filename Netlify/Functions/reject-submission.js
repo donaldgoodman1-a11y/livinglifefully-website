@@ -1,15 +1,14 @@
-// Netlify Function: Reject a submission (delete from Netlify Forms)
+const fetch = require('node-fetch');
+
 exports.handler = async (event, context) => {
-  // Only allow authenticated users
-  const { user } = context.clientContext;
-  if (!user) {
+  // Check for authentication
+  if (!context.clientContext || !context.clientContext.user) {
     return {
       statusCode: 401,
       body: JSON.stringify({ error: 'Unauthorized' })
     };
   }
 
-  // Only allow POST requests
   if (event.httpMethod !== 'POST') {
     return {
       statusCode: 405,
@@ -18,46 +17,60 @@ exports.handler = async (event, context) => {
   }
 
   try {
-    const { submissionId } = JSON.parse(event.body);
-    
-    if (!submissionId) {
+    const { id } = JSON.parse(event.body);
+
+    if (!id) {
       return {
         statusCode: 400,
         body: JSON.stringify({ error: 'Missing submission ID' })
       };
     }
 
-    const apiToken = process.env.NETLIFY_API_TOKEN;
-    
-    if (!apiToken) {
-      throw new Error('Missing Netlify API token');
+    const netlifyToken = process.env.NETLIFY_API_TOKEN;
+
+    if (!netlifyToken) {
+      return {
+        statusCode: 500,
+        body: JSON.stringify({ error: 'Server configuration error: Missing API token' })
+      };
     }
 
-    // Delete submission from Netlify Forms
-    const response = await fetch(
-      `https://api.netlify.com/api/v1/submissions/${submissionId}`,
+    // Mark the submission as spam (this removes it from the main list but keeps a record)
+    const spamResponse = await fetch(
+      `https://api.netlify.com/api/v1/submissions/${id}/spam`,
       {
-        method: 'DELETE',
+        method: 'PUT',
         headers: {
-          'Authorization': `Bearer ${apiToken}`
+          'Authorization': `Bearer ${netlifyToken}`
         }
       }
     );
 
-    if (!response.ok) {
-      throw new Error(`Failed to delete submission: ${response.status}`);
+    if (!spamResponse.ok) {
+      // If marking as spam fails, try to delete it instead
+      const deleteResponse = await fetch(
+        `https://api.netlify.com/api/v1/submissions/${id}`,
+        {
+          method: 'DELETE',
+          headers: {
+            'Authorization': `Bearer ${netlifyToken}`
+          }
+        }
+      );
+
+      if (!deleteResponse.ok) {
+        throw new Error('Failed to reject submission');
+      }
     }
 
     return {
       statusCode: 200,
-      headers: {
-        'Content-Type': 'application/json'
-      },
       body: JSON.stringify({ 
         success: true, 
-        message: 'Submission rejected and deleted'
+        message: 'Submission rejected'
       })
     };
+
   } catch (error) {
     console.error('Error rejecting submission:', error);
     return {
