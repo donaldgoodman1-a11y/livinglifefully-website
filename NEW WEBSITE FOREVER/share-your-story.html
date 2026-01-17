@@ -21,10 +21,11 @@
 
   <!-- Netlify will only capture file uploads if enctype is multipart/form-data -->
   <form
-    name="community-upload"
+    name="community-upload" 
     method="POST"
+    action="/thank-you.html"
     data-netlify="true"
-    netlify-honeypot="bot-field"
+    data-netlify-honeypot="bot-field"
     enctype="multipart/form-data"
   >
     <!-- Required so Netlify detects the form at build time -->
