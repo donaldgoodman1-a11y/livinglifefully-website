@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin - Living Life Fully</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+</head>
+<body class="min-h-screen" style="background: linear-gradient(to bottom, #0f172a 0%, #1e3a8a 50%, #1e40af 100%);">
+    
+    <!-- Login Section -->
+    <div id="login-section" class="min-h-screen flex items-center justify-center">
+        <div class="bg-white rounded-2xl shadow-2xl p-12 max-w-md w-full mx-4 border-4 border-blue-700 text-center">
+            <h1 class="text-3xl font-bold text-slate-900 mb-6" style="font-family: 'Crimson Text', serif;">
+                Admin Login
+            </h1>
+            <p class="text-slate-600 mb-8">Enter your admin password to manage submissions</p>
+            <input 
+                type="password" 
+                id="admin-key" 
+                placeholder="Admin Password"
+                class="w-full px-4 py-3 border-2 border-slate-300 rounded-lg mb-4 text-lg focus:border-blue-500 focus:outline-none"
+                onkeypress="if(event.key === 'Enter') login()"
+            >
+            <button 
+                onclick="login()"
+                class="w-full px-8 py-4 bg-blue-600 text-white rounded-lg font-bold text-lg hover:bg-blue-700 transition-all"
+            >
+                Sign In
+            </button>
+            <p id="login-error" class="text-red-600 mt-4 hidden">Invalid password. Please try again.</p>
+        </div>
+    </div>
+
+    <!-- Admin Dashboard -->
+    <div id="admin-section" class="hidden">
+        <!-- Header -->
+        <header class="bg-slate-950 bg-opacity-90 text-white shadow-xl border-b-4 border-blue-600">
+            <div class="max-w-6xl mx-auto px-6 py-6">
+                <div class="flex justify-between items-center">
+                    <div>
+                        <h1 class="text-3xl font-bold text-blue-100" style="font-family: 'Crimson Text', serif;">
+                            Submissions Dashboard
+                        </h1>
+                        <p class="text-blue-200">Review and approve community wisdom</p>
+                    </div>
+                    <div class="flex items-center gap-4">
+                        <button 
+                            onclick="logout()"
+                            class="px-4 py-2 bg-slate-700 text-white rounded-lg hover:bg-slate-600 transition-all"
+                        >
+                            Log Out
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <main class="max-w-6xl mx-auto px-6 py-12">
+            <!-- Stats Bar -->
+            <div class="grid grid-cols-3 gap-6 mb-8">
+                <div class="bg-slate-800 rounded-lg p-6 border-2 border-blue-500 text-center">
+                    <p class="text-4xl font-bold text-blue-100" id="pending-count">-</p>
+                    <p class="text-blue-300">Pending</p>
+                </div>
+                <div class="bg-slate-800 rounded-lg p-6 border-2 border-green-500 text-center">
+                    <p class="text-4xl font-bold text-green-100" id="approved-count">-</p>
+                    <p class="text-green-300">Approved</p>
+                </div>
+                <div class="bg-slate-800 rounded-lg p-6 border-2 border-slate-500 text-center">
+                    <p class="text-4xl font-bold text-slate-100" id="rejected-count">-</p>
+                    <p class="text-slate-300">Rejected</p>
+                </div>
+            </div>
+
+            <!-- Action Buttons -->
+            <div class="flex gap-4 mb-8">
+                <button 
+                    onclick="loadSubmissions()"
+                    class="px-6 py-3 bg-blue-600 text-white rounded-lg font-semibold hover:bg-blue-700 transition-all"
+                >
+                    🔄 Refresh Submissions
+                </button>
+                <a 
+                    href="/"
+                    class="px-6 py-3 bg-slate-700 text-white rounded-lg font-semibold hover:bg-slate-600 transition-all"
+                >
+                    ← Back to Site
+                </a>
+            </div>
+
+            <!-- Loading State -->
+            <div id="loading" class="text-center py-12">
+                <p class="text-blue-200 text-xl">Loading submissions...</p>
+            </div>
+
+            <!-- Error State -->
+            <div id="error" class="hidden bg-red-900 border-2 border-red-500 rounded-lg p-6 mb-8">
+                <p class="text-red-100" id="error-message"></p>
+            </div>
+
+            <!-- Submissions List -->
+            <div id="submissions-list" class="space-y-6 hidden"></div>
+
+            <!-- Empty State -->
+            <div id="empty-state" class="hidden text-center py-12">
+                <div class="bg-slate-800 rounded-lg p-12 border-2 border-blue-500">
+                    <p class="text-blue-200 text-xl mb-4">🎉 No pending submissions!</p>
+                    <p class="text-blue-300">Check back later for new community wisdom.</p>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script>
+        let adminKey = '';
+
+        function login() {
+            adminKey = document.getElementById('admin-key').value;
+            if (!adminKey) {
+                document.getElementById('login-error').classList.remove('hidden');
+                return;
+            }
+            
+            // Test the key by trying to load submissions
+            document.getElementById('login-error').classList.add('hidden');
+            testLogin();
+        }
+
+        async function testLogin() {
+            try {
+                const response = await fetch('/.netlify/functions/get-submissions', {
+                    headers: {
+                        'X-Admin-Key': adminKey
+                    }
+                });
+
+                if (response.status === 401) {
+                    document.getElementById('login-error').classList.remove('hidden');
+                    return;
+                }
+
+                // Success - show admin panel
+                document.getElementById('login-section').classList.add('hidden');
+                document.getElementById('admin-section').classList.remove('hidden');
+                loadSubmissions();
+                
+            } catch (err) {
+                document.getElementById('login-error').textContent = 'Connection error. Please try again.';
+                document.getElementById('login-error').classList.remove('hidden');
+            }
+        }
+
+        function logout() {
+            adminKey = '';
+            document.getElementById('admin-key').value = '';
+            document.getElementById('login-section').classList.remove('hidden');
+            document.getElementById('admin-section').classList.add('hidden');
+        }
+
+        async function loadSubmissions() {
+            const loading = document.getElementById('loading');
+            const error = document.getElementById('error');
+            const list = document.getElementById('submissions-list');
+            const empty = document.getElementById('empty-state');
+
+            loading.classList.remove('hidden');
+            error.classList.add('hidden');
+            list.classList.add('hidden');
+            empty.classList.add('hidden');
+
+            try {
+                const response = await fetch('/.netlify/functions/get-submissions', {
+                    headers: {
+                        'X-Admin-Key': adminKey
+                    }
+                });
+
+                if (!response.ok) {
+                    const data = await response.json();
+                    throw new Error(data.error || 'Failed to load submissions');
+                }
+
+                const data = await response.json();
+                
+                loading.classList.add('hidden');
+
+                // Update counts
+                document.getElementById('pending-count').textContent = data.pending?.length || 0;
+                document.getElementById('approved-count').textContent = data.approvedCount || 0;
+                document.getElementById('rejected-count').textContent = data.rejectedCount || 0;
+
+                if (!data.pending || data.pending.length === 0) {
+                    empty.classList.remove('hidden');
+                    return;
+                }
+
+                // Render submissions
+                list.innerHTML = data.pending.map(sub => `
+                    <div class="bg-slate-800 rounded-lg p-6 border-2 border-blue-500" data-id="${sub.id}">
+                        <blockquote class="text-xl text-blue-100 leading-relaxed mb-4 italic">
+                            "${escapeHtml(sub.wisdom)}"
+                        </blockquote>
+                        <div class="flex items-center justify-between flex-wrap gap-4">
+                            <div>
+                                <span class="text-blue-300 font-semibold">— ${escapeHtml(sub.author)}</span>
+                                <span class="text-blue-400 ml-4">${new Date(sub.date).toLocaleDateString()}</span>
+                            </div>
+                            <div class="flex gap-3">
+                                <button 
+                                    onclick="approveSubmission('${sub.id}', \`${escapeJs(sub.wisdom)}\`, \`${escapeJs(sub.author)}\`)"
+                                    class="px-4 py-2 bg-green-600 text-white rounded-lg font-semibold hover:bg-green-700 transition-all"
+                                >
+                                    ✓ Approve
+                                </button>
+                                <button 
+                                    onclick="rejectSubmission('${sub.id}')"
+                                    class="px-4 py-2 bg-red-600 text-white rounded-lg font-semibold hover:bg-red-700 transition-all"
+                                >
+                                    ✗ Reject
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                `).join('');
+
+                list.classList.remove('hidden');
+
+            } catch (err) {
+                loading.classList.add('hidden');
+                error.classList.remove('hidden');
+                document.getElementById('error-message').textContent = err.message;
+            }
+        }
+
+        async function approveSubmission(id, wisdom, author) {
+            if (!confirm(`Approve this wisdom?\n\n"${wisdom}"\n— ${author}`)) return;
+
+            const card = document.querySelector(`[data-id="${id}"]`);
+            const button = card.querySelector('button');
+            button.disabled = true;
+            button.textContent = 'Approving...';
+
+            try {
+                const response = await fetch('/.netlify/functions/approve-submission', {
+                    method: 'POST',
+                    headers: {
+                        'X-Admin-Key': adminKey,
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ id, wisdom, author })
+                });
+
+                if (!response.ok) {
+                    const data = await response.json();
+                    throw new Error(data.error || 'Failed to approve');
+                }
+
+                // Remove from list
+                card.remove();
+                
+                // Update count
+                const count = document.getElementById('pending-count');
+                count.textContent = parseInt(count.textContent) - 1;
+                
+                const approvedCount = document.getElementById('approved-count');
+                approvedCount.textContent = parseInt(approvedCount.textContent) + 1;
+
+                // Check if empty
+                if (document.querySelectorAll('[data-id]').length === 0) {
+                    document.getElementById('submissions-list').classList.add('hidden');
+                    document.getElementById('empty-state').classList.remove('hidden');
+                }
+
+            } catch (err) {
+                alert('Error: ' + err.message);
+                button.disabled = false;
+                button.textContent = '✓ Approve';
+            }
+        }
+
+        async function rejectSubmission(id) {
+            if (!confirm('Reject this submission?')) return;
+
+            const card = document.querySelector(`[data-id="${id}"]`);
+            const buttons = card.querySelectorAll('button');
+            const button = buttons[1];
+            button.disabled = true;
+            button.textContent = 'Rejecting...';
+
+            try {
+                const response = await fetch('/.netlify/functions/reject-submission', {
+                    method: 'POST',
+                    headers: {
+                        'X-Admin-Key': adminKey,
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ id })
+                });
+
+                if (!response.ok) {
+                    const data = await response.json();
+                    throw new Error(data.error || 'Failed to reject');
+                }
+
+                // Remove from list
+                card.remove();
+                
+                // Update counts
+                const count = document.getElementById('pending-count');
+                count.textContent = parseInt(count.textContent) - 1;
+                
+                const rejectedCount = document.getElementById('rejected-count');
+                rejectedCount.textContent = parseInt(rejectedCount.textContent) + 1;
+
+                // Check if empty
+                if (document.querySelectorAll('[data-id]').length === 0) {
+                    document.getElementById('submissions-list').classList.add('hidden');
+                    document.getElementById('empty-state').classList.remove('hidden');
+                }
+
+            } catch (err) {
+                alert('Error: ' + err.message);
+                button.disabled = false;
+                button.textContent = '✗ Reject';
+            }
+        }
+
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text || '';
+            return div.innerHTML;
+        }
+
+        function escapeJs(text) {
+            return (text || '').replace(/`/g, '\\`').replace(/\$/g, '\\$');
+        }
+    </script>
+</body>
+</html>
