@@ -10,7 +10,7 @@ exports.handler = async (event) => {
   }
 
   try {
-    const siteId = process.env.SITE_ID;
+    const siteId = process.env.MY_SITE_ID;
     const netlifyToken = process.env.NETLIFY_API_TOKEN;
     
     if (!netlifyToken) {
