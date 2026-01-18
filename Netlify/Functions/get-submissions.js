@@ -59,7 +59,7 @@ exports.handler = async (event) => {
       if (!sub.spam) {
         pending.push({
           id: sub.id,
-          wisdom: sub.data.quote || sub.data.Quote || '',
+          wisdom: sub.data.wisdom || sub.data.wisdom || '',
           author: sub.data.author || sub.data.Author || 'Anonymous',
           date: sub.created_at
         });
