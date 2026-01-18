@@ -1,5 +1,3 @@
- const fetch = require('node-fetch');
-
 exports.handler = async (event) => {
   const adminKey = event.headers['x-admin-key'];
   const expectedKey = 'admin123';
