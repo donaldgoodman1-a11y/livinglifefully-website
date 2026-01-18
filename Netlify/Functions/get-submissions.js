@@ -30,7 +30,7 @@ exports.handler = async (event) => {
     }
 
     const forms = await formsResponse.json();
-    const quoteForm = forms.find(function(f) { return f.name === 'quote-submission'; });
+    const quoteForm = forms.find(function(f) { return f.name === 'community-wisdom'; });
 
     if (!quoteForm) {
       return {
