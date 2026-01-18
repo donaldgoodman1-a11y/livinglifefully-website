@@ -1,4 +1,4 @@
-exports.handler = async (event) => {
+ exports.handler = async (event) => {
   const adminKey = event.headers['x-admin-key'];
   const expectedKey = process.env.ADMIN_KEY;
   
@@ -20,14 +20,14 @@ exports.handler = async (event) => {
       };
     }
 
-    const formsResponse = await fetch(`https://api.netlify.com/api/v1/sites/${siteId}/forms`, {
-      headers: { 'Authorization': `Bearer ${netlifyToken}` }
+    const formsResponse = await fetch('https://api.netlify.com/api/v1/sites/' + siteId + '/forms', {
+      headers: { 'Authorization': 'Bearer ' + netlifyToken }
     });
 
     if (!formsResponse.ok) throw new Error('Failed to fetch forms');
 
     const forms = await formsResponse.json();
-    const quoteForm = forms.find(f => f.name === 'quote-submission');
+    const quoteForm = forms.find(function(f) { return f.name === 'quote-submission'; });
 
     if (!quoteForm) {
       return {
@@ -37,31 +37,39 @@ exports.handler = async (event) => {
       };
     }
 
-    const submissionsResponse = await fetch(
-      `https://api.netlify.com/api/v1/forms/${quoteForm.id}/submissions?per_page=100`,
-      { headers: { 'Authorization': `Bearer ${netlifyToken}` } }
-    );
+    const submissionsResponse = await fetch('https://api.netlify.com/api/v1/forms/' + quoteForm.id + '/submissions?per_page=100', {
+      headers: { 'Authorization': 'Bearer ' + netlifyToken }
+    });
 
     if (!submissionsResponse.ok) throw new Error('Failed to fetch submissions');
 
     const submissions = await submissionsResponse.json();
 
-    const pending = submissions
-      .filter(sub => !sub.spam)
-      .map(sub => ({
-        id: sub.id,
-        wisdom: sub.data.quote || sub.data.Quote || '',
-        author: sub.data.author || sub.data.Author || 'Anonymous',
-        date: sub.created_at
-      }));
+    const pending = [];
+    for (var i = 0; i < submissions.length; i++) {
+      var sub = submissions[i];
+      if (!sub.spam) {
+        pending.push({
+          id: sub.id,
+          wisdom: sub.data.quote || sub.data.Quote || '',
+          author: sub.data.author || sub.data.Author || 'Anonymous',
+          date: sub.created_at
+        });
+      }
+    }
+
+    var rejectedCount = 0;
+    for (var j = 0; j < submissions.length; j++) {
+      if (submissions[j].spam) rejectedCount++;
+    }
 
     return {
       statusCode: 200,
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
-        pending,
+        pending: pending,
         approvedCount: 0,
-        rejectedCount: submissions.filter(sub => sub.spam).length
+        rejectedCount: rejectedCount
       })
     };
 
@@ -72,4 +80,4 @@ exports.handler = async (event) => {
       body: JSON.stringify({ error: error.message })
     };
   }
-};
+}; 
