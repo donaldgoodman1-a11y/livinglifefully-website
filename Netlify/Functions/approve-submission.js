@@ -39,7 +39,7 @@ exports.handler = async (event) => {
     }
 
     // Step 1: Get current community-wisdom.json from GitHub
-    const filePath = 'Data/community-wisdom.json';
+    const filePath = 'data/community-wisdom.json'
     const getFileResponse = await fetch(
       `https://api.github.com/repos/${githubRepo}/contents/${filePath}`,
       {
