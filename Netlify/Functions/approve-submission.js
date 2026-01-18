@@ -1,7 +1,7 @@
  exports.handler = async (event) => {
   // Check for admin key
   const adminKey = event.headers['x-admin-key'];
-  const expectedKey = process.env.ADMIN_KEY || 'admin123';
+  const expectedKey = 'admin123';
   if (!adminKey || adminKey !== expectedKey) {
     return {
       statusCode: 401,
