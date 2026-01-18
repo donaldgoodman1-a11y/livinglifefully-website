@@ -1,4 +1,4 @@
-exports.handler = async (event) => {
+ exports.handler = async (event) => {
   const adminKey = event.headers['x-admin-key'];
   const expectedKey = 'admin123';
   
@@ -12,7 +12,7 @@ exports.handler = async (event) => {
   try {
     const siteId = process.env.SITE_ID;
     const netlifyToken = process.env.NETLIFY_API_TOKEN;
-
+    
     if (!netlifyToken) {
       return {
         statusCode: 500,
@@ -20,11 +20,14 @@ exports.handler = async (event) => {
       };
     }
 
-    const formsResponse = await fetch('https://api.netlify.com/api/v1/sites/' + siteId + '/forms', {
+    const formsUrl = 'https://api.netlify.com/api/v1/sites/' + siteId + '/forms';
+    const formsResponse = await fetch(formsUrl, {
       headers: { 'Authorization': 'Bearer ' + netlifyToken }
     });
 
-    if (!formsResponse.ok) throw new Error('Failed to fetch forms');
+    if (!formsResponse.ok) {
+      throw new Error('Failed to fetch forms');
+    }
 
     const forms = await formsResponse.json();
     const quoteForm = forms.find(function(f) { return f.name === 'quote-submission'; });
@@ -37,15 +40,20 @@ exports.handler = async (event) => {
       };
     }
 
-    const submissionsResponse = await fetch('https://api.netlify.com/api/v1/forms/' + quoteForm.id + '/submissions?per_page=100', {
+    const submissionsUrl = 'https://api.netlify.com/api/v1/forms/' + quoteForm.id + '/submissions?per_page=100';
+    const submissionsResponse = await fetch(submissionsUrl, {
       headers: { 'Authorization': 'Bearer ' + netlifyToken }
     });
 
-    if (!submissionsResponse.ok) throw new Error('Failed to fetch submissions');
+    if (!submissionsResponse.ok) {
+      throw new Error('Failed to fetch submissions');
+    }
 
     const submissions = await submissionsResponse.json();
-
+    
     const pending = [];
+    const rejectedCount = submissions.filter(function(sub) { return sub.spam; }).length;
+
     for (var i = 0; i < submissions.length; i++) {
       var sub = submissions[i];
       if (!sub.spam) {
@@ -56,11 +64,6 @@ exports.handler = async (event) => {
           date: sub.created_at
         });
       }
-    }
-
-    var rejectedCount = 0;
-    for (var j = 0; j < submissions.length; j++) {
-      if (submissions[j].spam) rejectedCount++;
     }
 
     return {
