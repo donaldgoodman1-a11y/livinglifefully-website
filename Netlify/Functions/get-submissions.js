@@ -1,6 +1,6 @@
- exports.handler = async (event) => {
+exports.handler = async (event) => {
   const adminKey = event.headers['x-admin-key'];
-  const expectedKey = process.env.ADMIN_KEY;
+  const expectedKey = 'admin123';
   
   if (!adminKey || adminKey !== expectedKey) {
     return {
@@ -80,4 +80,4 @@
       body: JSON.stringify({ error: error.message })
     };
   }
-}; 
+};
