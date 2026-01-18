@@ -30,7 +30,7 @@ exports.handler = async (event) => {
     }
 
     const forms = await formsResponse.json();
-    const quoteForm = forms.find(function(f) { return f.name === 'community-wisdom'; });
+    const quoteForm = forms.find(function(f) { return f.name === 'wisdom-submissions'; });
 
     if (!quoteForm) {
       return {
@@ -59,7 +59,7 @@ exports.handler = async (event) => {
       if (!sub.spam) {
         pending.push({
           id: sub.id,
-          wisdom: sub.data.wisdom || sub.data.wisdom || '',
+          wisdom: sub.data.Wisdom || sub.data.wisdom || '',
           author: sub.data.author || sub.data.Author || 'Anonymous',
           date: sub.created_at
         });
