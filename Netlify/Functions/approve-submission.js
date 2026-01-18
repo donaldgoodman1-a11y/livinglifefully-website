@@ -1,5 +1,3 @@
-const fetch = require('node-fetch');
-
 exports.handler = async (event) => {
   // Check for admin key
   const adminKey = event.headers['x-admin-key'];
