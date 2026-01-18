@@ -1,4 +1,4 @@
- avascriptexports.handler = async (event) => {
+javascriptexports.handler = async (event) => {
   const adminKey = event.headers['x-admin-key'];
   const expectedKey = process.env.ADMIN_KEY;
   
