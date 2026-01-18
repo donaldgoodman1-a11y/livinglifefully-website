@@ -40,7 +40,7 @@
     
     // Step 1: Get current community-wisdom.json from GitHub
     // FIXED: Changed to 'Data' (capital D) to match what community-wis.html expects
-    const filePath = 'Data/community-wisdom.json';
+    const filePath = 'NEW WEBSITE FOREVER/Data/community-wisdom.json';
     
     const getFileResponse = await fetch(
       `https://api.github.com/repos/${githubRepo}/contents/${filePath}`,
