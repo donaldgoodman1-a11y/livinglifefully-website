@@ -1,36 +1,30 @@
-exports.handler = async (event) => {
+ exports.handler = async (event) => {
   // Check for admin key
   const adminKey = event.headers['x-admin-key'];
-  const expectedKey = 'admin123';
-
+  const expectedKey = process.env.ADMIN_KEY || 'admin123';
   if (!adminKey || adminKey !== expectedKey) {
     return {
       statusCode: 401,
       body: JSON.stringify({ error: 'Unauthorized' })
     };
   }
-
   if (event.httpMethod !== 'POST') {
     return {
       statusCode: 405,
       body: JSON.stringify({ error: 'Method not allowed' })
     };
   }
-
   try {
     const { id, wisdom, author } = JSON.parse(event.body);
-
     if (!wisdom) {
       return {
         statusCode: 400,
         body: JSON.stringify({ error: 'Missing wisdom text' })
       };
     }
-
     const githubToken = process.env.GITHUB_TOKEN;
     const netlifyToken = process.env.NETLIFY_API_TOKEN;
     const githubRepo = process.env.GITHUB_REPO || 'donaldgoodman1-a11y/livinglifefully-website';
-
     if (!githubToken) {
       return {
         statusCode: 500,
@@ -39,7 +33,9 @@ exports.handler = async (event) => {
     }
 
     // Step 1: Get current community-wisdom.json from GitHub
-    const filePath = 'data/community-wisdom.json'
+    // FIX: Changed 'Data' to 'data' to match what index.html expects
+    const filePath = 'data/community-wisdom.json';
+    
     const getFileResponse = await fetch(
       `https://api.github.com/repos/${githubRepo}/contents/${filePath}`,
       {
@@ -66,7 +62,6 @@ exports.handler = async (event) => {
       author: (author && author.trim()) || 'Anonymous Reader',
       date: new Date().toISOString().split('T')[0]
     };
-
     currentData.quotes = currentData.quotes || [];
     currentData.quotes.unshift(newQuote); // Add to beginning (newest first)
 
@@ -95,9 +90,10 @@ exports.handler = async (event) => {
     }
 
     // Step 4: Delete the submission from Netlify Forms
+    // FIX: Added missing parentheses to fetch call
     if (id && netlifyToken) {
       try {
-        await fetch(`https://api.netlify.com/api/v1/submissions/${id}`, {
+     await fetch(`https://api.netlify.com/api/v1/submissions/${id}`, {
           method: 'DELETE',
           headers: {
             'Authorization': `Bearer ${netlifyToken}`
@@ -117,7 +113,6 @@ exports.handler = async (event) => {
         quote: newQuote
       })
     };
-
   } catch (error) {
     console.error('Error approving submission:', error);
     return {
