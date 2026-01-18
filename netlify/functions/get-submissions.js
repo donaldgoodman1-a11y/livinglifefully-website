@@ -1,4 +1,4 @@
- javascriptconst fetch = require('node-fetch');
+ fetch = require('node-fetch');
 
 exports.handler = async (event) => {
   const adminKey = event.headers['x-admin-key'];
