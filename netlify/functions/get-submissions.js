@@ -1,4 +1,4 @@
- fetch = require('node-fetch');
+const fetch = require('node-fetch');
 
 exports.handler = async (event) => {
   const adminKey = event.headers['x-admin-key'];
