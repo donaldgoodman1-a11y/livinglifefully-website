@@ -135,7 +135,7 @@
             // Fetch approved community wisdom from the JSON file
             const fetchCommunityWisdom = async () => {
               try {
-                const response = await fetch('/data/community-wisdom.json');
+                const response = await fetch('/Data/community-wisdom.json');
                 const data = await response.json();
                 const sortedWisdom = [...data.quotes].sort((a, b) => 
                   new Date(b.date) - new Date(a.date)
