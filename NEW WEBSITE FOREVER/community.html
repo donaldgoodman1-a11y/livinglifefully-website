@@ -11,7 +11,7 @@
         }
         
         const data = await response.json();
-        const quotes = data.quotes || [];
+        const quotes = (data.quotes || []).slice(0, 20);
         
         // Hide loading
         loading.style.display = 'none';
