@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Living Life Fully - Companion for Hope and Wisdom</title>
+    <title>Living Life Fully With Hope - Companion for Hope and Wisdom</title>
     <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
     <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
     <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
@@ -125,7 +125,7 @@
         // They are stored in data/community-wisdom.json
         const approvedCommunityWisdom = [];
 
-        const LivingFullyCompanion = () => {
+        const LivingFullyWithHopeCompanion = () => {
           const [activeTab, setActiveTab] = useState('explore');
           const [currentWisdom, setCurrentWisdom] = useState(allBookWisdom[0]);
           const [communityWisdom, setCommunityWisdom] = useState([]);
@@ -205,7 +205,7 @@ return (
                   <div className="text-center">
                     <h1 className="text-5xl font-bold mb-3 text-blue-100" 
                         style={{ fontFamily: "'Crimson Text', serif" }}>
-                      Living Life Fully
+                      Living Life Fully With Hope
                     </h1>
                     <p className="text-xl text-blue-200 font-light">
                       A Companion for Hope and Wisdom
@@ -266,7 +266,7 @@ return (
                     <div className="bg-blue-900 bg-opacity-80 border-2 border-blue-500 rounded-lg p-6 max-w-2xl mx-auto">
                       <p className="text-blue-100 text-lg leading-relaxed">
                         <Heart size={20} className="inline mr-2" />
-                        Each piece of wisdom here comes from <em>Living Life Fully</em>, 
+                        Each piece of wisdom here comes from <em>Living Life Fully With Hope</em>, 
                         a guide to cultivating hope and resilience in daily life.
                       </p>
                     </div>
@@ -281,7 +281,7 @@ return (
                         Wisdom from the Book
                       </h2>
                       <p className="text-blue-200 text-lg max-w-2xl mx-auto">
-                        Core principles and practices from <em>Living Life Fully</em>
+                        Core principles and practices from <em>Living Life Fully With Hope</em>
                       </p>
                     </div>
 
@@ -458,7 +458,7 @@ return (
                     "The goal of life is not to live safely...it is to live fully."
                   </p>
                   <p className="text-blue-300 text-sm">
-                    Companion resource for readers of <em>Living Life Fully: Practices and Principles for Everyday Hope</em>
+                    Companion resource for readers of <em>Living Life Fully With Hope: Practices and Principles for Everyday Hope</em>
                   </p>
                   <p className="text-blue-400 text-sm mt-2">
                     by Dr. Donald Goodman, PhD, DMA
@@ -496,7 +496,7 @@ return (
           );
         };
 
-        ReactDOM.render(<LivingFullyCompanion />, document.getElementById('root'));
+        ReactDOM.render(<LivingLifeFullyWithHopeCompanion />, document.getElementById('root'));
     </script>
     
     <script>
