@@ -62,7 +62,7 @@ exports.handler = async (event) => {
     console.log('Available forms:', forms.map(f => f.name));
     
     // Find the quote submission form - try multiple possible names
-    const formNames = ['quote-submission', 'quote-form', 'contribute', 'wisdom-submission', 'contact'];
+    const formNames = ['community-wisdom', 'quote-submission', 'quote-form', 'contribute', 'wisdom-submission', 'contact'];
     let quoteForm = null;
     
     for (const name of formNames) {
