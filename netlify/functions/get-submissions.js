@@ -24,7 +24,7 @@ exports.handler = async (event) => {
 
     const formsResponse = await fetch(`https://api.netlify.com/api/v1/sites/${siteId}/forms`, {
       headers: { 'Authorization': `Bearer ${netlifyToken}` }
-    });
+    }); 
 
     if (!formsResponse.ok) throw new Error('Failed to fetch forms');
 
