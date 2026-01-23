@@ -143,7 +143,7 @@ exports.handler = async (event, context) => {
     console.log('Selected quotes:', selectedQuotes.map(q => q.author));
 
     // Step 3: Add quotes to the beginning of the array
-    const today = new Date().toISOString().split('T')[0];
+    const today = new Date().toLocaleDateString('en-CA', { timeZone: 'America/Los_Angeles' });
     
     for (const quote of selectedQuotes) {
       const newQuote = {
