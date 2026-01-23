@@ -6,3 +6,8 @@
 
 [functions.daily-quotes]
   schedule = "0 16 * * *" 
+  
+[[headers]]
+  for = "/community"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
