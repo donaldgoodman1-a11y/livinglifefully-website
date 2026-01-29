@@ -1,8 +1,9 @@
-/**
+ /**
  * Netlify Scheduled Function: Daily Quote Publisher
  * 
  * Runs every day at 8:00 AM Pacific (3:00 PM UTC)
- * Adds 3 random quotes directly to community-wisdom.json
+ * - Adds 4 random quotes daily to community-wisdom.json
+ * - Every 7 days (weekly), rotates 10 oldest quotes back to the quote bank
  * 
  * Add this to your netlify.toml:
  * 
@@ -92,11 +93,33 @@ const QUOTE_BANK = [
   {"quote": "It is your reaction to adversity, not the adversity itself, that determines how your life's story will develop.", "author": "Dieter F. Uchtdorf"}
 ];
 
-const QUOTES_PER_DAY = 3;
+// Configuration
+const QUOTES_PER_DAY = 4;
+const ROTATION_INTERVAL_DAYS = 7;
+const QUOTES_TO_ROTATE = 10;
 
-function getRandomQuotes(count) {
-  const shuffled = [...QUOTE_BANK].sort(() => 0.5 - Math.random());
-  return shuffled.slice(0, count);
+function getRandomQuotes(count, excludeQuotes = []) {
+  // Filter out quotes that are currently in community wisdom
+  const availableQuotes = QUOTE_BANK.filter(bankQuote => {
+    return !excludeQuotes.some(existingQuote => 
+      existingQuote.text === bankQuote.quote && existingQuote.author === bankQuote.author
+    );
+  });
+  
+  const shuffled = [...availableQuotes].sort(() => 0.5 - Math.random());
+  return shuffled.slice(0, Math.min(count, shuffled.length));
+}
+
+function shouldRotateQuotes(currentData) {
+  if (!currentData.lastRotation) {
+    return false; // Don't rotate on first run
+  }
+  
+  const lastRotationDate = new Date(currentData.lastRotation);
+  const today = new Date();
+  const daysSinceRotation = Math.floor((today - lastRotationDate) / (1000 * 60 * 60 * 24));
+  
+  return daysSinceRotation >= ROTATION_INTERVAL_DAYS;
 }
 
 exports.handler = async (event, context) => {
@@ -126,7 +149,7 @@ exports.handler = async (event, context) => {
       }
     );
 
-    let currentData = { quotes: [] };
+    let currentData = { quotes: [], lastRotation: null };
     let sha = null;
 
     if (getFileResponse.ok) {
@@ -134,30 +157,49 @@ exports.handler = async (event, context) => {
       sha = fileData.sha;
       const content = Buffer.from(fileData.content, 'base64').toString('utf8');
       currentData = JSON.parse(content);
+      currentData.quotes = currentData.quotes || [];
     } else {
       console.log('community-wisdom.json not found, will create new file');
     }
 
-    // Step 2: Select random quotes
-    const selectedQuotes = getRandomQuotes(QUOTES_PER_DAY);
+    const today = new Date().toLocaleDateString('en-CA', { timeZone: 'America/Los_Angeles' });
+    let commitMessage = `Daily wisdom: Added ${QUOTES_PER_DAY} quotes for ${today}`;
+    
+    // Step 2: Check if we need to rotate quotes (weekly)
+    if (shouldRotateQuotes(currentData)) {
+      console.log('Rotation triggered! Removing oldest quotes...');
+      
+      // Remove the oldest quotes (from the end of the array)
+      const quotesToRemove = currentData.quotes.slice(-QUOTES_TO_ROTATE);
+      currentData.quotes = currentData.quotes.slice(0, -QUOTES_TO_ROTATE);
+      
+      console.log(`Rotated ${quotesToRemove.length} quotes back to the bank`);
+      commitMessage += ` | Rotated ${quotesToRemove.length} quotes`;
+      
+      // Update last rotation date
+      currentData.lastRotation = today;
+    } else if (!currentData.lastRotation) {
+      // Set initial rotation date if not set
+      currentData.lastRotation = today;
+    }
+
+    // Step 3: Select random quotes (excluding ones already in community wisdom)
+    const selectedQuotes = getRandomQuotes(QUOTES_PER_DAY, currentData.quotes);
     console.log('Selected quotes:', selectedQuotes.map(q => q.author));
 
-    // Step 3: Add quotes to the beginning of the array
-    const today = new Date().toLocaleDateString('en-CA', { timeZone: 'America/Los_Angeles' });
-    
+    // Step 4: Add new quotes to the beginning of the array
     for (const quote of selectedQuotes) {
       const newQuote = {
         text: quote.quote,
         author: quote.author,
         date: today
       };
-      currentData.quotes = currentData.quotes || [];
       currentData.quotes.unshift(newQuote);
     }
 
-    // Step 4: Update the file on GitHub
+    // Step 5: Update the file on GitHub
     const updateBody = {
-      message: `Daily wisdom: Added ${QUOTES_PER_DAY} quotes for ${today}`,
+      message: commitMessage,
       content: Buffer.from(JSON.stringify(currentData, null, 2)).toString('base64')
     };
 
@@ -190,7 +232,10 @@ exports.handler = async (event, context) => {
       statusCode: 200,
       body: JSON.stringify({
         success: true,
-        message: `Added ${QUOTES_PER_DAY} quotes for ${today}`,
+        message: commitMessage,
+        quotesAdded: selectedQuotes.length,
+        totalQuotes: currentData.quotes.length,
+        lastRotation: currentData.lastRotation,
         quotes: selectedQuotes.map(q => ({ text: q.quote.substring(0, 50) + '...', author: q.author }))
       })
     };
