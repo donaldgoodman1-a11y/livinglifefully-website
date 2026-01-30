@@ -1,6 +1,26 @@
 {
   "quotes": [
     {
+      "text": "Courage is not simply one of the virtues, but the form of every virtue at the testing point.",
+      "author": "C.S. Lewis",
+      "date": "2026-01-30"
+    },
+    {
+      "text": "They that wait upon the Lord shall renew their strength; they shall mount up with wings as eagles.",
+      "author": "Isaiah",
+      "date": "2026-01-30"
+    },
+    {
+      "text": "A soft answer turneth away wrath.",
+      "author": "King Solomon",
+      "date": "2026-01-30"
+    },
+    {
+      "text": "Decisions determine destiny.",
+      "author": "Thomas S. Monson",
+      "date": "2026-01-30"
+    },
+    {
       "text": "Getting old is like climbing a mountain; you get a little out of breath, but the view is much better.",
       "author": "Ingrid Bergman",
       "date": "2026-01-30"
@@ -380,5 +400,6 @@
       "author": "Dr. Goodman",
       "date": "2026-01-18"
     }
-  ]
+  ],
+  "lastRotation": "2026-01-30"
 }
