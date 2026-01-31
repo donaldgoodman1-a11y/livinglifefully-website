@@ -1,6 +1,26 @@
 {
   "quotes": [
     {
+      "text": "Thousands of candles can be lighted from a single candle. Happiness never decreases by being shared.",
+      "author": "Buddha",
+      "date": "2026-01-31"
+    },
+    {
+      "text": "Be the change that you wish to see in the world.",
+      "author": "Mahatma Gandhi",
+      "date": "2026-01-31"
+    },
+    {
+      "text": "The joy we feel has little to do with the circumstances of our lives and everything to do with the focus of our lives.",
+      "author": "Russell M. Nelson",
+      "date": "2026-01-31"
+    },
+    {
+      "text": "Don't you quit. You keep walking. You keep trying. There is help and happiness ahead.",
+      "author": "Jeffrey R. Holland",
+      "date": "2026-01-31"
+    },
+    {
       "text": "Courage is not simply one of the virtues, but the form of every virtue at the testing point.",
       "author": "C.S. Lewis",
       "date": "2026-01-30"
@@ -349,57 +369,7 @@
       "text": "Doubt your doubts before you doubt your faith.",
       "author": "Dieter F. Uchtdorf",
       "date": "2026-01-19"
-    },
-    {
-      "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
-      "author": "Winston Churchill",
-      "date": "2026-01-19"
-    },
-    {
-      "text": "Try a little harder to be a little better.",
-      "author": "Gordon B. Hinckley",
-      "date": "2026-01-19"
-    },
-    {
-      "text": "Dont struggle when youre all tangled up",
-      "author": "Anonymous",
-      "date": "2026-01-19"
-    },
-    {
-      "text": "going downhill is easy....its the uphill thats hard",
-      "author": "Anonymous",
-      "date": "2026-01-19"
-    },
-    {
-      "text": "Love is made up of: Trust, Respect, Support, Commitment and Patience. If these 5 attributes exist, love will grow.",
-      "author": "Dr Goodman",
-      "date": "2026-01-18"
-    },
-    {
-      "text": "Just keep swimming-just keep swmming",
-      "author": "Anonymous",
-      "date": "2026-01-18"
-    },
-    {
-      "text": "just say so what",
-      "author": "Anonymous",
-      "date": "2026-01-18"
-    },
-    {
-      "text": "when life gets hard...just say so what",
-      "author": "Anonymous",
-      "date": "2026-01-18"
-    },
-    {
-      "text": "Sometimes feeling tired is ok",
-      "author": "Anonymous",
-      "date": "2026-01-18"
-    },
-    {
-      "text": "negatives are temporary, positives last forever",
-      "author": "Dr. Goodman",
-      "date": "2026-01-18"
     }
   ],
-  "lastRotation": "2026-01-23"
+  "lastRotation": "2026-01-31"
 }
