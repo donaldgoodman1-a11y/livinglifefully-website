@@ -2,8 +2,8 @@
  * Netlify Scheduled Function: Daily Quote Publisher
  * 
  * Runs every day at 8:00 AM Pacific (3:00 PM UTC)
- * - Adds 4 random quotes daily to community-wisdom.json
- * - Every 7 days (weekly), rotates 10 oldest quotes back to the quote bank
+ * - Adds 5 random quotes daily to community-wisdom.json
+ * - Removes 5 oldest quotes daily and rotates them back to the quote bank
  * 
  * Add this to your netlify.toml:
  * 
@@ -93,10 +93,9 @@ const QUOTE_BANK = [
   {"quote": "It is your reaction to adversity, not the adversity itself, that determines how your life's story will develop.", "author": "Dieter F. Uchtdorf"}
 ];
 
-// Configuration
-const QUOTES_PER_DAY = 4;
-const ROTATION_INTERVAL_DAYS = 7;
-const QUOTES_TO_ROTATE = 10;
+// Configuration - UPDATED TO 5 QUOTES PER DAY
+const QUOTES_PER_DAY = 5;
+const QUOTES_TO_ROTATE_DAILY = 5;
 
 function getRandomQuotes(count, excludeQuotes = []) {
   // Filter out quotes that are currently in community wisdom
@@ -108,18 +107,6 @@ function getRandomQuotes(count, excludeQuotes = []) {
   
   const shuffled = [...availableQuotes].sort(() => 0.5 - Math.random());
   return shuffled.slice(0, Math.min(count, shuffled.length));
-}
-
-function shouldRotateQuotes(currentData) {
-  if (!currentData.lastRotation) {
-    return false; // Don't rotate on first run
-  }
-  
-  const lastRotationDate = new Date(currentData.lastRotation);
-  const today = new Date();
-  const daysSinceRotation = Math.floor((today - lastRotationDate) / (1000 * 60 * 60 * 24));
-  
-  return daysSinceRotation >= ROTATION_INTERVAL_DAYS;
 }
 
 exports.handler = async (event, context) => {
@@ -163,27 +150,17 @@ exports.handler = async (event, context) => {
     }
 
     const today = new Date().toLocaleDateString('en-CA', { timeZone: 'America/Los_Angeles' });
-    let commitMessage = `Daily wisdom: Added ${QUOTES_PER_DAY} quotes for ${today}`;
     
-    // Step 2: Check if we need to rotate quotes (weekly)
-    if (shouldRotateQuotes(currentData)) {
-      console.log('Rotation triggered! Removing oldest quotes...');
-      
-      // Remove the oldest quotes (from the end of the array)
-      const quotesToRemove = currentData.quotes.slice(-QUOTES_TO_ROTATE);
-      currentData.quotes = currentData.quotes.slice(0, -QUOTES_TO_ROTATE);
-      
-      console.log(`Rotated ${quotesToRemove.length} quotes back to the bank`);
-      commitMessage += ` | Rotated ${quotesToRemove.length} quotes`;
-      
-      // Update last rotation date
-      currentData.lastRotation = today;
-    } else if (!currentData.lastRotation) {
-      // Set initial rotation date if not set
-      currentData.lastRotation = today;
+    // Step 2: DAILY ROTATION - Remove oldest 5 quotes (if we have enough quotes)
+    let quotesRotated = 0;
+    if (currentData.quotes.length >= QUOTES_TO_ROTATE_DAILY) {
+      const quotesToRemove = currentData.quotes.slice(-QUOTES_TO_ROTATE_DAILY);
+      currentData.quotes = currentData.quotes.slice(0, -QUOTES_TO_ROTATE_DAILY);
+      quotesRotated = quotesToRemove.length;
+      console.log(`Rotated ${quotesRotated} oldest quotes back to the bank`);
     }
 
-    // Step 3: Select random quotes (excluding ones already in community wisdom)
+    // Step 3: Select 5 random quotes (excluding ones already in community wisdom)
     const selectedQuotes = getRandomQuotes(QUOTES_PER_DAY, currentData.quotes);
     console.log('Selected quotes:', selectedQuotes.map(q => q.author));
 
@@ -197,7 +174,14 @@ exports.handler = async (event, context) => {
       currentData.quotes.unshift(newQuote);
     }
 
+    // Update last rotation date
+    currentData.lastRotation = today;
+
     // Step 5: Update the file on GitHub
+    const commitMessage = quotesRotated > 0 
+      ? `Daily wisdom: Added ${selectedQuotes.length} quotes, rotated ${quotesRotated} quotes for ${today}`
+      : `Daily wisdom: Added ${selectedQuotes.length} quotes for ${today}`;
+
     const updateBody = {
       message: commitMessage,
       content: Buffer.from(JSON.stringify(currentData, null, 2)).toString('base64')
@@ -234,6 +218,7 @@ exports.handler = async (event, context) => {
         success: true,
         message: commitMessage,
         quotesAdded: selectedQuotes.length,
+        quotesRotated: quotesRotated,
         totalQuotes: currentData.quotes.length,
         lastRotation: currentData.lastRotation,
         quotes: selectedQuotes.map(q => ({ text: q.quote.substring(0, 50) + '...', author: q.author }))
