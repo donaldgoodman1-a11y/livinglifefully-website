@@ -1,6 +1,31 @@
 {
   "quotes": [
     {
+      "text": "Keep your face to the sunshine and you cannot see a shadow.",
+      "author": "Helen Keller",
+      "date": "2026-02-03"
+    },
+    {
+      "text": "I can do all things through Christ which strengtheneth me.",
+      "author": "Paul the Apostle",
+      "date": "2026-02-03"
+    },
+    {
+      "text": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you.",
+      "author": "Jesus Christ",
+      "date": "2026-02-03"
+    },
+    {
+      "text": "In the middle of difficulty lies opportunity.",
+      "author": "Albert Einstein",
+      "date": "2026-02-03"
+    },
+    {
+      "text": "Not all of us can do great things. But we can do small things with great love.",
+      "author": "Mother Teresa",
+      "date": "2026-02-03"
+    },
+    {
       "text": "“I wish it need not have happened in my time,” said Frodo. “So do I,” said Gandalf, “and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.”\n- JRR Tolkien (LOTR)",
       "author": "Anonymous",
       "date": "2026-02-03"
@@ -389,32 +414,7 @@
       "text": "The prudent sees danger and hides himself, but the simple go on and suffer for it.",
       "author": "Proverbs 22:3",
       "date": "2026-01-20"
-    },
-    {
-      "text": "Nothing can dim the light which shines from within.",
-      "author": "Maya Angelou",
-      "date": "2026-01-19"
-    },
-    {
-      "text": "In the middle of difficulty lies opportunity.",
-      "author": "Albert Einstein",
-      "date": "2026-01-19"
-    },
-    {
-      "text": "There are far, far better things ahead than any we leave behind.",
-      "author": "C.S. Lewis",
-      "date": "2026-01-19"
-    },
-    {
-      "text": "How much more grievous are the consequences of anger than the causes of it.",
-      "author": "Marcus Aurelius",
-      "date": "2026-01-19"
-    },
-    {
-      "text": "Doubt your doubts before you doubt your faith.",
-      "author": "Dieter F. Uchtdorf",
-      "date": "2026-01-19"
     }
   ],
-  "lastRotation": "2026-01-31"
+  "lastRotation": "2026-02-03"
 }
