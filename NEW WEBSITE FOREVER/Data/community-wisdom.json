@@ -1,6 +1,31 @@
 {
   "quotes": [
     {
+      "text": "The past is behind, learn from it. The future is ahead, prepare for it. The present is here, live it.",
+      "author": "Thomas S. Monson",
+      "date": "2026-02-05"
+    },
+    {
+      "text": "Weeping may endure for a night, but joy cometh in the morning.",
+      "author": "King David",
+      "date": "2026-02-05"
+    },
+    {
+      "text": "Attitude is a little thing that makes a big difference.",
+      "author": "Winston Churchill",
+      "date": "2026-02-05"
+    },
+    {
+      "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-02-05"
+    },
+    {
+      "text": "Today you are you, that is truer than true. There is no one alive who is youer than you.",
+      "author": "Dr. Seuss",
+      "date": "2026-02-05"
+    },
+    {
       "text": "However late you think you are, however many chances you think you have missed, you have not traveled beyond the reach of divine love.",
       "author": "Jeffrey R. Holland",
       "date": "2026-02-04"
@@ -389,32 +414,7 @@
       "text": "Three attributes to strive to obtain at the end of life: gratitude, humility and wisdom.",
       "author": "Anonymous",
       "date": "2026-01-22"
-    },
-    {
-      "text": "I don’t care\nIt doesn’t matter \nI FEEL GREAT",
-      "author": "Dr Goodman",
-      "date": "2026-01-21"
-    },
-    {
-      "text": "In the end, it's not the years in your life that count. It's the life in your years.",
-      "author": "Abraham Lincoln",
-      "date": "2026-01-21"
-    },
-    {
-      "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-01-21"
-    },
-    {
-      "text": "You are never too old to set another goal or to dream a new dream.",
-      "author": "C.S. Lewis",
-      "date": "2026-01-21"
-    },
-    {
-      "text": "The blessing of the Lord makes rich, and he adds no sorrow with it.",
-      "author": "Proverbs 10:22",
-      "date": "2026-01-21"
     }
   ],
-  "lastRotation": "2026-02-04"
+  "lastRotation": "2026-02-05"
 }
