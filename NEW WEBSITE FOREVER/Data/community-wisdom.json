@@ -1,6 +1,31 @@
 {
   "quotes": [
     {
+      "text": "Wise men speak because they have something to say; fools because they have to say something.",
+      "author": "Plato",
+      "date": "2026-02-06"
+    },
+    {
+      "text": "Hold on. Hope on.",
+      "author": "Jeffrey R. Holland",
+      "date": "2026-02-06"
+    },
+    {
+      "text": "In the end, it's not the years in your life that count. It's the life in your years.",
+      "author": "Abraham Lincoln",
+      "date": "2026-02-06"
+    },
+    {
+      "text": "For I know the thoughts that I think toward you, saith the Lord, thoughts of peace, and not of evil.",
+      "author": "Jeremiah",
+      "date": "2026-02-06"
+    },
+    {
+      "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
+      "author": "Confucius",
+      "date": "2026-02-06"
+    },
+    {
       "text": "The past is behind, learn from it. The future is ahead, prepare for it. The present is here, live it.",
       "author": "Thomas S. Monson",
       "date": "2026-02-05"
@@ -389,32 +414,7 @@
       "text": "There is no why!",
       "author": "Yoda",
       "date": "2026-01-22"
-    },
-    {
-      "text": "Life is a choice. Anxiety is not a choice. Either way you go, you will have problems and pan. \nSo your choice here is not whether or not to have anxiety. Your choice is whether \nor not to live a meaningful life.",
-      "author": "Steven Hayes (Act Therapy)",
-      "date": "2026-01-22"
-    },
-    {
-      "text": "Experience has shown that, ironically, it is often our very attempts to solve the problem \nthat, in fact, maintain it. The attempted solutions become the true problem.",
-      "author": "Nardone and Watzlawick",
-      "date": "2026-01-22"
-    },
-    {
-      "text": "Problems cannot be solved by thinking within the framework in which they were created.",
-      "author": "Albert Einstein",
-      "date": "2026-01-22"
-    },
-    {
-      "text": "Any person capable of angering you becomes your master; he can anger you only when you permit yourself to be disturbed by him.",
-      "author": "Epictetus",
-      "date": "2026-01-22"
-    },
-    {
-      "text": "Three attributes to strive to obtain at the end of life: gratitude, humility and wisdom.",
-      "author": "Anonymous",
-      "date": "2026-01-22"
     }
   ],
-  "lastRotation": "2026-02-05"
+  "lastRotation": "2026-02-06"
 }
