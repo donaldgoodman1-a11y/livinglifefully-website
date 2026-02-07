@@ -1,6 +1,31 @@
 {
   "quotes": [
     {
+      "text": "Doubt your doubts before you doubt your faith.",
+      "author": "Dieter F. Uchtdorf",
+      "date": "2026-02-07"
+    },
+    {
+      "text": "Knowing yourself is the beginning of all wisdom.",
+      "author": "Aristotle",
+      "date": "2026-02-07"
+    },
+    {
+      "text": "Happiness depends upon ourselves.",
+      "author": "Aristotle",
+      "date": "2026-02-07"
+    },
+    {
+      "text": "Be kind, for everyone you meet is fighting a hard battle.",
+      "author": "Plato",
+      "date": "2026-02-07"
+    },
+    {
+      "text": "It does not matter how slowly you go as long as you do not stop.",
+      "author": "Confucius",
+      "date": "2026-02-07"
+    },
+    {
       "text": "Wise men speak because they have something to say; fools because they have to say something.",
       "author": "Plato",
       "date": "2026-02-06"
@@ -389,32 +414,7 @@
       "text": "Hardships often prepare ordinary people for an extraordinary destiny.",
       "author": "C.S. Lewis",
       "date": "2026-01-22"
-    },
-    {
-      "text": "You are never too old to set another goal or to dream a new dream.",
-      "author": "C.S. Lewis",
-      "date": "2026-01-22"
-    },
-    {
-      "text": "You have power over your mind - not outside events. Realize this, and you will find strength.",
-      "author": "Marcus Aurelius",
-      "date": "2026-01-22"
-    },
-    {
-      "text": "Do or do not     There is no try!",
-      "author": "Yoda",
-      "date": "2026-01-22"
-    },
-    {
-      "text": "Grasshopper: If you want control you must let go of control.",
-      "author": "Kung Fu",
-      "date": "2026-01-22"
-    },
-    {
-      "text": "There is no why!",
-      "author": "Yoda",
-      "date": "2026-01-22"
     }
   ],
-  "lastRotation": "2026-02-06"
+  "lastRotation": "2026-02-07"
 }
