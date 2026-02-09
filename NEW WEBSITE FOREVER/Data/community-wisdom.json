@@ -1,6 +1,31 @@
 {
   "quotes": [
     {
+      "text": "Go confidently in the direction of your dreams. Live the life you have imagined.",
+      "author": "Henry David Thoreau",
+      "date": "2026-02-09"
+    },
+    {
+      "text": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+      "author": "Albert Einstein",
+      "date": "2026-02-09"
+    },
+    {
+      "text": "The beginning is the most important part of the work.",
+      "author": "Plato",
+      "date": "2026-02-09"
+    },
+    {
+      "text": "And we know that all things work together for good to them that love God.",
+      "author": "Paul the Apostle",
+      "date": "2026-02-09"
+    },
+    {
+      "text": "The Lord is my shepherd; I shall not want.",
+      "author": "King David",
+      "date": "2026-02-09"
+    },
+    {
       "text": "The mind is everything. What you think you become.",
       "author": "Buddha",
       "date": "2026-02-08"
@@ -389,32 +414,7 @@
       "text": "A cheerful heart is good medicine.",
       "author": "King Solomon",
       "date": "2026-01-23"
-    },
-    {
-      "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
-      "author": "Martin Luther King Jr.",
-      "date": "2026-01-23"
-    },
-    {
-      "text": "Wherever you go, go with all your heart.",
-      "author": "Confucius",
-      "date": "2026-01-23"
-    },
-    {
-      "text": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
-      "author": "Albert Einstein",
-      "date": "2026-01-23"
-    },
-    {
-      "text": "There are far, far better things ahead than any we leave behind.",
-      "author": "C.S. Lewis",
-      "date": "2026-01-23"
-    },
-    {
-      "text": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
-      "author": "Maya Angelou",
-      "date": "2026-01-23"
     }
   ],
-  "lastRotation": "2026-02-08"
+  "lastRotation": "2026-02-09"
 }
