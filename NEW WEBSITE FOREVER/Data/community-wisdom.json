@@ -1,6 +1,31 @@
 {
   "quotes": [
     {
+      "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-02-10"
+    },
+    {
+      "text": "The weak can never forgive. Forgiveness is the attribute of the strong.",
+      "author": "Mahatma Gandhi",
+      "date": "2026-02-10"
+    },
+    {
+      "text": "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
+      "author": "Mother Teresa",
+      "date": "2026-02-10"
+    },
+    {
+      "text": "The time is always right to do what is right.",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-02-10"
+    },
+    {
+      "text": "Nothing can dim the light which shines from within.",
+      "author": "Maya Angelou",
+      "date": "2026-02-10"
+    },
+    {
       "text": "Go confidently in the direction of your dreams. Live the life you have imagined.",
       "author": "Henry David Thoreau",
       "date": "2026-02-09"
@@ -389,32 +414,7 @@
       "text": "Waste no more time arguing about what a good man should be. Be one.",
       "author": "Marcus Aurelius",
       "date": "2026-01-24"
-    },
-    {
-      "text": "Trust in the Lord with all thine heart; and lean not unto thine own understanding.",
-      "author": "King Solomon",
-      "date": "2026-01-24"
-    },
-    {
-      "text": "You are never too old to set another goal or to dream a new dream.",
-      "author": "C.S. Lewis",
-      "date": "2026-01-24"
-    },
-    {
-      "text": "Faith is taking the first step even when you don't see the whole staircase.",
-      "author": "Martin Luther King Jr.",
-      "date": "2026-01-23"
-    },
-    {
-      "text": "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
-      "author": "Mother Teresa",
-      "date": "2026-01-23"
-    },
-    {
-      "text": "A cheerful heart is good medicine.",
-      "author": "King Solomon",
-      "date": "2026-01-23"
     }
   ],
-  "lastRotation": "2026-02-09"
+  "lastRotation": "2026-02-10"
 }
