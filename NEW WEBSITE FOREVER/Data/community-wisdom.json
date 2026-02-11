@@ -1,6 +1,31 @@
 {
   "quotes": [
     {
+      "text": "Wherever you go, go with all your heart.",
+      "author": "Confucius",
+      "date": "2026-02-11"
+    },
+    {
+      "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-02-11"
+    },
+    {
+      "text": "The best antidote I know for worry is work.",
+      "author": "Gordon B. Hinckley",
+      "date": "2026-02-11"
+    },
+    {
+      "text": "Try to be a rainbow in someone's cloud.",
+      "author": "Maya Angelou",
+      "date": "2026-02-11"
+    },
+    {
+      "text": "You don't have to be perfect to be loved.",
+      "author": "Russell M. Nelson",
+      "date": "2026-02-11"
+    },
+    {
       "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
       "author": "Martin Luther King Jr.",
       "date": "2026-02-10"
@@ -389,32 +414,7 @@
       "text": "Free will though it makes evil possible, is also the only thing that makes possible any love or goodness or joy worth having.",
       "author": "C.S. Lewis",
       "date": "2026-01-25"
-    },
-    {
-      "text": "3 sayings about the Student and the Teacher (in order of increasing consciousness):   \n1) When the Student is Ready the Teacher appears\n2) The Student and the Teacher together make the Teaching\n3) There is no Student and there is no Teacher - there is only the Teaching",
-      "author": "Anonymous",
-      "date": "2026-01-25"
-    },
-    {
-      "text": "Wherever you go, go with all your heart.",
-      "author": "Confucius",
-      "date": "2026-01-25"
-    },
-    {
-      "text": "The best antidote I know for worry is work.",
-      "author": "Gordon B. Hinckley",
-      "date": "2026-01-25"
-    },
-    {
-      "text": "Try to be a rainbow in someone's cloud.",
-      "author": "Maya Angelou",
-      "date": "2026-01-25"
-    },
-    {
-      "text": "Waste no more time arguing about what a good man should be. Be one.",
-      "author": "Marcus Aurelius",
-      "date": "2026-01-24"
     }
   ],
-  "lastRotation": "2026-02-10"
+  "lastRotation": "2026-02-11"
 }
