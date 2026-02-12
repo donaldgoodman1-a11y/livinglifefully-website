@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "It's not about how to achieve your dreams, it's about how to lead your life. If you lead your life the right way, the karma will take care of itself.",
+      "author": "Randy Pausch",
+      "date": "2026-02-12",
+      "inactive": false
+    },
+    {
+      "text": "People often say that motivation doesn't last. Well, neither does bathing—that's why we recommend it daily.",
+      "author": "Zig Ziglar",
+      "date": "2026-02-12",
+      "inactive": false
+    },
+    {
+      "text": "Be kind whenever possible. It is always possible.",
+      "author": "Dalai Lama",
+      "date": "2026-02-12",
+      "inactive": false
+    },
+    {
+      "text": "Let us always meet each other with smile, for the smile is the beginning of love.",
+      "author": "Mother Teresa",
+      "date": "2026-02-12",
+      "inactive": false
+    },
+    {
+      "text": "Experience is what you get when you didn't get what you wanted.",
+      "author": "Randy Pausch",
+      "date": "2026-02-12",
+      "inactive": false
+    },
+    {
       "text": "Tell me to what you pay attention and I will tell you who you are.",
       "author": "José Ortega y Gasset",
       "date": "2026-02-12",
@@ -129,31 +159,6 @@
       "text": "And we know that all things work together for good to them that love God.",
       "author": "Paul the Apostle",
       "date": "2026-02-09"
-    },
-    {
-      "text": "The Lord is my shepherd; I shall not want.",
-      "author": "King David",
-      "date": "2026-02-09"
-    },
-    {
-      "text": "The mind is everything. What you think you become.",
-      "author": "Buddha",
-      "date": "2026-02-08"
-    },
-    {
-      "text": "You have power over your mind - not outside events. Realize this, and you will find strength.",
-      "author": "Marcus Aurelius",
-      "date": "2026-02-08"
-    },
-    {
-      "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
-      "author": "Winston Churchill",
-      "date": "2026-02-08"
-    },
-    {
-      "text": "Lift where you stand.",
-      "author": "Dieter F. Uchtdorf",
-      "date": "2026-02-08"
     },
     {
       "text": "It does not matter how slowly you go as long as you do not stop.",
@@ -1026,12 +1031,6 @@
       "inactive": true
     },
     {
-      "text": "Be kind whenever possible. It is always possible.",
-      "author": "Dalai Lama",
-      "date": "2026-01-07",
-      "inactive": true
-    },
-    {
       "text": "Our prime purpose in this life is to help others. And if you can't help them, at least don't hurt them.",
       "author": "Dalai Lama",
       "date": "2026-01-07",
@@ -1248,12 +1247,6 @@
       "inactive": true
     },
     {
-      "text": "Let us always meet each other with smile, for the smile is the beginning of love.",
-      "author": "Mother Teresa",
-      "date": "2025-12-31",
-      "inactive": true
-    },
-    {
       "text": "I alone cannot change the world, but I can cast a stone across the waters to create many ripples.",
       "author": "Mother Teresa",
       "date": "2025-12-31",
@@ -1327,12 +1320,6 @@
     },
     {
       "text": "You were born to win, but to be a winner, you must plan to win, prepare to win, and expect to win.",
-      "author": "Zig Ziglar",
-      "date": "2025-12-28",
-      "inactive": true
-    },
-    {
-      "text": "People often say that motivation doesn't last. Well, neither does bathing—that's why we recommend it daily.",
       "author": "Zig Ziglar",
       "date": "2025-12-28",
       "inactive": true
@@ -1566,19 +1553,7 @@
       "inactive": true
     },
     {
-      "text": "Experience is what you get when you didn't get what you wanted.",
-      "author": "Randy Pausch",
-      "date": "2025-12-20",
-      "inactive": true
-    },
-    {
       "text": "The brick walls are there for a reason. They're not there to keep us out. The brick walls are there to give us a chance to show how badly we want something.",
-      "author": "Randy Pausch",
-      "date": "2025-12-20",
-      "inactive": true
-    },
-    {
-      "text": "It's not about how to achieve your dreams, it's about how to lead your life. If you lead your life the right way, the karma will take care of itself.",
       "author": "Randy Pausch",
       "date": "2025-12-20",
       "inactive": true
@@ -1825,6 +1800,41 @@
       "text": "Be kind, for everyone you meet is fighting a hard battle.",
       "author": "Plato",
       "date": "2026-02-07",
+      "inactive": true,
+      "deactivatedDate": "2026-02-12"
+    },
+    {
+      "text": "The Lord is my shepherd; I shall not want.",
+      "author": "King David",
+      "date": "2026-02-09",
+      "inactive": true,
+      "deactivatedDate": "2026-02-12"
+    },
+    {
+      "text": "The mind is everything. What you think you become.",
+      "author": "Buddha",
+      "date": "2026-02-08",
+      "inactive": true,
+      "deactivatedDate": "2026-02-12"
+    },
+    {
+      "text": "You have power over your mind - not outside events. Realize this, and you will find strength.",
+      "author": "Marcus Aurelius",
+      "date": "2026-02-08",
+      "inactive": true,
+      "deactivatedDate": "2026-02-12"
+    },
+    {
+      "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+      "author": "Winston Churchill",
+      "date": "2026-02-08",
+      "inactive": true,
+      "deactivatedDate": "2026-02-12"
+    },
+    {
+      "text": "Lift where you stand.",
+      "author": "Dieter F. Uchtdorf",
+      "date": "2026-02-08",
       "inactive": true,
       "deactivatedDate": "2026-02-12"
     }
