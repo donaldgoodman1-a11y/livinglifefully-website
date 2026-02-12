@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "To love at all is to be vulnerable.",
+      "author": "C.S. Lewis",
+      "date": "2026-02-12",
+      "inactive": false
+    },
+    {
+      "text": "I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live by the light that I have.",
+      "author": "Abraham Lincoln",
+      "date": "2026-02-12",
+      "inactive": false
+    },
+    {
+      "text": "It is only with the heart that one can see rightly; what is essential is invisible to the eye.",
+      "author": "Antoine de Saint-Exupéry",
+      "date": "2026-02-12",
+      "inactive": false
+    },
+    {
+      "text": "The purpose of our lives is to be happy.",
+      "author": "Dalai Lama",
+      "date": "2026-02-12",
+      "inactive": false
+    },
+    {
+      "text": "A soft answer turneth away wrath.",
+      "author": "King Solomon",
+      "date": "2026-02-12",
+      "inactive": false
+    },
+    {
       "text": "The mind is everything. What you think you become.",
       "author": "Buddha",
       "date": "2026-02-12",
@@ -139,31 +169,6 @@
       "text": "Try to be a rainbow in someone's cloud.",
       "author": "Maya Angelou",
       "date": "2026-02-11"
-    },
-    {
-      "text": "You don't have to be perfect to be loved.",
-      "author": "Russell M. Nelson",
-      "date": "2026-02-11"
-    },
-    {
-      "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
-      "author": "Martin Luther King Jr.",
-      "date": "2026-02-10"
-    },
-    {
-      "text": "The weak can never forgive. Forgiveness is the attribute of the strong.",
-      "author": "Mahatma Gandhi",
-      "date": "2026-02-10"
-    },
-    {
-      "text": "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
-      "author": "Mother Teresa",
-      "date": "2026-02-10"
-    },
-    {
-      "text": "The time is always right to do what is right.",
-      "author": "Martin Luther King Jr.",
-      "date": "2026-02-10"
     },
     {
       "text": "It does not matter how slowly you go as long as you do not stop.",
@@ -382,12 +387,6 @@
       "inactive": true
     },
     {
-      "text": "A soft answer turneth away wrath.",
-      "author": "King Solomon",
-      "date": "2026-01-30",
-      "inactive": true
-    },
-    {
       "text": "Decisions determine destiny.",
       "author": "Thomas S. Monson",
       "date": "2026-01-30",
@@ -544,12 +543,6 @@
       "inactive": true
     },
     {
-      "text": "It is only with the heart that one can see rightly; what is essential is invisible to the eye.",
-      "author": "Antoine de Saint-Exupéry",
-      "date": "2026-01-24",
-      "inactive": true
-    },
-    {
       "text": "Integrity is doing the right thing even when no one is watching.",
       "author": "C.S. Lewis",
       "date": "2026-01-24",
@@ -593,12 +586,6 @@
     },
     {
       "text": "Isn't it funny how day by day nothing changes, but when you look back, everything is different.",
-      "author": "C.S. Lewis",
-      "date": "2026-01-22",
-      "inactive": true
-    },
-    {
-      "text": "To love at all is to be vulnerable.",
       "author": "C.S. Lewis",
       "date": "2026-01-22",
       "inactive": true
@@ -677,12 +664,6 @@
     },
     {
       "text": "When I do good, I feel good. When I do bad, I feel bad. That's my religion.",
-      "author": "Abraham Lincoln",
-      "date": "2026-01-19",
-      "inactive": true
-    },
-    {
-      "text": "I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live by the light that I have.",
       "author": "Abraham Lincoln",
       "date": "2026-01-19",
       "inactive": true
@@ -1043,12 +1024,6 @@
     },
     {
       "text": "Remember that sometimes not getting what you want is a wonderful stroke of luck.",
-      "author": "Dalai Lama",
-      "date": "2026-01-07",
-      "inactive": true
-    },
-    {
-      "text": "The purpose of our lives is to be happy.",
       "author": "Dalai Lama",
       "date": "2026-01-07",
       "inactive": true
@@ -1843,6 +1818,41 @@
       "text": "And we know that all things work together for good to them that love God.",
       "author": "Paul the Apostle",
       "date": "2026-02-09",
+      "inactive": true,
+      "deactivatedDate": "2026-02-12"
+    },
+    {
+      "text": "You don't have to be perfect to be loved.",
+      "author": "Russell M. Nelson",
+      "date": "2026-02-11",
+      "inactive": true,
+      "deactivatedDate": "2026-02-12"
+    },
+    {
+      "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-02-10",
+      "inactive": true,
+      "deactivatedDate": "2026-02-12"
+    },
+    {
+      "text": "The weak can never forgive. Forgiveness is the attribute of the strong.",
+      "author": "Mahatma Gandhi",
+      "date": "2026-02-10",
+      "inactive": true,
+      "deactivatedDate": "2026-02-12"
+    },
+    {
+      "text": "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
+      "author": "Mother Teresa",
+      "date": "2026-02-10",
+      "inactive": true,
+      "deactivatedDate": "2026-02-12"
+    },
+    {
+      "text": "The time is always right to do what is right.",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-02-10",
       "inactive": true,
       "deactivatedDate": "2026-02-12"
     }
