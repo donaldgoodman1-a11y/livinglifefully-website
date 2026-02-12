@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -122,7 +122,9 @@
               try {
                 const response = await fetch('/data/community-wisdom.json');
                 const data = await response.json();
-                const sortedWisdom = [...data.quotes].sort((a, b) => 
+                // Filter to only show active quotes (not marked as inactive)
+                const activeQuotes = data.quotes.filter(quote => !quote.inactive);
+                const sortedWisdom = [...activeQuotes].sort((a, b) => 
                   new Date(b.date) - new Date(a.date)
                 );
                 setCommunityWisdom(sortedWisdom);
