@@ -1,6 +1,31 @@
 {
   "quotes": [
     {
+      "text": "Peace comes from within. Do not seek it without.",
+      "author": "Buddha",
+      "date": "2026-02-12"
+    },
+    {
+      "text": "Let your light so shine before men.",
+      "author": "Jesus Christ",
+      "date": "2026-02-12"
+    },
+    {
+      "text": "A cheerful heart is good medicine.",
+      "author": "King Solomon",
+      "date": "2026-02-12"
+    },
+    {
+      "text": "Trust in the Lord with all thine heart; and lean not unto thine own understanding.",
+      "author": "King Solomon",
+      "date": "2026-02-12"
+    },
+    {
+      "text": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
+      "author": "Dr. Seuss",
+      "date": "2026-02-12"
+    },
+    {
       "text": "Wherever you go, go with all your heart.",
       "author": "Confucius",
       "date": "2026-02-11"
@@ -389,32 +414,7 @@
       "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
       "author": "Aristotle",
       "date": "2026-01-26"
-    },
-    {
-      "text": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
-      "author": "Dr. Seuss",
-      "date": "2026-01-26"
-    },
-    {
-      "text": "Let your light so shine before men.",
-      "author": "Jesus Christ",
-      "date": "2026-01-26"
-    },
-    {
-      "text": "One road leads home and a thousand roads lead into the wilderness.",
-      "author": "C.S.Lewis",
-      "date": "2026-01-25"
-    },
-    {
-      "text": "Relying on God has to begin all over again every day as if nothing had yet been done.",
-      "author": "C.S.Lewis",
-      "date": "2026-01-25"
-    },
-    {
-      "text": "Free will though it makes evil possible, is also the only thing that makes possible any love or goodness or joy worth having.",
-      "author": "C.S. Lewis",
-      "date": "2026-01-25"
     }
   ],
-  "lastRotation": "2026-02-11"
+  "lastRotation": "2026-02-12"
 }
