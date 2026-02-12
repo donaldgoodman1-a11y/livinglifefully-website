@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "The mind is everything. What you think you become.",
+      "author": "Buddha",
+      "date": "2026-02-12",
+      "inactive": false
+    },
+    {
+      "text": "The beginning is the most important part of the work.",
+      "author": "Plato",
+      "date": "2026-02-12",
+      "inactive": false
+    },
+    {
+      "text": "Desire is the father of action.",
+      "author": "Dallin H. Oaks",
+      "date": "2026-02-12",
+      "inactive": false
+    },
+    {
+      "text": "Where the head goes, the body follows. Perception precedes action.",
+      "author": "Ryan Holiday",
+      "date": "2026-02-12",
+      "inactive": false
+    },
+    {
+      "text": "If you judge people, you have no time to love them.",
+      "author": "Mother Teresa",
+      "date": "2026-02-12",
+      "inactive": false
+    },
+    {
       "text": "It's not about how to achieve your dreams, it's about how to lead your life. If you lead your life the right way, the karma will take care of itself.",
       "author": "Randy Pausch",
       "date": "2026-02-12",
@@ -134,31 +164,6 @@
       "text": "The time is always right to do what is right.",
       "author": "Martin Luther King Jr.",
       "date": "2026-02-10"
-    },
-    {
-      "text": "Nothing can dim the light which shines from within.",
-      "author": "Maya Angelou",
-      "date": "2026-02-10"
-    },
-    {
-      "text": "Go confidently in the direction of your dreams. Live the life you have imagined.",
-      "author": "Henry David Thoreau",
-      "date": "2026-02-09"
-    },
-    {
-      "text": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
-      "author": "Albert Einstein",
-      "date": "2026-02-09"
-    },
-    {
-      "text": "The beginning is the most important part of the work.",
-      "author": "Plato",
-      "date": "2026-02-09"
-    },
-    {
-      "text": "And we know that all things work together for good to them that love God.",
-      "author": "Paul the Apostle",
-      "date": "2026-02-09"
     },
     {
       "text": "It does not matter how slowly you go as long as you do not stop.",
@@ -1085,12 +1090,6 @@
       "inactive": true
     },
     {
-      "text": "Desire is the father of action.",
-      "author": "Dallin H. Oaks",
-      "date": "2026-01-05",
-      "inactive": true
-    },
-    {
       "text": "Opposition is part of the divine plan.",
       "author": "Dallin H. Oaks",
       "date": "2026-01-05",
@@ -1230,12 +1229,6 @@
     },
     {
       "text": "Prayer is not asking. Prayer is putting oneself in the hands of God.",
-      "author": "Mother Teresa",
-      "date": "2025-12-31",
-      "inactive": true
-    },
-    {
-      "text": "If you judge people, you have no time to love them.",
       "author": "Mother Teresa",
       "date": "2025-12-31",
       "inactive": true
@@ -1691,12 +1684,6 @@
       "inactive": true
     },
     {
-      "text": "Where the head goes, the body follows. Perception precedes action.",
-      "author": "Ryan Holiday",
-      "date": "2025-12-15",
-      "inactive": true
-    },
-    {
       "text": "Focus on the moment, not the monsters that may or may not be up ahead.",
       "author": "Ryan Holiday",
       "date": "2025-12-15",
@@ -1811,13 +1798,6 @@
       "deactivatedDate": "2026-02-12"
     },
     {
-      "text": "The mind is everything. What you think you become.",
-      "author": "Buddha",
-      "date": "2026-02-08",
-      "inactive": true,
-      "deactivatedDate": "2026-02-12"
-    },
-    {
       "text": "You have power over your mind - not outside events. Realize this, and you will find strength.",
       "author": "Marcus Aurelius",
       "date": "2026-02-08",
@@ -1835,6 +1815,34 @@
       "text": "Lift where you stand.",
       "author": "Dieter F. Uchtdorf",
       "date": "2026-02-08",
+      "inactive": true,
+      "deactivatedDate": "2026-02-12"
+    },
+    {
+      "text": "Nothing can dim the light which shines from within.",
+      "author": "Maya Angelou",
+      "date": "2026-02-10",
+      "inactive": true,
+      "deactivatedDate": "2026-02-12"
+    },
+    {
+      "text": "Go confidently in the direction of your dreams. Live the life you have imagined.",
+      "author": "Henry David Thoreau",
+      "date": "2026-02-09",
+      "inactive": true,
+      "deactivatedDate": "2026-02-12"
+    },
+    {
+      "text": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+      "author": "Albert Einstein",
+      "date": "2026-02-09",
+      "inactive": true,
+      "deactivatedDate": "2026-02-12"
+    },
+    {
+      "text": "And we know that all things work together for good to them that love God.",
+      "author": "Paul the Apostle",
+      "date": "2026-02-09",
       "inactive": true,
       "deactivatedDate": "2026-02-12"
     }
