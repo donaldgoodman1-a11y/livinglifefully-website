@@ -4,7 +4,7 @@
     
     try {
         // Fetch approved quotes from the JSON file 
-        const response = await fetch('/NEW WEBSITE FOREVER/Data/community-wisdom.json');
+       const response = await fetch('./Data/community-wisdom.json');
         
         if (!response.ok) {
             throw new Error('Failed to load quotes');
