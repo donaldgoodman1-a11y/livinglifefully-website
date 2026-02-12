@@ -1,4 +1,4 @@
- /**
+/**
  * Netlify Scheduled Function: Daily Quote Publisher
  * 
  * Runs every day at 8:00 AM Pacific (3:00 PM UTC)
@@ -93,9 +93,10 @@ const QUOTE_BANK = [
   {"quote": "It is your reaction to adversity, not the adversity itself, that determines how your life's story will develop.", "author": "Dieter F. Uchtdorf"}
 ];
 
-// Configuration - UPDATED TO 5 QUOTES PER DAY
+// Configuration
 const QUOTES_PER_DAY = 5;
 const QUOTES_TO_ROTATE_DAILY = 5;
+const MAX_QUOTES_TO_KEEP = 30; // Keep only the 30 most recent quotes
 
 function getRandomQuotes(count, excludeQuotes = []) {
   // Filter out quotes that are currently in community wisdom
@@ -110,7 +111,7 @@ function getRandomQuotes(count, excludeQuotes = []) {
 }
 
 exports.handler = async (event, context) => {
-  console.log('Daily Quote Publisher started at:', new Date().toISOString());
+  console.log('=== Daily Quote Publisher started at:', new Date().toISOString());
 
   const githubToken = process.env.GITHUB_TOKEN;
   const githubRepo = process.env.GITHUB_REPO || 'donaldgoodman1-a11y/livinglifefully-website';
@@ -126,6 +127,7 @@ exports.handler = async (event, context) => {
 
   try {
     // Step 1: Get current community-wisdom.json from GitHub
+    console.log('Step 1: Fetching current community-wisdom.json...');
     const getFileResponse = await fetch(
       `https://api.github.com/repos/${githubRepo}/contents/${filePath}`,
       {
@@ -145,26 +147,42 @@ exports.handler = async (event, context) => {
       const content = Buffer.from(fileData.content, 'base64').toString('utf8');
       currentData = JSON.parse(content);
       currentData.quotes = currentData.quotes || [];
+      console.log(`   Current quote count: ${currentData.quotes.length}`);
     } else {
-      console.log('community-wisdom.json not found, will create new file');
+      console.log('   community-wisdom.json not found, will create new file');
     }
 
     const today = new Date().toLocaleDateString('en-CA', { timeZone: 'America/Los_Angeles' });
+    console.log(`   Today's date: ${today}`);
     
-    // Step 2: DAILY ROTATION - Remove oldest 5 quotes (if we have enough quotes)
+    // Step 2: IMPORTANT FIX - Remove oldest quotes FIRST to maintain MAX_QUOTES_TO_KEEP limit
     let quotesRotated = 0;
-    if (currentData.quotes.length >= QUOTES_TO_ROTATE_DAILY) {
+    const quotesBeforeRotation = currentData.quotes.length;
+    
+    if (currentData.quotes.length > MAX_QUOTES_TO_KEEP) {
+      // If we have more than MAX_QUOTES_TO_KEEP, remove the excess
+      const excessQuotes = currentData.quotes.length - MAX_QUOTES_TO_KEEP;
+      const quotesToRemove = currentData.quotes.slice(-excessQuotes);
+      currentData.quotes = currentData.quotes.slice(0, MAX_QUOTES_TO_KEEP);
+      quotesRotated = quotesToRemove.length;
+      console.log(`Step 2: Trimmed ${quotesRotated} excess quotes (had ${quotesBeforeRotation}, keeping ${MAX_QUOTES_TO_KEEP})`);
+    } else if (currentData.quotes.length >= QUOTES_TO_ROTATE_DAILY + QUOTES_PER_DAY) {
+      // Standard rotation: only if we have enough room to add new ones
       const quotesToRemove = currentData.quotes.slice(-QUOTES_TO_ROTATE_DAILY);
       currentData.quotes = currentData.quotes.slice(0, -QUOTES_TO_ROTATE_DAILY);
       quotesRotated = quotesToRemove.length;
-      console.log(`Rotated ${quotesRotated} oldest quotes back to the bank`);
+      console.log(`Step 2: Rotated ${quotesRotated} oldest quotes back to the bank`);
+    } else {
+      console.log(`Step 2: No rotation needed (only ${currentData.quotes.length} quotes)`);
     }
 
     // Step 3: Select 5 random quotes (excluding ones already in community wisdom)
+    console.log('Step 3: Selecting new random quotes...');
     const selectedQuotes = getRandomQuotes(QUOTES_PER_DAY, currentData.quotes);
-    console.log('Selected quotes:', selectedQuotes.map(q => q.author));
+    console.log(`   Selected ${selectedQuotes.length} quotes:`, selectedQuotes.map(q => `${q.author}: ${q.quote.substring(0, 40)}...`));
 
     // Step 4: Add new quotes to the beginning of the array
+    console.log('Step 4: Adding new quotes to the top...');
     for (const quote of selectedQuotes) {
       const newQuote = {
         text: quote.quote,
@@ -176,11 +194,13 @@ exports.handler = async (event, context) => {
 
     // Update last rotation date
     currentData.lastRotation = today;
+    console.log(`   New total quote count: ${currentData.quotes.length}`);
 
     // Step 5: Update the file on GitHub
+    console.log('Step 5: Committing changes to GitHub...');
     const commitMessage = quotesRotated > 0 
-      ? `Daily wisdom: Added ${selectedQuotes.length} quotes, rotated ${quotesRotated} quotes for ${today}`
-      : `Daily wisdom: Added ${selectedQuotes.length} quotes for ${today}`;
+      ? `Daily wisdom: Added ${selectedQuotes.length} quotes, rotated ${quotesRotated} quotes (keeping ${currentData.quotes.length} total) - ${today}`
+      : `Daily wisdom: Added ${selectedQuotes.length} quotes (total: ${currentData.quotes.length}) - ${today}`;
 
     const updateBody = {
       message: commitMessage,
@@ -210,7 +230,7 @@ exports.handler = async (event, context) => {
       throw new Error('Failed to update community wisdom file');
     }
 
-    console.log('Successfully added daily quotes!');
+    console.log('=== SUCCESS! Daily quotes published ===');
 
     return {
       statusCode: 200,
@@ -220,13 +240,14 @@ exports.handler = async (event, context) => {
         quotesAdded: selectedQuotes.length,
         quotesRotated: quotesRotated,
         totalQuotes: currentData.quotes.length,
+        maxQuotes: MAX_QUOTES_TO_KEEP,
         lastRotation: currentData.lastRotation,
         quotes: selectedQuotes.map(q => ({ text: q.quote.substring(0, 50) + '...', author: q.author }))
       })
     };
 
   } catch (error) {
-    console.error('Error in daily-quotes:', error);
+    console.error('=== ERROR in daily-quotes:', error);
     return {
       statusCode: 500,
       body: JSON.stringify({ error: error.message })
