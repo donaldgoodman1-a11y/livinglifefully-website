@@ -1,18 +1,13 @@
- {
+{
   "quotes": [
     {
-      "text": "Peace comes from within. Do not seek it without.",
-      "author": "Buddha",
+      "text": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
+      "author": "Dr. Seuss",
       "date": "2026-02-12"
     },
     {
-      "text": "Let your light so shine before men.",
-      "author": "Jesus Christ",
-      "date": "2026-02-12"
-    },
-    {
-      "text": "A cheerful heart is good medicine.",
-      "author": "King Solomon",
+      "text": "Imagination is more important than knowledge.",
+      "author": "Albert Einstein",
       "date": "2026-02-12"
     },
     {
@@ -21,8 +16,13 @@
       "date": "2026-02-12"
     },
     {
-      "text": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
-      "author": "Dr. Seuss",
+      "text": "Hardships often prepare ordinary people for an extraordinary destiny.",
+      "author": "C.S. Lewis",
+      "date": "2026-02-12"
+    },
+    {
+      "text": "You are never too old to set another goal or to dream a new dream.",
+      "author": "C.S. Lewis",
       "date": "2026-02-12"
     }
   ],
