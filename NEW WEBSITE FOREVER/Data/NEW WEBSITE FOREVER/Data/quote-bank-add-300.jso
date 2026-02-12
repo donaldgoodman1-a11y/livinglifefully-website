@@ -1,0 +1,22 @@
+
+if (!Array.isArray(bank)) throw new Error("quote-bank.json must be a JSON array");
+if (!Array.isArray(add))  throw new Error("quote-bank-add-300.json must be a JSON array");
+if (add.length !== 300)   throw new Error(`Add file must contain exactly 300 items (found ${add.length})`);
+
+const seen = new Set(bank.map(q => `${norm(q.quote)}|${norm(q.author)}`));
+
+let appended = 0;
+for (const q of add) {
+  const key = `${norm(q.quote)}|${norm(q.author)}`;
+  if (seen.has(key)) continue;
+  bank.push(q);
+  seen.add(key);
+  appended++;
+}
+
+if (appended !== 300) {
+  throw new Error(`Expected to append 300 unique items, but appended ${appended}. (Your bank already contained duplicates of some add-ons.)`);
+}
+
+fs.writeFileSync(BANK_PATH, JSON.stringify(bank, null, 2));
+console.log(`✅ Success: appended exactly 300. New total: ${bank.length}`);
