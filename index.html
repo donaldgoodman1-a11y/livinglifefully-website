@@ -120,7 +120,7 @@
           useEffect(() => {
             const fetchCommunityWisdom = async () => {
               try {
-                const response = await fetch('/data/community-wisdom.json');
+                const response = await fetch('/Data/community-wisdom.json');
                 const data = await response.json();
                 // Filter to only show active quotes (not marked as inactive)
                 const activeQuotes = data.quotes.filter(quote => !quote.inactive);
