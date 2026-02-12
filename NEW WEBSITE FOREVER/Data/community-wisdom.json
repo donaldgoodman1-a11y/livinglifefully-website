@@ -1,6 +1,11 @@
 {
   "quotes": [
     {
+      "text": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+      "author": "Maya Angelou",
+      "date": "2026-02-12"
+    },
+    {
       "text": "Peace comes from within. Do not seek it without.",
       "author": "Buddha",
       "date": "2026-02-12"
@@ -1534,31 +1539,6 @@
       "text": "I feel that there is nothing more truly artistic than to love people.",
       "author": "Vincent Van Gogh",
       "date": "2025-12-13"
-    },
-    {
-      "text": "Hope is the thing with feathers that perches in the soul.",
-      "author": "Emily Dickinson",
-      "date": "2025-12-12"
-    },
-    {
-      "text": "Forever is composed of nows.",
-      "author": "Emily Dickinson",
-      "date": "2025-12-12"
-    },
-    {
-      "text": "I dwell in possibility.",
-      "author": "Emily Dickinson",
-      "date": "2025-12-12"
-    },
-    {
-      "text": "We turn not older with years, but newer every day.",
-      "author": "Emily Dickinson",
-      "date": "2025-12-12"
-    },
-    {
-      "text": "The soul should always stand ajar, ready to welcome the ecstatic experience.",
-      "author": "Emily Dickinson",
-      "date": "2025-12-12"
     }
   ],
   "lastRotation": "2026-02-12"
