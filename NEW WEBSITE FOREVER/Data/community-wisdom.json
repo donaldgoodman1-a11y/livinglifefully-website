@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "We can ignore reality, but we cannot ignore the consequences of ignoring reality.",
+      "author": "Ayn Rand",
+      "date": "2026-02-12",
+      "inactive": false
+    },
+    {
+      "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+      "author": "Aristotle",
+      "date": "2026-02-12",
+      "inactive": false
+    },
+    {
+      "text": "Those who have a 'why' to live, can bear with almost any 'how'.",
+      "author": "Viktor Frankl",
+      "date": "2026-02-12",
+      "inactive": false
+    },
+    {
+      "text": "You are never too old to set another goal or to dream a new dream.",
+      "author": "C.S. Lewis",
+      "date": "2026-02-12",
+      "inactive": false
+    },
+    {
+      "text": "Wherever you go, go with all your heart.",
+      "author": "Confucius",
+      "date": "2026-02-12",
+      "inactive": false
+    },
+    {
       "text": "To love at all is to be vulnerable.",
       "author": "C.S. Lewis",
       "date": "2026-02-12",
@@ -144,31 +174,6 @@
       "text": "Trust in the Lord with all thine heart; and lean not unto thine own understanding.",
       "author": "King Solomon",
       "date": "2026-02-12"
-    },
-    {
-      "text": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
-      "author": "Dr. Seuss",
-      "date": "2026-02-12"
-    },
-    {
-      "text": "Wherever you go, go with all your heart.",
-      "author": "Confucius",
-      "date": "2026-02-11"
-    },
-    {
-      "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-02-11"
-    },
-    {
-      "text": "The best antidote I know for worry is work.",
-      "author": "Gordon B. Hinckley",
-      "date": "2026-02-11"
-    },
-    {
-      "text": "Try to be a rainbow in someone's cloud.",
-      "author": "Maya Angelou",
-      "date": "2026-02-11"
     },
     {
       "text": "It does not matter how slowly you go as long as you do not stop.",
@@ -471,18 +476,6 @@
       "inactive": true
     },
     {
-      "text": "You are never too old to set another goal or to dream a new dream.",
-      "author": "C.S. Lewis",
-      "date": "2026-01-27",
-      "inactive": true
-    },
-    {
-      "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
-      "author": "Aristotle",
-      "date": "2026-01-26",
-      "inactive": true
-    },
-    {
       "text": "Don't cry because it's over, smile because it happened.",
       "author": "Dr. Seuss",
       "date": "2026-01-26",
@@ -557,12 +550,6 @@
     {
       "text": "Friendship is born at that moment when one person says to another: What! You too? I thought I was the only one.",
       "author": "C.S. Lewis",
-      "date": "2026-01-23",
-      "inactive": true
-    },
-    {
-      "text": "We can ignore reality, but we cannot ignore the consequences of ignoring reality.",
-      "author": "Ayn Rand",
       "date": "2026-01-23",
       "inactive": true
     },
@@ -814,12 +801,6 @@
     },
     {
       "text": "When we are no longer able to change a situation, we are challenged to change ourselves.",
-      "author": "Viktor Frankl",
-      "date": "2026-01-14",
-      "inactive": true
-    },
-    {
-      "text": "Those who have a 'why' to live, can bear with almost any 'how'.",
       "author": "Viktor Frankl",
       "date": "2026-01-14",
       "inactive": true
@@ -1853,6 +1834,34 @@
       "text": "The time is always right to do what is right.",
       "author": "Martin Luther King Jr.",
       "date": "2026-02-10",
+      "inactive": true,
+      "deactivatedDate": "2026-02-12"
+    },
+    {
+      "text": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
+      "author": "Dr. Seuss",
+      "date": "2026-02-12",
+      "inactive": true,
+      "deactivatedDate": "2026-02-12"
+    },
+    {
+      "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-02-11",
+      "inactive": true,
+      "deactivatedDate": "2026-02-12"
+    },
+    {
+      "text": "The best antidote I know for worry is work.",
+      "author": "Gordon B. Hinckley",
+      "date": "2026-02-11",
+      "inactive": true,
+      "deactivatedDate": "2026-02-12"
+    },
+    {
+      "text": "Try to be a rainbow in someone's cloud.",
+      "author": "Maya Angelou",
+      "date": "2026-02-11",
       "inactive": true,
       "deactivatedDate": "2026-02-12"
     }
