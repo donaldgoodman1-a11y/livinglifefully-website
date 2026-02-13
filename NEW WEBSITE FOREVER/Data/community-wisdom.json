@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "For every minute you are angry you lose sixty seconds of happiness.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-02-13",
+      "inactive": false
+    },
+    {
+      "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+      "author": "Zig Ziglar",
+      "date": "2026-02-13",
+      "inactive": false
+    },
+    {
+      "text": "In the middle of difficulty lies opportunity.",
+      "author": "Albert Einstein",
+      "date": "2026-02-13",
+      "inactive": false
+    },
+    {
+      "text": "Why fit in when you were born to stand out?",
+      "author": "Dr. Seuss",
+      "date": "2026-02-13",
+      "inactive": false
+    },
+    {
+      "text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
+      "author": "Helen Keller",
+      "date": "2026-02-13",
+      "inactive": false
+    },
+    {
       "text": "We can ignore reality, but we cannot ignore the consequences of ignoring reality.",
       "author": "Ayn Rand",
       "date": "2026-02-12",
@@ -151,31 +181,6 @@
       "inactive": false
     },
     {
-      "text": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
-      "author": "Maya Angelou",
-      "date": "2026-02-12"
-    },
-    {
-      "text": "Peace comes from within. Do not seek it without.",
-      "author": "Buddha",
-      "date": "2026-02-12"
-    },
-    {
-      "text": "Let your light so shine before men.",
-      "author": "Jesus Christ",
-      "date": "2026-02-12"
-    },
-    {
-      "text": "A cheerful heart is good medicine.",
-      "author": "King Solomon",
-      "date": "2026-02-12"
-    },
-    {
-      "text": "Trust in the Lord with all thine heart; and lean not unto thine own understanding.",
-      "author": "King Solomon",
-      "date": "2026-02-12"
-    },
-    {
       "text": "It does not matter how slowly you go as long as you do not stop.",
       "author": "Confucius",
       "date": "2026-02-07",
@@ -290,12 +295,6 @@
       "inactive": true
     },
     {
-      "text": "In the middle of difficulty lies opportunity.",
-      "author": "Albert Einstein",
-      "date": "2026-02-03",
-      "inactive": true
-    },
-    {
       "text": "Not all of us can do great things. But we can do small things with great love.",
       "author": "Mother Teresa",
       "date": "2026-02-03",
@@ -329,12 +328,6 @@
       "text": "Try a little harder to be a little better.",
       "author": "Gordon B. Hinckley",
       "date": "2026-02-02",
-      "inactive": true
-    },
-    {
-      "text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
-      "author": "Helen Keller",
-      "date": "2026-02-01",
       "inactive": true
     },
     {
@@ -434,12 +427,6 @@
       "inactive": true
     },
     {
-      "text": "Why fit in when you were born to stand out?",
-      "author": "Dr. Seuss",
-      "date": "2026-01-29",
-      "inactive": true
-    },
-    {
       "text": "There are far, far better things ahead than any we leave behind.",
       "author": "C.S. Lewis",
       "date": "2026-01-29",
@@ -454,12 +441,6 @@
     {
       "text": "Whatever you are, be a good one.",
       "author": "Abraham Lincoln",
-      "date": "2026-01-28",
-      "inactive": true
-    },
-    {
-      "text": "Why fit in when you were born to stand out?",
-      "author": "Dr. Seuss",
       "date": "2026-01-28",
       "inactive": true
     },
@@ -701,12 +682,6 @@
       "text": "Write it on your heart that every day is the best day in the year.",
       "author": "Ralph Waldo Emerson",
       "date": "2026-01-18",
-      "inactive": true
-    },
-    {
-      "text": "For every minute you are angry you lose sixty seconds of happiness.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-01-17",
       "inactive": true
     },
     {
@@ -1259,12 +1234,6 @@
       "text": "We may encounter many defeats but we must not be defeated.",
       "author": "Maya Angelou",
       "date": "2025-12-29",
-      "inactive": true
-    },
-    {
-      "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
-      "author": "Zig Ziglar",
-      "date": "2025-12-28",
       "inactive": true
     },
     {
@@ -1864,10 +1833,45 @@
       "date": "2026-02-11",
       "inactive": true,
       "deactivatedDate": "2026-02-12"
+    },
+    {
+      "text": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+      "author": "Maya Angelou",
+      "date": "2026-02-12",
+      "inactive": true,
+      "deactivatedDate": "2026-02-13"
+    },
+    {
+      "text": "Peace comes from within. Do not seek it without.",
+      "author": "Buddha",
+      "date": "2026-02-12",
+      "inactive": true,
+      "deactivatedDate": "2026-02-13"
+    },
+    {
+      "text": "Let your light so shine before men.",
+      "author": "Jesus Christ",
+      "date": "2026-02-12",
+      "inactive": true,
+      "deactivatedDate": "2026-02-13"
+    },
+    {
+      "text": "A cheerful heart is good medicine.",
+      "author": "King Solomon",
+      "date": "2026-02-12",
+      "inactive": true,
+      "deactivatedDate": "2026-02-13"
+    },
+    {
+      "text": "Trust in the Lord with all thine heart; and lean not unto thine own understanding.",
+      "author": "King Solomon",
+      "date": "2026-02-12",
+      "inactive": true,
+      "deactivatedDate": "2026-02-13"
     }
   ],
-  "lastRotation": "2026-02-12",
-  "totalQuotes": 308,
+  "lastRotation": "2026-02-13",
+  "totalQuotes": 307,
   "activeQuotes": 30,
-  "inactiveQuotes": 278
+  "inactiveQuotes": 277
 }
