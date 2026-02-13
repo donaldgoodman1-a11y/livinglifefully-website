@@ -1,3 +1,4 @@
+ 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -26,7 +27,7 @@
         hidden onSubmit={submitToModeration}>
     <input type="hidden" name="form-name" value="community-wisdom" />
     <p hidden>
-      <label>Don’t fill this out: <input name="bot-field" /></label>
+      <label>Don't fill this out: <input name="bot-field" /></label>
     </p>
     <textarea name="wisdom"></textarea>
     <input type="text" name="author" />
@@ -137,7 +138,9 @@
               try {
                 const response = await fetch('/Data/community-wisdom.json');
                 const data = await response.json();
-                const sortedWisdom = [...data.quotes].sort((a, b) => 
+                // Filter to only show active quotes (not marked as inactive)
+                const activeQuotes = data.quotes.filter(quote => !quote.inactive);
+                const sortedWisdom = [...activeQuotes].sort((a, b) => 
                   new Date(b.date) - new Date(a.date)
                 );
                 setCommunityWisdom(sortedWisdom);
