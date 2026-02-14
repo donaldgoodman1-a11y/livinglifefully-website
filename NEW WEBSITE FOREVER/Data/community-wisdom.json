@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Quick to observe means quick to act.",
+      "author": "David A. Bednar",
+      "date": "2026-02-14",
+      "inactive": false
+    },
+    {
+      "text": "A pleasure is not full grown until it is remembered.",
+      "author": "C.S. Lewis",
+      "date": "2026-02-14",
+      "inactive": false
+    },
+    {
+      "text": "The future belongs to those who believe in the beauty of their dreams.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-02-14",
+      "inactive": false
+    },
+    {
+      "text": "Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!",
+      "author": "Dr. Seuss",
+      "date": "2026-02-14",
+      "inactive": false
+    },
+    {
+      "text": "Creativity is the power to reject the past, to change the status quo, and to seek new potential.",
+      "author": "Ai Weiwei",
+      "date": "2026-02-14",
+      "inactive": false
+    },
+    {
       "text": "For every minute you are angry you lose sixty seconds of happiness.",
       "author": "Ralph Waldo Emerson",
       "date": "2026-02-13",
@@ -147,36 +177,6 @@
     {
       "text": "Experience is what you get when you didn't get what you wanted.",
       "author": "Randy Pausch",
-      "date": "2026-02-12",
-      "inactive": false
-    },
-    {
-      "text": "Tell me to what you pay attention and I will tell you who you are.",
-      "author": "José Ortega y Gasset",
-      "date": "2026-02-12",
-      "inactive": false
-    },
-    {
-      "text": "Without a struggle, there can be no progress.",
-      "author": "Frederick Douglass",
-      "date": "2026-02-12",
-      "inactive": false
-    },
-    {
-      "text": "Unless someone like you cares a whole awful lot, nothing is going to get better. It's not.",
-      "author": "Dr. Seuss",
-      "date": "2026-02-12",
-      "inactive": false
-    },
-    {
-      "text": "The secret of staying young is to live honestly, eat slowly, and lie about your age.",
-      "author": "Lucille Ball",
-      "date": "2026-02-12",
-      "inactive": false
-    },
-    {
-      "text": "You're off to great places! Today is your day! Your mountain is waiting, so get on your way!",
-      "author": "Dr. Seuss",
       "date": "2026-02-12",
       "inactive": false
     },
@@ -403,12 +403,6 @@
       "inactive": true
     },
     {
-      "text": "A pleasure is not full grown until it is remembered.",
-      "author": "C.S. Lewis",
-      "date": "2026-01-29",
-      "inactive": true
-    },
-    {
       "text": "What you see and what you hear depends a great deal on where you are standing. It also depends on what sort of person you are.",
       "author": "C.S. Lewis",
       "date": "2026-01-29",
@@ -458,12 +452,6 @@
     },
     {
       "text": "Don't cry because it's over, smile because it happened.",
-      "author": "Dr. Seuss",
-      "date": "2026-01-26",
-      "inactive": true
-    },
-    {
-      "text": "Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!",
       "author": "Dr. Seuss",
       "date": "2026-01-26",
       "inactive": true
@@ -585,12 +573,6 @@
     {
       "text": "We cannot do great things on this earth, only small things with great love.",
       "author": "Mother Teresa",
-      "date": "2026-01-21",
-      "inactive": true
-    },
-    {
-      "text": "The future belongs to those who believe in the beauty of their dreams.",
-      "author": "Eleanor Roosevelt",
       "date": "2026-01-21",
       "inactive": true
     },
@@ -1045,12 +1027,6 @@
       "inactive": true
     },
     {
-      "text": "Creativity is the power to reject the past, to change the status quo, and to seek new potential.",
-      "author": "Ai Weiwei",
-      "date": "2026-01-04",
-      "inactive": true
-    },
-    {
       "text": "The gospel is a message of hope and salvation for all.",
       "author": "Henry B. Eyring",
       "date": "2026-01-04",
@@ -1148,12 +1124,6 @@
     },
     {
       "text": "We are to become even as He is.",
-      "author": "David A. Bednar",
-      "date": "2026-01-01",
-      "inactive": true
-    },
-    {
-      "text": "Quick to observe means quick to act.",
       "author": "David A. Bednar",
       "date": "2026-01-01",
       "inactive": true
@@ -1868,9 +1838,44 @@
       "date": "2026-02-12",
       "inactive": true,
       "deactivatedDate": "2026-02-13"
+    },
+    {
+      "text": "Tell me to what you pay attention and I will tell you who you are.",
+      "author": "José Ortega y Gasset",
+      "date": "2026-02-12",
+      "inactive": true,
+      "deactivatedDate": "2026-02-14"
+    },
+    {
+      "text": "Without a struggle, there can be no progress.",
+      "author": "Frederick Douglass",
+      "date": "2026-02-12",
+      "inactive": true,
+      "deactivatedDate": "2026-02-14"
+    },
+    {
+      "text": "Unless someone like you cares a whole awful lot, nothing is going to get better. It's not.",
+      "author": "Dr. Seuss",
+      "date": "2026-02-12",
+      "inactive": true,
+      "deactivatedDate": "2026-02-14"
+    },
+    {
+      "text": "The secret of staying young is to live honestly, eat slowly, and lie about your age.",
+      "author": "Lucille Ball",
+      "date": "2026-02-12",
+      "inactive": true,
+      "deactivatedDate": "2026-02-14"
+    },
+    {
+      "text": "You're off to great places! Today is your day! Your mountain is waiting, so get on your way!",
+      "author": "Dr. Seuss",
+      "date": "2026-02-12",
+      "inactive": true,
+      "deactivatedDate": "2026-02-14"
     }
   ],
-  "lastRotation": "2026-02-13",
+  "lastRotation": "2026-02-14",
   "totalQuotes": 307,
   "activeQuotes": 30,
   "inactiveQuotes": 277
