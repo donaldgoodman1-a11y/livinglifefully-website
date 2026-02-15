@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "The spiritual gift of agency, the freedom to choose, is essential to our growth.",
+      "author": "Dallin H. Oaks",
+      "date": "2026-02-15",
+      "inactive": false
+    },
+    {
+      "text": "For I know the thoughts that I think toward you, saith the Lord, thoughts of peace, and not of evil.",
+      "author": "Jeremiah",
+      "date": "2026-02-15",
+      "inactive": false
+    },
+    {
+      "text": "Keep your face to the sunshine and you cannot see a shadow.",
+      "author": "Helen Keller",
+      "date": "2026-02-15",
+      "inactive": false
+    },
+    {
+      "text": "Attitude is a little thing that makes a big difference.",
+      "author": "Winston Churchill",
+      "date": "2026-02-15",
+      "inactive": false
+    },
+    {
+      "text": "It does not matter how slowly you go as long as you do not stop.",
+      "author": "Confucius",
+      "date": "2026-02-15",
+      "inactive": false
+    },
+    {
       "text": "Quick to observe means quick to act.",
       "author": "David A. Bednar",
       "date": "2026-02-14",
@@ -151,42 +181,6 @@
       "inactive": false
     },
     {
-      "text": "It's not about how to achieve your dreams, it's about how to lead your life. If you lead your life the right way, the karma will take care of itself.",
-      "author": "Randy Pausch",
-      "date": "2026-02-12",
-      "inactive": false
-    },
-    {
-      "text": "People often say that motivation doesn't last. Well, neither does bathing—that's why we recommend it daily.",
-      "author": "Zig Ziglar",
-      "date": "2026-02-12",
-      "inactive": false
-    },
-    {
-      "text": "Be kind whenever possible. It is always possible.",
-      "author": "Dalai Lama",
-      "date": "2026-02-12",
-      "inactive": false
-    },
-    {
-      "text": "Let us always meet each other with smile, for the smile is the beginning of love.",
-      "author": "Mother Teresa",
-      "date": "2026-02-12",
-      "inactive": false
-    },
-    {
-      "text": "Experience is what you get when you didn't get what you wanted.",
-      "author": "Randy Pausch",
-      "date": "2026-02-12",
-      "inactive": false
-    },
-    {
-      "text": "It does not matter how slowly you go as long as you do not stop.",
-      "author": "Confucius",
-      "date": "2026-02-07",
-      "inactive": true
-    },
-    {
       "text": "Wise men speak because they have something to say; fools because they have to say something.",
       "author": "Plato",
       "date": "2026-02-06",
@@ -205,12 +199,6 @@
       "inactive": true
     },
     {
-      "text": "For I know the thoughts that I think toward you, saith the Lord, thoughts of peace, and not of evil.",
-      "author": "Jeremiah",
-      "date": "2026-02-06",
-      "inactive": true
-    },
-    {
       "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
       "author": "Confucius",
       "date": "2026-02-06",
@@ -225,12 +213,6 @@
     {
       "text": "Weeping may endure for a night, but joy cometh in the morning.",
       "author": "King David",
-      "date": "2026-02-05",
-      "inactive": true
-    },
-    {
-      "text": "Attitude is a little thing that makes a big difference.",
-      "author": "Winston Churchill",
       "date": "2026-02-05",
       "inactive": true
     },
@@ -274,12 +256,6 @@
       "text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest.",
       "author": "Jesus Christ",
       "date": "2026-02-04",
-      "inactive": true
-    },
-    {
-      "text": "Keep your face to the sunshine and you cannot see a shadow.",
-      "author": "Helen Keller",
-      "date": "2026-02-03",
       "inactive": true
     },
     {
@@ -994,12 +970,6 @@
       "text": "Walk as if you are kissing the Earth with your feet.",
       "author": "Thich Nhat Hanh",
       "date": "2026-01-06",
-      "inactive": true
-    },
-    {
-      "text": "The spiritual gift of agency, the freedom to choose, is essential to our growth.",
-      "author": "Dallin H. Oaks",
-      "date": "2026-01-05",
       "inactive": true
     },
     {
@@ -1873,9 +1843,44 @@
       "date": "2026-02-12",
       "inactive": true,
       "deactivatedDate": "2026-02-14"
+    },
+    {
+      "text": "It's not about how to achieve your dreams, it's about how to lead your life. If you lead your life the right way, the karma will take care of itself.",
+      "author": "Randy Pausch",
+      "date": "2026-02-12",
+      "inactive": true,
+      "deactivatedDate": "2026-02-15"
+    },
+    {
+      "text": "People often say that motivation doesn't last. Well, neither does bathing—that's why we recommend it daily.",
+      "author": "Zig Ziglar",
+      "date": "2026-02-12",
+      "inactive": true,
+      "deactivatedDate": "2026-02-15"
+    },
+    {
+      "text": "Be kind whenever possible. It is always possible.",
+      "author": "Dalai Lama",
+      "date": "2026-02-12",
+      "inactive": true,
+      "deactivatedDate": "2026-02-15"
+    },
+    {
+      "text": "Let us always meet each other with smile, for the smile is the beginning of love.",
+      "author": "Mother Teresa",
+      "date": "2026-02-12",
+      "inactive": true,
+      "deactivatedDate": "2026-02-15"
+    },
+    {
+      "text": "Experience is what you get when you didn't get what you wanted.",
+      "author": "Randy Pausch",
+      "date": "2026-02-12",
+      "inactive": true,
+      "deactivatedDate": "2026-02-15"
     }
   ],
-  "lastRotation": "2026-02-14",
+  "lastRotation": "2026-02-15",
   "totalQuotes": 307,
   "activeQuotes": 30,
   "inactiveQuotes": 277
