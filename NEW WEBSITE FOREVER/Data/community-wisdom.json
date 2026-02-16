@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "We cannot change the cards we are dealt, just how we play the hand.",
+      "author": "Randy Pausch",
+      "date": "2026-02-16",
+      "inactive": false
+    },
+    {
+      "text": "Choose faith over fear, and doubt not.",
+      "author": "David A. Bednar",
+      "date": "2026-02-16",
+      "inactive": false
+    },
+    {
+      "text": "Hold on. Hope on.",
+      "author": "Jeffrey R. Holland",
+      "date": "2026-02-16",
+      "inactive": false
+    },
+    {
+      "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-02-16",
+      "inactive": false
+    },
+    {
+      "text": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt",
+      "date": "2026-02-16",
+      "inactive": false
+    },
+    {
       "text": "The spiritual gift of agency, the freedom to choose, is essential to our growth.",
       "author": "Dallin H. Oaks",
       "date": "2026-02-15",
@@ -151,44 +181,8 @@
       "inactive": false
     },
     {
-      "text": "The mind is everything. What you think you become.",
-      "author": "Buddha",
-      "date": "2026-02-12",
-      "inactive": false
-    },
-    {
-      "text": "The beginning is the most important part of the work.",
-      "author": "Plato",
-      "date": "2026-02-12",
-      "inactive": false
-    },
-    {
-      "text": "Desire is the father of action.",
-      "author": "Dallin H. Oaks",
-      "date": "2026-02-12",
-      "inactive": false
-    },
-    {
-      "text": "Where the head goes, the body follows. Perception precedes action.",
-      "author": "Ryan Holiday",
-      "date": "2026-02-12",
-      "inactive": false
-    },
-    {
-      "text": "If you judge people, you have no time to love them.",
-      "author": "Mother Teresa",
-      "date": "2026-02-12",
-      "inactive": false
-    },
-    {
       "text": "Wise men speak because they have something to say; fools because they have to say something.",
       "author": "Plato",
-      "date": "2026-02-06",
-      "inactive": true
-    },
-    {
-      "text": "Hold on. Hope on.",
-      "author": "Jeffrey R. Holland",
       "date": "2026-02-06",
       "inactive": true
     },
@@ -560,12 +554,6 @@
     },
     {
       "text": "Do what you can, with what you have, where you are.",
-      "author": "Theodore Roosevelt",
-      "date": "2026-01-20",
-      "inactive": true
-    },
-    {
-      "text": "Believe you can and you're halfway there.",
       "author": "Theodore Roosevelt",
       "date": "2026-01-20",
       "inactive": true
@@ -1075,12 +1063,6 @@
       "inactive": true
     },
     {
-      "text": "Choose faith over fear, and doubt not.",
-      "author": "David A. Bednar",
-      "date": "2026-01-01",
-      "inactive": true
-    },
-    {
       "text": "We can press forward with steadfastness in Christ.",
       "author": "David A. Bednar",
       "date": "2026-01-01",
@@ -1405,12 +1387,6 @@
       "inactive": true
     },
     {
-      "text": "We cannot change the cards we are dealt, just how we play the hand.",
-      "author": "Randy Pausch",
-      "date": "2025-12-20",
-      "inactive": true
-    },
-    {
       "text": "The brick walls are there for a reason. They're not there to keep us out. The brick walls are there to give us a chance to show how badly we want something.",
       "author": "Randy Pausch",
       "date": "2025-12-20",
@@ -1719,13 +1695,6 @@
       "deactivatedDate": "2026-02-12"
     },
     {
-      "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
-      "author": "Martin Luther King Jr.",
-      "date": "2026-02-10",
-      "inactive": true,
-      "deactivatedDate": "2026-02-12"
-    },
-    {
       "text": "The weak can never forgive. Forgiveness is the attribute of the strong.",
       "author": "Mahatma Gandhi",
       "date": "2026-02-10",
@@ -1878,9 +1847,44 @@
       "date": "2026-02-12",
       "inactive": true,
       "deactivatedDate": "2026-02-15"
+    },
+    {
+      "text": "The mind is everything. What you think you become.",
+      "author": "Buddha",
+      "date": "2026-02-12",
+      "inactive": true,
+      "deactivatedDate": "2026-02-16"
+    },
+    {
+      "text": "The beginning is the most important part of the work.",
+      "author": "Plato",
+      "date": "2026-02-12",
+      "inactive": true,
+      "deactivatedDate": "2026-02-16"
+    },
+    {
+      "text": "Desire is the father of action.",
+      "author": "Dallin H. Oaks",
+      "date": "2026-02-12",
+      "inactive": true,
+      "deactivatedDate": "2026-02-16"
+    },
+    {
+      "text": "Where the head goes, the body follows. Perception precedes action.",
+      "author": "Ryan Holiday",
+      "date": "2026-02-12",
+      "inactive": true,
+      "deactivatedDate": "2026-02-16"
+    },
+    {
+      "text": "If you judge people, you have no time to love them.",
+      "author": "Mother Teresa",
+      "date": "2026-02-12",
+      "inactive": true,
+      "deactivatedDate": "2026-02-16"
     }
   ],
-  "lastRotation": "2026-02-15",
+  "lastRotation": "2026-02-16",
   "totalQuotes": 307,
   "activeQuotes": 30,
   "inactiveQuotes": 277
