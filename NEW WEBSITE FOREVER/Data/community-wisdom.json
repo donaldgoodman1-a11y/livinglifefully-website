@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+      "author": "Albert Einstein",
+      "date": "2026-02-17",
+      "inactive": false
+    },
+    {
+      "text": "We may encounter many defeats but we must not be defeated.",
+      "author": "Maya Angelou",
+      "date": "2026-02-17",
+      "inactive": false
+    },
+    {
+      "text": "Freedom is never given; it is won.",
+      "author": "A. Philip Randolph",
+      "date": "2026-02-17",
+      "inactive": false
+    },
+    {
+      "text": "It is not our abilities that show what we truly are. It is our choices.",
+      "author": "J.K. Rowling",
+      "date": "2026-02-17",
+      "inactive": false
+    },
+    {
+      "text": "You don't have to be great to start, but you have to start to be great.",
+      "author": "Zig Ziglar",
+      "date": "2026-02-17",
+      "inactive": false
+    },
+    {
       "text": "If they merit redemption through Teshuva and Mitzvos, I will hasten the coming of the Moshiach.",
       "author": "Sanhedrin",
       "date": "2026-02-16"
@@ -152,36 +182,6 @@
     {
       "text": "Wherever you go, go with all your heart.",
       "author": "Confucius",
-      "date": "2026-02-12",
-      "inactive": false
-    },
-    {
-      "text": "To love at all is to be vulnerable.",
-      "author": "C.S. Lewis",
-      "date": "2026-02-12",
-      "inactive": false
-    },
-    {
-      "text": "I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live by the light that I have.",
-      "author": "Abraham Lincoln",
-      "date": "2026-02-12",
-      "inactive": false
-    },
-    {
-      "text": "It is only with the heart that one can see rightly; what is essential is invisible to the eye.",
-      "author": "Antoine de Saint-Exupéry",
-      "date": "2026-02-12",
-      "inactive": false
-    },
-    {
-      "text": "The purpose of our lives is to be happy.",
-      "author": "Dalai Lama",
-      "date": "2026-02-12",
-      "inactive": false
-    },
-    {
-      "text": "A soft answer turneth away wrath.",
-      "author": "King Solomon",
       "date": "2026-02-12",
       "inactive": false
     },
@@ -1158,19 +1158,7 @@
       "inactive": true
     },
     {
-      "text": "We may encounter many defeats but we must not be defeated.",
-      "author": "Maya Angelou",
-      "date": "2025-12-29",
-      "inactive": true
-    },
-    {
       "text": "You were born to win, but to be a winner, you must plan to win, prepare to win, and expect to win.",
-      "author": "Zig Ziglar",
-      "date": "2025-12-28",
-      "inactive": true
-    },
-    {
-      "text": "You don't have to be great to start, but you have to start to be great.",
       "author": "Zig Ziglar",
       "date": "2025-12-28",
       "inactive": true
@@ -1262,12 +1250,6 @@
     {
       "text": "There is some good in this world, and it's worth fighting for.",
       "author": "J.R.R. Tolkien",
-      "date": "2025-12-25",
-      "inactive": true
-    },
-    {
-      "text": "It is not our abilities that show what we truly are. It is our choices.",
-      "author": "J.K. Rowling",
       "date": "2025-12-25",
       "inactive": true
     },
@@ -1431,12 +1413,6 @@
       "text": "There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living.",
       "author": "Nelson Mandela",
       "date": "2025-12-19",
-      "inactive": true
-    },
-    {
-      "text": "Freedom is never given; it is won.",
-      "author": "A. Philip Randolph",
-      "date": "2025-12-18",
       "inactive": true
     },
     {
@@ -1679,13 +1655,6 @@
       "deactivatedDate": "2026-02-12"
     },
     {
-      "text": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
-      "author": "Albert Einstein",
-      "date": "2026-02-09",
-      "inactive": true,
-      "deactivatedDate": "2026-02-12"
-    },
-    {
       "text": "And we know that all things work together for good to them that love God.",
       "author": "Paul the Apostle",
       "date": "2026-02-09",
@@ -1887,10 +1856,45 @@
       "date": "2026-02-12",
       "inactive": true,
       "deactivatedDate": "2026-02-16"
+    },
+    {
+      "text": "To love at all is to be vulnerable.",
+      "author": "C.S. Lewis",
+      "date": "2026-02-12",
+      "inactive": true,
+      "deactivatedDate": "2026-02-17"
+    },
+    {
+      "text": "I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live by the light that I have.",
+      "author": "Abraham Lincoln",
+      "date": "2026-02-12",
+      "inactive": true,
+      "deactivatedDate": "2026-02-17"
+    },
+    {
+      "text": "It is only with the heart that one can see rightly; what is essential is invisible to the eye.",
+      "author": "Antoine de Saint-Exupéry",
+      "date": "2026-02-12",
+      "inactive": true,
+      "deactivatedDate": "2026-02-17"
+    },
+    {
+      "text": "The purpose of our lives is to be happy.",
+      "author": "Dalai Lama",
+      "date": "2026-02-12",
+      "inactive": true,
+      "deactivatedDate": "2026-02-17"
+    },
+    {
+      "text": "A soft answer turneth away wrath.",
+      "author": "King Solomon",
+      "date": "2026-02-12",
+      "inactive": true,
+      "deactivatedDate": "2026-02-17"
     }
   ],
-  "lastRotation": "2026-02-16",
-  "totalQuotes": 307,
-  "activeQuotes": 30,
+  "lastRotation": "2026-02-17",
+  "totalQuotes": 308,
+  "activeQuotes": 31,
   "inactiveQuotes": 277
 }
