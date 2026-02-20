@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you.",
+      "author": "Jesus Christ",
+      "date": "2026-02-19",
+      "inactive": false
+    },
+    {
+      "text": "Nothing can dim the light which shines from within.",
+      "author": "Maya Angelou",
+      "date": "2026-02-19",
+      "inactive": false
+    },
+    {
+      "text": "Do what you can, with what you have, where you are.",
+      "author": "Theodore Roosevelt",
+      "date": "2026-02-19",
+      "inactive": false
+    },
+    {
+      "text": "Remember that sometimes not getting what you want is a wonderful stroke of luck.",
+      "author": "Dalai Lama",
+      "date": "2026-02-19",
+      "inactive": false
+    },
+    {
+      "text": "Not all of us can do great things. But we can do small things with great love.",
+      "author": "Mother Teresa",
+      "date": "2026-02-19",
+      "inactive": false
+    },
+    {
       "text": "The power of love and kindness can overcome any challenge or hardship.\nThe Lubavitcher Rebbe",
       "author": "The Lubavitcher Rebbe",
       "date": "2026-02-20"
@@ -161,36 +191,6 @@
       "inactive": false
     },
     {
-      "text": "We can ignore reality, but we cannot ignore the consequences of ignoring reality.",
-      "author": "Ayn Rand",
-      "date": "2026-02-12",
-      "inactive": false
-    },
-    {
-      "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
-      "author": "Aristotle",
-      "date": "2026-02-12",
-      "inactive": false
-    },
-    {
-      "text": "Those who have a 'why' to live, can bear with almost any 'how'.",
-      "author": "Viktor Frankl",
-      "date": "2026-02-12",
-      "inactive": false
-    },
-    {
-      "text": "You are never too old to set another goal or to dream a new dream.",
-      "author": "C.S. Lewis",
-      "date": "2026-02-12",
-      "inactive": false
-    },
-    {
-      "text": "Wherever you go, go with all your heart.",
-      "author": "Confucius",
-      "date": "2026-02-12",
-      "inactive": false
-    },
-    {
       "text": "Wise men speak because they have something to say; fools because they have to say something.",
       "author": "Plato",
       "date": "2026-02-06",
@@ -265,18 +265,6 @@
     {
       "text": "I can do all things through Christ which strengtheneth me.",
       "author": "Paul the Apostle",
-      "date": "2026-02-03",
-      "inactive": true
-    },
-    {
-      "text": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you.",
-      "author": "Jesus Christ",
-      "date": "2026-02-03",
-      "inactive": true
-    },
-    {
-      "text": "Not all of us can do great things. But we can do small things with great love.",
-      "author": "Mother Teresa",
       "date": "2026-02-03",
       "inactive": true
     },
@@ -560,12 +548,6 @@
       "text": "No one can make you feel inferior without your consent.",
       "author": "Eleanor Roosevelt",
       "date": "2026-01-21",
-      "inactive": true
-    },
-    {
-      "text": "Do what you can, with what you have, where you are.",
-      "author": "Theodore Roosevelt",
-      "date": "2026-01-20",
       "inactive": true
     },
     {
@@ -930,12 +912,6 @@
     },
     {
       "text": "Our prime purpose in this life is to help others. And if you can't help them, at least don't hurt them.",
-      "author": "Dalai Lama",
-      "date": "2026-01-07",
-      "inactive": true
-    },
-    {
-      "text": "Remember that sometimes not getting what you want is a wonderful stroke of luck.",
       "author": "Dalai Lama",
       "date": "2026-01-07",
       "inactive": true
@@ -1646,13 +1622,6 @@
       "deactivatedDate": "2026-02-12"
     },
     {
-      "text": "Nothing can dim the light which shines from within.",
-      "author": "Maya Angelou",
-      "date": "2026-02-10",
-      "inactive": true,
-      "deactivatedDate": "2026-02-12"
-    },
-    {
       "text": "Go confidently in the direction of your dreams. Live the life you have imagined.",
       "author": "Henry David Thoreau",
       "date": "2026-02-09",
@@ -1896,10 +1865,45 @@
       "date": "2026-02-12",
       "inactive": true,
       "deactivatedDate": "2026-02-17"
+    },
+    {
+      "text": "We can ignore reality, but we cannot ignore the consequences of ignoring reality.",
+      "author": "Ayn Rand",
+      "date": "2026-02-12",
+      "inactive": true,
+      "deactivatedDate": "2026-02-19"
+    },
+    {
+      "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+      "author": "Aristotle",
+      "date": "2026-02-12",
+      "inactive": true,
+      "deactivatedDate": "2026-02-19"
+    },
+    {
+      "text": "Those who have a 'why' to live, can bear with almost any 'how'.",
+      "author": "Viktor Frankl",
+      "date": "2026-02-12",
+      "inactive": true,
+      "deactivatedDate": "2026-02-19"
+    },
+    {
+      "text": "You are never too old to set another goal or to dream a new dream.",
+      "author": "C.S. Lewis",
+      "date": "2026-02-12",
+      "inactive": true,
+      "deactivatedDate": "2026-02-19"
+    },
+    {
+      "text": "Wherever you go, go with all your heart.",
+      "author": "Confucius",
+      "date": "2026-02-12",
+      "inactive": true,
+      "deactivatedDate": "2026-02-19"
     }
   ],
-  "lastRotation": "2026-02-17",
-  "totalQuotes": 308,
-  "activeQuotes": 31,
+  "lastRotation": "2026-02-19",
+  "totalQuotes": 309,
+  "activeQuotes": 32,
   "inactiveQuotes": 277
 }
