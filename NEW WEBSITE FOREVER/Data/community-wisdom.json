@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Energy and persistence conquer all things.",
+      "author": "Benjamin Franklin",
+      "date": "2026-02-20",
+      "inactive": false
+    },
+    {
+      "text": "Life's most persistent and urgent question is, 'What are you doing for others?'",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-02-20",
+      "inactive": false
+    },
+    {
+      "text": "Integrity is doing the right thing even when no one is watching.",
+      "author": "C.S. Lewis",
+      "date": "2026-02-20",
+      "inactive": false
+    },
+    {
+      "text": "The cave you fear to enter holds the treasure you seek.",
+      "author": "Joseph Campbell",
+      "date": "2026-02-20",
+      "inactive": false
+    },
+    {
+      "text": "Your work is to discover your work and then with all your heart to give yourself to it.",
+      "author": "Buddha",
+      "date": "2026-02-20",
+      "inactive": false
+    },
+    {
       "text": "No matter what anyone says or does, my task is to be good.",
       "author": "Marcus Aurelius",
       "date": "2026-02-20"
@@ -163,36 +193,6 @@
       "text": "Creativity is the power to reject the past, to change the status quo, and to seek new potential.",
       "author": "Ai Weiwei",
       "date": "2026-02-14",
-      "inactive": false
-    },
-    {
-      "text": "For every minute you are angry you lose sixty seconds of happiness.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-02-13",
-      "inactive": false
-    },
-    {
-      "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
-      "author": "Zig Ziglar",
-      "date": "2026-02-13",
-      "inactive": false
-    },
-    {
-      "text": "In the middle of difficulty lies opportunity.",
-      "author": "Albert Einstein",
-      "date": "2026-02-13",
-      "inactive": false
-    },
-    {
-      "text": "Why fit in when you were born to stand out?",
-      "author": "Dr. Seuss",
-      "date": "2026-02-13",
-      "inactive": false
-    },
-    {
-      "text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
-      "author": "Helen Keller",
-      "date": "2026-02-13",
       "inactive": false
     },
     {
@@ -478,12 +478,6 @@
       "inactive": true
     },
     {
-      "text": "Integrity is doing the right thing even when no one is watching.",
-      "author": "C.S. Lewis",
-      "date": "2026-01-24",
-      "inactive": true
-    },
-    {
       "text": "You can never get a cup of tea large enough or a book long enough to suit me.",
       "author": "C.S. Lewis",
       "date": "2026-01-23",
@@ -646,12 +640,6 @@
       "inactive": true
     },
     {
-      "text": "Your work is to discover your work and then with all your heart to give yourself to it.",
-      "author": "Buddha",
-      "date": "2026-01-17",
-      "inactive": true
-    },
-    {
       "text": "Three things cannot be long hidden: the sun, the moon, and the truth.",
       "author": "Buddha",
       "date": "2026-01-16",
@@ -785,12 +773,6 @@
     },
     {
       "text": "A hero is someone who has given his or her life to something bigger than oneself.",
-      "author": "Joseph Campbell",
-      "date": "2026-01-12",
-      "inactive": true
-    },
-    {
-      "text": "The cave you fear to enter holds the treasure you seek.",
       "author": "Joseph Campbell",
       "date": "2026-01-12",
       "inactive": true
@@ -1001,12 +983,6 @@
     },
     {
       "text": "Faith is taking the first step even when you don't see the whole staircase.",
-      "author": "Martin Luther King Jr.",
-      "date": "2026-01-03",
-      "inactive": true
-    },
-    {
-      "text": "Life's most persistent and urgent question is, 'What are you doing for others?'",
       "author": "Martin Luther King Jr.",
       "date": "2026-01-03",
       "inactive": true
@@ -1474,12 +1450,6 @@
       "inactive": true
     },
     {
-      "text": "Energy and persistence conquer all things.",
-      "author": "Benjamin Franklin",
-      "date": "2025-12-16",
-      "inactive": true
-    },
-    {
       "text": "The obstacle is the way.",
       "author": "Ryan Holiday",
       "date": "2025-12-15",
@@ -1905,10 +1875,45 @@
       "date": "2026-02-12",
       "inactive": true,
       "deactivatedDate": "2026-02-19"
+    },
+    {
+      "text": "For every minute you are angry you lose sixty seconds of happiness.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-02-13",
+      "inactive": true,
+      "deactivatedDate": "2026-02-20"
+    },
+    {
+      "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+      "author": "Zig Ziglar",
+      "date": "2026-02-13",
+      "inactive": true,
+      "deactivatedDate": "2026-02-20"
+    },
+    {
+      "text": "In the middle of difficulty lies opportunity.",
+      "author": "Albert Einstein",
+      "date": "2026-02-13",
+      "inactive": true,
+      "deactivatedDate": "2026-02-20"
+    },
+    {
+      "text": "Why fit in when you were born to stand out?",
+      "author": "Dr. Seuss",
+      "date": "2026-02-13",
+      "inactive": true,
+      "deactivatedDate": "2026-02-20"
+    },
+    {
+      "text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
+      "author": "Helen Keller",
+      "date": "2026-02-13",
+      "inactive": true,
+      "deactivatedDate": "2026-02-20"
     }
   ],
-  "lastRotation": "2026-02-19",
-  "totalQuotes": 309,
-  "activeQuotes": 32,
+  "lastRotation": "2026-02-20",
+  "totalQuotes": 310,
+  "activeQuotes": 33,
   "inactiveQuotes": 277
 }
