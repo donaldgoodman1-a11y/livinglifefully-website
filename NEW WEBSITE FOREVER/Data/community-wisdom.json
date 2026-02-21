@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "And we know that all things work together for good to them that love God.",
+      "author": "Paul the Apostle",
+      "date": "2026-02-21",
+      "inactive": false
+    },
+    {
+      "text": "Desire is the father of action.",
+      "author": "Dallin H. Oaks",
+      "date": "2026-02-21",
+      "inactive": false
+    },
+    {
+      "text": "Try to be a rainbow in someone's cloud.",
+      "author": "Maya Angelou",
+      "date": "2026-02-21",
+      "inactive": false
+    },
+    {
+      "text": "A pleasure is not full grown until it is remembered.",
+      "author": "C.S. Lewis",
+      "date": "2026-02-21",
+      "inactive": false
+    },
+    {
+      "text": "You have power over your mind - not outside events. Realize this, and you will find strength.",
+      "author": "Marcus Aurelius",
+      "date": "2026-02-21",
+      "inactive": false
+    },
+    {
       "text": "Humanity must seek what is NOT simple and obvious using the simple and obvious.",
       "author": "Musonius Rufus",
       "date": "2026-02-20"
@@ -168,36 +198,6 @@
       "text": "It does not matter how slowly you go as long as you do not stop.",
       "author": "Confucius",
       "date": "2026-02-15",
-      "inactive": false
-    },
-    {
-      "text": "Quick to observe means quick to act.",
-      "author": "David A. Bednar",
-      "date": "2026-02-14",
-      "inactive": false
-    },
-    {
-      "text": "A pleasure is not full grown until it is remembered.",
-      "author": "C.S. Lewis",
-      "date": "2026-02-14",
-      "inactive": false
-    },
-    {
-      "text": "The future belongs to those who believe in the beauty of their dreams.",
-      "author": "Eleanor Roosevelt",
-      "date": "2026-02-14",
-      "inactive": false
-    },
-    {
-      "text": "Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!",
-      "author": "Dr. Seuss",
-      "date": "2026-02-14",
-      "inactive": false
-    },
-    {
-      "text": "Creativity is the power to reject the past, to change the status quo, and to seek new potential.",
-      "author": "Ai Weiwei",
-      "date": "2026-02-14",
       "inactive": false
     },
     {
@@ -1581,13 +1581,6 @@
       "deactivatedDate": "2026-02-12"
     },
     {
-      "text": "You have power over your mind - not outside events. Realize this, and you will find strength.",
-      "author": "Marcus Aurelius",
-      "date": "2026-02-08",
-      "inactive": true,
-      "deactivatedDate": "2026-02-12"
-    },
-    {
       "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
       "author": "Winston Churchill",
       "date": "2026-02-08",
@@ -1604,13 +1597,6 @@
     {
       "text": "Go confidently in the direction of your dreams. Live the life you have imagined.",
       "author": "Henry David Thoreau",
-      "date": "2026-02-09",
-      "inactive": true,
-      "deactivatedDate": "2026-02-12"
-    },
-    {
-      "text": "And we know that all things work together for good to them that love God.",
-      "author": "Paul the Apostle",
       "date": "2026-02-09",
       "inactive": true,
       "deactivatedDate": "2026-02-12"
@@ -1660,13 +1646,6 @@
     {
       "text": "The best antidote I know for worry is work.",
       "author": "Gordon B. Hinckley",
-      "date": "2026-02-11",
-      "inactive": true,
-      "deactivatedDate": "2026-02-12"
-    },
-    {
-      "text": "Try to be a rainbow in someone's cloud.",
-      "author": "Maya Angelou",
       "date": "2026-02-11",
       "inactive": true,
       "deactivatedDate": "2026-02-12"
@@ -1791,13 +1770,6 @@
       "deactivatedDate": "2026-02-16"
     },
     {
-      "text": "Desire is the father of action.",
-      "author": "Dallin H. Oaks",
-      "date": "2026-02-12",
-      "inactive": true,
-      "deactivatedDate": "2026-02-16"
-    },
-    {
       "text": "Where the head goes, the body follows. Perception precedes action.",
       "author": "Ryan Holiday",
       "date": "2026-02-12",
@@ -1915,10 +1887,38 @@
       "date": "2026-02-13",
       "inactive": true,
       "deactivatedDate": "2026-02-20"
+    },
+    {
+      "text": "Quick to observe means quick to act.",
+      "author": "David A. Bednar",
+      "date": "2026-02-14",
+      "inactive": true,
+      "deactivatedDate": "2026-02-21"
+    },
+    {
+      "text": "The future belongs to those who believe in the beauty of their dreams.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-02-14",
+      "inactive": true,
+      "deactivatedDate": "2026-02-21"
+    },
+    {
+      "text": "Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!",
+      "author": "Dr. Seuss",
+      "date": "2026-02-14",
+      "inactive": true,
+      "deactivatedDate": "2026-02-21"
+    },
+    {
+      "text": "Creativity is the power to reject the past, to change the status quo, and to seek new potential.",
+      "author": "Ai Weiwei",
+      "date": "2026-02-14",
+      "inactive": true,
+      "deactivatedDate": "2026-02-21"
     }
   ],
-  "lastRotation": "2026-02-20",
-  "totalQuotes": 310,
-  "activeQuotes": 33,
+  "lastRotation": "2026-02-21",
+  "totalQuotes": 311,
+  "activeQuotes": 34,
   "inactiveQuotes": 277
 }
