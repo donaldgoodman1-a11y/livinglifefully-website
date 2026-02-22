@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "The difference between winning and losing is most often not quitting.",
+      "author": "Walt Disney",
+      "date": "2026-02-22",
+      "inactive": false
+    },
+    {
+      "text": "If you are a dreamer, come in.",
+      "author": "Shel Silverstein",
+      "date": "2026-02-22",
+      "inactive": false
+    },
+    {
+      "text": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.",
+      "author": "J.K. Rowling",
+      "date": "2026-02-22",
+      "inactive": false
+    },
+    {
+      "text": "The way to get started is to quit talking and begin doing.",
+      "author": "Walt Disney",
+      "date": "2026-02-22",
+      "inactive": false
+    },
+    {
+      "text": "An investment in knowledge pays the best interest.",
+      "author": "Benjamin Franklin",
+      "date": "2026-02-22",
+      "inactive": false
+    },
+    {
       "text": "No man is crushed by misfortune unless he has first been deceived by prosperity.\n-Seneca",
       "author": "Seneca",
       "date": "2026-02-22"
@@ -173,36 +203,6 @@
       "text": "Believe you can and you're halfway there.",
       "author": "Theodore Roosevelt",
       "date": "2026-02-16",
-      "inactive": false
-    },
-    {
-      "text": "The spiritual gift of agency, the freedom to choose, is essential to our growth.",
-      "author": "Dallin H. Oaks",
-      "date": "2026-02-15",
-      "inactive": false
-    },
-    {
-      "text": "For I know the thoughts that I think toward you, saith the Lord, thoughts of peace, and not of evil.",
-      "author": "Jeremiah",
-      "date": "2026-02-15",
-      "inactive": false
-    },
-    {
-      "text": "Keep your face to the sunshine and you cannot see a shadow.",
-      "author": "Helen Keller",
-      "date": "2026-02-15",
-      "inactive": false
-    },
-    {
-      "text": "Attitude is a little thing that makes a big difference.",
-      "author": "Winston Churchill",
-      "date": "2026-02-15",
-      "inactive": false
-    },
-    {
-      "text": "It does not matter how slowly you go as long as you do not stop.",
-      "author": "Confucius",
-      "date": "2026-02-15",
       "inactive": false
     },
     {
@@ -1244,12 +1244,6 @@
       "inactive": true
     },
     {
-      "text": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.",
-      "author": "J.K. Rowling",
-      "date": "2025-12-24",
-      "inactive": true
-    },
-    {
       "text": "Rock bottom became the solid foundation on which I rebuilt my life.",
       "author": "J.K. Rowling",
       "date": "2025-12-24",
@@ -1304,21 +1298,9 @@
       "inactive": true
     },
     {
-      "text": "If you are a dreamer, come in.",
-      "author": "Shel Silverstein",
-      "date": "2025-12-22",
-      "inactive": true
-    },
-    {
       "text": "Draw a crazy picture, Write a nutty poem, Sing a mumble-gumble song, Whistle through your comb.",
       "author": "Shel Silverstein",
       "date": "2025-12-22",
-      "inactive": true
-    },
-    {
-      "text": "The way to get started is to quit talking and begin doing.",
-      "author": "Walt Disney",
-      "date": "2025-12-21",
       "inactive": true
     },
     {
@@ -1329,12 +1311,6 @@
     },
     {
       "text": "It's kind of fun to do the impossible.",
-      "author": "Walt Disney",
-      "date": "2025-12-21",
-      "inactive": true
-    },
-    {
-      "text": "The difference between winning and losing is most often not quitting.",
       "author": "Walt Disney",
       "date": "2025-12-21",
       "inactive": true
@@ -1443,12 +1419,6 @@
     },
     {
       "text": "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
-      "author": "Benjamin Franklin",
-      "date": "2025-12-16",
-      "inactive": true
-    },
-    {
-      "text": "An investment in knowledge pays the best interest.",
       "author": "Benjamin Franklin",
       "date": "2025-12-16",
       "inactive": true
@@ -1920,10 +1890,45 @@
       "date": "2026-02-14",
       "inactive": true,
       "deactivatedDate": "2026-02-21"
+    },
+    {
+      "text": "The spiritual gift of agency, the freedom to choose, is essential to our growth.",
+      "author": "Dallin H. Oaks",
+      "date": "2026-02-15",
+      "inactive": true,
+      "deactivatedDate": "2026-02-22"
+    },
+    {
+      "text": "For I know the thoughts that I think toward you, saith the Lord, thoughts of peace, and not of evil.",
+      "author": "Jeremiah",
+      "date": "2026-02-15",
+      "inactive": true,
+      "deactivatedDate": "2026-02-22"
+    },
+    {
+      "text": "Keep your face to the sunshine and you cannot see a shadow.",
+      "author": "Helen Keller",
+      "date": "2026-02-15",
+      "inactive": true,
+      "deactivatedDate": "2026-02-22"
+    },
+    {
+      "text": "Attitude is a little thing that makes a big difference.",
+      "author": "Winston Churchill",
+      "date": "2026-02-15",
+      "inactive": true,
+      "deactivatedDate": "2026-02-22"
+    },
+    {
+      "text": "It does not matter how slowly you go as long as you do not stop.",
+      "author": "Confucius",
+      "date": "2026-02-15",
+      "inactive": true,
+      "deactivatedDate": "2026-02-22"
     }
   ],
-  "lastRotation": "2026-02-21",
-  "totalQuotes": 311,
-  "activeQuotes": 34,
+  "lastRotation": "2026-02-22",
+  "totalQuotes": 312,
+  "activeQuotes": 35,
   "inactiveQuotes": 277
 }
