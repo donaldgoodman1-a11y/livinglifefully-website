@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "The enabling power of the Atonement strengthens us.",
+      "author": "David A. Bednar",
+      "date": "2026-02-24",
+      "inactive": false
+    },
+    {
+      "text": "When we keep the commandments, the blessings come.",
+      "author": "Henry B. Eyring",
+      "date": "2026-02-24",
+      "inactive": false
+    },
+    {
+      "text": "The wound is the place where the Light enters you.",
+      "author": "Rumi",
+      "date": "2026-02-24",
+      "inactive": false
+    },
+    {
+      "text": "We suffer more often in imagination than in reality.",
+      "author": "Seneca",
+      "date": "2026-02-24",
+      "inactive": false
+    },
+    {
+      "text": "The meeting of two personalities is like the contact of two chemical substances: if there is any reaction, both are transformed.",
+      "author": "Carl Jung",
+      "date": "2026-02-24",
+      "inactive": false
+    },
+    {
       "text": "To bear trials with a calm mind robs misfortune of its strength and burden.",
       "author": "Seneca",
       "date": "2026-02-24"
@@ -180,35 +210,6 @@
       "author": "Albert Einstein",
       "date": "2026-02-17",
       "inactive": false
-    },
-    {
-      "text": "We may encounter many defeats but we must not be defeated.",
-      "author": "Maya Angelou",
-      "date": "2026-02-17",
-      "inactive": false
-    },
-    {
-      "text": "Freedom is never given; it is won.",
-      "author": "A. Philip Randolph",
-      "date": "2026-02-17",
-      "inactive": false
-    },
-    {
-      "text": "It is not our abilities that show what we truly are. It is our choices.",
-      "author": "J.K. Rowling",
-      "date": "2026-02-17",
-      "inactive": false
-    },
-    {
-      "text": "You don't have to be great to start, but you have to start to be great.",
-      "author": "Zig Ziglar",
-      "date": "2026-02-17",
-      "inactive": false
-    },
-    {
-      "text": "If they merit redemption through Teshuva and Mitzvos, I will hasten the coming of the Moshiach.",
-      "author": "Sanhedrin",
-      "date": "2026-02-16"
     },
     {
       "text": "Wise men speak because they have something to say; fools because they have to say something.",
@@ -685,12 +686,6 @@
       "inactive": true
     },
     {
-      "text": "We suffer more often in imagination than in reality.",
-      "author": "Seneca",
-      "date": "2026-01-15",
-      "inactive": true
-    },
-    {
       "text": "It's not what happens to you, but how you react to it that matters.",
       "author": "Epictetus",
       "date": "2026-01-15",
@@ -805,12 +800,6 @@
       "inactive": true
     },
     {
-      "text": "The meeting of two personalities is like the contact of two chemical substances: if there is any reaction, both are transformed.",
-      "author": "Carl Jung",
-      "date": "2026-01-11",
-      "inactive": true
-    },
-    {
       "text": "Knowing your own darkness is the best method for dealing with the darknesses of other people.",
       "author": "Carl Jung",
       "date": "2026-01-11",
@@ -874,12 +863,6 @@
       "text": "To pay attention, this is our endless and proper work.",
       "author": "Mary Oliver",
       "date": "2026-01-09",
-      "inactive": true
-    },
-    {
-      "text": "The wound is the place where the Light enters you.",
-      "author": "Rumi",
-      "date": "2026-01-08",
       "inactive": true
     },
     {
@@ -985,12 +968,6 @@
       "inactive": true
     },
     {
-      "text": "When we keep the commandments, the blessings come.",
-      "author": "Henry B. Eyring",
-      "date": "2026-01-04",
-      "inactive": true
-    },
-    {
       "text": "You don't have to see the whole staircase, just take the first step.",
       "author": "Martin Luther King Jr.",
       "date": "2026-01-03",
@@ -1046,12 +1023,6 @@
     },
     {
       "text": "We can press forward with steadfastness in Christ.",
-      "author": "David A. Bednar",
-      "date": "2026-01-01",
-      "inactive": true
-    },
-    {
-      "text": "The enabling power of the Atonement strengthens us.",
       "author": "David A. Bednar",
       "date": "2026-01-01",
       "inactive": true
@@ -1935,10 +1906,45 @@
       "date": "2026-02-16",
       "inactive": true,
       "deactivatedDate": "2026-02-23"
+    },
+    {
+      "text": "We may encounter many defeats but we must not be defeated.",
+      "author": "Maya Angelou",
+      "date": "2026-02-17",
+      "inactive": true,
+      "deactivatedDate": "2026-02-24"
+    },
+    {
+      "text": "Freedom is never given; it is won.",
+      "author": "A. Philip Randolph",
+      "date": "2026-02-17",
+      "inactive": true,
+      "deactivatedDate": "2026-02-24"
+    },
+    {
+      "text": "It is not our abilities that show what we truly are. It is our choices.",
+      "author": "J.K. Rowling",
+      "date": "2026-02-17",
+      "inactive": true,
+      "deactivatedDate": "2026-02-24"
+    },
+    {
+      "text": "You don't have to be great to start, but you have to start to be great.",
+      "author": "Zig Ziglar",
+      "date": "2026-02-17",
+      "inactive": true,
+      "deactivatedDate": "2026-02-24"
+    },
+    {
+      "text": "If they merit redemption through Teshuva and Mitzvos, I will hasten the coming of the Moshiach.",
+      "author": "Sanhedrin",
+      "date": "2026-02-16",
+      "inactive": true,
+      "deactivatedDate": "2026-02-24"
     }
   ],
-  "lastRotation": "2026-02-23",
-  "totalQuotes": 312,
-  "activeQuotes": 35,
+  "lastRotation": "2026-02-24",
+  "totalQuotes": 313,
+  "activeQuotes": 36,
   "inactiveQuotes": 277
 }
