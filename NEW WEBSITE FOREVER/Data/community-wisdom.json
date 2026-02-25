@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "To love at all is to be vulnerable.",
+      "author": "C.S. Lewis",
+      "date": "2026-02-25",
+      "inactive": false
+    },
+    {
+      "text": "Isn't it funny how day by day nothing changes, but when you look back, everything is different.",
+      "author": "C.S. Lewis",
+      "date": "2026-02-25",
+      "inactive": false
+    },
+    {
+      "text": "Friendship is born at that moment when one person says to another: What! You too? I thought I was the only one.",
+      "author": "C.S. Lewis",
+      "date": "2026-02-25",
+      "inactive": false
+    },
+    {
+      "text": "Faith is taking the first step even when you don't see the whole staircase.",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-02-25",
+      "inactive": false
+    },
+    {
+      "text": "A hero is someone who has given his or her life to something bigger than oneself.",
+      "author": "Joseph Campbell",
+      "date": "2026-02-25",
+      "inactive": false
+    },
+    {
       "text": "The enabling power of the Atonement strengthens us.",
       "author": "David A. Bednar",
       "date": "2026-02-24",
@@ -180,35 +210,6 @@
       "text": "Nothing can dim the light which shines from within.",
       "author": "Maya Angelou",
       "date": "2026-02-19",
-      "inactive": false
-    },
-    {
-      "text": "Do what you can, with what you have, where you are.",
-      "author": "Theodore Roosevelt",
-      "date": "2026-02-19",
-      "inactive": false
-    },
-    {
-      "text": "Remember that sometimes not getting what you want is a wonderful stroke of luck.",
-      "author": "Dalai Lama",
-      "date": "2026-02-19",
-      "inactive": false
-    },
-    {
-      "text": "Not all of us can do great things. But we can do small things with great love.",
-      "author": "Mother Teresa",
-      "date": "2026-02-19",
-      "inactive": false
-    },
-    {
-      "text": "The power of love and kindness can overcome any challenge or hardship.\nThe Lubavitcher Rebbe",
-      "author": "The Lubavitcher Rebbe",
-      "date": "2026-02-20"
-    },
-    {
-      "text": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
-      "author": "Albert Einstein",
-      "date": "2026-02-17",
       "inactive": false
     },
     {
@@ -500,12 +501,6 @@
       "inactive": true
     },
     {
-      "text": "Friendship is born at that moment when one person says to another: What! You too? I thought I was the only one.",
-      "author": "C.S. Lewis",
-      "date": "2026-01-23",
-      "inactive": true
-    },
-    {
       "text": "Humility is not thinking less of yourself, it's thinking of yourself less.",
       "author": "C.S. Lewis",
       "date": "2026-01-23",
@@ -519,12 +514,6 @@
     },
     {
       "text": "We read to know we are not alone.",
-      "author": "C.S. Lewis",
-      "date": "2026-01-22",
-      "inactive": true
-    },
-    {
-      "text": "Isn't it funny how day by day nothing changes, but when you look back, everything is different.",
       "author": "C.S. Lewis",
       "date": "2026-01-22",
       "inactive": true
@@ -782,12 +771,6 @@
       "inactive": true
     },
     {
-      "text": "A hero is someone who has given his or her life to something bigger than oneself.",
-      "author": "Joseph Campbell",
-      "date": "2026-01-12",
-      "inactive": true
-    },
-    {
       "text": "Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.",
       "author": "Carl Jung",
       "date": "2026-01-11",
@@ -969,12 +952,6 @@
     },
     {
       "text": "You don't have to see the whole staircase, just take the first step.",
-      "author": "Martin Luther King Jr.",
-      "date": "2026-01-03",
-      "inactive": true
-    },
-    {
-      "text": "Faith is taking the first step even when you don't see the whole staircase.",
       "author": "Martin Luther King Jr.",
       "date": "2026-01-03",
       "inactive": true
@@ -1705,13 +1682,6 @@
       "deactivatedDate": "2026-02-16"
     },
     {
-      "text": "To love at all is to be vulnerable.",
-      "author": "C.S. Lewis",
-      "date": "2026-02-12",
-      "inactive": true,
-      "deactivatedDate": "2026-02-17"
-    },
-    {
       "text": "I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live by the light that I have.",
       "author": "Abraham Lincoln",
       "date": "2026-02-12",
@@ -1941,9 +1911,44 @@
       "date": "2026-02-16",
       "inactive": true,
       "deactivatedDate": "2026-02-24"
+    },
+    {
+      "text": "Do what you can, with what you have, where you are.",
+      "author": "Theodore Roosevelt",
+      "date": "2026-02-19",
+      "inactive": true,
+      "deactivatedDate": "2026-02-25"
+    },
+    {
+      "text": "Remember that sometimes not getting what you want is a wonderful stroke of luck.",
+      "author": "Dalai Lama",
+      "date": "2026-02-19",
+      "inactive": true,
+      "deactivatedDate": "2026-02-25"
+    },
+    {
+      "text": "Not all of us can do great things. But we can do small things with great love.",
+      "author": "Mother Teresa",
+      "date": "2026-02-19",
+      "inactive": true,
+      "deactivatedDate": "2026-02-25"
+    },
+    {
+      "text": "The power of love and kindness can overcome any challenge or hardship.\nThe Lubavitcher Rebbe",
+      "author": "The Lubavitcher Rebbe",
+      "date": "2026-02-20",
+      "inactive": true,
+      "deactivatedDate": "2026-02-25"
+    },
+    {
+      "text": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+      "author": "Albert Einstein",
+      "date": "2026-02-17",
+      "inactive": true,
+      "deactivatedDate": "2026-02-25"
     }
   ],
-  "lastRotation": "2026-02-24",
+  "lastRotation": "2026-02-25",
   "totalQuotes": 313,
   "activeQuotes": 36,
   "inactiveQuotes": 277
