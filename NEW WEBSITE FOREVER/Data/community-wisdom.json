@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Unless someone like you cares a whole awful lot, nothing is going to get better. It's not.",
+      "author": "Dr. Seuss",
+      "date": "2026-02-26",
+      "inactive": false
+    },
+    {
+      "text": "Some day you will be old enough to start reading fairy tales again.",
+      "author": "C.S. Lewis",
+      "date": "2026-02-26",
+      "inactive": false
+    },
+    {
+      "text": "Faith is to believe what you do not see; the reward of this faith is to see what you believe.",
+      "author": "St. Augustine",
+      "date": "2026-02-26",
+      "inactive": false
+    },
+    {
+      "text": "To pay attention, this is our endless and proper work.",
+      "author": "Mary Oliver",
+      "date": "2026-02-26",
+      "inactive": false
+    },
+    {
+      "text": "We cannot do great things on this earth, only small things with great love.",
+      "author": "Mother Teresa",
+      "date": "2026-02-26",
+      "inactive": false
+    },
+    {
       "text": "To love at all is to be vulnerable.",
       "author": "C.S. Lewis",
       "date": "2026-02-25",
@@ -181,35 +211,6 @@
       "text": "Integrity is doing the right thing even when no one is watching.",
       "author": "C.S. Lewis",
       "date": "2026-02-20",
-      "inactive": false
-    },
-    {
-      "text": "The cave you fear to enter holds the treasure you seek.",
-      "author": "Joseph Campbell",
-      "date": "2026-02-20",
-      "inactive": false
-    },
-    {
-      "text": "Your work is to discover your work and then with all your heart to give yourself to it.",
-      "author": "Buddha",
-      "date": "2026-02-20",
-      "inactive": false
-    },
-    {
-      "text": "No matter what anyone says or does, my task is to be good.",
-      "author": "Marcus Aurelius",
-      "date": "2026-02-20"
-    },
-    {
-      "text": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you.",
-      "author": "Jesus Christ",
-      "date": "2026-02-19",
-      "inactive": false
-    },
-    {
-      "text": "Nothing can dim the light which shines from within.",
-      "author": "Maya Angelou",
-      "date": "2026-02-19",
       "inactive": false
     },
     {
@@ -507,12 +508,6 @@
       "inactive": true
     },
     {
-      "text": "Some day you will be old enough to start reading fairy tales again.",
-      "author": "C.S. Lewis",
-      "date": "2026-01-23",
-      "inactive": true
-    },
-    {
       "text": "We read to know we are not alone.",
       "author": "C.S. Lewis",
       "date": "2026-01-22",
@@ -531,20 +526,8 @@
       "inactive": true
     },
     {
-      "text": "Faith is to believe what you do not see; the reward of this faith is to see what you believe.",
-      "author": "St. Augustine",
-      "date": "2026-01-21",
-      "inactive": true
-    },
-    {
       "text": "Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world.",
       "author": "Desmond Tutu",
-      "date": "2026-01-21",
-      "inactive": true
-    },
-    {
-      "text": "We cannot do great things on this earth, only small things with great love.",
-      "author": "Mother Teresa",
       "date": "2026-01-21",
       "inactive": true
     },
@@ -838,12 +821,6 @@
     },
     {
       "text": "When it's over, I want to say: all my life I was a bride married to amazement.",
-      "author": "Mary Oliver",
-      "date": "2026-01-09",
-      "inactive": true
-    },
-    {
-      "text": "To pay attention, this is our endless and proper work.",
       "author": "Mary Oliver",
       "date": "2026-01-09",
       "inactive": true
@@ -1598,13 +1575,6 @@
       "deactivatedDate": "2026-02-14"
     },
     {
-      "text": "Unless someone like you cares a whole awful lot, nothing is going to get better. It's not.",
-      "author": "Dr. Seuss",
-      "date": "2026-02-12",
-      "inactive": true,
-      "deactivatedDate": "2026-02-14"
-    },
-    {
       "text": "The secret of staying young is to live honestly, eat slowly, and lie about your age.",
       "author": "Lucille Ball",
       "date": "2026-02-12",
@@ -1946,9 +1916,44 @@
       "date": "2026-02-17",
       "inactive": true,
       "deactivatedDate": "2026-02-25"
+    },
+    {
+      "text": "The cave you fear to enter holds the treasure you seek.",
+      "author": "Joseph Campbell",
+      "date": "2026-02-20",
+      "inactive": true,
+      "deactivatedDate": "2026-02-26"
+    },
+    {
+      "text": "Your work is to discover your work and then with all your heart to give yourself to it.",
+      "author": "Buddha",
+      "date": "2026-02-20",
+      "inactive": true,
+      "deactivatedDate": "2026-02-26"
+    },
+    {
+      "text": "No matter what anyone says or does, my task is to be good.",
+      "author": "Marcus Aurelius",
+      "date": "2026-02-20",
+      "inactive": true,
+      "deactivatedDate": "2026-02-26"
+    },
+    {
+      "text": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you.",
+      "author": "Jesus Christ",
+      "date": "2026-02-19",
+      "inactive": true,
+      "deactivatedDate": "2026-02-26"
+    },
+    {
+      "text": "Nothing can dim the light which shines from within.",
+      "author": "Maya Angelou",
+      "date": "2026-02-19",
+      "inactive": true,
+      "deactivatedDate": "2026-02-26"
     }
   ],
-  "lastRotation": "2026-02-25",
+  "lastRotation": "2026-02-26",
   "totalQuotes": 313,
   "activeQuotes": 36,
   "inactiveQuotes": 277
