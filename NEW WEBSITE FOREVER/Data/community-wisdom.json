@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Choose faith over fear, and doubt not.",
+      "author": "David A. Bednar",
+      "date": "2026-02-27",
+      "inactive": false
+    },
+    {
+      "text": "Today you are you, that is truer than true. There is no one alive who is youer than you.",
+      "author": "Dr. Seuss",
+      "date": "2026-02-27",
+      "inactive": false
+    },
+    {
+      "text": "Fantasy is hardly an escape from reality. It's a way of understanding it.",
+      "author": "Lloyd Alexander",
+      "date": "2026-02-27",
+      "inactive": false
+    },
+    {
+      "text": "Sometimes we're tested not to show our weaknesses, but to discover our strengths.",
+      "author": "Rafiki, The Lion King",
+      "date": "2026-02-27",
+      "inactive": false
+    },
+    {
+      "text": "They that wait upon the Lord shall renew their strength; they shall mount up with wings as eagles.",
+      "author": "Isaiah",
+      "date": "2026-02-27",
+      "inactive": false
+    },
+    {
       "text": "Unless someone like you cares a whole awful lot, nothing is going to get better. It's not.",
       "author": "Dr. Seuss",
       "date": "2026-02-26",
@@ -185,35 +215,6 @@
       "inactive": false
     },
     {
-      "text": "You have power over your mind - not outside events. Realize this, and you will find strength.",
-      "author": "Marcus Aurelius",
-      "date": "2026-02-21",
-      "inactive": false
-    },
-    {
-      "text": "Humanity must seek what is NOT simple and obvious using the simple and obvious.",
-      "author": "Musonius Rufus",
-      "date": "2026-02-20"
-    },
-    {
-      "text": "Energy and persistence conquer all things.",
-      "author": "Benjamin Franklin",
-      "date": "2026-02-20",
-      "inactive": false
-    },
-    {
-      "text": "Life's most persistent and urgent question is, 'What are you doing for others?'",
-      "author": "Martin Luther King Jr.",
-      "date": "2026-02-20",
-      "inactive": false
-    },
-    {
-      "text": "Integrity is doing the right thing even when no one is watching.",
-      "author": "C.S. Lewis",
-      "date": "2026-02-20",
-      "inactive": false
-    },
-    {
       "text": "Wise men speak because they have something to say; fools because they have to say something.",
       "author": "Plato",
       "date": "2026-02-06",
@@ -246,12 +247,6 @@
     {
       "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
       "author": "Ralph Waldo Emerson",
-      "date": "2026-02-05",
-      "inactive": true
-    },
-    {
-      "text": "Today you are you, that is truer than true. There is no one alive who is youer than you.",
-      "author": "Dr. Seuss",
       "date": "2026-02-05",
       "inactive": true
     },
@@ -370,12 +365,6 @@
       "inactive": true
     },
     {
-      "text": "They that wait upon the Lord shall renew their strength; they shall mount up with wings as eagles.",
-      "author": "Isaiah",
-      "date": "2026-01-30",
-      "inactive": true
-    },
-    {
       "text": "Decisions determine destiny.",
       "author": "Thomas S. Monson",
       "date": "2026-01-30",
@@ -472,12 +461,6 @@
       "inactive": true
     },
     {
-      "text": "Fantasy is hardly an escape from reality. It's a way of understanding it.",
-      "author": "Lloyd Alexander",
-      "date": "2026-01-25",
-      "inactive": true
-    },
-    {
       "text": "You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes.",
       "author": "A.A. Milne",
       "date": "2026-01-24",
@@ -486,12 +469,6 @@
     {
       "text": "Even miracles take a little time.",
       "author": "Fairy Godmother, Cinderella",
-      "date": "2026-01-24",
-      "inactive": true
-    },
-    {
-      "text": "Sometimes we're tested not to show our weaknesses, but to discover our strengths.",
-      "author": "Rafiki, The Lion King",
       "date": "2026-01-24",
       "inactive": true
     },
@@ -1820,13 +1797,6 @@
       "deactivatedDate": "2026-02-23"
     },
     {
-      "text": "Choose faith over fear, and doubt not.",
-      "author": "David A. Bednar",
-      "date": "2026-02-16",
-      "inactive": true,
-      "deactivatedDate": "2026-02-23"
-    },
-    {
       "text": "Hold on. Hope on.",
       "author": "Jeffrey R. Holland",
       "date": "2026-02-16",
@@ -1951,9 +1921,44 @@
       "date": "2026-02-19",
       "inactive": true,
       "deactivatedDate": "2026-02-26"
+    },
+    {
+      "text": "You have power over your mind - not outside events. Realize this, and you will find strength.",
+      "author": "Marcus Aurelius",
+      "date": "2026-02-21",
+      "inactive": true,
+      "deactivatedDate": "2026-02-27"
+    },
+    {
+      "text": "Humanity must seek what is NOT simple and obvious using the simple and obvious.",
+      "author": "Musonius Rufus",
+      "date": "2026-02-20",
+      "inactive": true,
+      "deactivatedDate": "2026-02-27"
+    },
+    {
+      "text": "Energy and persistence conquer all things.",
+      "author": "Benjamin Franklin",
+      "date": "2026-02-20",
+      "inactive": true,
+      "deactivatedDate": "2026-02-27"
+    },
+    {
+      "text": "Life's most persistent and urgent question is, 'What are you doing for others?'",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-02-20",
+      "inactive": true,
+      "deactivatedDate": "2026-02-27"
+    },
+    {
+      "text": "Integrity is doing the right thing even when no one is watching.",
+      "author": "C.S. Lewis",
+      "date": "2026-02-20",
+      "inactive": true,
+      "deactivatedDate": "2026-02-27"
     }
   ],
-  "lastRotation": "2026-02-26",
+  "lastRotation": "2026-02-27",
   "totalQuotes": 313,
   "activeQuotes": 36,
   "inactiveQuotes": 277
