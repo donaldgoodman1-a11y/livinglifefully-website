@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "The only impossible journey is the one you never begin.",
+      "author": "Tony Robbins",
+      "date": "2026-02-28",
+      "inactive": false
+    },
+    {
+      "text": "I alone cannot change the world, but I can cast a stone across the waters to create many ripples.",
+      "author": "Mother Teresa",
+      "date": "2026-02-28",
+      "inactive": false
+    },
+    {
+      "text": "If you're going through hell, keep going.",
+      "author": "Winston Churchill",
+      "date": "2026-02-28",
+      "inactive": false
+    },
+    {
+      "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-02-28",
+      "inactive": false
+    },
+    {
+      "text": "The best way to predict your future is to create it.",
+      "author": "Abraham Lincoln",
+      "date": "2026-02-28",
+      "inactive": false
+    },
+    {
       "text": "Choose faith over fear, and doubt not.",
       "author": "David A. Bednar",
       "date": "2026-02-27",
@@ -186,35 +216,6 @@
       "inactive": false
     },
     {
-      "text": "No man is crushed by misfortune unless he has first been deceived by prosperity.\n-Seneca",
-      "author": "Seneca",
-      "date": "2026-02-22"
-    },
-    {
-      "text": "And we know that all things work together for good to them that love God.",
-      "author": "Paul the Apostle",
-      "date": "2026-02-21",
-      "inactive": false
-    },
-    {
-      "text": "Desire is the father of action.",
-      "author": "Dallin H. Oaks",
-      "date": "2026-02-21",
-      "inactive": false
-    },
-    {
-      "text": "Try to be a rainbow in someone's cloud.",
-      "author": "Maya Angelou",
-      "date": "2026-02-21",
-      "inactive": false
-    },
-    {
-      "text": "A pleasure is not full grown until it is remembered.",
-      "author": "C.S. Lewis",
-      "date": "2026-02-21",
-      "inactive": false
-    },
-    {
       "text": "Wise men speak because they have something to say; fools because they have to say something.",
       "author": "Plato",
       "date": "2026-02-06",
@@ -265,12 +266,6 @@
     {
       "text": "Peace begins with a smile.",
       "author": "Mother Teresa",
-      "date": "2026-02-04",
-      "inactive": true
-    },
-    {
-      "text": "If you're going through hell, keep going.",
-      "author": "Winston Churchill",
       "date": "2026-02-04",
       "inactive": true
     },
@@ -395,12 +390,6 @@
       "inactive": true
     },
     {
-      "text": "The best way to predict your future is to create it.",
-      "author": "Abraham Lincoln",
-      "date": "2026-01-29",
-      "inactive": true
-    },
-    {
       "text": "There are far, far better things ahead than any we leave behind.",
       "author": "C.S. Lewis",
       "date": "2026-01-29",
@@ -517,12 +506,6 @@
     {
       "text": "It is during our darkest moments that we must focus to see the light.",
       "author": "Aristotle",
-      "date": "2026-01-20",
-      "inactive": true
-    },
-    {
-      "text": "The only impossible journey is the one you never begin.",
-      "author": "Tony Robbins",
       "date": "2026-01-20",
       "inactive": true
     },
@@ -972,12 +955,6 @@
     },
     {
       "text": "Kind words can be short and easy to speak, but their echoes are truly endless.",
-      "author": "Mother Teresa",
-      "date": "2025-12-31",
-      "inactive": true
-    },
-    {
-      "text": "I alone cannot change the world, but I can cast a stone across the waters to create many ripples.",
       "author": "Mother Teresa",
       "date": "2025-12-31",
       "inactive": true
@@ -1489,13 +1466,6 @@
       "deactivatedDate": "2026-02-12"
     },
     {
-      "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-02-11",
-      "inactive": true,
-      "deactivatedDate": "2026-02-12"
-    },
-    {
       "text": "The best antidote I know for worry is work.",
       "author": "Gordon B. Hinckley",
       "date": "2026-02-11",
@@ -1956,9 +1926,44 @@
       "date": "2026-02-20",
       "inactive": true,
       "deactivatedDate": "2026-02-27"
+    },
+    {
+      "text": "No man is crushed by misfortune unless he has first been deceived by prosperity.\n-Seneca",
+      "author": "Seneca",
+      "date": "2026-02-22",
+      "inactive": true,
+      "deactivatedDate": "2026-02-28"
+    },
+    {
+      "text": "And we know that all things work together for good to them that love God.",
+      "author": "Paul the Apostle",
+      "date": "2026-02-21",
+      "inactive": true,
+      "deactivatedDate": "2026-02-28"
+    },
+    {
+      "text": "Desire is the father of action.",
+      "author": "Dallin H. Oaks",
+      "date": "2026-02-21",
+      "inactive": true,
+      "deactivatedDate": "2026-02-28"
+    },
+    {
+      "text": "Try to be a rainbow in someone's cloud.",
+      "author": "Maya Angelou",
+      "date": "2026-02-21",
+      "inactive": true,
+      "deactivatedDate": "2026-02-28"
+    },
+    {
+      "text": "A pleasure is not full grown until it is remembered.",
+      "author": "C.S. Lewis",
+      "date": "2026-02-21",
+      "inactive": true,
+      "deactivatedDate": "2026-02-28"
     }
   ],
-  "lastRotation": "2026-02-27",
+  "lastRotation": "2026-02-28",
   "totalQuotes": 313,
   "activeQuotes": 36,
   "inactiveQuotes": 277
