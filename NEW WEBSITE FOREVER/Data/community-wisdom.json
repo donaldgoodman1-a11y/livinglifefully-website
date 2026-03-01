@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "With the new day comes new strength and new thoughts.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-03-01",
+      "inactive": false
+    },
+    {
+      "text": "The Lord is my shepherd; I shall not want.",
+      "author": "King David",
+      "date": "2026-03-01",
+      "inactive": false
+    },
+    {
+      "text": "Everything can be taken from a man but one thing: the last of the human freedoms—to choose one's attitude in any given set of circumstances.",
+      "author": "Viktor Frankl",
+      "date": "2026-03-01",
+      "inactive": false
+    },
+    {
+      "text": "Live in the sunshine, swim the sea, drink the wild air.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-03-01",
+      "inactive": false
+    },
+    {
+      "text": "Write it on your heart that every day is the best day in the year.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-03-01",
+      "inactive": false
+    },
+    {
       "text": "The only impossible journey is the one you never begin.",
       "author": "Tony Robbins",
       "date": "2026-02-28",
@@ -183,36 +213,6 @@
       "text": "I am seeking, I am striving, I am in it with all my heart.",
       "author": "Vincent Van Gogh",
       "date": "2026-02-23",
-      "inactive": false
-    },
-    {
-      "text": "The difference between winning and losing is most often not quitting.",
-      "author": "Walt Disney",
-      "date": "2026-02-22",
-      "inactive": false
-    },
-    {
-      "text": "If you are a dreamer, come in.",
-      "author": "Shel Silverstein",
-      "date": "2026-02-22",
-      "inactive": false
-    },
-    {
-      "text": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.",
-      "author": "J.K. Rowling",
-      "date": "2026-02-22",
-      "inactive": false
-    },
-    {
-      "text": "The way to get started is to quit talking and begin doing.",
-      "author": "Walt Disney",
-      "date": "2026-02-22",
-      "inactive": false
-    },
-    {
-      "text": "An investment in knowledge pays the best interest.",
-      "author": "Benjamin Franklin",
-      "date": "2026-02-22",
       "inactive": false
     },
     {
@@ -564,19 +564,7 @@
       "inactive": true
     },
     {
-      "text": "Write it on your heart that every day is the best day in the year.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-01-18",
-      "inactive": true
-    },
-    {
       "text": "The only person you are destined to become is the person you decide to be.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-01-17",
-      "inactive": true
-    },
-    {
-      "text": "Live in the sunshine, swim the sea, drink the wild air.",
       "author": "Ralph Waldo Emerson",
       "date": "2026-01-17",
       "inactive": true
@@ -654,12 +642,6 @@
       "inactive": true
     },
     {
-      "text": "Everything can be taken from a man but one thing: the last of the human freedoms—to choose one's attitude in any given set of circumstances.",
-      "author": "Viktor Frankl",
-      "date": "2026-01-14",
-      "inactive": true
-    },
-    {
       "text": "The most glorious moments in your life are not the so-called days of success, but rather those days when out of dejection and despair you feel rise in you a challenge to life.",
       "author": "Gustave Flaubert",
       "date": "2026-01-14",
@@ -673,12 +655,6 @@
     },
     {
       "text": "You must do the things you think you cannot do.",
-      "author": "Eleanor Roosevelt",
-      "date": "2026-01-13",
-      "inactive": true
-    },
-    {
-      "text": "With the new day comes new strength and new thoughts.",
       "author": "Eleanor Roosevelt",
       "date": "2026-01-13",
       "inactive": true
@@ -1403,13 +1379,6 @@
       "deactivatedDate": "2026-02-12"
     },
     {
-      "text": "The Lord is my shepherd; I shall not want.",
-      "author": "King David",
-      "date": "2026-02-09",
-      "inactive": true,
-      "deactivatedDate": "2026-02-12"
-    },
-    {
       "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
       "author": "Winston Churchill",
       "date": "2026-02-08",
@@ -1961,9 +1930,44 @@
       "date": "2026-02-21",
       "inactive": true,
       "deactivatedDate": "2026-02-28"
+    },
+    {
+      "text": "The difference between winning and losing is most often not quitting.",
+      "author": "Walt Disney",
+      "date": "2026-02-22",
+      "inactive": true,
+      "deactivatedDate": "2026-03-01"
+    },
+    {
+      "text": "If you are a dreamer, come in.",
+      "author": "Shel Silverstein",
+      "date": "2026-02-22",
+      "inactive": true,
+      "deactivatedDate": "2026-03-01"
+    },
+    {
+      "text": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.",
+      "author": "J.K. Rowling",
+      "date": "2026-02-22",
+      "inactive": true,
+      "deactivatedDate": "2026-03-01"
+    },
+    {
+      "text": "The way to get started is to quit talking and begin doing.",
+      "author": "Walt Disney",
+      "date": "2026-02-22",
+      "inactive": true,
+      "deactivatedDate": "2026-03-01"
+    },
+    {
+      "text": "An investment in knowledge pays the best interest.",
+      "author": "Benjamin Franklin",
+      "date": "2026-02-22",
+      "inactive": true,
+      "deactivatedDate": "2026-03-01"
     }
   ],
-  "lastRotation": "2026-02-28",
+  "lastRotation": "2026-03-01",
   "totalQuotes": 313,
   "activeQuotes": 36,
   "inactiveQuotes": 277
