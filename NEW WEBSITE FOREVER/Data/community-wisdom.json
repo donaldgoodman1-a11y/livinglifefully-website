@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Wise men speak because they have something to say; fools because they have to say something.",
+      "author": "Plato",
+      "date": "2026-03-02",
+      "inactive": false
+    },
+    {
+      "text": "Those who have a 'why' to live, can bear with almost any 'how'.",
+      "author": "Viktor Frankl",
+      "date": "2026-03-02",
+      "inactive": false
+    },
+    {
+      "text": "We do not need magic to transform our world. We carry all the power we need inside ourselves already.",
+      "author": "J.K. Rowling",
+      "date": "2026-03-02",
+      "inactive": false
+    },
+    {
+      "text": "Rock bottom became the solid foundation on which I rebuilt my life.",
+      "author": "J.K. Rowling",
+      "date": "2026-03-02",
+      "inactive": false
+    },
+    {
+      "text": "How many slams in an old screen door? Depends how loud you shut it.",
+      "author": "Shel Silverstein",
+      "date": "2026-03-02",
+      "inactive": false
+    },
+    {
       "text": "If you accomplish something good with hard work, the labor passes quickly, but the good endures; if you do something shameful in pursuit of pleasure, the pleasure passes quickly, but the shame endures.",
       "author": "Musonius Rufus",
       "date": "2026-03-01"
@@ -189,42 +219,6 @@
       "text": "To bear trials with a calm mind robs misfortune of its strength and burden.",
       "author": "Seneca",
       "date": "2026-02-24"
-    },
-    {
-      "text": "We choose to be in control or choose to surrender.",
-      "author": "Ryan Holiday",
-      "date": "2026-02-23",
-      "inactive": false
-    },
-    {
-      "text": "There is some good in this world, and it's worth fighting for.",
-      "author": "J.R.R. Tolkien",
-      "date": "2026-02-23",
-      "inactive": false
-    },
-    {
-      "text": "It does not do to dwell on dreams and forget to live.",
-      "author": "J.K. Rowling",
-      "date": "2026-02-23",
-      "inactive": false
-    },
-    {
-      "text": "The impediment to action advances action. What stands in the way becomes the way.",
-      "author": "Marcus Aurelius",
-      "date": "2026-02-23",
-      "inactive": false
-    },
-    {
-      "text": "I am seeking, I am striving, I am in it with all my heart.",
-      "author": "Vincent Van Gogh",
-      "date": "2026-02-23",
-      "inactive": false
-    },
-    {
-      "text": "Wise men speak because they have something to say; fools because they have to say something.",
-      "author": "Plato",
-      "date": "2026-02-06",
-      "inactive": true
     },
     {
       "text": "In the end, it's not the years in your life that count. It's the life in your years.",
@@ -1085,18 +1079,6 @@
       "inactive": true
     },
     {
-      "text": "We do not need magic to transform our world. We carry all the power we need inside ourselves already.",
-      "author": "J.K. Rowling",
-      "date": "2025-12-24",
-      "inactive": true
-    },
-    {
-      "text": "Rock bottom became the solid foundation on which I rebuilt my life.",
-      "author": "J.K. Rowling",
-      "date": "2025-12-24",
-      "inactive": true
-    },
-    {
       "text": "And above all, watch with glittering eyes the whole world around you because the greatest secrets are always hidden in the most unlikely places.",
       "author": "Roald Dahl",
       "date": "2025-12-23",
@@ -1134,12 +1116,6 @@
     },
     {
       "text": "There is a place where the sidewalk ends and before the street begins.",
-      "author": "Shel Silverstein",
-      "date": "2025-12-22",
-      "inactive": true
-    },
-    {
-      "text": "How many slams in an old screen door? Depends how loud you shut it.",
       "author": "Shel Silverstein",
       "date": "2025-12-22",
       "inactive": true
@@ -1615,13 +1591,6 @@
       "deactivatedDate": "2026-02-19"
     },
     {
-      "text": "Those who have a 'why' to live, can bear with almost any 'how'.",
-      "author": "Viktor Frankl",
-      "date": "2026-02-12",
-      "inactive": true,
-      "deactivatedDate": "2026-02-19"
-    },
-    {
       "text": "You are never too old to set another goal or to dream a new dream.",
       "author": "C.S. Lewis",
       "date": "2026-02-12",
@@ -1970,10 +1939,45 @@
       "date": "2026-02-22",
       "inactive": true,
       "deactivatedDate": "2026-03-01"
+    },
+    {
+      "text": "We choose to be in control or choose to surrender.",
+      "author": "Ryan Holiday",
+      "date": "2026-02-23",
+      "inactive": true,
+      "deactivatedDate": "2026-03-02"
+    },
+    {
+      "text": "There is some good in this world, and it's worth fighting for.",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-02-23",
+      "inactive": true,
+      "deactivatedDate": "2026-03-02"
+    },
+    {
+      "text": "It does not do to dwell on dreams and forget to live.",
+      "author": "J.K. Rowling",
+      "date": "2026-02-23",
+      "inactive": true,
+      "deactivatedDate": "2026-03-02"
+    },
+    {
+      "text": "The impediment to action advances action. What stands in the way becomes the way.",
+      "author": "Marcus Aurelius",
+      "date": "2026-02-23",
+      "inactive": true,
+      "deactivatedDate": "2026-03-02"
+    },
+    {
+      "text": "I am seeking, I am striving, I am in it with all my heart.",
+      "author": "Vincent Van Gogh",
+      "date": "2026-02-23",
+      "inactive": true,
+      "deactivatedDate": "2026-03-02"
     }
   ],
-  "lastRotation": "2026-03-01",
-  "totalQuotes": 313,
-  "activeQuotes": 36,
+  "lastRotation": "2026-03-02",
+  "totalQuotes": 314,
+  "activeQuotes": 37,
   "inactiveQuotes": 277
 }
