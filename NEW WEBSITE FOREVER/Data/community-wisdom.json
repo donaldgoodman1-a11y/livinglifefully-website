@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Courage starts with showing up and letting ourselves be seen.",
+      "author": "Brené Brown",
+      "date": "2026-03-03",
+      "inactive": false
+    },
+    {
+      "text": "The impediment to action advances action. What stands in the way becomes the way.",
+      "author": "Marcus Aurelius",
+      "date": "2026-03-03",
+      "inactive": false
+    },
+    {
+      "text": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
+      "author": "Marcus Aurelius",
+      "date": "2026-03-03",
+      "inactive": false
+    },
+    {
+      "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-03-03",
+      "inactive": false
+    },
+    {
+      "text": "You'll miss the best things if you keep your eyes shut.",
+      "author": "Dr. Seuss",
+      "date": "2026-03-03",
+      "inactive": false
+    },
+    {
       "text": "Wise men speak because they have something to say; fools because they have to say something.",
       "author": "Plato",
       "date": "2026-03-02",
@@ -192,35 +222,6 @@
       "inactive": false
     },
     {
-      "text": "When we keep the commandments, the blessings come.",
-      "author": "Henry B. Eyring",
-      "date": "2026-02-24",
-      "inactive": false
-    },
-    {
-      "text": "The wound is the place where the Light enters you.",
-      "author": "Rumi",
-      "date": "2026-02-24",
-      "inactive": false
-    },
-    {
-      "text": "We suffer more often in imagination than in reality.",
-      "author": "Seneca",
-      "date": "2026-02-24",
-      "inactive": false
-    },
-    {
-      "text": "The meeting of two personalities is like the contact of two chemical substances: if there is any reaction, both are transformed.",
-      "author": "Carl Jung",
-      "date": "2026-02-24",
-      "inactive": false
-    },
-    {
-      "text": "To bear trials with a calm mind robs misfortune of its strength and burden.",
-      "author": "Seneca",
-      "date": "2026-02-24"
-    },
-    {
       "text": "In the end, it's not the years in your life that count. It's the life in your years.",
       "author": "Abraham Lincoln",
       "date": "2026-02-06",
@@ -241,12 +242,6 @@
     {
       "text": "Weeping may endure for a night, but joy cometh in the morning.",
       "author": "King David",
-      "date": "2026-02-05",
-      "inactive": true
-    },
-    {
-      "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
-      "author": "Ralph Waldo Emerson",
       "date": "2026-02-05",
       "inactive": true
     },
@@ -432,12 +427,6 @@
     },
     {
       "text": "Sometimes the questions are complicated and the answers are simple.",
-      "author": "Dr. Seuss",
-      "date": "2026-01-25",
-      "inactive": true
-    },
-    {
-      "text": "You'll miss the best things if you keep your eyes shut.",
       "author": "Dr. Seuss",
       "date": "2026-01-25",
       "inactive": true
@@ -941,12 +930,6 @@
       "inactive": true
     },
     {
-      "text": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
-      "author": "Marcus Aurelius",
-      "date": "2025-12-30",
-      "inactive": true
-    },
-    {
       "text": "Dwell on the beauty of life. Watch the stars, and see yourself running with them.",
       "author": "Marcus Aurelius",
       "date": "2025-12-30",
@@ -1008,12 +991,6 @@
     },
     {
       "text": "There is no innovation and creativity without failure. Period.",
-      "author": "Brené Brown",
-      "date": "2025-12-27",
-      "inactive": true
-    },
-    {
-      "text": "Courage starts with showing up and letting ourselves be seen.",
       "author": "Brené Brown",
       "date": "2025-12-27",
       "inactive": true
@@ -1962,21 +1939,49 @@
       "deactivatedDate": "2026-03-02"
     },
     {
-      "text": "The impediment to action advances action. What stands in the way becomes the way.",
-      "author": "Marcus Aurelius",
-      "date": "2026-02-23",
-      "inactive": true,
-      "deactivatedDate": "2026-03-02"
-    },
-    {
       "text": "I am seeking, I am striving, I am in it with all my heart.",
       "author": "Vincent Van Gogh",
       "date": "2026-02-23",
       "inactive": true,
       "deactivatedDate": "2026-03-02"
+    },
+    {
+      "text": "When we keep the commandments, the blessings come.",
+      "author": "Henry B. Eyring",
+      "date": "2026-02-24",
+      "inactive": true,
+      "deactivatedDate": "2026-03-03"
+    },
+    {
+      "text": "The wound is the place where the Light enters you.",
+      "author": "Rumi",
+      "date": "2026-02-24",
+      "inactive": true,
+      "deactivatedDate": "2026-03-03"
+    },
+    {
+      "text": "We suffer more often in imagination than in reality.",
+      "author": "Seneca",
+      "date": "2026-02-24",
+      "inactive": true,
+      "deactivatedDate": "2026-03-03"
+    },
+    {
+      "text": "The meeting of two personalities is like the contact of two chemical substances: if there is any reaction, both are transformed.",
+      "author": "Carl Jung",
+      "date": "2026-02-24",
+      "inactive": true,
+      "deactivatedDate": "2026-03-03"
+    },
+    {
+      "text": "To bear trials with a calm mind robs misfortune of its strength and burden.",
+      "author": "Seneca",
+      "date": "2026-02-24",
+      "inactive": true,
+      "deactivatedDate": "2026-03-03"
     }
   ],
-  "lastRotation": "2026-03-02",
+  "lastRotation": "2026-03-03",
   "totalQuotes": 314,
   "activeQuotes": 37,
   "inactiveQuotes": 277
