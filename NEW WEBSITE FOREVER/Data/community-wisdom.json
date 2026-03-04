@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "If you are a dreamer, come in.",
+      "author": "Shel Silverstein",
+      "date": "2026-03-04",
+      "inactive": false
+    },
+    {
+      "text": "And above all, watch with glittering eyes the whole world around you because the greatest secrets are always hidden in the most unlikely places.",
+      "author": "Roald Dahl",
+      "date": "2026-03-04",
+      "inactive": false
+    },
+    {
+      "text": "You can never get a cup of tea large enough or a book long enough to suit me.",
+      "author": "C.S. Lewis",
+      "date": "2026-03-04",
+      "inactive": false
+    },
+    {
+      "text": "In three words I can sum up everything I've learned about life: it goes on.",
+      "author": "Robert Frost",
+      "date": "2026-03-04",
+      "inactive": false
+    },
+    {
+      "text": "The most glorious moments in your life are not the so-called days of success, but rather those days when out of dejection and despair you feel rise in you a challenge to life.",
+      "author": "Gustave Flaubert",
+      "date": "2026-03-04",
+      "inactive": false
+    },
+    {
       "text": "Courage starts with showing up and letting ourselves be seen.",
       "author": "Brené Brown",
       "date": "2026-03-03",
@@ -189,36 +219,6 @@
       "text": "To love at all is to be vulnerable.",
       "author": "C.S. Lewis",
       "date": "2026-02-25",
-      "inactive": false
-    },
-    {
-      "text": "Isn't it funny how day by day nothing changes, but when you look back, everything is different.",
-      "author": "C.S. Lewis",
-      "date": "2026-02-25",
-      "inactive": false
-    },
-    {
-      "text": "Friendship is born at that moment when one person says to another: What! You too? I thought I was the only one.",
-      "author": "C.S. Lewis",
-      "date": "2026-02-25",
-      "inactive": false
-    },
-    {
-      "text": "Faith is taking the first step even when you don't see the whole staircase.",
-      "author": "Martin Luther King Jr.",
-      "date": "2026-02-25",
-      "inactive": false
-    },
-    {
-      "text": "A hero is someone who has given his or her life to something bigger than oneself.",
-      "author": "Joseph Campbell",
-      "date": "2026-02-25",
-      "inactive": false
-    },
-    {
-      "text": "The enabling power of the Atonement strengthens us.",
-      "author": "David A. Bednar",
-      "date": "2026-02-24",
       "inactive": false
     },
     {
@@ -450,12 +450,6 @@
       "inactive": true
     },
     {
-      "text": "You can never get a cup of tea large enough or a book long enough to suit me.",
-      "author": "C.S. Lewis",
-      "date": "2026-01-23",
-      "inactive": true
-    },
-    {
       "text": "Humility is not thinking less of yourself, it's thinking of yourself less.",
       "author": "C.S. Lewis",
       "date": "2026-01-23",
@@ -535,12 +529,6 @@
     },
     {
       "text": "The best way out is always through.",
-      "author": "Robert Frost",
-      "date": "2026-01-18",
-      "inactive": true
-    },
-    {
-      "text": "In three words I can sum up everything I've learned about life: it goes on.",
       "author": "Robert Frost",
       "date": "2026-01-18",
       "inactive": true
@@ -626,12 +614,6 @@
     {
       "text": "When we are no longer able to change a situation, we are challenged to change ourselves.",
       "author": "Viktor Frankl",
-      "date": "2026-01-14",
-      "inactive": true
-    },
-    {
-      "text": "The most glorious moments in your life are not the so-called days of success, but rather those days when out of dejection and despair you feel rise in you a challenge to life.",
-      "author": "Gustave Flaubert",
       "date": "2026-01-14",
       "inactive": true
     },
@@ -1053,12 +1035,6 @@
       "text": "Happiness can be found even in the darkest of times, if one only remembers to turn on the light.",
       "author": "J.K. Rowling",
       "date": "2025-12-24",
-      "inactive": true
-    },
-    {
-      "text": "And above all, watch with glittering eyes the whole world around you because the greatest secrets are always hidden in the most unlikely places.",
-      "author": "Roald Dahl",
-      "date": "2025-12-23",
       "inactive": true
     },
     {
@@ -1890,13 +1866,6 @@
       "deactivatedDate": "2026-03-01"
     },
     {
-      "text": "If you are a dreamer, come in.",
-      "author": "Shel Silverstein",
-      "date": "2026-02-22",
-      "inactive": true,
-      "deactivatedDate": "2026-03-01"
-    },
-    {
       "text": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.",
       "author": "J.K. Rowling",
       "date": "2026-02-22",
@@ -1979,9 +1948,44 @@
       "date": "2026-02-24",
       "inactive": true,
       "deactivatedDate": "2026-03-03"
+    },
+    {
+      "text": "Isn't it funny how day by day nothing changes, but when you look back, everything is different.",
+      "author": "C.S. Lewis",
+      "date": "2026-02-25",
+      "inactive": true,
+      "deactivatedDate": "2026-03-04"
+    },
+    {
+      "text": "Friendship is born at that moment when one person says to another: What! You too? I thought I was the only one.",
+      "author": "C.S. Lewis",
+      "date": "2026-02-25",
+      "inactive": true,
+      "deactivatedDate": "2026-03-04"
+    },
+    {
+      "text": "Faith is taking the first step even when you don't see the whole staircase.",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-02-25",
+      "inactive": true,
+      "deactivatedDate": "2026-03-04"
+    },
+    {
+      "text": "A hero is someone who has given his or her life to something bigger than oneself.",
+      "author": "Joseph Campbell",
+      "date": "2026-02-25",
+      "inactive": true,
+      "deactivatedDate": "2026-03-04"
+    },
+    {
+      "text": "The enabling power of the Atonement strengthens us.",
+      "author": "David A. Bednar",
+      "date": "2026-02-24",
+      "inactive": true,
+      "deactivatedDate": "2026-03-04"
     }
   ],
-  "lastRotation": "2026-03-03",
+  "lastRotation": "2026-03-04",
   "totalQuotes": 314,
   "activeQuotes": 37,
   "inactiveQuotes": 277
