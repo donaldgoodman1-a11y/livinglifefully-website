@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "In a gentle way, you can shake the world.",
+      "author": "Mahatma Gandhi",
+      "date": "2026-03-05",
+      "inactive": false
+    },
+    {
+      "text": "Weeping may endure for a night, but joy cometh in the morning.",
+      "author": "King David",
+      "date": "2026-03-05",
+      "inactive": false
+    },
+    {
+      "text": "There is some good in this world, and it's worth fighting for.",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-03-05",
+      "inactive": false
+    },
+    {
+      "text": "Courage is not simply one of the virtues, but the form of every virtue at the testing point.",
+      "author": "C.S. Lewis",
+      "date": "2026-03-05",
+      "inactive": false
+    },
+    {
+      "text": "Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.",
+      "author": "Carl Jung",
+      "date": "2026-03-05",
+      "inactive": false
+    },
+    {
       "text": "“If I die before my dog, please show him my dead body. dogs can process death, but I would hate for him to think I abandoned him”.",
       "author": "Unknown",
       "date": "2026-03-05"
@@ -197,36 +227,6 @@
       "inactive": false
     },
     {
-      "text": "Some day you will be old enough to start reading fairy tales again.",
-      "author": "C.S. Lewis",
-      "date": "2026-02-26",
-      "inactive": false
-    },
-    {
-      "text": "Faith is to believe what you do not see; the reward of this faith is to see what you believe.",
-      "author": "St. Augustine",
-      "date": "2026-02-26",
-      "inactive": false
-    },
-    {
-      "text": "To pay attention, this is our endless and proper work.",
-      "author": "Mary Oliver",
-      "date": "2026-02-26",
-      "inactive": false
-    },
-    {
-      "text": "We cannot do great things on this earth, only small things with great love.",
-      "author": "Mother Teresa",
-      "date": "2026-02-26",
-      "inactive": false
-    },
-    {
-      "text": "To love at all is to be vulnerable.",
-      "author": "C.S. Lewis",
-      "date": "2026-02-25",
-      "inactive": false
-    },
-    {
       "text": "In the end, it's not the years in your life that count. It's the life in your years.",
       "author": "Abraham Lincoln",
       "date": "2026-02-06",
@@ -241,12 +241,6 @@
     {
       "text": "The past is behind, learn from it. The future is ahead, prepare for it. The present is here, live it.",
       "author": "Thomas S. Monson",
-      "date": "2026-02-05",
-      "inactive": true
-    },
-    {
-      "text": "Weeping may endure for a night, but joy cometh in the morning.",
-      "author": "King David",
       "date": "2026-02-05",
       "inactive": true
     },
@@ -284,12 +278,6 @@
       "text": "I wish it need not have happened in my time, said Frodo. So do I, said Gandalf, and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.",
       "author": "J.R.R. Tolkien",
       "date": "2026-02-03",
-      "inactive": true
-    },
-    {
-      "text": "In a gentle way, you can shake the world.",
-      "author": "Mahatma Gandhi",
-      "date": "2026-02-02",
       "inactive": true
     },
     {
@@ -350,12 +338,6 @@
       "text": "Don't you quit. You keep walking. You keep trying. There is help and happiness ahead.",
       "author": "Jeffrey R. Holland",
       "date": "2026-01-31",
-      "inactive": true
-    },
-    {
-      "text": "Courage is not simply one of the virtues, but the form of every virtue at the testing point.",
-      "author": "C.S. Lewis",
-      "date": "2026-01-30",
       "inactive": true
     },
     {
@@ -662,12 +644,6 @@
       "text": "Follow your bliss and the universe will open doors where there were only walls.",
       "author": "Joseph Campbell",
       "date": "2026-01-12",
-      "inactive": true
-    },
-    {
-      "text": "Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.",
-      "author": "Carl Jung",
-      "date": "2026-01-11",
       "inactive": true
     },
     {
@@ -1899,13 +1875,6 @@
       "deactivatedDate": "2026-03-02"
     },
     {
-      "text": "There is some good in this world, and it's worth fighting for.",
-      "author": "J.R.R. Tolkien",
-      "date": "2026-02-23",
-      "inactive": true,
-      "deactivatedDate": "2026-03-02"
-    },
-    {
       "text": "It does not do to dwell on dreams and forget to live.",
       "author": "J.K. Rowling",
       "date": "2026-02-23",
@@ -1988,10 +1957,45 @@
       "date": "2026-02-24",
       "inactive": true,
       "deactivatedDate": "2026-03-04"
+    },
+    {
+      "text": "Some day you will be old enough to start reading fairy tales again.",
+      "author": "C.S. Lewis",
+      "date": "2026-02-26",
+      "inactive": true,
+      "deactivatedDate": "2026-03-05"
+    },
+    {
+      "text": "Faith is to believe what you do not see; the reward of this faith is to see what you believe.",
+      "author": "St. Augustine",
+      "date": "2026-02-26",
+      "inactive": true,
+      "deactivatedDate": "2026-03-05"
+    },
+    {
+      "text": "To pay attention, this is our endless and proper work.",
+      "author": "Mary Oliver",
+      "date": "2026-02-26",
+      "inactive": true,
+      "deactivatedDate": "2026-03-05"
+    },
+    {
+      "text": "We cannot do great things on this earth, only small things with great love.",
+      "author": "Mother Teresa",
+      "date": "2026-02-26",
+      "inactive": true,
+      "deactivatedDate": "2026-03-05"
+    },
+    {
+      "text": "To love at all is to be vulnerable.",
+      "author": "C.S. Lewis",
+      "date": "2026-02-25",
+      "inactive": true,
+      "deactivatedDate": "2026-03-05"
     }
   ],
-  "lastRotation": "2026-03-04",
-  "totalQuotes": 314,
-  "activeQuotes": 37,
+  "lastRotation": "2026-03-05",
+  "totalQuotes": 315,
+  "activeQuotes": 38,
   "inactiveQuotes": 277
 }
