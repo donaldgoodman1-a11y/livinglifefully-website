@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "I grew up like a neglected weed, ignorant of liberty, having no experience of it.",
+      "author": "Harriet Tubman",
+      "date": "2026-03-06",
+      "inactive": false
+    },
+    {
+      "text": "Focus on the moment, not the monsters that may or may not be up ahead.",
+      "author": "Ryan Holiday",
+      "date": "2026-03-06",
+      "inactive": false
+    },
+    {
+      "text": "Lift where you stand.",
+      "author": "Dieter F. Uchtdorf",
+      "date": "2026-03-06",
+      "inactive": false
+    },
+    {
+      "text": "I would unite with anybody to do right and with nobody to do wrong.",
+      "author": "Frederick Douglass",
+      "date": "2026-03-06",
+      "inactive": false
+    },
+    {
+      "text": "Every action you take is a vote for the type of person you wish to become.",
+      "author": "James Clear",
+      "date": "2026-03-06",
+      "inactive": false
+    },
+    {
       "text": "Each child brings his own blessing into the world.",
       "author": "Talmud",
       "date": "2026-03-05"
@@ -204,36 +234,6 @@
       "text": "Choose faith over fear, and doubt not.",
       "author": "David A. Bednar",
       "date": "2026-02-27",
-      "inactive": false
-    },
-    {
-      "text": "Today you are you, that is truer than true. There is no one alive who is youer than you.",
-      "author": "Dr. Seuss",
-      "date": "2026-02-27",
-      "inactive": false
-    },
-    {
-      "text": "Fantasy is hardly an escape from reality. It's a way of understanding it.",
-      "author": "Lloyd Alexander",
-      "date": "2026-02-27",
-      "inactive": false
-    },
-    {
-      "text": "Sometimes we're tested not to show our weaknesses, but to discover our strengths.",
-      "author": "Rafiki, The Lion King",
-      "date": "2026-02-27",
-      "inactive": false
-    },
-    {
-      "text": "They that wait upon the Lord shall renew their strength; they shall mount up with wings as eagles.",
-      "author": "Isaiah",
-      "date": "2026-02-27",
-      "inactive": false
-    },
-    {
-      "text": "Unless someone like you cares a whole awful lot, nothing is going to get better. It's not.",
-      "author": "Dr. Seuss",
-      "date": "2026-02-26",
       "inactive": false
     },
     {
@@ -1143,12 +1143,6 @@
       "inactive": true
     },
     {
-      "text": "I would unite with anybody to do right and with nobody to do wrong.",
-      "author": "Frederick Douglass",
-      "date": "2025-12-18",
-      "inactive": true
-    },
-    {
       "text": "Every great dream begins with a dreamer.",
       "author": "Harriet Tubman",
       "date": "2025-12-17",
@@ -1162,12 +1156,6 @@
     },
     {
       "text": "Never wound a snake; kill it.",
-      "author": "Harriet Tubman",
-      "date": "2025-12-17",
-      "inactive": true
-    },
-    {
-      "text": "I grew up like a neglected weed, ignorant of liberty, having no experience of it.",
       "author": "Harriet Tubman",
       "date": "2025-12-17",
       "inactive": true
@@ -1206,18 +1194,6 @@
       "text": "The impediment to action advances action. What stands in the way becomes the way.",
       "author": "Ryan Holiday",
       "date": "2025-12-15",
-      "inactive": true
-    },
-    {
-      "text": "Focus on the moment, not the monsters that may or may not be up ahead.",
-      "author": "Ryan Holiday",
-      "date": "2025-12-15",
-      "inactive": true
-    },
-    {
-      "text": "Every action you take is a vote for the type of person you wish to become.",
-      "author": "James Clear",
-      "date": "2025-12-14",
       "inactive": true
     },
     {
@@ -1306,13 +1282,6 @@
     {
       "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
       "author": "Winston Churchill",
-      "date": "2026-02-08",
-      "inactive": true,
-      "deactivatedDate": "2026-02-12"
-    },
-    {
-      "text": "Lift where you stand.",
-      "author": "Dieter F. Uchtdorf",
       "date": "2026-02-08",
       "inactive": true,
       "deactivatedDate": "2026-02-12"
@@ -2002,10 +1971,45 @@
       "date": "2026-02-25",
       "inactive": true,
       "deactivatedDate": "2026-03-05"
+    },
+    {
+      "text": "Today you are you, that is truer than true. There is no one alive who is youer than you.",
+      "author": "Dr. Seuss",
+      "date": "2026-02-27",
+      "inactive": true,
+      "deactivatedDate": "2026-03-06"
+    },
+    {
+      "text": "Fantasy is hardly an escape from reality. It's a way of understanding it.",
+      "author": "Lloyd Alexander",
+      "date": "2026-02-27",
+      "inactive": true,
+      "deactivatedDate": "2026-03-06"
+    },
+    {
+      "text": "Sometimes we're tested not to show our weaknesses, but to discover our strengths.",
+      "author": "Rafiki, The Lion King",
+      "date": "2026-02-27",
+      "inactive": true,
+      "deactivatedDate": "2026-03-06"
+    },
+    {
+      "text": "They that wait upon the Lord shall renew their strength; they shall mount up with wings as eagles.",
+      "author": "Isaiah",
+      "date": "2026-02-27",
+      "inactive": true,
+      "deactivatedDate": "2026-03-06"
+    },
+    {
+      "text": "Unless someone like you cares a whole awful lot, nothing is going to get better. It's not.",
+      "author": "Dr. Seuss",
+      "date": "2026-02-26",
+      "inactive": true,
+      "deactivatedDate": "2026-03-06"
     }
   ],
-  "lastRotation": "2026-03-05",
-  "totalQuotes": 315,
-  "activeQuotes": 38,
+  "lastRotation": "2026-03-06",
+  "totalQuotes": 317,
+  "activeQuotes": 40,
   "inactiveQuotes": 277
 }
