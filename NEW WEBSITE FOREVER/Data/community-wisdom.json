@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+      "author": "Zig Ziglar",
+      "date": "2026-03-07",
+      "inactive": false
+    },
+    {
+      "text": "I can't die but once.",
+      "author": "Harriet Tubman",
+      "date": "2026-03-07",
+      "inactive": false
+    },
+    {
+      "text": "Attitude is a little thing that makes a big difference.",
+      "author": "Winston Churchill",
+      "date": "2026-03-07",
+      "inactive": false
+    },
+    {
+      "text": "The weak can never forgive. Forgiveness is the attribute of the strong.",
+      "author": "Mahatma Gandhi",
+      "date": "2026-03-07",
+      "inactive": false
+    },
+    {
+      "text": "You don't have to be the victim of your environment. You can also be the architect of it.",
+      "author": "James Clear",
+      "date": "2026-03-07",
+      "inactive": false
+    },
+    {
       "text": "I grew up like a neglected weed, ignorant of liberty, having no experience of it.",
       "author": "Harriet Tubman",
       "date": "2026-03-06",
@@ -204,36 +234,6 @@
       "text": "The only impossible journey is the one you never begin.",
       "author": "Tony Robbins",
       "date": "2026-02-28",
-      "inactive": false
-    },
-    {
-      "text": "I alone cannot change the world, but I can cast a stone across the waters to create many ripples.",
-      "author": "Mother Teresa",
-      "date": "2026-02-28",
-      "inactive": false
-    },
-    {
-      "text": "If you're going through hell, keep going.",
-      "author": "Winston Churchill",
-      "date": "2026-02-28",
-      "inactive": false
-    },
-    {
-      "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-02-28",
-      "inactive": false
-    },
-    {
-      "text": "The best way to predict your future is to create it.",
-      "author": "Abraham Lincoln",
-      "date": "2026-02-28",
-      "inactive": false
-    },
-    {
-      "text": "Choose faith over fear, and doubt not.",
-      "author": "David A. Bednar",
-      "date": "2026-02-27",
       "inactive": false
     },
     {
@@ -1161,12 +1161,6 @@
       "inactive": true
     },
     {
-      "text": "I can't die but once.",
-      "author": "Harriet Tubman",
-      "date": "2025-12-17",
-      "inactive": true
-    },
-    {
       "text": "Well done is better than well said.",
       "author": "Benjamin Franklin",
       "date": "2025-12-16",
@@ -1210,12 +1204,6 @@
     },
     {
       "text": "The most effective way to change your behavior is to focus not on what you want to achieve, but on who you wish to become.",
-      "author": "James Clear",
-      "date": "2025-12-14",
-      "inactive": true
-    },
-    {
-      "text": "You don't have to be the victim of your environment. You can also be the architect of it.",
       "author": "James Clear",
       "date": "2025-12-14",
       "inactive": true
@@ -1297,13 +1285,6 @@
       "text": "You don't have to be perfect to be loved.",
       "author": "Russell M. Nelson",
       "date": "2026-02-11",
-      "inactive": true,
-      "deactivatedDate": "2026-02-12"
-    },
-    {
-      "text": "The weak can never forgive. Forgiveness is the attribute of the strong.",
-      "author": "Mahatma Gandhi",
-      "date": "2026-02-10",
       "inactive": true,
       "deactivatedDate": "2026-02-12"
     },
@@ -1525,13 +1506,6 @@
       "deactivatedDate": "2026-02-20"
     },
     {
-      "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
-      "author": "Zig Ziglar",
-      "date": "2026-02-13",
-      "inactive": true,
-      "deactivatedDate": "2026-02-20"
-    },
-    {
       "text": "In the middle of difficulty lies opportunity.",
       "author": "Albert Einstein",
       "date": "2026-02-13",
@@ -1597,13 +1571,6 @@
     {
       "text": "Keep your face to the sunshine and you cannot see a shadow.",
       "author": "Helen Keller",
-      "date": "2026-02-15",
-      "inactive": true,
-      "deactivatedDate": "2026-02-22"
-    },
-    {
-      "text": "Attitude is a little thing that makes a big difference.",
-      "author": "Winston Churchill",
       "date": "2026-02-15",
       "inactive": true,
       "deactivatedDate": "2026-02-22"
@@ -2006,9 +1973,44 @@
       "date": "2026-02-26",
       "inactive": true,
       "deactivatedDate": "2026-03-06"
+    },
+    {
+      "text": "I alone cannot change the world, but I can cast a stone across the waters to create many ripples.",
+      "author": "Mother Teresa",
+      "date": "2026-02-28",
+      "inactive": true,
+      "deactivatedDate": "2026-03-07"
+    },
+    {
+      "text": "If you're going through hell, keep going.",
+      "author": "Winston Churchill",
+      "date": "2026-02-28",
+      "inactive": true,
+      "deactivatedDate": "2026-03-07"
+    },
+    {
+      "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-02-28",
+      "inactive": true,
+      "deactivatedDate": "2026-03-07"
+    },
+    {
+      "text": "The best way to predict your future is to create it.",
+      "author": "Abraham Lincoln",
+      "date": "2026-02-28",
+      "inactive": true,
+      "deactivatedDate": "2026-03-07"
+    },
+    {
+      "text": "Choose faith over fear, and doubt not.",
+      "author": "David A. Bednar",
+      "date": "2026-02-27",
+      "inactive": true,
+      "deactivatedDate": "2026-03-07"
     }
   ],
-  "lastRotation": "2026-03-06",
+  "lastRotation": "2026-03-07",
   "totalQuotes": 317,
   "activeQuotes": 40,
   "inactiveQuotes": 277
