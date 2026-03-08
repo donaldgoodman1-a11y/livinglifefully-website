@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "There is no greater agony than bearing an untold story inside you.",
+      "author": "Maya Angelou",
+      "date": "2026-03-08",
+      "inactive": false
+    },
+    {
+      "text": "If you have good thoughts they will shine out of your face like sunbeams and you will always look lovely.",
+      "author": "Roald Dahl",
+      "date": "2026-03-08",
+      "inactive": false
+    },
+    {
+      "text": "To bear trials with a calm mind robs misfortune of its strength and burden.",
+      "author": "Seneca",
+      "date": "2026-03-08",
+      "inactive": false
+    },
+    {
+      "text": "Act as if what you do makes a difference. It does.",
+      "author": "William James",
+      "date": "2026-03-08",
+      "inactive": false
+    },
+    {
+      "text": "Owning our story and loving ourselves through that process is the bravest thing that we'll ever do.",
+      "author": "Brené Brown",
+      "date": "2026-03-08",
+      "inactive": false
+    },
+    {
       "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
       "author": "Zig Ziglar",
       "date": "2026-03-07",
@@ -204,36 +234,6 @@
       "text": "With the new day comes new strength and new thoughts.",
       "author": "Eleanor Roosevelt",
       "date": "2026-03-01",
-      "inactive": false
-    },
-    {
-      "text": "The Lord is my shepherd; I shall not want.",
-      "author": "King David",
-      "date": "2026-03-01",
-      "inactive": false
-    },
-    {
-      "text": "Everything can be taken from a man but one thing: the last of the human freedoms—to choose one's attitude in any given set of circumstances.",
-      "author": "Viktor Frankl",
-      "date": "2026-03-01",
-      "inactive": false
-    },
-    {
-      "text": "Live in the sunshine, swim the sea, drink the wild air.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-03-01",
-      "inactive": false
-    },
-    {
-      "text": "Write it on your heart that every day is the best day in the year.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-03-01",
-      "inactive": false
-    },
-    {
-      "text": "The only impossible journey is the one you never begin.",
-      "author": "Tony Robbins",
-      "date": "2026-02-28",
       "inactive": false
     },
     {
@@ -516,12 +516,6 @@
       "text": "The best preparation for tomorrow is doing your best today.",
       "author": "H. Jackson Brown Jr.",
       "date": "2026-01-19",
-      "inactive": true
-    },
-    {
-      "text": "Act as if what you do makes a difference. It does.",
-      "author": "William James",
-      "date": "2026-01-18",
       "inactive": true
     },
     {
@@ -927,12 +921,6 @@
       "inactive": true
     },
     {
-      "text": "There is no greater agony than bearing an untold story inside you.",
-      "author": "Maya Angelou",
-      "date": "2025-12-29",
-      "inactive": true
-    },
-    {
       "text": "Success is liking yourself, liking what you do, and liking how you do it.",
       "author": "Maya Angelou",
       "date": "2025-12-29",
@@ -952,12 +940,6 @@
     },
     {
       "text": "Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.",
-      "author": "Brené Brown",
-      "date": "2025-12-27",
-      "inactive": true
-    },
-    {
-      "text": "Owning our story and loving ourselves through that process is the bravest thing that we'll ever do.",
       "author": "Brené Brown",
       "date": "2025-12-27",
       "inactive": true
@@ -1030,12 +1012,6 @@
     },
     {
       "text": "A little nonsense now and then is relished by the wisest men.",
-      "author": "Roald Dahl",
-      "date": "2025-12-23",
-      "inactive": true
-    },
-    {
-      "text": "If you have good thoughts they will shine out of your face like sunbeams and you will always look lovely.",
       "author": "Roald Dahl",
       "date": "2025-12-23",
       "inactive": true
@@ -1863,13 +1839,6 @@
       "deactivatedDate": "2026-03-03"
     },
     {
-      "text": "To bear trials with a calm mind robs misfortune of its strength and burden.",
-      "author": "Seneca",
-      "date": "2026-02-24",
-      "inactive": true,
-      "deactivatedDate": "2026-03-03"
-    },
-    {
       "text": "Isn't it funny how day by day nothing changes, but when you look back, everything is different.",
       "author": "C.S. Lewis",
       "date": "2026-02-25",
@@ -2008,9 +1977,44 @@
       "date": "2026-02-27",
       "inactive": true,
       "deactivatedDate": "2026-03-07"
+    },
+    {
+      "text": "The Lord is my shepherd; I shall not want.",
+      "author": "King David",
+      "date": "2026-03-01",
+      "inactive": true,
+      "deactivatedDate": "2026-03-08"
+    },
+    {
+      "text": "Everything can be taken from a man but one thing: the last of the human freedoms—to choose one's attitude in any given set of circumstances.",
+      "author": "Viktor Frankl",
+      "date": "2026-03-01",
+      "inactive": true,
+      "deactivatedDate": "2026-03-08"
+    },
+    {
+      "text": "Live in the sunshine, swim the sea, drink the wild air.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-03-01",
+      "inactive": true,
+      "deactivatedDate": "2026-03-08"
+    },
+    {
+      "text": "Write it on your heart that every day is the best day in the year.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-03-01",
+      "inactive": true,
+      "deactivatedDate": "2026-03-08"
+    },
+    {
+      "text": "The only impossible journey is the one you never begin.",
+      "author": "Tony Robbins",
+      "date": "2026-02-28",
+      "inactive": true,
+      "deactivatedDate": "2026-03-08"
     }
   ],
-  "lastRotation": "2026-03-07",
+  "lastRotation": "2026-03-08",
   "totalQuotes": 317,
   "activeQuotes": 40,
   "inactiveQuotes": 277
