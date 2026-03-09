@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "There is a place where the sidewalk ends and before the street begins.",
+      "author": "Shel Silverstein",
+      "date": "2026-03-09",
+      "inactive": false
+    },
+    {
+      "text": "We can press forward with steadfastness in Christ.",
+      "author": "David A. Bednar",
+      "date": "2026-03-09",
+      "inactive": false
+    },
+    {
+      "text": "The gospel is a message of hope and salvation for all.",
+      "author": "Henry B. Eyring",
+      "date": "2026-03-09",
+      "inactive": false
+    },
+    {
+      "text": "The brick walls are there for a reason. They're not there to keep us out. The brick walls are there to give us a chance to show how badly we want something.",
+      "author": "Randy Pausch",
+      "date": "2026-03-09",
+      "inactive": false
+    },
+    {
+      "text": "No one can make you feel inferior without your consent.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-03-09",
+      "inactive": false
+    },
+    {
       "text": "There is no greater agony than bearing an untold story inside you.",
       "author": "Maya Angelou",
       "date": "2026-03-08",
@@ -205,35 +235,6 @@
       "text": "Those who have a 'why' to live, can bear with almost any 'how'.",
       "author": "Viktor Frankl",
       "date": "2026-03-02",
-      "inactive": false
-    },
-    {
-      "text": "We do not need magic to transform our world. We carry all the power we need inside ourselves already.",
-      "author": "J.K. Rowling",
-      "date": "2026-03-02",
-      "inactive": false
-    },
-    {
-      "text": "Rock bottom became the solid foundation on which I rebuilt my life.",
-      "author": "J.K. Rowling",
-      "date": "2026-03-02",
-      "inactive": false
-    },
-    {
-      "text": "How many slams in an old screen door? Depends how loud you shut it.",
-      "author": "Shel Silverstein",
-      "date": "2026-03-02",
-      "inactive": false
-    },
-    {
-      "text": "If you accomplish something good with hard work, the labor passes quickly, but the good endures; if you do something shameful in pursuit of pleasure, the pleasure passes quickly, but the shame endures.",
-      "author": "Musonius Rufus",
-      "date": "2026-03-01"
-    },
-    {
-      "text": "With the new day comes new strength and new thoughts.",
-      "author": "Eleanor Roosevelt",
-      "date": "2026-03-01",
       "inactive": false
     },
     {
@@ -473,12 +474,6 @@
     {
       "text": "Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world.",
       "author": "Desmond Tutu",
-      "date": "2026-01-21",
-      "inactive": true
-    },
-    {
-      "text": "No one can make you feel inferior without your consent.",
-      "author": "Eleanor Roosevelt",
       "date": "2026-01-21",
       "inactive": true
     },
@@ -807,12 +802,6 @@
       "inactive": true
     },
     {
-      "text": "The gospel is a message of hope and salvation for all.",
-      "author": "Henry B. Eyring",
-      "date": "2026-01-04",
-      "inactive": true
-    },
-    {
       "text": "Faith in Jesus Christ is the first principle of the gospel for a reason.",
       "author": "Henry B. Eyring",
       "date": "2026-01-04",
@@ -864,12 +853,6 @@
       "text": "Real change takes time. What matters most is that you start.",
       "author": "Russell M. Nelson",
       "date": "2026-01-02",
-      "inactive": true
-    },
-    {
-      "text": "We can press forward with steadfastness in Christ.",
-      "author": "David A. Bednar",
-      "date": "2026-01-01",
       "inactive": true
     },
     {
@@ -1035,12 +1018,6 @@
       "inactive": true
     },
     {
-      "text": "There is a place where the sidewalk ends and before the street begins.",
-      "author": "Shel Silverstein",
-      "date": "2025-12-22",
-      "inactive": true
-    },
-    {
       "text": "Draw a crazy picture, Write a nutty poem, Sing a mumble-gumble song, Whistle through your comb.",
       "author": "Shel Silverstein",
       "date": "2025-12-22",
@@ -1062,12 +1039,6 @@
       "text": "If you can dream it, you can do it.",
       "author": "Walt Disney",
       "date": "2025-12-21",
-      "inactive": true
-    },
-    {
-      "text": "The brick walls are there for a reason. They're not there to keep us out. The brick walls are there to give us a chance to show how badly we want something.",
-      "author": "Randy Pausch",
-      "date": "2025-12-20",
       "inactive": true
     },
     {
@@ -2012,9 +1983,44 @@
       "date": "2026-02-28",
       "inactive": true,
       "deactivatedDate": "2026-03-08"
+    },
+    {
+      "text": "We do not need magic to transform our world. We carry all the power we need inside ourselves already.",
+      "author": "J.K. Rowling",
+      "date": "2026-03-02",
+      "inactive": true,
+      "deactivatedDate": "2026-03-09"
+    },
+    {
+      "text": "Rock bottom became the solid foundation on which I rebuilt my life.",
+      "author": "J.K. Rowling",
+      "date": "2026-03-02",
+      "inactive": true,
+      "deactivatedDate": "2026-03-09"
+    },
+    {
+      "text": "How many slams in an old screen door? Depends how loud you shut it.",
+      "author": "Shel Silverstein",
+      "date": "2026-03-02",
+      "inactive": true,
+      "deactivatedDate": "2026-03-09"
+    },
+    {
+      "text": "If you accomplish something good with hard work, the labor passes quickly, but the good endures; if you do something shameful in pursuit of pleasure, the pleasure passes quickly, but the shame endures.",
+      "author": "Musonius Rufus",
+      "date": "2026-03-01",
+      "inactive": true,
+      "deactivatedDate": "2026-03-09"
+    },
+    {
+      "text": "With the new day comes new strength and new thoughts.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-03-01",
+      "inactive": true,
+      "deactivatedDate": "2026-03-09"
     }
   ],
-  "lastRotation": "2026-03-08",
+  "lastRotation": "2026-03-09",
   "totalQuotes": 317,
   "activeQuotes": 40,
   "inactiveQuotes": 277
