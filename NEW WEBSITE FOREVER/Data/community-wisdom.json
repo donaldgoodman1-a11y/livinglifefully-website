@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.",
+      "author": "Brené Brown",
+      "date": "2026-03-10",
+      "inactive": false
+    },
+    {
+      "text": "The spiritual gift of agency, the freedom to choose, is essential to our growth.",
+      "author": "Dallin H. Oaks",
+      "date": "2026-03-10",
+      "inactive": false
+    },
+    {
+      "text": "I wish it need not have happened in my time, said Frodo. So do I, said Gandalf, and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-03-10",
+      "inactive": false
+    },
+    {
+      "text": "A person's a person, no matter how small.",
+      "author": "Dr. Seuss",
+      "date": "2026-03-10",
+      "inactive": false
+    },
+    {
+      "text": "Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world.",
+      "author": "Desmond Tutu",
+      "date": "2026-03-10",
+      "inactive": false
+    },
+    {
       "text": "There is a place where the sidewalk ends and before the street begins.",
       "author": "Shel Silverstein",
       "date": "2026-03-09",
@@ -208,36 +238,6 @@
       "inactive": false
     },
     {
-      "text": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
-      "author": "Marcus Aurelius",
-      "date": "2026-03-03",
-      "inactive": false
-    },
-    {
-      "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-03-03",
-      "inactive": false
-    },
-    {
-      "text": "You'll miss the best things if you keep your eyes shut.",
-      "author": "Dr. Seuss",
-      "date": "2026-03-03",
-      "inactive": false
-    },
-    {
-      "text": "Wise men speak because they have something to say; fools because they have to say something.",
-      "author": "Plato",
-      "date": "2026-03-02",
-      "inactive": false
-    },
-    {
-      "text": "Those who have a 'why' to live, can bear with almost any 'how'.",
-      "author": "Viktor Frankl",
-      "date": "2026-03-02",
-      "inactive": false
-    },
-    {
       "text": "In the end, it's not the years in your life that count. It's the life in your years.",
       "author": "Abraham Lincoln",
       "date": "2026-02-06",
@@ -282,12 +282,6 @@
     {
       "text": "I can do all things through Christ which strengtheneth me.",
       "author": "Paul the Apostle",
-      "date": "2026-02-03",
-      "inactive": true
-    },
-    {
-      "text": "I wish it need not have happened in my time, said Frodo. So do I, said Gandalf, and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.",
-      "author": "J.R.R. Tolkien",
       "date": "2026-02-03",
       "inactive": true
     },
@@ -418,12 +412,6 @@
       "inactive": true
     },
     {
-      "text": "A person's a person, no matter how small.",
-      "author": "Dr. Seuss",
-      "date": "2026-01-26",
-      "inactive": true
-    },
-    {
       "text": "Sometimes the questions are complicated and the answers are simple.",
       "author": "Dr. Seuss",
       "date": "2026-01-25",
@@ -469,12 +457,6 @@
       "text": "I have learned that if one advances confidently in the direction of his dreams, he will meet with a success unexpected in common hours.",
       "author": "Henry David Thoreau",
       "date": "2026-01-22",
-      "inactive": true
-    },
-    {
-      "text": "Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world.",
-      "author": "Desmond Tutu",
-      "date": "2026-01-21",
       "inactive": true
     },
     {
@@ -919,12 +901,6 @@
       "text": "Gratitude is the healthiest of all human emotions.",
       "author": "Zig Ziglar",
       "date": "2025-12-28",
-      "inactive": true
-    },
-    {
-      "text": "Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.",
-      "author": "Brené Brown",
-      "date": "2025-12-27",
       "inactive": true
     },
     {
@@ -1502,13 +1478,6 @@
       "deactivatedDate": "2026-02-21"
     },
     {
-      "text": "The spiritual gift of agency, the freedom to choose, is essential to our growth.",
-      "author": "Dallin H. Oaks",
-      "date": "2026-02-15",
-      "inactive": true,
-      "deactivatedDate": "2026-02-22"
-    },
-    {
       "text": "For I know the thoughts that I think toward you, saith the Lord, thoughts of peace, and not of evil.",
       "author": "Jeremiah",
       "date": "2026-02-15",
@@ -2018,9 +1987,44 @@
       "date": "2026-03-01",
       "inactive": true,
       "deactivatedDate": "2026-03-09"
+    },
+    {
+      "text": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
+      "author": "Marcus Aurelius",
+      "date": "2026-03-03",
+      "inactive": true,
+      "deactivatedDate": "2026-03-10"
+    },
+    {
+      "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-03-03",
+      "inactive": true,
+      "deactivatedDate": "2026-03-10"
+    },
+    {
+      "text": "You'll miss the best things if you keep your eyes shut.",
+      "author": "Dr. Seuss",
+      "date": "2026-03-03",
+      "inactive": true,
+      "deactivatedDate": "2026-03-10"
+    },
+    {
+      "text": "Wise men speak because they have something to say; fools because they have to say something.",
+      "author": "Plato",
+      "date": "2026-03-02",
+      "inactive": true,
+      "deactivatedDate": "2026-03-10"
+    },
+    {
+      "text": "Those who have a 'why' to live, can bear with almost any 'how'.",
+      "author": "Viktor Frankl",
+      "date": "2026-03-02",
+      "inactive": true,
+      "deactivatedDate": "2026-03-10"
     }
   ],
-  "lastRotation": "2026-03-09",
+  "lastRotation": "2026-03-10",
   "totalQuotes": 317,
   "activeQuotes": 40,
   "inactiveQuotes": 277
