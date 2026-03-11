@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Either write something worth reading or do something worth writing.",
+      "author": "Benjamin Franklin",
+      "date": "2026-03-11",
+      "inactive": false
+    },
+    {
+      "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-03-11",
+      "inactive": false
+    },
+    {
+      "text": "Fear thou not; for I am with thee: be not dismayed; for I am thy God.",
+      "author": "Isaiah",
+      "date": "2026-03-11",
+      "inactive": false
+    },
+    {
+      "text": "Getting old is like climbing a mountain; you get a little out of breath, but the view is much better.",
+      "author": "Ingrid Bergman",
+      "date": "2026-03-11",
+      "inactive": false
+    },
+    {
+      "text": "Opposition is part of the divine plan.",
+      "author": "Dallin H. Oaks",
+      "date": "2026-03-11",
+      "inactive": false
+    },
+    {
       "text": "Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.",
       "author": "Brené Brown",
       "date": "2026-03-10",
@@ -208,36 +238,6 @@
       "inactive": false
     },
     {
-      "text": "You can never get a cup of tea large enough or a book long enough to suit me.",
-      "author": "C.S. Lewis",
-      "date": "2026-03-04",
-      "inactive": false
-    },
-    {
-      "text": "In three words I can sum up everything I've learned about life: it goes on.",
-      "author": "Robert Frost",
-      "date": "2026-03-04",
-      "inactive": false
-    },
-    {
-      "text": "The most glorious moments in your life are not the so-called days of success, but rather those days when out of dejection and despair you feel rise in you a challenge to life.",
-      "author": "Gustave Flaubert",
-      "date": "2026-03-04",
-      "inactive": false
-    },
-    {
-      "text": "Courage starts with showing up and letting ourselves be seen.",
-      "author": "Brené Brown",
-      "date": "2026-03-03",
-      "inactive": false
-    },
-    {
-      "text": "The impediment to action advances action. What stands in the way becomes the way.",
-      "author": "Marcus Aurelius",
-      "date": "2026-03-03",
-      "inactive": false
-    },
-    {
       "text": "In the end, it's not the years in your life that count. It's the life in your years.",
       "author": "Abraham Lincoln",
       "date": "2026-02-06",
@@ -292,12 +292,6 @@
       "inactive": true
     },
     {
-      "text": "Fear thou not; for I am with thee: be not dismayed; for I am thy God.",
-      "author": "Isaiah",
-      "date": "2026-02-02",
-      "inactive": true
-    },
-    {
       "text": "Try a little harder to be a little better.",
       "author": "Gordon B. Hinckley",
       "date": "2026-02-02",
@@ -348,12 +342,6 @@
     {
       "text": "Decisions determine destiny.",
       "author": "Thomas S. Monson",
-      "date": "2026-01-30",
-      "inactive": true
-    },
-    {
-      "text": "Getting old is like climbing a mountain; you get a little out of breath, but the view is much better.",
-      "author": "Ingrid Bergman",
       "date": "2026-01-30",
       "inactive": true
     },
@@ -760,12 +748,6 @@
       "inactive": true
     },
     {
-      "text": "Opposition is part of the divine plan.",
-      "author": "Dallin H. Oaks",
-      "date": "2026-01-05",
-      "inactive": true
-    },
-    {
       "text": "What we insistently desire, over time, is what we will eventually become.",
       "author": "Neal A. Maxwell",
       "date": "2026-01-05",
@@ -1091,12 +1073,6 @@
     },
     {
       "text": "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
-      "author": "Benjamin Franklin",
-      "date": "2025-12-16",
-      "inactive": true
-    },
-    {
-      "text": "Either write something worth reading or do something worth writing.",
       "author": "Benjamin Franklin",
       "date": "2025-12-16",
       "inactive": true
@@ -1996,13 +1972,6 @@
       "deactivatedDate": "2026-03-10"
     },
     {
-      "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-03-03",
-      "inactive": true,
-      "deactivatedDate": "2026-03-10"
-    },
-    {
       "text": "You'll miss the best things if you keep your eyes shut.",
       "author": "Dr. Seuss",
       "date": "2026-03-03",
@@ -2022,9 +1991,44 @@
       "date": "2026-03-02",
       "inactive": true,
       "deactivatedDate": "2026-03-10"
+    },
+    {
+      "text": "You can never get a cup of tea large enough or a book long enough to suit me.",
+      "author": "C.S. Lewis",
+      "date": "2026-03-04",
+      "inactive": true,
+      "deactivatedDate": "2026-03-11"
+    },
+    {
+      "text": "In three words I can sum up everything I've learned about life: it goes on.",
+      "author": "Robert Frost",
+      "date": "2026-03-04",
+      "inactive": true,
+      "deactivatedDate": "2026-03-11"
+    },
+    {
+      "text": "The most glorious moments in your life are not the so-called days of success, but rather those days when out of dejection and despair you feel rise in you a challenge to life.",
+      "author": "Gustave Flaubert",
+      "date": "2026-03-04",
+      "inactive": true,
+      "deactivatedDate": "2026-03-11"
+    },
+    {
+      "text": "Courage starts with showing up and letting ourselves be seen.",
+      "author": "Brené Brown",
+      "date": "2026-03-03",
+      "inactive": true,
+      "deactivatedDate": "2026-03-11"
+    },
+    {
+      "text": "The impediment to action advances action. What stands in the way becomes the way.",
+      "author": "Marcus Aurelius",
+      "date": "2026-03-03",
+      "inactive": true,
+      "deactivatedDate": "2026-03-11"
     }
   ],
-  "lastRotation": "2026-03-10",
+  "lastRotation": "2026-03-11",
   "totalQuotes": 317,
   "activeQuotes": 40,
   "inactiveQuotes": 277
