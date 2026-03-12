@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "A soft answer turneth away wrath.",
+      "author": "King Solomon",
+      "date": "2026-03-12",
+      "inactive": false
+    },
+    {
+      "text": "The only person you are destined to become is the person you decide to be.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-03-12",
+      "inactive": false
+    },
+    {
+      "text": "You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes.",
+      "author": "A.A. Milne",
+      "date": "2026-03-12",
+      "inactive": false
+    },
+    {
+      "text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest.",
+      "author": "Jesus Christ",
+      "date": "2026-03-12",
+      "inactive": false
+    },
+    {
+      "text": "Don't gobblefunk around with words.",
+      "author": "Roald Dahl",
+      "date": "2026-03-12",
+      "inactive": false
+    },
+    {
       "text": "Either write something worth reading or do something worth writing.",
       "author": "Benjamin Franklin",
       "date": "2026-03-11",
@@ -209,35 +239,6 @@
       "inactive": false
     },
     {
-      "text": "Courage is not simply one of the virtues, but the form of every virtue at the testing point.",
-      "author": "C.S. Lewis",
-      "date": "2026-03-05",
-      "inactive": false
-    },
-    {
-      "text": "Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.",
-      "author": "Carl Jung",
-      "date": "2026-03-05",
-      "inactive": false
-    },
-    {
-      "text": "“If I die before my dog, please show him my dead body. dogs can process death, but I would hate for him to think I abandoned him”.",
-      "author": "Unknown",
-      "date": "2026-03-05"
-    },
-    {
-      "text": "If you are a dreamer, come in.",
-      "author": "Shel Silverstein",
-      "date": "2026-03-04",
-      "inactive": false
-    },
-    {
-      "text": "And above all, watch with glittering eyes the whole world around you because the greatest secrets are always hidden in the most unlikely places.",
-      "author": "Roald Dahl",
-      "date": "2026-03-04",
-      "inactive": false
-    },
-    {
       "text": "In the end, it's not the years in your life that count. It's the life in your years.",
       "author": "Abraham Lincoln",
       "date": "2026-02-06",
@@ -270,12 +271,6 @@
     {
       "text": "Peace begins with a smile.",
       "author": "Mother Teresa",
-      "date": "2026-02-04",
-      "inactive": true
-    },
-    {
-      "text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest.",
-      "author": "Jesus Christ",
       "date": "2026-02-04",
       "inactive": true
     },
@@ -412,12 +407,6 @@
       "inactive": true
     },
     {
-      "text": "You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes.",
-      "author": "A.A. Milne",
-      "date": "2026-01-24",
-      "inactive": true
-    },
-    {
       "text": "Even miracles take a little time.",
       "author": "Fairy Godmother, Cinderella",
       "date": "2026-01-24",
@@ -493,12 +482,6 @@
       "text": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
       "author": "Ralph Waldo Emerson",
       "date": "2026-01-18",
-      "inactive": true
-    },
-    {
-      "text": "The only person you are destined to become is the person you decide to be.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-01-17",
       "inactive": true
     },
     {
@@ -964,12 +947,6 @@
       "inactive": true
     },
     {
-      "text": "Don't gobblefunk around with words.",
-      "author": "Roald Dahl",
-      "date": "2025-12-23",
-      "inactive": true
-    },
-    {
       "text": "Listen to the mustn'ts, child. Listen to the don'ts. Listen to the shouldn'ts, the impossibles, the won'ts. Then listen close to me... Anything can happen, child. Anything can be.",
       "author": "Shel Silverstein",
       "date": "2025-12-22",
@@ -1358,13 +1335,6 @@
     {
       "text": "The purpose of our lives is to be happy.",
       "author": "Dalai Lama",
-      "date": "2026-02-12",
-      "inactive": true,
-      "deactivatedDate": "2026-02-17"
-    },
-    {
-      "text": "A soft answer turneth away wrath.",
-      "author": "King Solomon",
       "date": "2026-02-12",
       "inactive": true,
       "deactivatedDate": "2026-02-17"
@@ -2026,9 +1996,44 @@
       "date": "2026-03-03",
       "inactive": true,
       "deactivatedDate": "2026-03-11"
+    },
+    {
+      "text": "Courage is not simply one of the virtues, but the form of every virtue at the testing point.",
+      "author": "C.S. Lewis",
+      "date": "2026-03-05",
+      "inactive": true,
+      "deactivatedDate": "2026-03-12"
+    },
+    {
+      "text": "Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.",
+      "author": "Carl Jung",
+      "date": "2026-03-05",
+      "inactive": true,
+      "deactivatedDate": "2026-03-12"
+    },
+    {
+      "text": "“If I die before my dog, please show him my dead body. dogs can process death, but I would hate for him to think I abandoned him”.",
+      "author": "Unknown",
+      "date": "2026-03-05",
+      "inactive": true,
+      "deactivatedDate": "2026-03-12"
+    },
+    {
+      "text": "If you are a dreamer, come in.",
+      "author": "Shel Silverstein",
+      "date": "2026-03-04",
+      "inactive": true,
+      "deactivatedDate": "2026-03-12"
+    },
+    {
+      "text": "And above all, watch with glittering eyes the whole world around you because the greatest secrets are always hidden in the most unlikely places.",
+      "author": "Roald Dahl",
+      "date": "2026-03-04",
+      "inactive": true,
+      "deactivatedDate": "2026-03-12"
     }
   ],
-  "lastRotation": "2026-03-11",
+  "lastRotation": "2026-03-12",
   "totalQuotes": 317,
   "activeQuotes": 40,
   "inactiveQuotes": 277
