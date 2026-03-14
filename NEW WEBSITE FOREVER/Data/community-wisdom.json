@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "When we keep the commandments, the blessings come.",
+      "author": "Henry B. Eyring",
+      "date": "2026-03-14",
+      "inactive": false
+    },
+    {
+      "text": "Let your light so shine before men.",
+      "author": "Jesus Christ",
+      "date": "2026-03-14",
+      "inactive": false
+    },
+    {
+      "text": "Go confidently in the direction of your dreams. Live the life you have imagined.",
+      "author": "Henry David Thoreau",
+      "date": "2026-03-14",
+      "inactive": false
+    },
+    {
+      "text": "You don't have to be perfect to be loved.",
+      "author": "Russell M. Nelson",
+      "date": "2026-03-14",
+      "inactive": false
+    },
+    {
+      "text": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
+      "author": "Dr. Seuss",
+      "date": "2026-03-14",
+      "inactive": false
+    },
+    {
       "text": "Because you are alive, everything is possible.",
       "author": "Thich Nhat Hanh",
       "date": "2026-03-13",
@@ -208,36 +238,6 @@
       "text": "You don't have to be the victim of your environment. You can also be the architect of it.",
       "author": "James Clear",
       "date": "2026-03-07",
-      "inactive": false
-    },
-    {
-      "text": "I grew up like a neglected weed, ignorant of liberty, having no experience of it.",
-      "author": "Harriet Tubman",
-      "date": "2026-03-06",
-      "inactive": false
-    },
-    {
-      "text": "Focus on the moment, not the monsters that may or may not be up ahead.",
-      "author": "Ryan Holiday",
-      "date": "2026-03-06",
-      "inactive": false
-    },
-    {
-      "text": "Lift where you stand.",
-      "author": "Dieter F. Uchtdorf",
-      "date": "2026-03-06",
-      "inactive": false
-    },
-    {
-      "text": "I would unite with anybody to do right and with nobody to do wrong.",
-      "author": "Frederick Douglass",
-      "date": "2026-03-06",
-      "inactive": false
-    },
-    {
-      "text": "Every action you take is a vote for the type of person you wish to become.",
-      "author": "James Clear",
-      "date": "2026-03-06",
       "inactive": false
     },
     {
@@ -1135,20 +1135,6 @@
       "deactivatedDate": "2026-02-12"
     },
     {
-      "text": "Go confidently in the direction of your dreams. Live the life you have imagined.",
-      "author": "Henry David Thoreau",
-      "date": "2026-02-09",
-      "inactive": true,
-      "deactivatedDate": "2026-02-12"
-    },
-    {
-      "text": "You don't have to be perfect to be loved.",
-      "author": "Russell M. Nelson",
-      "date": "2026-02-11",
-      "inactive": true,
-      "deactivatedDate": "2026-02-12"
-    },
-    {
       "text": "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
       "author": "Mother Teresa",
       "date": "2026-02-10",
@@ -1159,13 +1145,6 @@
       "text": "The time is always right to do what is right.",
       "author": "Martin Luther King Jr.",
       "date": "2026-02-10",
-      "inactive": true,
-      "deactivatedDate": "2026-02-12"
-    },
-    {
-      "text": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
-      "author": "Dr. Seuss",
-      "date": "2026-02-12",
       "inactive": true,
       "deactivatedDate": "2026-02-12"
     },
@@ -1186,13 +1165,6 @@
     {
       "text": "Peace comes from within. Do not seek it without.",
       "author": "Buddha",
-      "date": "2026-02-12",
-      "inactive": true,
-      "deactivatedDate": "2026-02-13"
-    },
-    {
-      "text": "Let your light so shine before men.",
-      "author": "Jesus Christ",
       "date": "2026-02-12",
       "inactive": true,
       "deactivatedDate": "2026-02-13"
@@ -1674,13 +1646,6 @@
       "deactivatedDate": "2026-03-02"
     },
     {
-      "text": "When we keep the commandments, the blessings come.",
-      "author": "Henry B. Eyring",
-      "date": "2026-02-24",
-      "inactive": true,
-      "deactivatedDate": "2026-03-03"
-    },
-    {
       "text": "The wound is the place where the Light enters you.",
       "author": "Rumi",
       "date": "2026-02-24",
@@ -2036,9 +2001,44 @@
       "date": "2026-03-05",
       "inactive": true,
       "deactivatedDate": "2026-03-13"
+    },
+    {
+      "text": "I grew up like a neglected weed, ignorant of liberty, having no experience of it.",
+      "author": "Harriet Tubman",
+      "date": "2026-03-06",
+      "inactive": true,
+      "deactivatedDate": "2026-03-14"
+    },
+    {
+      "text": "Focus on the moment, not the monsters that may or may not be up ahead.",
+      "author": "Ryan Holiday",
+      "date": "2026-03-06",
+      "inactive": true,
+      "deactivatedDate": "2026-03-14"
+    },
+    {
+      "text": "Lift where you stand.",
+      "author": "Dieter F. Uchtdorf",
+      "date": "2026-03-06",
+      "inactive": true,
+      "deactivatedDate": "2026-03-14"
+    },
+    {
+      "text": "I would unite with anybody to do right and with nobody to do wrong.",
+      "author": "Frederick Douglass",
+      "date": "2026-03-06",
+      "inactive": true,
+      "deactivatedDate": "2026-03-14"
+    },
+    {
+      "text": "Every action you take is a vote for the type of person you wish to become.",
+      "author": "James Clear",
+      "date": "2026-03-06",
+      "inactive": true,
+      "deactivatedDate": "2026-03-14"
     }
   ],
-  "lastRotation": "2026-03-13",
+  "lastRotation": "2026-03-14",
   "totalQuotes": 317,
   "activeQuotes": 40,
   "inactiveQuotes": 277
