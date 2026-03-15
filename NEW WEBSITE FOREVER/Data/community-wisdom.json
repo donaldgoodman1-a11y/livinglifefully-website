@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Write it on your heart that every day is the best day in the year.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-03-15",
+      "inactive": false
+    },
+    {
+      "text": "Even miracles take a little time.",
+      "author": "Fairy Godmother, Cinderella",
+      "date": "2026-03-15",
+      "inactive": false
+    },
+    {
+      "text": "Peace comes from within. Do not seek it without.",
+      "author": "Thich Nhat Hanh",
+      "date": "2026-03-15",
+      "inactive": false
+    },
+    {
+      "text": "Faith in Jesus Christ is the first principle of the gospel for a reason.",
+      "author": "Henry B. Eyring",
+      "date": "2026-03-15",
+      "inactive": false
+    },
+    {
+      "text": "Sometimes the questions are complicated and the answers are simple.",
+      "author": "Dr. Seuss",
+      "date": "2026-03-15",
+      "inactive": false
+    },
+    {
       "text": "When we keep the commandments, the blessings come.",
       "author": "Henry B. Eyring",
       "date": "2026-03-14",
@@ -211,36 +241,6 @@
       "inactive": false
     },
     {
-      "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
-      "author": "Zig Ziglar",
-      "date": "2026-03-07",
-      "inactive": false
-    },
-    {
-      "text": "I can't die but once.",
-      "author": "Harriet Tubman",
-      "date": "2026-03-07",
-      "inactive": false
-    },
-    {
-      "text": "Attitude is a little thing that makes a big difference.",
-      "author": "Winston Churchill",
-      "date": "2026-03-07",
-      "inactive": false
-    },
-    {
-      "text": "The weak can never forgive. Forgiveness is the attribute of the strong.",
-      "author": "Mahatma Gandhi",
-      "date": "2026-03-07",
-      "inactive": false
-    },
-    {
-      "text": "You don't have to be the victim of your environment. You can also be the architect of it.",
-      "author": "James Clear",
-      "date": "2026-03-07",
-      "inactive": false
-    },
-    {
       "text": "In the end, it's not the years in your life that count. It's the life in your years.",
       "author": "Abraham Lincoln",
       "date": "2026-02-06",
@@ -397,21 +397,9 @@
       "inactive": true
     },
     {
-      "text": "Sometimes the questions are complicated and the answers are simple.",
-      "author": "Dr. Seuss",
-      "date": "2026-01-25",
-      "inactive": true
-    },
-    {
       "text": "The more that you read, the more things you will know. The more that you learn, the more places you'll go.",
       "author": "Dr. Seuss",
       "date": "2026-01-25",
-      "inactive": true
-    },
-    {
-      "text": "Even miracles take a little time.",
-      "author": "Fairy Godmother, Cinderella",
-      "date": "2026-01-24",
       "inactive": true
     },
     {
@@ -697,12 +685,6 @@
       "inactive": true
     },
     {
-      "text": "Peace comes from within. Do not seek it without.",
-      "author": "Thich Nhat Hanh",
-      "date": "2026-01-06",
-      "inactive": true
-    },
-    {
       "text": "The present moment is the only time over which we have dominion.",
       "author": "Thich Nhat Hanh",
       "date": "2026-01-06",
@@ -735,12 +717,6 @@
     {
       "text": "A small act is worth a million thoughts.",
       "author": "Ai Weiwei",
-      "date": "2026-01-04",
-      "inactive": true
-    },
-    {
-      "text": "Faith in Jesus Christ is the first principle of the gospel for a reason.",
-      "author": "Henry B. Eyring",
       "date": "2026-01-04",
       "inactive": true
     },
@@ -1821,13 +1797,6 @@
       "deactivatedDate": "2026-03-08"
     },
     {
-      "text": "Write it on your heart that every day is the best day in the year.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-03-01",
-      "inactive": true,
-      "deactivatedDate": "2026-03-08"
-    },
-    {
       "text": "The only impossible journey is the one you never begin.",
       "author": "Tony Robbins",
       "date": "2026-02-28",
@@ -2036,9 +2005,44 @@
       "date": "2026-03-06",
       "inactive": true,
       "deactivatedDate": "2026-03-14"
+    },
+    {
+      "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+      "author": "Zig Ziglar",
+      "date": "2026-03-07",
+      "inactive": true,
+      "deactivatedDate": "2026-03-15"
+    },
+    {
+      "text": "I can't die but once.",
+      "author": "Harriet Tubman",
+      "date": "2026-03-07",
+      "inactive": true,
+      "deactivatedDate": "2026-03-15"
+    },
+    {
+      "text": "Attitude is a little thing that makes a big difference.",
+      "author": "Winston Churchill",
+      "date": "2026-03-07",
+      "inactive": true,
+      "deactivatedDate": "2026-03-15"
+    },
+    {
+      "text": "The weak can never forgive. Forgiveness is the attribute of the strong.",
+      "author": "Mahatma Gandhi",
+      "date": "2026-03-07",
+      "inactive": true,
+      "deactivatedDate": "2026-03-15"
+    },
+    {
+      "text": "You don't have to be the victim of your environment. You can also be the architect of it.",
+      "author": "James Clear",
+      "date": "2026-03-07",
+      "inactive": true,
+      "deactivatedDate": "2026-03-15"
     }
   ],
-  "lastRotation": "2026-03-14",
+  "lastRotation": "2026-03-15",
   "totalQuotes": 317,
   "activeQuotes": 40,
   "inactiveQuotes": 277
