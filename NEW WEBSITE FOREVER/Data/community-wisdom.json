@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "We cannot do great things on this earth, only small things with great love.",
+      "author": "Mother Teresa",
+      "date": "2026-03-16",
+      "inactive": false
+    },
+    {
+      "text": "Not all of us can do great things. But we can do small things with great love.",
+      "author": "Mother Teresa",
+      "date": "2026-03-16",
+      "inactive": false
+    },
+    {
+      "text": "Freedom is never given; it is won.",
+      "author": "A. Philip Randolph",
+      "date": "2026-03-16",
+      "inactive": false
+    },
+    {
+      "text": "For every minute you are angry you lose sixty seconds of happiness.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-03-16",
+      "inactive": false
+    },
+    {
+      "text": "I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live by the light that I have.",
+      "author": "Abraham Lincoln",
+      "date": "2026-03-16",
+      "inactive": false
+    },
+    {
       "text": "Write it on your heart that every day is the best day in the year.",
       "author": "Ralph Waldo Emerson",
       "date": "2026-03-15",
@@ -208,36 +238,6 @@
       "text": "No one can make you feel inferior without your consent.",
       "author": "Eleanor Roosevelt",
       "date": "2026-03-09",
-      "inactive": false
-    },
-    {
-      "text": "There is no greater agony than bearing an untold story inside you.",
-      "author": "Maya Angelou",
-      "date": "2026-03-08",
-      "inactive": false
-    },
-    {
-      "text": "If you have good thoughts they will shine out of your face like sunbeams and you will always look lovely.",
-      "author": "Roald Dahl",
-      "date": "2026-03-08",
-      "inactive": false
-    },
-    {
-      "text": "To bear trials with a calm mind robs misfortune of its strength and burden.",
-      "author": "Seneca",
-      "date": "2026-03-08",
-      "inactive": false
-    },
-    {
-      "text": "Act as if what you do makes a difference. It does.",
-      "author": "William James",
-      "date": "2026-03-08",
-      "inactive": false
-    },
-    {
-      "text": "Owning our story and loving ourselves through that process is the bravest thing that we'll ever do.",
-      "author": "Brené Brown",
-      "date": "2026-03-08",
       "inactive": false
     },
     {
@@ -1251,13 +1251,6 @@
       "deactivatedDate": "2026-02-16"
     },
     {
-      "text": "I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live by the light that I have.",
-      "author": "Abraham Lincoln",
-      "date": "2026-02-12",
-      "inactive": true,
-      "deactivatedDate": "2026-02-17"
-    },
-    {
       "text": "It is only with the heart that one can see rightly; what is essential is invisible to the eye.",
       "author": "Antoine de Saint-Exupéry",
       "date": "2026-02-12",
@@ -1291,13 +1284,6 @@
       "date": "2026-02-12",
       "inactive": true,
       "deactivatedDate": "2026-02-19"
-    },
-    {
-      "text": "For every minute you are angry you lose sixty seconds of happiness.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-02-13",
-      "inactive": true,
-      "deactivatedDate": "2026-02-20"
     },
     {
       "text": "In the middle of difficulty lies opportunity.",
@@ -1405,13 +1391,6 @@
       "deactivatedDate": "2026-02-24"
     },
     {
-      "text": "Freedom is never given; it is won.",
-      "author": "A. Philip Randolph",
-      "date": "2026-02-17",
-      "inactive": true,
-      "deactivatedDate": "2026-02-24"
-    },
-    {
       "text": "It is not our abilities that show what we truly are. It is our choices.",
       "author": "J.K. Rowling",
       "date": "2026-02-17",
@@ -1442,13 +1421,6 @@
     {
       "text": "Remember that sometimes not getting what you want is a wonderful stroke of luck.",
       "author": "Dalai Lama",
-      "date": "2026-02-19",
-      "inactive": true,
-      "deactivatedDate": "2026-02-25"
-    },
-    {
-      "text": "Not all of us can do great things. But we can do small things with great love.",
-      "author": "Mother Teresa",
       "date": "2026-02-19",
       "inactive": true,
       "deactivatedDate": "2026-02-25"
@@ -1694,13 +1666,6 @@
     {
       "text": "To pay attention, this is our endless and proper work.",
       "author": "Mary Oliver",
-      "date": "2026-02-26",
-      "inactive": true,
-      "deactivatedDate": "2026-03-05"
-    },
-    {
-      "text": "We cannot do great things on this earth, only small things with great love.",
-      "author": "Mother Teresa",
       "date": "2026-02-26",
       "inactive": true,
       "deactivatedDate": "2026-03-05"
@@ -2040,9 +2005,44 @@
       "date": "2026-03-07",
       "inactive": true,
       "deactivatedDate": "2026-03-15"
+    },
+    {
+      "text": "There is no greater agony than bearing an untold story inside you.",
+      "author": "Maya Angelou",
+      "date": "2026-03-08",
+      "inactive": true,
+      "deactivatedDate": "2026-03-16"
+    },
+    {
+      "text": "If you have good thoughts they will shine out of your face like sunbeams and you will always look lovely.",
+      "author": "Roald Dahl",
+      "date": "2026-03-08",
+      "inactive": true,
+      "deactivatedDate": "2026-03-16"
+    },
+    {
+      "text": "To bear trials with a calm mind robs misfortune of its strength and burden.",
+      "author": "Seneca",
+      "date": "2026-03-08",
+      "inactive": true,
+      "deactivatedDate": "2026-03-16"
+    },
+    {
+      "text": "Act as if what you do makes a difference. It does.",
+      "author": "William James",
+      "date": "2026-03-08",
+      "inactive": true,
+      "deactivatedDate": "2026-03-16"
+    },
+    {
+      "text": "Owning our story and loving ourselves through that process is the bravest thing that we'll ever do.",
+      "author": "Brené Brown",
+      "date": "2026-03-08",
+      "inactive": true,
+      "deactivatedDate": "2026-03-16"
     }
   ],
-  "lastRotation": "2026-03-15",
+  "lastRotation": "2026-03-16",
   "totalQuotes": 317,
   "activeQuotes": 40,
   "inactiveQuotes": 277
