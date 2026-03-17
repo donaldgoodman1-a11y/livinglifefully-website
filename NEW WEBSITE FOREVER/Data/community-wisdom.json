@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Desire is the father of action.",
+      "author": "Dallin H. Oaks",
+      "date": "2026-03-17",
+      "inactive": false
+    },
+    {
+      "text": "In the end, it's not the years in your life that count. It's the life in your years.",
+      "author": "Abraham Lincoln",
+      "date": "2026-03-17",
+      "inactive": false
+    },
+    {
+      "text": "If you can dream it, you can do it.",
+      "author": "Walt Disney",
+      "date": "2026-03-17",
+      "inactive": false
+    },
+    {
+      "text": "Education is the most powerful weapon which you can use to change the world.",
+      "author": "Nelson Mandela",
+      "date": "2026-03-17",
+      "inactive": false
+    },
+    {
+      "text": "Well done is better than well said.",
+      "author": "Benjamin Franklin",
+      "date": "2026-03-17",
+      "inactive": false
+    },
+    {
       "text": "We cannot do great things on this earth, only small things with great love.",
       "author": "Mother Teresa",
       "date": "2026-03-16",
@@ -209,42 +239,6 @@
       "author": "Desmond Tutu",
       "date": "2026-03-10",
       "inactive": false
-    },
-    {
-      "text": "There is a place where the sidewalk ends and before the street begins.",
-      "author": "Shel Silverstein",
-      "date": "2026-03-09",
-      "inactive": false
-    },
-    {
-      "text": "We can press forward with steadfastness in Christ.",
-      "author": "David A. Bednar",
-      "date": "2026-03-09",
-      "inactive": false
-    },
-    {
-      "text": "The gospel is a message of hope and salvation for all.",
-      "author": "Henry B. Eyring",
-      "date": "2026-03-09",
-      "inactive": false
-    },
-    {
-      "text": "The brick walls are there for a reason. They're not there to keep us out. The brick walls are there to give us a chance to show how badly we want something.",
-      "author": "Randy Pausch",
-      "date": "2026-03-09",
-      "inactive": false
-    },
-    {
-      "text": "No one can make you feel inferior without your consent.",
-      "author": "Eleanor Roosevelt",
-      "date": "2026-03-09",
-      "inactive": false
-    },
-    {
-      "text": "In the end, it's not the years in your life that count. It's the life in your years.",
-      "author": "Abraham Lincoln",
-      "date": "2026-02-06",
-      "inactive": true
     },
     {
       "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
@@ -931,12 +925,6 @@
       "inactive": true
     },
     {
-      "text": "If you can dream it, you can do it.",
-      "author": "Walt Disney",
-      "date": "2025-12-21",
-      "inactive": true
-    },
-    {
       "text": "When you're screwing up and nobody says anything to you anymore, that means they've given up on you.",
       "author": "Randy Pausch",
       "date": "2025-12-20",
@@ -944,12 +932,6 @@
     },
     {
       "text": "It always seems impossible until it's done.",
-      "author": "Nelson Mandela",
-      "date": "2025-12-19",
-      "inactive": true
-    },
-    {
-      "text": "Education is the most powerful weapon which you can use to change the world.",
       "author": "Nelson Mandela",
       "date": "2025-12-19",
       "inactive": true
@@ -1000,12 +982,6 @@
       "text": "Never wound a snake; kill it.",
       "author": "Harriet Tubman",
       "date": "2025-12-17",
-      "inactive": true
-    },
-    {
-      "text": "Well done is better than well said.",
-      "author": "Benjamin Franklin",
-      "date": "2025-12-16",
       "inactive": true
     },
     {
@@ -1524,13 +1500,6 @@
       "deactivatedDate": "2026-02-28"
     },
     {
-      "text": "Desire is the father of action.",
-      "author": "Dallin H. Oaks",
-      "date": "2026-02-21",
-      "inactive": true,
-      "deactivatedDate": "2026-02-28"
-    },
-    {
       "text": "Try to be a rainbow in someone's cloud.",
       "author": "Maya Angelou",
       "date": "2026-02-21",
@@ -2040,9 +2009,44 @@
       "date": "2026-03-08",
       "inactive": true,
       "deactivatedDate": "2026-03-16"
+    },
+    {
+      "text": "There is a place where the sidewalk ends and before the street begins.",
+      "author": "Shel Silverstein",
+      "date": "2026-03-09",
+      "inactive": true,
+      "deactivatedDate": "2026-03-17"
+    },
+    {
+      "text": "We can press forward with steadfastness in Christ.",
+      "author": "David A. Bednar",
+      "date": "2026-03-09",
+      "inactive": true,
+      "deactivatedDate": "2026-03-17"
+    },
+    {
+      "text": "The gospel is a message of hope and salvation for all.",
+      "author": "Henry B. Eyring",
+      "date": "2026-03-09",
+      "inactive": true,
+      "deactivatedDate": "2026-03-17"
+    },
+    {
+      "text": "The brick walls are there for a reason. They're not there to keep us out. The brick walls are there to give us a chance to show how badly we want something.",
+      "author": "Randy Pausch",
+      "date": "2026-03-09",
+      "inactive": true,
+      "deactivatedDate": "2026-03-17"
+    },
+    {
+      "text": "No one can make you feel inferior without your consent.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-03-09",
+      "inactive": true,
+      "deactivatedDate": "2026-03-17"
     }
   ],
-  "lastRotation": "2026-03-16",
+  "lastRotation": "2026-03-17",
   "totalQuotes": 317,
   "activeQuotes": 40,
   "inactiveQuotes": 277
