@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Everything can be taken from a man but one thing: the last of the human freedoms—to choose one's attitude in any given set of circumstances.",
+      "author": "Viktor Frankl",
+      "date": "2026-03-18",
+      "inactive": false
+    },
+    {
+      "text": "Real change takes time. What matters most is that you start.",
+      "author": "Russell M. Nelson",
+      "date": "2026-03-18",
+      "inactive": false
+    },
+    {
+      "text": "Dwell on the beauty of life. Watch the stars, and see yourself running with them.",
+      "author": "Marcus Aurelius",
+      "date": "2026-03-18",
+      "inactive": false
+    },
+    {
+      "text": "We must accept finite disappointment, but never lose infinite hope.",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-03-18",
+      "inactive": false
+    },
+    {
+      "text": "Even the smallest person can change the course of the future.",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-03-18",
+      "inactive": false
+    },
+    {
       "text": "Desire is the father of action.",
       "author": "Dallin H. Oaks",
       "date": "2026-03-17",
@@ -208,36 +238,6 @@
       "text": "Opposition is part of the divine plan.",
       "author": "Dallin H. Oaks",
       "date": "2026-03-11",
-      "inactive": false
-    },
-    {
-      "text": "Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.",
-      "author": "Brené Brown",
-      "date": "2026-03-10",
-      "inactive": false
-    },
-    {
-      "text": "The spiritual gift of agency, the freedom to choose, is essential to our growth.",
-      "author": "Dallin H. Oaks",
-      "date": "2026-03-10",
-      "inactive": false
-    },
-    {
-      "text": "I wish it need not have happened in my time, said Frodo. So do I, said Gandalf, and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.",
-      "author": "J.R.R. Tolkien",
-      "date": "2026-03-10",
-      "inactive": false
-    },
-    {
-      "text": "A person's a person, no matter how small.",
-      "author": "Dr. Seuss",
-      "date": "2026-03-10",
-      "inactive": false
-    },
-    {
-      "text": "Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world.",
-      "author": "Desmond Tutu",
-      "date": "2026-03-10",
       "inactive": false
     },
     {
@@ -727,12 +727,6 @@
       "inactive": true
     },
     {
-      "text": "We must accept finite disappointment, but never lose infinite hope.",
-      "author": "Martin Luther King Jr.",
-      "date": "2026-01-03",
-      "inactive": true
-    },
-    {
       "text": "Joy comes not in riches, or in things, but in relationships.",
       "author": "Russell M. Nelson",
       "date": "2026-01-02",
@@ -757,12 +751,6 @@
       "inactive": true
     },
     {
-      "text": "Real change takes time. What matters most is that you start.",
-      "author": "Russell M. Nelson",
-      "date": "2026-01-02",
-      "inactive": true
-    },
-    {
       "text": "We are to become even as He is.",
       "author": "David A. Bednar",
       "date": "2026-01-01",
@@ -782,12 +770,6 @@
     },
     {
       "text": "Waste no more time arguing about what a good man should be. Be one.",
-      "author": "Marcus Aurelius",
-      "date": "2025-12-30",
-      "inactive": true
-    },
-    {
-      "text": "Dwell on the beauty of life. Watch the stars, and see yourself running with them.",
       "author": "Marcus Aurelius",
       "date": "2025-12-30",
       "inactive": true
@@ -878,12 +860,6 @@
     },
     {
       "text": "Not all those who wander are lost.",
-      "author": "J.R.R. Tolkien",
-      "date": "2025-12-25",
-      "inactive": true
-    },
-    {
-      "text": "Even the smallest person can change the course of the future.",
       "author": "J.R.R. Tolkien",
       "date": "2025-12-25",
       "inactive": true
@@ -1717,13 +1693,6 @@
       "deactivatedDate": "2026-03-08"
     },
     {
-      "text": "Everything can be taken from a man but one thing: the last of the human freedoms—to choose one's attitude in any given set of circumstances.",
-      "author": "Viktor Frankl",
-      "date": "2026-03-01",
-      "inactive": true,
-      "deactivatedDate": "2026-03-08"
-    },
-    {
       "text": "Live in the sunshine, swim the sea, drink the wild air.",
       "author": "Ralph Waldo Emerson",
       "date": "2026-03-01",
@@ -2044,9 +2013,44 @@
       "date": "2026-03-09",
       "inactive": true,
       "deactivatedDate": "2026-03-17"
+    },
+    {
+      "text": "Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.",
+      "author": "Brené Brown",
+      "date": "2026-03-10",
+      "inactive": true,
+      "deactivatedDate": "2026-03-18"
+    },
+    {
+      "text": "The spiritual gift of agency, the freedom to choose, is essential to our growth.",
+      "author": "Dallin H. Oaks",
+      "date": "2026-03-10",
+      "inactive": true,
+      "deactivatedDate": "2026-03-18"
+    },
+    {
+      "text": "I wish it need not have happened in my time, said Frodo. So do I, said Gandalf, and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-03-10",
+      "inactive": true,
+      "deactivatedDate": "2026-03-18"
+    },
+    {
+      "text": "A person's a person, no matter how small.",
+      "author": "Dr. Seuss",
+      "date": "2026-03-10",
+      "inactive": true,
+      "deactivatedDate": "2026-03-18"
+    },
+    {
+      "text": "Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world.",
+      "author": "Desmond Tutu",
+      "date": "2026-03-10",
+      "inactive": true,
+      "deactivatedDate": "2026-03-18"
     }
   ],
-  "lastRotation": "2026-03-17",
+  "lastRotation": "2026-03-18",
   "totalQuotes": 317,
   "activeQuotes": 40,
   "inactiveQuotes": 277
