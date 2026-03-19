@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "He who has a why to live can bear almost any how.",
+      "author": "Friedrich Nietzsche",
+      "date": "2026-03-19",
+      "inactive": false
+    },
+    {
+      "text": "Whatever you are, be a good one.",
+      "author": "Abraham Lincoln",
+      "date": "2026-03-19",
+      "inactive": false
+    },
+    {
+      "text": "Your work is to discover your work and then with all your heart to give yourself to it.",
+      "author": "Buddha",
+      "date": "2026-03-19",
+      "inactive": false
+    },
+    {
+      "text": "Walk as if you are kissing the Earth with your feet.",
+      "author": "Thich Nhat Hanh",
+      "date": "2026-03-19",
+      "inactive": false
+    },
+    {
+      "text": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-03-19",
+      "inactive": false
+    },
+    {
       "text": "To pull a friend out of the mire, don’t hesitate to get dirty.\nBaal Shem",
       "author": "Baal Shem Tov",
       "date": "2026-03-18"
@@ -216,36 +246,6 @@
       "inactive": false
     },
     {
-      "text": "Either write something worth reading or do something worth writing.",
-      "author": "Benjamin Franklin",
-      "date": "2026-03-11",
-      "inactive": false
-    },
-    {
-      "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-03-11",
-      "inactive": false
-    },
-    {
-      "text": "Fear thou not; for I am with thee: be not dismayed; for I am thy God.",
-      "author": "Isaiah",
-      "date": "2026-03-11",
-      "inactive": false
-    },
-    {
-      "text": "Getting old is like climbing a mountain; you get a little out of breath, but the view is much better.",
-      "author": "Ingrid Bergman",
-      "date": "2026-03-11",
-      "inactive": false
-    },
-    {
-      "text": "Opposition is part of the divine plan.",
-      "author": "Dallin H. Oaks",
-      "date": "2026-03-11",
-      "inactive": false
-    },
-    {
       "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
       "author": "Confucius",
       "date": "2026-02-06",
@@ -368,12 +368,6 @@
     {
       "text": "Life is either a daring adventure or nothing at all.",
       "author": "Helen Keller",
-      "date": "2026-01-28",
-      "inactive": true
-    },
-    {
-      "text": "Whatever you are, be a good one.",
-      "author": "Abraham Lincoln",
       "date": "2026-01-28",
       "inactive": true
     },
@@ -522,12 +516,6 @@
       "inactive": true
     },
     {
-      "text": "He who has a why to live can bear almost any how.",
-      "author": "Friedrich Nietzsche",
-      "date": "2026-01-15",
-      "inactive": true
-    },
-    {
       "text": "That which does not kill us makes us stronger.",
       "author": "Friedrich Nietzsche",
       "date": "2026-01-15",
@@ -553,12 +541,6 @@
     },
     {
       "text": "It is better to light a candle than curse the darkness.",
-      "author": "Eleanor Roosevelt",
-      "date": "2026-01-13",
-      "inactive": true
-    },
-    {
-      "text": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
       "author": "Eleanor Roosevelt",
       "date": "2026-01-13",
       "inactive": true
@@ -691,12 +673,6 @@
     },
     {
       "text": "Breathing in, I calm body and mind. Breathing out, I smile.",
-      "author": "Thich Nhat Hanh",
-      "date": "2026-01-06",
-      "inactive": true
-    },
-    {
-      "text": "Walk as if you are kissing the Earth with your feet.",
       "author": "Thich Nhat Hanh",
       "date": "2026-01-06",
       "inactive": true
@@ -1404,13 +1380,6 @@
       "deactivatedDate": "2026-02-26"
     },
     {
-      "text": "Your work is to discover your work and then with all your heart to give yourself to it.",
-      "author": "Buddha",
-      "date": "2026-02-20",
-      "inactive": true,
-      "deactivatedDate": "2026-02-26"
-    },
-    {
       "text": "No matter what anyone says or does, my task is to be good.",
       "author": "Marcus Aurelius",
       "date": "2026-02-20",
@@ -2053,10 +2022,45 @@
       "date": "2026-03-10",
       "inactive": true,
       "deactivatedDate": "2026-03-18"
+    },
+    {
+      "text": "Either write something worth reading or do something worth writing.",
+      "author": "Benjamin Franklin",
+      "date": "2026-03-11",
+      "inactive": true,
+      "deactivatedDate": "2026-03-19"
+    },
+    {
+      "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-03-11",
+      "inactive": true,
+      "deactivatedDate": "2026-03-19"
+    },
+    {
+      "text": "Fear thou not; for I am with thee: be not dismayed; for I am thy God.",
+      "author": "Isaiah",
+      "date": "2026-03-11",
+      "inactive": true,
+      "deactivatedDate": "2026-03-19"
+    },
+    {
+      "text": "Getting old is like climbing a mountain; you get a little out of breath, but the view is much better.",
+      "author": "Ingrid Bergman",
+      "date": "2026-03-11",
+      "inactive": true,
+      "deactivatedDate": "2026-03-19"
+    },
+    {
+      "text": "Opposition is part of the divine plan.",
+      "author": "Dallin H. Oaks",
+      "date": "2026-03-11",
+      "inactive": true,
+      "deactivatedDate": "2026-03-19"
     }
   ],
-  "lastRotation": "2026-03-18",
-  "totalQuotes": 317,
-  "activeQuotes": 40,
+  "lastRotation": "2026-03-19",
+  "totalQuotes": 318,
+  "activeQuotes": 41,
   "inactiveQuotes": 277
 }
