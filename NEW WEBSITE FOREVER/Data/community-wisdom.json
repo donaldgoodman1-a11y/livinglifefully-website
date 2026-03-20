@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "I am seeking, I am striving, I am in it with all my heart.",
+      "author": "Vincent Van Gogh",
+      "date": "2026-03-20",
+      "inactive": false
+    },
+    {
+      "text": "I can't die but once.",
+      "author": "Harriet Tubman",
+      "date": "2026-03-20",
+      "inactive": false
+    },
+    {
+      "text": "The best way to predict your future is to create it.",
+      "author": "Abraham Lincoln",
+      "date": "2026-03-20",
+      "inactive": false
+    },
+    {
+      "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-03-20",
+      "inactive": false
+    },
+    {
+      "text": "The impediment to action advances action. What stands in the way becomes the way.",
+      "author": "Marcus Aurelius",
+      "date": "2026-03-20",
+      "inactive": false
+    },
+    {
       "text": "He who has a why to live can bear almost any how.",
       "author": "Friedrich Nietzsche",
       "date": "2026-03-19",
@@ -213,36 +243,6 @@
       "text": "Choose faith over fear, and doubt not.",
       "author": "David A. Bednar",
       "date": "2026-03-13",
-      "inactive": false
-    },
-    {
-      "text": "A soft answer turneth away wrath.",
-      "author": "King Solomon",
-      "date": "2026-03-12",
-      "inactive": false
-    },
-    {
-      "text": "The only person you are destined to become is the person you decide to be.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-03-12",
-      "inactive": false
-    },
-    {
-      "text": "You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes.",
-      "author": "A.A. Milne",
-      "date": "2026-03-12",
-      "inactive": false
-    },
-    {
-      "text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest.",
-      "author": "Jesus Christ",
-      "date": "2026-03-12",
-      "inactive": false
-    },
-    {
-      "text": "Don't gobblefunk around with words.",
-      "author": "Roald Dahl",
-      "date": "2026-03-12",
       "inactive": false
     },
     {
@@ -1506,13 +1506,6 @@
       "deactivatedDate": "2026-03-02"
     },
     {
-      "text": "I am seeking, I am striving, I am in it with all my heart.",
-      "author": "Vincent Van Gogh",
-      "date": "2026-02-23",
-      "inactive": true,
-      "deactivatedDate": "2026-03-02"
-    },
-    {
       "text": "The wound is the place where the Light enters you.",
       "author": "Rumi",
       "date": "2026-02-24",
@@ -1646,20 +1639,6 @@
       "deactivatedDate": "2026-03-07"
     },
     {
-      "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-02-28",
-      "inactive": true,
-      "deactivatedDate": "2026-03-07"
-    },
-    {
-      "text": "The best way to predict your future is to create it.",
-      "author": "Abraham Lincoln",
-      "date": "2026-02-28",
-      "inactive": true,
-      "deactivatedDate": "2026-03-07"
-    },
-    {
       "text": "The Lord is my shepherd; I shall not want.",
       "author": "King David",
       "date": "2026-03-01",
@@ -1772,13 +1751,6 @@
       "deactivatedDate": "2026-03-11"
     },
     {
-      "text": "The impediment to action advances action. What stands in the way becomes the way.",
-      "author": "Marcus Aurelius",
-      "date": "2026-03-03",
-      "inactive": true,
-      "deactivatedDate": "2026-03-11"
-    },
-    {
       "text": "Courage is not simply one of the virtues, but the form of every virtue at the testing point.",
       "author": "C.S. Lewis",
       "date": "2026-03-05",
@@ -1886,13 +1858,6 @@
     {
       "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
       "author": "Zig Ziglar",
-      "date": "2026-03-07",
-      "inactive": true,
-      "deactivatedDate": "2026-03-15"
-    },
-    {
-      "text": "I can't die but once.",
-      "author": "Harriet Tubman",
       "date": "2026-03-07",
       "inactive": true,
       "deactivatedDate": "2026-03-15"
@@ -2057,9 +2022,44 @@
       "date": "2026-03-11",
       "inactive": true,
       "deactivatedDate": "2026-03-19"
+    },
+    {
+      "text": "A soft answer turneth away wrath.",
+      "author": "King Solomon",
+      "date": "2026-03-12",
+      "inactive": true,
+      "deactivatedDate": "2026-03-20"
+    },
+    {
+      "text": "The only person you are destined to become is the person you decide to be.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-03-12",
+      "inactive": true,
+      "deactivatedDate": "2026-03-20"
+    },
+    {
+      "text": "You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes.",
+      "author": "A.A. Milne",
+      "date": "2026-03-12",
+      "inactive": true,
+      "deactivatedDate": "2026-03-20"
+    },
+    {
+      "text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest.",
+      "author": "Jesus Christ",
+      "date": "2026-03-12",
+      "inactive": true,
+      "deactivatedDate": "2026-03-20"
+    },
+    {
+      "text": "Don't gobblefunk around with words.",
+      "author": "Roald Dahl",
+      "date": "2026-03-12",
+      "inactive": true,
+      "deactivatedDate": "2026-03-20"
     }
   ],
-  "lastRotation": "2026-03-19",
+  "lastRotation": "2026-03-20",
   "totalQuotes": 318,
   "activeQuotes": 41,
   "inactiveQuotes": 277
