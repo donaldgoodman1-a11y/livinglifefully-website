@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "I can do all things through Christ which strengtheneth me.",
+      "author": "Paul the Apostle",
+      "date": "2026-03-21",
+      "inactive": false
+    },
+    {
+      "text": "A person's a person, no matter how small.",
+      "author": "Dr. Seuss",
+      "date": "2026-03-21",
+      "inactive": false
+    },
+    {
+      "text": "You'll miss the best things if you keep your eyes shut.",
+      "author": "Dr. Seuss",
+      "date": "2026-03-21",
+      "inactive": false
+    },
+    {
+      "text": "The most glorious moments in your life are not the so-called days of success, but rather those days when out of dejection and despair you feel rise in you a challenge to life.",
+      "author": "Gustave Flaubert",
+      "date": "2026-03-21",
+      "inactive": false
+    },
+    {
+      "text": "Let us always meet each other with smile, for the smile is the beginning of love.",
+      "author": "Mother Teresa",
+      "date": "2026-03-21",
+      "inactive": false
+    },
+    {
       "text": "Because a thing seems difficult for you, do not think it impossible for anyone to accomplish.",
       "author": "Marcus Aurelius",
       "date": "2026-03-20"
@@ -221,36 +251,6 @@
       "inactive": false
     },
     {
-      "text": "Because you are alive, everything is possible.",
-      "author": "Thich Nhat Hanh",
-      "date": "2026-03-13",
-      "inactive": false
-    },
-    {
-      "text": "Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.",
-      "author": "Viktor Frankl",
-      "date": "2026-03-13",
-      "inactive": false
-    },
-    {
-      "text": "A little nonsense now and then is relished by the wisest men.",
-      "author": "Roald Dahl",
-      "date": "2026-03-13",
-      "inactive": false
-    },
-    {
-      "text": "You are never too old to set another goal or to dream a new dream.",
-      "author": "C.S. Lewis",
-      "date": "2026-03-13",
-      "inactive": false
-    },
-    {
-      "text": "Choose faith over fear, and doubt not.",
-      "author": "David A. Bednar",
-      "date": "2026-03-13",
-      "inactive": false
-    },
-    {
       "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
       "author": "Confucius",
       "date": "2026-02-06",
@@ -278,12 +278,6 @@
       "text": "Peace begins with a smile.",
       "author": "Mother Teresa",
       "date": "2026-02-04",
-      "inactive": true
-    },
-    {
-      "text": "I can do all things through Christ which strengtheneth me.",
-      "author": "Paul the Apostle",
-      "date": "2026-02-03",
       "inactive": true
     },
     {
@@ -1147,13 +1141,6 @@
       "deactivatedDate": "2026-02-15"
     },
     {
-      "text": "Let us always meet each other with smile, for the smile is the beginning of love.",
-      "author": "Mother Teresa",
-      "date": "2026-02-12",
-      "inactive": true,
-      "deactivatedDate": "2026-02-15"
-    },
-    {
       "text": "Experience is what you get when you didn't get what you wanted.",
       "author": "Randy Pausch",
       "date": "2026-02-12",
@@ -1707,13 +1694,6 @@
       "deactivatedDate": "2026-03-10"
     },
     {
-      "text": "You'll miss the best things if you keep your eyes shut.",
-      "author": "Dr. Seuss",
-      "date": "2026-03-03",
-      "inactive": true,
-      "deactivatedDate": "2026-03-10"
-    },
-    {
       "text": "Wise men speak because they have something to say; fools because they have to say something.",
       "author": "Plato",
       "date": "2026-03-02",
@@ -1737,13 +1717,6 @@
     {
       "text": "In three words I can sum up everything I've learned about life: it goes on.",
       "author": "Robert Frost",
-      "date": "2026-03-04",
-      "inactive": true,
-      "deactivatedDate": "2026-03-11"
-    },
-    {
-      "text": "The most glorious moments in your life are not the so-called days of success, but rather those days when out of dejection and despair you feel rise in you a challenge to life.",
-      "author": "Gustave Flaubert",
       "date": "2026-03-04",
       "inactive": true,
       "deactivatedDate": "2026-03-11"
@@ -1980,13 +1953,6 @@
       "deactivatedDate": "2026-03-18"
     },
     {
-      "text": "A person's a person, no matter how small.",
-      "author": "Dr. Seuss",
-      "date": "2026-03-10",
-      "inactive": true,
-      "deactivatedDate": "2026-03-18"
-    },
-    {
       "text": "Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world.",
       "author": "Desmond Tutu",
       "date": "2026-03-10",
@@ -2062,10 +2028,45 @@
       "date": "2026-03-12",
       "inactive": true,
       "deactivatedDate": "2026-03-20"
+    },
+    {
+      "text": "Because you are alive, everything is possible.",
+      "author": "Thich Nhat Hanh",
+      "date": "2026-03-13",
+      "inactive": true,
+      "deactivatedDate": "2026-03-21"
+    },
+    {
+      "text": "Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.",
+      "author": "Viktor Frankl",
+      "date": "2026-03-13",
+      "inactive": true,
+      "deactivatedDate": "2026-03-21"
+    },
+    {
+      "text": "A little nonsense now and then is relished by the wisest men.",
+      "author": "Roald Dahl",
+      "date": "2026-03-13",
+      "inactive": true,
+      "deactivatedDate": "2026-03-21"
+    },
+    {
+      "text": "You are never too old to set another goal or to dream a new dream.",
+      "author": "C.S. Lewis",
+      "date": "2026-03-13",
+      "inactive": true,
+      "deactivatedDate": "2026-03-21"
+    },
+    {
+      "text": "Choose faith over fear, and doubt not.",
+      "author": "David A. Bednar",
+      "date": "2026-03-13",
+      "inactive": true,
+      "deactivatedDate": "2026-03-21"
     }
   ],
-  "lastRotation": "2026-03-20",
-  "totalQuotes": 318,
-  "activeQuotes": 41,
+  "lastRotation": "2026-03-21",
+  "totalQuotes": 319,
+  "activeQuotes": 42,
   "inactiveQuotes": 277
 }
