@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Live in the sunshine, swim the sea, drink the wild air.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-03-22",
+      "inactive": false
+    },
+    {
+      "text": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+      "author": "Maya Angelou",
+      "date": "2026-03-22",
+      "inactive": false
+    },
+    {
+      "text": "The quieter you become, the more you can hear.",
+      "author": "Rumi",
+      "date": "2026-03-22",
+      "inactive": false
+    },
+    {
+      "text": "The more that you read, the more things you will know. The more that you learn, the more places you'll go.",
+      "author": "Dr. Seuss",
+      "date": "2026-03-22",
+      "inactive": false
+    },
+    {
+      "text": "All our dreams can come true, if we have the courage to pursue them.",
+      "author": "Walt Disney",
+      "date": "2026-03-22",
+      "inactive": false
+    },
+    {
       "text": "I can do all things through Christ which strengtheneth me.",
       "author": "Paul the Apostle",
       "date": "2026-03-21",
@@ -221,36 +251,6 @@
       "inactive": false
     },
     {
-      "text": "When we keep the commandments, the blessings come.",
-      "author": "Henry B. Eyring",
-      "date": "2026-03-14",
-      "inactive": false
-    },
-    {
-      "text": "Let your light so shine before men.",
-      "author": "Jesus Christ",
-      "date": "2026-03-14",
-      "inactive": false
-    },
-    {
-      "text": "Go confidently in the direction of your dreams. Live the life you have imagined.",
-      "author": "Henry David Thoreau",
-      "date": "2026-03-14",
-      "inactive": false
-    },
-    {
-      "text": "You don't have to be perfect to be loved.",
-      "author": "Russell M. Nelson",
-      "date": "2026-03-14",
-      "inactive": false
-    },
-    {
-      "text": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
-      "author": "Dr. Seuss",
-      "date": "2026-03-14",
-      "inactive": false
-    },
-    {
       "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
       "author": "Confucius",
       "date": "2026-02-06",
@@ -386,12 +386,6 @@
       "text": "Don't cry because it's over, smile because it happened.",
       "author": "Dr. Seuss",
       "date": "2026-01-26",
-      "inactive": true
-    },
-    {
-      "text": "The more that you read, the more things you will know. The more that you learn, the more places you'll go.",
-      "author": "Dr. Seuss",
-      "date": "2026-01-25",
       "inactive": true
     },
     {
@@ -635,12 +629,6 @@
       "inactive": true
     },
     {
-      "text": "The quieter you become, the more you can hear.",
-      "author": "Rumi",
-      "date": "2026-01-08",
-      "inactive": true
-    },
-    {
       "text": "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.",
       "author": "Rumi",
       "date": "2026-01-08",
@@ -869,12 +857,6 @@
       "inactive": true
     },
     {
-      "text": "All our dreams can come true, if we have the courage to pursue them.",
-      "author": "Walt Disney",
-      "date": "2025-12-21",
-      "inactive": true
-    },
-    {
       "text": "It's kind of fun to do the impossible.",
       "author": "Walt Disney",
       "date": "2025-12-21",
@@ -1062,13 +1044,6 @@
       "date": "2026-02-11",
       "inactive": true,
       "deactivatedDate": "2026-02-12"
-    },
-    {
-      "text": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
-      "author": "Maya Angelou",
-      "date": "2026-02-12",
-      "inactive": true,
-      "deactivatedDate": "2026-02-13"
     },
     {
       "text": "Peace comes from within. Do not seek it without.",
@@ -1638,13 +1613,6 @@
       "deactivatedDate": "2026-03-08"
     },
     {
-      "text": "Live in the sunshine, swim the sea, drink the wild air.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-03-01",
-      "inactive": true,
-      "deactivatedDate": "2026-03-08"
-    },
-    {
       "text": "The only impossible journey is the one you never begin.",
       "author": "Tony Robbins",
       "date": "2026-02-28",
@@ -2063,9 +2031,44 @@
       "date": "2026-03-13",
       "inactive": true,
       "deactivatedDate": "2026-03-21"
+    },
+    {
+      "text": "When we keep the commandments, the blessings come.",
+      "author": "Henry B. Eyring",
+      "date": "2026-03-14",
+      "inactive": true,
+      "deactivatedDate": "2026-03-22"
+    },
+    {
+      "text": "Let your light so shine before men.",
+      "author": "Jesus Christ",
+      "date": "2026-03-14",
+      "inactive": true,
+      "deactivatedDate": "2026-03-22"
+    },
+    {
+      "text": "Go confidently in the direction of your dreams. Live the life you have imagined.",
+      "author": "Henry David Thoreau",
+      "date": "2026-03-14",
+      "inactive": true,
+      "deactivatedDate": "2026-03-22"
+    },
+    {
+      "text": "You don't have to be perfect to be loved.",
+      "author": "Russell M. Nelson",
+      "date": "2026-03-14",
+      "inactive": true,
+      "deactivatedDate": "2026-03-22"
+    },
+    {
+      "text": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
+      "author": "Dr. Seuss",
+      "date": "2026-03-14",
+      "inactive": true,
+      "deactivatedDate": "2026-03-22"
     }
   ],
-  "lastRotation": "2026-03-21",
+  "lastRotation": "2026-03-22",
   "totalQuotes": 319,
   "activeQuotes": 42,
   "inactiveQuotes": 277
