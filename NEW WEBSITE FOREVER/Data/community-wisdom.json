@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "The spiritual gift of agency, the freedom to choose, is essential to our growth.",
+      "author": "Dallin H. Oaks",
+      "date": "2026-03-23",
+      "inactive": false
+    },
+    {
+      "text": "Owning our story and loving ourselves through that process is the bravest thing that we'll ever do.",
+      "author": "Brené Brown",
+      "date": "2026-03-23",
+      "inactive": false
+    },
+    {
+      "text": "If you accomplish something good with hard work, the labor passes quickly, but the good endures; if you do something shameful in pursuit of pleasure, the pleasure passes quickly, but the shame endures.",
+      "author": "Musonius Rufus",
+      "date": "2026-03-23",
+      "inactive": false
+    },
+    {
+      "text": "With the new day comes new strength and new thoughts.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-03-23",
+      "inactive": false
+    },
+    {
+      "text": "In three words I can sum up everything I've learned about life: it goes on.",
+      "author": "Robert Frost",
+      "date": "2026-03-23",
+      "inactive": false
+    },
+    {
       "text": "Live in the sunshine, swim the sea, drink the wild air.",
       "author": "Ralph Waldo Emerson",
       "date": "2026-03-22",
@@ -218,36 +248,6 @@
       "text": "I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live by the light that I have.",
       "author": "Abraham Lincoln",
       "date": "2026-03-16",
-      "inactive": false
-    },
-    {
-      "text": "Write it on your heart that every day is the best day in the year.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-03-15",
-      "inactive": false
-    },
-    {
-      "text": "Even miracles take a little time.",
-      "author": "Fairy Godmother, Cinderella",
-      "date": "2026-03-15",
-      "inactive": false
-    },
-    {
-      "text": "Peace comes from within. Do not seek it without.",
-      "author": "Thich Nhat Hanh",
-      "date": "2026-03-15",
-      "inactive": false
-    },
-    {
-      "text": "Faith in Jesus Christ is the first principle of the gospel for a reason.",
-      "author": "Henry B. Eyring",
-      "date": "2026-03-15",
-      "inactive": false
-    },
-    {
-      "text": "Sometimes the questions are complicated and the answers are simple.",
-      "author": "Dr. Seuss",
-      "date": "2026-03-15",
       "inactive": false
     },
     {
@@ -1641,20 +1641,6 @@
       "deactivatedDate": "2026-03-09"
     },
     {
-      "text": "If you accomplish something good with hard work, the labor passes quickly, but the good endures; if you do something shameful in pursuit of pleasure, the pleasure passes quickly, but the shame endures.",
-      "author": "Musonius Rufus",
-      "date": "2026-03-01",
-      "inactive": true,
-      "deactivatedDate": "2026-03-09"
-    },
-    {
-      "text": "With the new day comes new strength and new thoughts.",
-      "author": "Eleanor Roosevelt",
-      "date": "2026-03-01",
-      "inactive": true,
-      "deactivatedDate": "2026-03-09"
-    },
-    {
       "text": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
       "author": "Marcus Aurelius",
       "date": "2026-03-03",
@@ -1678,13 +1664,6 @@
     {
       "text": "You can never get a cup of tea large enough or a book long enough to suit me.",
       "author": "C.S. Lewis",
-      "date": "2026-03-04",
-      "inactive": true,
-      "deactivatedDate": "2026-03-11"
-    },
-    {
-      "text": "In three words I can sum up everything I've learned about life: it goes on.",
-      "author": "Robert Frost",
       "date": "2026-03-04",
       "inactive": true,
       "deactivatedDate": "2026-03-11"
@@ -1858,13 +1837,6 @@
       "deactivatedDate": "2026-03-16"
     },
     {
-      "text": "Owning our story and loving ourselves through that process is the bravest thing that we'll ever do.",
-      "author": "Brené Brown",
-      "date": "2026-03-08",
-      "inactive": true,
-      "deactivatedDate": "2026-03-16"
-    },
-    {
       "text": "There is a place where the sidewalk ends and before the street begins.",
       "author": "Shel Silverstein",
       "date": "2026-03-09",
@@ -1902,13 +1874,6 @@
     {
       "text": "Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.",
       "author": "Brené Brown",
-      "date": "2026-03-10",
-      "inactive": true,
-      "deactivatedDate": "2026-03-18"
-    },
-    {
-      "text": "The spiritual gift of agency, the freedom to choose, is essential to our growth.",
-      "author": "Dallin H. Oaks",
       "date": "2026-03-10",
       "inactive": true,
       "deactivatedDate": "2026-03-18"
@@ -2066,9 +2031,44 @@
       "date": "2026-03-14",
       "inactive": true,
       "deactivatedDate": "2026-03-22"
+    },
+    {
+      "text": "Write it on your heart that every day is the best day in the year.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-03-15",
+      "inactive": true,
+      "deactivatedDate": "2026-03-23"
+    },
+    {
+      "text": "Even miracles take a little time.",
+      "author": "Fairy Godmother, Cinderella",
+      "date": "2026-03-15",
+      "inactive": true,
+      "deactivatedDate": "2026-03-23"
+    },
+    {
+      "text": "Peace comes from within. Do not seek it without.",
+      "author": "Thich Nhat Hanh",
+      "date": "2026-03-15",
+      "inactive": true,
+      "deactivatedDate": "2026-03-23"
+    },
+    {
+      "text": "Faith in Jesus Christ is the first principle of the gospel for a reason.",
+      "author": "Henry B. Eyring",
+      "date": "2026-03-15",
+      "inactive": true,
+      "deactivatedDate": "2026-03-23"
+    },
+    {
+      "text": "Sometimes the questions are complicated and the answers are simple.",
+      "author": "Dr. Seuss",
+      "date": "2026-03-15",
+      "inactive": true,
+      "deactivatedDate": "2026-03-23"
     }
   ],
-  "lastRotation": "2026-03-22",
+  "lastRotation": "2026-03-23",
   "totalQuotes": 319,
   "activeQuotes": 42,
   "inactiveQuotes": 277
