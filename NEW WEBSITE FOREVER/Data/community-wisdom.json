@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "It is only with the heart that one can see rightly; what is essential is invisible to the eye.",
+      "author": "Antoine de Saint-Exupéry",
+      "date": "2026-03-24",
+      "inactive": false
+    },
+    {
+      "text": "Three things cannot be long hidden: the sun, the moon, and the truth.",
+      "author": "Buddha",
+      "date": "2026-03-24",
+      "inactive": false
+    },
+    {
+      "text": "I had reasoned this out in my mind, there was one of two things I had a right to, liberty or death; if I could not have one, I would have the other.",
+      "author": "Harriet Tubman",
+      "date": "2026-03-24",
+      "inactive": false
+    },
+    {
+      "text": "You can't use up creativity. The more you use, the more you have.",
+      "author": "Maya Angelou",
+      "date": "2026-03-24",
+      "inactive": false
+    },
+    {
+      "text": "The privilege of a lifetime is being who you are.",
+      "author": "Joseph Campbell",
+      "date": "2026-03-24",
+      "inactive": false
+    },
+    {
       "text": "The spiritual gift of agency, the freedom to choose, is essential to our growth.",
       "author": "Dallin H. Oaks",
       "date": "2026-03-23",
@@ -221,36 +251,6 @@
       "inactive": false
     },
     {
-      "text": "We cannot do great things on this earth, only small things with great love.",
-      "author": "Mother Teresa",
-      "date": "2026-03-16",
-      "inactive": false
-    },
-    {
-      "text": "Not all of us can do great things. But we can do small things with great love.",
-      "author": "Mother Teresa",
-      "date": "2026-03-16",
-      "inactive": false
-    },
-    {
-      "text": "Freedom is never given; it is won.",
-      "author": "A. Philip Randolph",
-      "date": "2026-03-16",
-      "inactive": false
-    },
-    {
-      "text": "For every minute you are angry you lose sixty seconds of happiness.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-03-16",
-      "inactive": false
-    },
-    {
-      "text": "I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live by the light that I have.",
-      "author": "Abraham Lincoln",
-      "date": "2026-03-16",
-      "inactive": false
-    },
-    {
       "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
       "author": "Confucius",
       "date": "2026-02-06",
@@ -467,12 +467,6 @@
       "inactive": true
     },
     {
-      "text": "Three things cannot be long hidden: the sun, the moon, and the truth.",
-      "author": "Buddha",
-      "date": "2026-01-16",
-      "inactive": true
-    },
-    {
       "text": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
       "author": "Buddha",
       "date": "2026-01-16",
@@ -545,12 +539,6 @@
       "inactive": true
     },
     {
-      "text": "The privilege of a lifetime is being who you are.",
-      "author": "Joseph Campbell",
-      "date": "2026-01-12",
-      "inactive": true
-    },
-    {
       "text": "Follow your bliss and the universe will open doors where there were only walls.",
       "author": "Joseph Campbell",
       "date": "2026-01-12",
@@ -589,12 +577,6 @@
     {
       "text": "Let us not pray to be sheltered from dangers but to be fearless when facing them.",
       "author": "Rabindranath Tagore",
-      "date": "2026-01-10",
-      "inactive": true
-    },
-    {
-      "text": "You can't use up creativity. The more you use, the more you have.",
-      "author": "Maya Angelou",
       "date": "2026-01-10",
       "inactive": true
     },
@@ -911,12 +893,6 @@
       "inactive": true
     },
     {
-      "text": "I had reasoned this out in my mind, there was one of two things I had a right to, liberty or death; if I could not have one, I would have the other.",
-      "author": "Harriet Tubman",
-      "date": "2025-12-17",
-      "inactive": true
-    },
-    {
       "text": "Never wound a snake; kill it.",
       "author": "Harriet Tubman",
       "date": "2025-12-17",
@@ -1149,13 +1125,6 @@
       "date": "2026-02-12",
       "inactive": true,
       "deactivatedDate": "2026-02-16"
-    },
-    {
-      "text": "It is only with the heart that one can see rightly; what is essential is invisible to the eye.",
-      "author": "Antoine de Saint-Exupéry",
-      "date": "2026-02-12",
-      "inactive": true,
-      "deactivatedDate": "2026-02-17"
     },
     {
       "text": "The purpose of our lives is to be happy.",
@@ -2066,9 +2035,44 @@
       "date": "2026-03-15",
       "inactive": true,
       "deactivatedDate": "2026-03-23"
+    },
+    {
+      "text": "We cannot do great things on this earth, only small things with great love.",
+      "author": "Mother Teresa",
+      "date": "2026-03-16",
+      "inactive": true,
+      "deactivatedDate": "2026-03-24"
+    },
+    {
+      "text": "Not all of us can do great things. But we can do small things with great love.",
+      "author": "Mother Teresa",
+      "date": "2026-03-16",
+      "inactive": true,
+      "deactivatedDate": "2026-03-24"
+    },
+    {
+      "text": "Freedom is never given; it is won.",
+      "author": "A. Philip Randolph",
+      "date": "2026-03-16",
+      "inactive": true,
+      "deactivatedDate": "2026-03-24"
+    },
+    {
+      "text": "For every minute you are angry you lose sixty seconds of happiness.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-03-16",
+      "inactive": true,
+      "deactivatedDate": "2026-03-24"
+    },
+    {
+      "text": "I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live by the light that I have.",
+      "author": "Abraham Lincoln",
+      "date": "2026-03-16",
+      "inactive": true,
+      "deactivatedDate": "2026-03-24"
     }
   ],
-  "lastRotation": "2026-03-23",
+  "lastRotation": "2026-03-24",
   "totalQuotes": 319,
   "activeQuotes": 42,
   "inactiveQuotes": 277
