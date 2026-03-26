@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Habits are the compound interest of self-improvement.",
+      "author": "James Clear",
+      "date": "2026-03-26",
+      "inactive": false
+    },
+    {
+      "text": "If you can dream it, you can do it.",
+      "author": "Walt Disney",
+      "date": "2026-03-26",
+      "inactive": false
+    },
+    {
+      "text": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+      "author": "Albert Einstein",
+      "date": "2026-03-26",
+      "inactive": false
+    },
+    {
+      "text": "Integrity is doing the right thing even when no one is watching.",
+      "author": "C.S. Lewis",
+      "date": "2026-03-26",
+      "inactive": false
+    },
+    {
+      "text": "A hero is someone who has given his or her life to something bigger than oneself.",
+      "author": "Joseph Campbell",
+      "date": "2026-03-26",
+      "inactive": false
+    },
+    {
       "text": "You don't have to be the victim of your environment. You can also be the architect of it.",
       "author": "James Clear",
       "date": "2026-03-25",
@@ -219,36 +249,6 @@
       "text": "To pull a friend out of the mire, don’t hesitate to get dirty.\nBaal Shem",
       "author": "Baal Shem Tov",
       "date": "2026-03-18"
-    },
-    {
-      "text": "Everything can be taken from a man but one thing: the last of the human freedoms—to choose one's attitude in any given set of circumstances.",
-      "author": "Viktor Frankl",
-      "date": "2026-03-18",
-      "inactive": false
-    },
-    {
-      "text": "Real change takes time. What matters most is that you start.",
-      "author": "Russell M. Nelson",
-      "date": "2026-03-18",
-      "inactive": false
-    },
-    {
-      "text": "Dwell on the beauty of life. Watch the stars, and see yourself running with them.",
-      "author": "Marcus Aurelius",
-      "date": "2026-03-18",
-      "inactive": false
-    },
-    {
-      "text": "We must accept finite disappointment, but never lose infinite hope.",
-      "author": "Martin Luther King Jr.",
-      "date": "2026-03-18",
-      "inactive": false
-    },
-    {
-      "text": "Even the smallest person can change the course of the future.",
-      "author": "J.R.R. Tolkien",
-      "date": "2026-03-18",
-      "inactive": false
     },
     {
       "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
@@ -923,12 +923,6 @@
       "inactive": true
     },
     {
-      "text": "Habits are the compound interest of self-improvement.",
-      "author": "James Clear",
-      "date": "2025-12-14",
-      "inactive": true
-    },
-    {
       "text": "The most effective way to change your behavior is to focus not on what you want to achieve, but on who you wish to become.",
       "author": "James Clear",
       "date": "2025-12-14",
@@ -1302,13 +1296,6 @@
       "deactivatedDate": "2026-02-25"
     },
     {
-      "text": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
-      "author": "Albert Einstein",
-      "date": "2026-02-17",
-      "inactive": true,
-      "deactivatedDate": "2026-02-25"
-    },
-    {
       "text": "The cave you fear to enter holds the treasure you seek.",
       "author": "Joseph Campbell",
       "date": "2026-02-20",
@@ -1360,13 +1347,6 @@
     {
       "text": "Life's most persistent and urgent question is, 'What are you doing for others?'",
       "author": "Martin Luther King Jr.",
-      "date": "2026-02-20",
-      "inactive": true,
-      "deactivatedDate": "2026-02-27"
-    },
-    {
-      "text": "Integrity is doing the right thing even when no one is watching.",
-      "author": "C.S. Lewis",
       "date": "2026-02-20",
       "inactive": true,
       "deactivatedDate": "2026-02-27"
@@ -1479,13 +1459,6 @@
     {
       "text": "Faith is taking the first step even when you don't see the whole staircase.",
       "author": "Martin Luther King Jr.",
-      "date": "2026-02-25",
-      "inactive": true,
-      "deactivatedDate": "2026-03-04"
-    },
-    {
-      "text": "A hero is someone who has given his or her life to something bigger than oneself.",
-      "author": "Joseph Campbell",
       "date": "2026-02-25",
       "inactive": true,
       "deactivatedDate": "2026-03-04"
@@ -2058,21 +2031,49 @@
       "deactivatedDate": "2026-03-25"
     },
     {
-      "text": "If you can dream it, you can do it.",
-      "author": "Walt Disney",
-      "date": "2026-03-17",
-      "inactive": true,
-      "deactivatedDate": "2026-03-25"
-    },
-    {
       "text": "Education is the most powerful weapon which you can use to change the world.",
       "author": "Nelson Mandela",
       "date": "2026-03-17",
       "inactive": true,
       "deactivatedDate": "2026-03-25"
+    },
+    {
+      "text": "Everything can be taken from a man but one thing: the last of the human freedoms—to choose one's attitude in any given set of circumstances.",
+      "author": "Viktor Frankl",
+      "date": "2026-03-18",
+      "inactive": true,
+      "deactivatedDate": "2026-03-26"
+    },
+    {
+      "text": "Real change takes time. What matters most is that you start.",
+      "author": "Russell M. Nelson",
+      "date": "2026-03-18",
+      "inactive": true,
+      "deactivatedDate": "2026-03-26"
+    },
+    {
+      "text": "Dwell on the beauty of life. Watch the stars, and see yourself running with them.",
+      "author": "Marcus Aurelius",
+      "date": "2026-03-18",
+      "inactive": true,
+      "deactivatedDate": "2026-03-26"
+    },
+    {
+      "text": "We must accept finite disappointment, but never lose infinite hope.",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-03-18",
+      "inactive": true,
+      "deactivatedDate": "2026-03-26"
+    },
+    {
+      "text": "Even the smallest person can change the course of the future.",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-03-18",
+      "inactive": true,
+      "deactivatedDate": "2026-03-26"
     }
   ],
-  "lastRotation": "2026-03-25",
+  "lastRotation": "2026-03-26",
   "totalQuotes": 319,
   "activeQuotes": 42,
   "inactiveQuotes": 277
