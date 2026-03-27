@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "I learned that courage was not the absence of fear, but the triumph over it.",
+      "author": "Nelson Mandela",
+      "date": "2026-03-27",
+      "inactive": false
+    },
+    {
+      "text": "You were born to win, but to be a winner, you must plan to win, prepare to win, and expect to win.",
+      "author": "Zig Ziglar",
+      "date": "2026-03-27",
+      "inactive": false
+    },
+    {
+      "text": "Kind words can be short and easy to speak, but their echoes are truly endless.",
+      "author": "Mother Teresa",
+      "date": "2026-03-27",
+      "inactive": false
+    },
+    {
+      "text": "There is no innovation and creativity without failure. Period.",
+      "author": "Brené Brown",
+      "date": "2026-03-27",
+      "inactive": false
+    },
+    {
+      "text": "Happiness can be found even in the darkest of times, if one only remembers to turn on the light.",
+      "author": "J.K. Rowling",
+      "date": "2026-03-27",
+      "inactive": false
+    },
+    {
       "text": "Habits are the compound interest of self-improvement.",
       "author": "James Clear",
       "date": "2026-03-26",
@@ -220,35 +250,6 @@
       "author": "Friedrich Nietzsche",
       "date": "2026-03-19",
       "inactive": false
-    },
-    {
-      "text": "Whatever you are, be a good one.",
-      "author": "Abraham Lincoln",
-      "date": "2026-03-19",
-      "inactive": false
-    },
-    {
-      "text": "Your work is to discover your work and then with all your heart to give yourself to it.",
-      "author": "Buddha",
-      "date": "2026-03-19",
-      "inactive": false
-    },
-    {
-      "text": "Walk as if you are kissing the Earth with your feet.",
-      "author": "Thich Nhat Hanh",
-      "date": "2026-03-19",
-      "inactive": false
-    },
-    {
-      "text": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
-      "author": "Eleanor Roosevelt",
-      "date": "2026-03-19",
-      "inactive": false
-    },
-    {
-      "text": "To pull a friend out of the mire, don’t hesitate to get dirty.\nBaal Shem",
-      "author": "Baal Shem Tov",
-      "date": "2026-03-18"
     },
     {
       "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
@@ -713,12 +714,6 @@
       "inactive": true
     },
     {
-      "text": "Kind words can be short and easy to speak, but their echoes are truly endless.",
-      "author": "Mother Teresa",
-      "date": "2025-12-31",
-      "inactive": true
-    },
-    {
       "text": "Waste no more time arguing about what a good man should be. Be one.",
       "author": "Marcus Aurelius",
       "date": "2025-12-30",
@@ -749,21 +744,9 @@
       "inactive": true
     },
     {
-      "text": "You were born to win, but to be a winner, you must plan to win, prepare to win, and expect to win.",
-      "author": "Zig Ziglar",
-      "date": "2025-12-28",
-      "inactive": true
-    },
-    {
       "text": "Gratitude is the healthiest of all human emotions.",
       "author": "Zig Ziglar",
       "date": "2025-12-28",
-      "inactive": true
-    },
-    {
-      "text": "There is no innovation and creativity without failure. Period.",
-      "author": "Brené Brown",
-      "date": "2025-12-27",
       "inactive": true
     },
     {
@@ -815,12 +798,6 @@
       "inactive": true
     },
     {
-      "text": "Happiness can be found even in the darkest of times, if one only remembers to turn on the light.",
-      "author": "J.K. Rowling",
-      "date": "2025-12-24",
-      "inactive": true
-    },
-    {
       "text": "Those who don't believe in magic will never find it.",
       "author": "Roald Dahl",
       "date": "2025-12-23",
@@ -852,12 +829,6 @@
     },
     {
       "text": "It always seems impossible until it's done.",
-      "author": "Nelson Mandela",
-      "date": "2025-12-19",
-      "inactive": true
-    },
-    {
-      "text": "I learned that courage was not the absence of fear, but the triumph over it.",
       "author": "Nelson Mandela",
       "date": "2025-12-19",
       "inactive": true
@@ -2071,9 +2042,44 @@
       "date": "2026-03-18",
       "inactive": true,
       "deactivatedDate": "2026-03-26"
+    },
+    {
+      "text": "Whatever you are, be a good one.",
+      "author": "Abraham Lincoln",
+      "date": "2026-03-19",
+      "inactive": true,
+      "deactivatedDate": "2026-03-27"
+    },
+    {
+      "text": "Your work is to discover your work and then with all your heart to give yourself to it.",
+      "author": "Buddha",
+      "date": "2026-03-19",
+      "inactive": true,
+      "deactivatedDate": "2026-03-27"
+    },
+    {
+      "text": "Walk as if you are kissing the Earth with your feet.",
+      "author": "Thich Nhat Hanh",
+      "date": "2026-03-19",
+      "inactive": true,
+      "deactivatedDate": "2026-03-27"
+    },
+    {
+      "text": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-03-19",
+      "inactive": true,
+      "deactivatedDate": "2026-03-27"
+    },
+    {
+      "text": "To pull a friend out of the mire, don’t hesitate to get dirty.\nBaal Shem",
+      "author": "Baal Shem Tov",
+      "date": "2026-03-18",
+      "inactive": true,
+      "deactivatedDate": "2026-03-27"
     }
   ],
-  "lastRotation": "2026-03-26",
+  "lastRotation": "2026-03-27",
   "totalQuotes": 319,
   "activeQuotes": 42,
   "inactiveQuotes": 277
