@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Decisions determine destiny.",
+      "author": "Thomas S. Monson",
+      "date": "2026-03-28",
+      "inactive": false
+    },
+    {
+      "text": "The future belongs to those who believe in the beauty of their dreams.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-03-28",
+      "inactive": false
+    },
+    {
+      "text": "The brick walls are there for a reason. They're not there to keep us out. The brick walls are there to give us a chance to show how badly we want something.",
+      "author": "Randy Pausch",
+      "date": "2026-03-28",
+      "inactive": false
+    },
+    {
+      "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-03-28",
+      "inactive": false
+    },
+    {
+      "text": "We suffer more often in imagination than in reality.",
+      "author": "Seneca",
+      "date": "2026-03-28",
+      "inactive": false
+    },
+    {
       "text": "I learned that courage was not the absence of fear, but the triumph over it.",
       "author": "Nelson Mandela",
       "date": "2026-03-27",
@@ -222,36 +252,6 @@
       "inactive": false
     },
     {
-      "text": "I can't die but once.",
-      "author": "Harriet Tubman",
-      "date": "2026-03-20",
-      "inactive": false
-    },
-    {
-      "text": "The best way to predict your future is to create it.",
-      "author": "Abraham Lincoln",
-      "date": "2026-03-20",
-      "inactive": false
-    },
-    {
-      "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-03-20",
-      "inactive": false
-    },
-    {
-      "text": "The impediment to action advances action. What stands in the way becomes the way.",
-      "author": "Marcus Aurelius",
-      "date": "2026-03-20",
-      "inactive": false
-    },
-    {
-      "text": "He who has a why to live can bear almost any how.",
-      "author": "Friedrich Nietzsche",
-      "date": "2026-03-19",
-      "inactive": false
-    },
-    {
       "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
       "author": "Confucius",
       "date": "2026-02-06",
@@ -333,12 +333,6 @@
       "text": "Don't you quit. You keep walking. You keep trying. There is help and happiness ahead.",
       "author": "Jeffrey R. Holland",
       "date": "2026-01-31",
-      "inactive": true
-    },
-    {
-      "text": "Decisions determine destiny.",
-      "author": "Thomas S. Monson",
-      "date": "2026-01-30",
       "inactive": true
     },
     {
@@ -1148,13 +1142,6 @@
       "deactivatedDate": "2026-02-21"
     },
     {
-      "text": "The future belongs to those who believe in the beauty of their dreams.",
-      "author": "Eleanor Roosevelt",
-      "date": "2026-02-14",
-      "inactive": true,
-      "deactivatedDate": "2026-02-21"
-    },
-    {
       "text": "Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!",
       "author": "Dr. Seuss",
       "date": "2026-02-14",
@@ -1199,13 +1186,6 @@
     {
       "text": "Hold on. Hope on.",
       "author": "Jeffrey R. Holland",
-      "date": "2026-02-16",
-      "inactive": true,
-      "deactivatedDate": "2026-02-23"
-    },
-    {
-      "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
-      "author": "Martin Luther King Jr.",
       "date": "2026-02-16",
       "inactive": true,
       "deactivatedDate": "2026-02-23"
@@ -1395,13 +1375,6 @@
     {
       "text": "The wound is the place where the Light enters you.",
       "author": "Rumi",
-      "date": "2026-02-24",
-      "inactive": true,
-      "deactivatedDate": "2026-03-03"
-    },
-    {
-      "text": "We suffer more often in imagination than in reality.",
-      "author": "Seneca",
       "date": "2026-02-24",
       "inactive": true,
       "deactivatedDate": "2026-03-03"
@@ -1764,13 +1737,6 @@
       "deactivatedDate": "2026-03-17"
     },
     {
-      "text": "The brick walls are there for a reason. They're not there to keep us out. The brick walls are there to give us a chance to show how badly we want something.",
-      "author": "Randy Pausch",
-      "date": "2026-03-09",
-      "inactive": true,
-      "deactivatedDate": "2026-03-17"
-    },
-    {
       "text": "No one can make you feel inferior without your consent.",
       "author": "Eleanor Roosevelt",
       "date": "2026-03-09",
@@ -2077,9 +2043,44 @@
       "date": "2026-03-18",
       "inactive": true,
       "deactivatedDate": "2026-03-27"
+    },
+    {
+      "text": "I can't die but once.",
+      "author": "Harriet Tubman",
+      "date": "2026-03-20",
+      "inactive": true,
+      "deactivatedDate": "2026-03-28"
+    },
+    {
+      "text": "The best way to predict your future is to create it.",
+      "author": "Abraham Lincoln",
+      "date": "2026-03-20",
+      "inactive": true,
+      "deactivatedDate": "2026-03-28"
+    },
+    {
+      "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-03-20",
+      "inactive": true,
+      "deactivatedDate": "2026-03-28"
+    },
+    {
+      "text": "The impediment to action advances action. What stands in the way becomes the way.",
+      "author": "Marcus Aurelius",
+      "date": "2026-03-20",
+      "inactive": true,
+      "deactivatedDate": "2026-03-28"
+    },
+    {
+      "text": "He who has a why to live can bear almost any how.",
+      "author": "Friedrich Nietzsche",
+      "date": "2026-03-19",
+      "inactive": true,
+      "deactivatedDate": "2026-03-28"
     }
   ],
-  "lastRotation": "2026-03-27",
+  "lastRotation": "2026-03-28",
   "totalQuotes": 319,
   "activeQuotes": 42,
   "inactiveQuotes": 277
