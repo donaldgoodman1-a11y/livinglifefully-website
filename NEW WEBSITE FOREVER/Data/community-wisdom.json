@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "The way to get started is to quit talking and begin doing.",
+      "author": "Walt Disney",
+      "date": "2026-03-29",
+      "inactive": false
+    },
+    {
+      "text": "Joy comes not in riches, or in things, but in relationships.",
+      "author": "Russell M. Nelson",
+      "date": "2026-03-29",
+      "inactive": false
+    },
+    {
+      "text": "Courage doesn't always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.'",
+      "author": "Mary Anne Radmacher",
+      "date": "2026-03-29",
+      "inactive": false
+    },
+    {
+      "text": "Hardships often prepare ordinary people for an extraordinary destiny.",
+      "author": "C.S. Lewis",
+      "date": "2026-03-29",
+      "inactive": false
+    },
+    {
+      "text": "Let us not pray to be sheltered from dangers but to be fearless when facing them.",
+      "author": "Rabindranath Tagore",
+      "date": "2026-03-29",
+      "inactive": false
+    },
+    {
       "text": "Decisions determine destiny.",
       "author": "Thomas S. Monson",
       "date": "2026-03-28",
@@ -223,35 +253,6 @@
       "inactive": false
     },
     {
-      "text": "You'll miss the best things if you keep your eyes shut.",
-      "author": "Dr. Seuss",
-      "date": "2026-03-21",
-      "inactive": false
-    },
-    {
-      "text": "The most glorious moments in your life are not the so-called days of success, but rather those days when out of dejection and despair you feel rise in you a challenge to life.",
-      "author": "Gustave Flaubert",
-      "date": "2026-03-21",
-      "inactive": false
-    },
-    {
-      "text": "Let us always meet each other with smile, for the smile is the beginning of love.",
-      "author": "Mother Teresa",
-      "date": "2026-03-21",
-      "inactive": false
-    },
-    {
-      "text": "Because a thing seems difficult for you, do not think it impossible for anyone to accomplish.",
-      "author": "Marcus Aurelius",
-      "date": "2026-03-20"
-    },
-    {
-      "text": "I am seeking, I am striving, I am in it with all my heart.",
-      "author": "Vincent Van Gogh",
-      "date": "2026-03-20",
-      "inactive": false
-    },
-    {
       "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
       "author": "Confucius",
       "date": "2026-02-06",
@@ -363,12 +364,6 @@
       "text": "Life is either a daring adventure or nothing at all.",
       "author": "Helen Keller",
       "date": "2026-01-28",
-      "inactive": true
-    },
-    {
-      "text": "Hardships often prepare ordinary people for an extraordinary destiny.",
-      "author": "C.S. Lewis",
-      "date": "2026-01-27",
       "inactive": true
     },
     {
@@ -570,12 +565,6 @@
       "inactive": true
     },
     {
-      "text": "Let us not pray to be sheltered from dangers but to be fearless when facing them.",
-      "author": "Rabindranath Tagore",
-      "date": "2026-01-10",
-      "inactive": true
-    },
-    {
       "text": "Tell me, what is it you plan to do with your one wild and precious life?",
       "author": "Mary Oliver",
       "date": "2026-01-09",
@@ -672,12 +661,6 @@
       "inactive": true
     },
     {
-      "text": "Joy comes not in riches, or in things, but in relationships.",
-      "author": "Russell M. Nelson",
-      "date": "2026-01-02",
-      "inactive": true
-    },
-    {
       "text": "The Lord compensates the faithful for every loss.",
       "author": "Russell M. Nelson",
       "date": "2026-01-02",
@@ -717,12 +700,6 @@
       "text": "Accept the things to which fate binds you, and love the people with whom fate brings you together.",
       "author": "Marcus Aurelius",
       "date": "2025-12-30",
-      "inactive": true
-    },
-    {
-      "text": "Courage doesn't always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.'",
-      "author": "Mary Anne Radmacher",
-      "date": "2025-12-29",
       "inactive": true
     },
     {
@@ -1340,13 +1317,6 @@
     {
       "text": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.",
       "author": "J.K. Rowling",
-      "date": "2026-02-22",
-      "inactive": true,
-      "deactivatedDate": "2026-03-01"
-    },
-    {
-      "text": "The way to get started is to quit talking and begin doing.",
-      "author": "Walt Disney",
       "date": "2026-02-22",
       "inactive": true,
       "deactivatedDate": "2026-03-01"
@@ -2078,9 +2048,44 @@
       "date": "2026-03-19",
       "inactive": true,
       "deactivatedDate": "2026-03-28"
+    },
+    {
+      "text": "You'll miss the best things if you keep your eyes shut.",
+      "author": "Dr. Seuss",
+      "date": "2026-03-21",
+      "inactive": true,
+      "deactivatedDate": "2026-03-29"
+    },
+    {
+      "text": "The most glorious moments in your life are not the so-called days of success, but rather those days when out of dejection and despair you feel rise in you a challenge to life.",
+      "author": "Gustave Flaubert",
+      "date": "2026-03-21",
+      "inactive": true,
+      "deactivatedDate": "2026-03-29"
+    },
+    {
+      "text": "Let us always meet each other with smile, for the smile is the beginning of love.",
+      "author": "Mother Teresa",
+      "date": "2026-03-21",
+      "inactive": true,
+      "deactivatedDate": "2026-03-29"
+    },
+    {
+      "text": "Because a thing seems difficult for you, do not think it impossible for anyone to accomplish.",
+      "author": "Marcus Aurelius",
+      "date": "2026-03-20",
+      "inactive": true,
+      "deactivatedDate": "2026-03-29"
+    },
+    {
+      "text": "I am seeking, I am striving, I am in it with all my heart.",
+      "author": "Vincent Van Gogh",
+      "date": "2026-03-20",
+      "inactive": true,
+      "deactivatedDate": "2026-03-29"
     }
   ],
-  "lastRotation": "2026-03-28",
+  "lastRotation": "2026-03-29",
   "totalQuotes": 319,
   "activeQuotes": 42,
   "inactiveQuotes": 277
