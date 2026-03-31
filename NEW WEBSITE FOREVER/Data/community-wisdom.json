@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "You miss 100% of the shots you don't take.",
+      "author": "Wayne Gretzky",
+      "date": "2026-03-31",
+      "inactive": false
+    },
+    {
+      "text": "There is a place where the sidewalk ends and before the street begins.",
+      "author": "Shel Silverstein",
+      "date": "2026-03-31",
+      "inactive": false
+    },
+    {
+      "text": "Quick to observe means quick to act.",
+      "author": "David A. Bednar",
+      "date": "2026-03-31",
+      "inactive": false
+    },
+    {
+      "text": "We can ignore reality, but we cannot ignore the consequences of ignoring reality.",
+      "author": "Ayn Rand",
+      "date": "2026-03-31",
+      "inactive": false
+    },
+    {
+      "text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
+      "author": "Helen Keller",
+      "date": "2026-03-31",
+      "inactive": false
+    },
+    {
       "text": "I am seeking, I am striving, I am in it with all my heart.",
       "author": "Vincent Van Gogh",
       "date": "2026-03-30",
@@ -220,36 +250,6 @@
       "text": "Owning our story and loving ourselves through that process is the bravest thing that we'll ever do.",
       "author": "Brené Brown",
       "date": "2026-03-23",
-      "inactive": false
-    },
-    {
-      "text": "If you accomplish something good with hard work, the labor passes quickly, but the good endures; if you do something shameful in pursuit of pleasure, the pleasure passes quickly, but the shame endures.",
-      "author": "Musonius Rufus",
-      "date": "2026-03-23",
-      "inactive": false
-    },
-    {
-      "text": "With the new day comes new strength and new thoughts.",
-      "author": "Eleanor Roosevelt",
-      "date": "2026-03-23",
-      "inactive": false
-    },
-    {
-      "text": "In three words I can sum up everything I've learned about life: it goes on.",
-      "author": "Robert Frost",
-      "date": "2026-03-23",
-      "inactive": false
-    },
-    {
-      "text": "Live in the sunshine, swim the sea, drink the wild air.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-03-22",
-      "inactive": false
-    },
-    {
-      "text": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
-      "author": "Maya Angelou",
-      "date": "2026-03-22",
       "inactive": false
     },
     {
@@ -709,12 +709,6 @@
       "inactive": true
     },
     {
-      "text": "You miss 100% of the shots you don't take.",
-      "author": "Wayne Gretzky",
-      "date": "2025-12-26",
-      "inactive": true
-    },
-    {
       "text": "A goal without a plan is just a wish.",
       "author": "Antoine de Saint-Exupéry",
       "date": "2025-12-26",
@@ -1046,13 +1040,6 @@
       "deactivatedDate": "2026-02-17"
     },
     {
-      "text": "We can ignore reality, but we cannot ignore the consequences of ignoring reality.",
-      "author": "Ayn Rand",
-      "date": "2026-02-12",
-      "inactive": true,
-      "deactivatedDate": "2026-02-19"
-    },
-    {
       "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
       "author": "Aristotle",
       "date": "2026-02-12",
@@ -1079,20 +1066,6 @@
       "date": "2026-02-13",
       "inactive": true,
       "deactivatedDate": "2026-02-20"
-    },
-    {
-      "text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
-      "author": "Helen Keller",
-      "date": "2026-02-13",
-      "inactive": true,
-      "deactivatedDate": "2026-02-20"
-    },
-    {
-      "text": "Quick to observe means quick to act.",
-      "author": "David A. Bednar",
-      "date": "2026-02-14",
-      "inactive": true,
-      "deactivatedDate": "2026-02-21"
     },
     {
       "text": "Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!",
@@ -1662,13 +1635,6 @@
       "deactivatedDate": "2026-03-16"
     },
     {
-      "text": "There is a place where the sidewalk ends and before the street begins.",
-      "author": "Shel Silverstein",
-      "date": "2026-03-09",
-      "inactive": true,
-      "deactivatedDate": "2026-03-17"
-    },
-    {
       "text": "We can press forward with steadfastness in Christ.",
       "author": "David A. Bednar",
       "date": "2026-03-09",
@@ -2087,9 +2053,44 @@
       "date": "2026-03-21",
       "inactive": true,
       "deactivatedDate": "2026-03-30"
+    },
+    {
+      "text": "If you accomplish something good with hard work, the labor passes quickly, but the good endures; if you do something shameful in pursuit of pleasure, the pleasure passes quickly, but the shame endures.",
+      "author": "Musonius Rufus",
+      "date": "2026-03-23",
+      "inactive": true,
+      "deactivatedDate": "2026-03-31"
+    },
+    {
+      "text": "With the new day comes new strength and new thoughts.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-03-23",
+      "inactive": true,
+      "deactivatedDate": "2026-03-31"
+    },
+    {
+      "text": "In three words I can sum up everything I've learned about life: it goes on.",
+      "author": "Robert Frost",
+      "date": "2026-03-23",
+      "inactive": true,
+      "deactivatedDate": "2026-03-31"
+    },
+    {
+      "text": "Live in the sunshine, swim the sea, drink the wild air.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-03-22",
+      "inactive": true,
+      "deactivatedDate": "2026-03-31"
+    },
+    {
+      "text": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+      "author": "Maya Angelou",
+      "date": "2026-03-22",
+      "inactive": true,
+      "deactivatedDate": "2026-03-31"
     }
   ],
-  "lastRotation": "2026-03-30",
+  "lastRotation": "2026-03-31",
   "totalQuotes": 319,
   "activeQuotes": 42,
   "inactiveQuotes": 277
