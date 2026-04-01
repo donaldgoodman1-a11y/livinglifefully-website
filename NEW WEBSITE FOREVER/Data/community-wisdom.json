@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "And we know that all things work together for good to them that love God.",
+      "author": "Paul the Apostle",
+      "date": "2026-04-01",
+      "inactive": false
+    },
+    {
+      "text": "You don't have to be perfect to be loved.",
+      "author": "Russell M. Nelson",
+      "date": "2026-04-01",
+      "inactive": false
+    },
+    {
+      "text": "You are never too old to set another goal or to dream a new dream.",
+      "author": "C.S. Lewis",
+      "date": "2026-04-01",
+      "inactive": false
+    },
+    {
+      "text": "A pleasure is not full grown until it is remembered.",
+      "author": "C.S. Lewis",
+      "date": "2026-04-01",
+      "inactive": false
+    },
+    {
+      "text": "The weak can never forgive. Forgiveness is the attribute of the strong.",
+      "author": "Mahatma Gandhi",
+      "date": "2026-04-01",
+      "inactive": false
+    },
+    {
       "text": "You miss 100% of the shots you don't take.",
       "author": "Wayne Gretzky",
       "date": "2026-03-31",
@@ -220,36 +250,6 @@
       "text": "Three things cannot be long hidden: the sun, the moon, and the truth.",
       "author": "Buddha",
       "date": "2026-03-24",
-      "inactive": false
-    },
-    {
-      "text": "I had reasoned this out in my mind, there was one of two things I had a right to, liberty or death; if I could not have one, I would have the other.",
-      "author": "Harriet Tubman",
-      "date": "2026-03-24",
-      "inactive": false
-    },
-    {
-      "text": "You can't use up creativity. The more you use, the more you have.",
-      "author": "Maya Angelou",
-      "date": "2026-03-24",
-      "inactive": false
-    },
-    {
-      "text": "The privilege of a lifetime is being who you are.",
-      "author": "Joseph Campbell",
-      "date": "2026-03-24",
-      "inactive": false
-    },
-    {
-      "text": "The spiritual gift of agency, the freedom to choose, is essential to our growth.",
-      "author": "Dallin H. Oaks",
-      "date": "2026-03-23",
-      "inactive": false
-    },
-    {
-      "text": "Owning our story and loving ourselves through that process is the bravest thing that we'll ever do.",
-      "author": "Brené Brown",
-      "date": "2026-03-23",
       "inactive": false
     },
     {
@@ -1236,22 +1236,8 @@
       "deactivatedDate": "2026-02-28"
     },
     {
-      "text": "And we know that all things work together for good to them that love God.",
-      "author": "Paul the Apostle",
-      "date": "2026-02-21",
-      "inactive": true,
-      "deactivatedDate": "2026-02-28"
-    },
-    {
       "text": "Try to be a rainbow in someone's cloud.",
       "author": "Maya Angelou",
-      "date": "2026-02-21",
-      "inactive": true,
-      "deactivatedDate": "2026-02-28"
-    },
-    {
-      "text": "A pleasure is not full grown until it is remembered.",
-      "author": "C.S. Lewis",
       "date": "2026-02-21",
       "inactive": true,
       "deactivatedDate": "2026-02-28"
@@ -1600,13 +1586,6 @@
       "deactivatedDate": "2026-03-15"
     },
     {
-      "text": "The weak can never forgive. Forgiveness is the attribute of the strong.",
-      "author": "Mahatma Gandhi",
-      "date": "2026-03-07",
-      "inactive": true,
-      "deactivatedDate": "2026-03-15"
-    },
-    {
       "text": "There is no greater agony than bearing an untold story inside you.",
       "author": "Maya Angelou",
       "date": "2026-03-08",
@@ -1761,13 +1740,6 @@
       "deactivatedDate": "2026-03-21"
     },
     {
-      "text": "You are never too old to set another goal or to dream a new dream.",
-      "author": "C.S. Lewis",
-      "date": "2026-03-13",
-      "inactive": true,
-      "deactivatedDate": "2026-03-21"
-    },
-    {
       "text": "Choose faith over fear, and doubt not.",
       "author": "David A. Bednar",
       "date": "2026-03-13",
@@ -1791,13 +1763,6 @@
     {
       "text": "Go confidently in the direction of your dreams. Live the life you have imagined.",
       "author": "Henry David Thoreau",
-      "date": "2026-03-14",
-      "inactive": true,
-      "deactivatedDate": "2026-03-22"
-    },
-    {
-      "text": "You don't have to be perfect to be loved.",
-      "author": "Russell M. Nelson",
       "date": "2026-03-14",
       "inactive": true,
       "deactivatedDate": "2026-03-22"
@@ -2088,9 +2053,44 @@
       "date": "2026-03-22",
       "inactive": true,
       "deactivatedDate": "2026-03-31"
+    },
+    {
+      "text": "I had reasoned this out in my mind, there was one of two things I had a right to, liberty or death; if I could not have one, I would have the other.",
+      "author": "Harriet Tubman",
+      "date": "2026-03-24",
+      "inactive": true,
+      "deactivatedDate": "2026-04-01"
+    },
+    {
+      "text": "You can't use up creativity. The more you use, the more you have.",
+      "author": "Maya Angelou",
+      "date": "2026-03-24",
+      "inactive": true,
+      "deactivatedDate": "2026-04-01"
+    },
+    {
+      "text": "The privilege of a lifetime is being who you are.",
+      "author": "Joseph Campbell",
+      "date": "2026-03-24",
+      "inactive": true,
+      "deactivatedDate": "2026-04-01"
+    },
+    {
+      "text": "The spiritual gift of agency, the freedom to choose, is essential to our growth.",
+      "author": "Dallin H. Oaks",
+      "date": "2026-03-23",
+      "inactive": true,
+      "deactivatedDate": "2026-04-01"
+    },
+    {
+      "text": "Owning our story and loving ourselves through that process is the bravest thing that we'll ever do.",
+      "author": "Brené Brown",
+      "date": "2026-03-23",
+      "inactive": true,
+      "deactivatedDate": "2026-04-01"
     }
   ],
-  "lastRotation": "2026-03-31",
+  "lastRotation": "2026-04-01",
   "totalQuotes": 319,
   "activeQuotes": 42,
   "inactiveQuotes": 277
