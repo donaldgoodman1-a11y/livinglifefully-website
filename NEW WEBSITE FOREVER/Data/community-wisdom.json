@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "You can never get a cup of tea large enough or a book long enough to suit me.",
+      "author": "C.S. Lewis",
+      "date": "2026-04-02",
+      "inactive": false
+    },
+    {
+      "text": "A single sunbeam is enough to drive away many shadows.",
+      "author": "St. Francis of Assisi",
+      "date": "2026-04-02",
+      "inactive": false
+    },
+    {
+      "text": "When we long for life without difficulties, remember that oaks grow strong in contrary winds and diamonds are made under pressure.",
+      "author": "Peter Marshall",
+      "date": "2026-04-02",
+      "inactive": false
+    },
+    {
+      "text": "Be who God meant you to be and you will set the world on fire.",
+      "author": "St. Catherine of Siena",
+      "date": "2026-04-02",
+      "inactive": false
+    },
+    {
+      "text": "To pay attention, this is our endless and proper work.",
+      "author": "Mary Oliver",
+      "date": "2026-04-02",
+      "inactive": false
+    },
+    {
       "text": "And we know that all things work together for good to them that love God.",
       "author": "Paul the Apostle",
       "date": "2026-04-01",
@@ -223,36 +253,6 @@
       "inactive": false
     },
     {
-      "text": "Well done is better than well said.",
-      "author": "Benjamin Franklin",
-      "date": "2026-03-25",
-      "inactive": false
-    },
-    {
-      "text": "Don't gobblefunk around with words.",
-      "author": "Roald Dahl",
-      "date": "2026-03-25",
-      "inactive": false
-    },
-    {
-      "text": "Desire is the father of action.",
-      "author": "Dallin H. Oaks",
-      "date": "2026-03-25",
-      "inactive": false
-    },
-    {
-      "text": "It is only with the heart that one can see rightly; what is essential is invisible to the eye.",
-      "author": "Antoine de Saint-Exupéry",
-      "date": "2026-03-24",
-      "inactive": false
-    },
-    {
-      "text": "Three things cannot be long hidden: the sun, the moon, and the truth.",
-      "author": "Buddha",
-      "date": "2026-03-24",
-      "inactive": false
-    },
-    {
       "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
       "author": "Confucius",
       "date": "2026-02-06",
@@ -379,12 +379,6 @@
       "inactive": true
     },
     {
-      "text": "Be who God meant you to be and you will set the world on fire.",
-      "author": "St. Catherine of Siena",
-      "date": "2026-01-22",
-      "inactive": true
-    },
-    {
       "text": "I have learned that if one advances confidently in the direction of his dreams, he will meet with a success unexpected in common hours.",
       "author": "Henry David Thoreau",
       "date": "2026-01-22",
@@ -436,12 +430,6 @@
       "text": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
       "author": "Ralph Waldo Emerson",
       "date": "2026-01-18",
-      "inactive": true
-    },
-    {
-      "text": "When we long for life without difficulties, remember that oaks grow strong in contrary winds and diamonds are made under pressure.",
-      "author": "Peter Marshall",
-      "date": "2026-01-17",
       "inactive": true
     },
     {
@@ -717,12 +705,6 @@
     {
       "text": "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.",
       "author": "Antoine de Saint-Exupéry",
-      "date": "2025-12-26",
-      "inactive": true
-    },
-    {
-      "text": "A single sunbeam is enough to drive away many shadows.",
-      "author": "St. Francis of Assisi",
       "date": "2025-12-26",
       "inactive": true
     },
@@ -1334,13 +1316,6 @@
       "deactivatedDate": "2026-03-05"
     },
     {
-      "text": "To pay attention, this is our endless and proper work.",
-      "author": "Mary Oliver",
-      "date": "2026-02-26",
-      "inactive": true,
-      "deactivatedDate": "2026-03-05"
-    },
-    {
       "text": "To love at all is to be vulnerable.",
       "author": "C.S. Lewis",
       "date": "2026-02-25",
@@ -1451,13 +1426,6 @@
       "date": "2026-03-02",
       "inactive": true,
       "deactivatedDate": "2026-03-10"
-    },
-    {
-      "text": "You can never get a cup of tea large enough or a book long enough to suit me.",
-      "author": "C.S. Lewis",
-      "date": "2026-03-04",
-      "inactive": true,
-      "deactivatedDate": "2026-03-11"
     },
     {
       "text": "Courage starts with showing up and letting ourselves be seen.",
@@ -2088,9 +2056,44 @@
       "date": "2026-03-23",
       "inactive": true,
       "deactivatedDate": "2026-04-01"
+    },
+    {
+      "text": "Well done is better than well said.",
+      "author": "Benjamin Franklin",
+      "date": "2026-03-25",
+      "inactive": true,
+      "deactivatedDate": "2026-04-02"
+    },
+    {
+      "text": "Don't gobblefunk around with words.",
+      "author": "Roald Dahl",
+      "date": "2026-03-25",
+      "inactive": true,
+      "deactivatedDate": "2026-04-02"
+    },
+    {
+      "text": "Desire is the father of action.",
+      "author": "Dallin H. Oaks",
+      "date": "2026-03-25",
+      "inactive": true,
+      "deactivatedDate": "2026-04-02"
+    },
+    {
+      "text": "It is only with the heart that one can see rightly; what is essential is invisible to the eye.",
+      "author": "Antoine de Saint-Exupéry",
+      "date": "2026-03-24",
+      "inactive": true,
+      "deactivatedDate": "2026-04-02"
+    },
+    {
+      "text": "Three things cannot be long hidden: the sun, the moon, and the truth.",
+      "author": "Buddha",
+      "date": "2026-03-24",
+      "inactive": true,
+      "deactivatedDate": "2026-04-02"
     }
   ],
-  "lastRotation": "2026-04-01",
+  "lastRotation": "2026-04-02",
   "totalQuotes": 319,
   "activeQuotes": 42,
   "inactiveQuotes": 277
