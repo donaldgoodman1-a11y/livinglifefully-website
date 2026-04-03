@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "If you judge people, you have no time to love them.",
+      "author": "Mother Teresa",
+      "date": "2026-04-03",
+      "inactive": false
+    },
+    {
+      "text": "I'm a success today because I had a friend who believed in me and I didn't have the heart to let him down.",
+      "author": "Abraham Lincoln",
+      "date": "2026-04-03",
+      "inactive": false
+    },
+    {
+      "text": "People do not decide their futures, they decide their habits and their habits decide their futures.",
+      "author": "F.M. Alexander",
+      "date": "2026-04-03",
+      "inactive": false
+    },
+    {
+      "text": "The only person you are destined to become is the person you decide to be.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-04-03",
+      "inactive": false
+    },
+    {
+      "text": "Some day you will be old enough to start reading fairy tales again.",
+      "author": "C.S. Lewis",
+      "date": "2026-04-03",
+      "inactive": false
+    },
+    {
       "text": "You can never get a cup of tea large enough or a book long enough to suit me.",
       "author": "C.S. Lewis",
       "date": "2026-04-02",
@@ -223,36 +253,6 @@
       "inactive": false
     },
     {
-      "text": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
-      "author": "Albert Einstein",
-      "date": "2026-03-26",
-      "inactive": false
-    },
-    {
-      "text": "Integrity is doing the right thing even when no one is watching.",
-      "author": "C.S. Lewis",
-      "date": "2026-03-26",
-      "inactive": false
-    },
-    {
-      "text": "A hero is someone who has given his or her life to something bigger than oneself.",
-      "author": "Joseph Campbell",
-      "date": "2026-03-26",
-      "inactive": false
-    },
-    {
-      "text": "You don't have to be the victim of your environment. You can also be the architect of it.",
-      "author": "James Clear",
-      "date": "2026-03-25",
-      "inactive": false
-    },
-    {
-      "text": "Write it on your heart that every day is the best day in the year.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-03-25",
-      "inactive": false
-    },
-    {
       "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
       "author": "Confucius",
       "date": "2026-02-06",
@@ -404,12 +404,6 @@
     },
     {
       "text": "Nearly all men can stand adversity, but if you want to test a man's character, give him power.",
-      "author": "Abraham Lincoln",
-      "date": "2026-01-19",
-      "inactive": true
-    },
-    {
-      "text": "I'm a success today because I had a friend who believed in me and I didn't have the heart to let him down.",
       "author": "Abraham Lincoln",
       "date": "2026-01-19",
       "inactive": true
@@ -823,12 +817,6 @@
       "inactive": true
     },
     {
-      "text": "People do not decide their futures, they decide their habits and their habits decide their futures.",
-      "author": "F.M. Alexander",
-      "date": "2025-12-13",
-      "inactive": true
-    },
-    {
       "text": "Great things are done by a series of small things brought together.",
       "author": "Vincent Van Gogh",
       "date": "2025-12-13",
@@ -1003,13 +991,6 @@
     {
       "text": "Where the head goes, the body follows. Perception precedes action.",
       "author": "Ryan Holiday",
-      "date": "2026-02-12",
-      "inactive": true,
-      "deactivatedDate": "2026-02-16"
-    },
-    {
-      "text": "If you judge people, you have no time to love them.",
-      "author": "Mother Teresa",
       "date": "2026-02-12",
       "inactive": true,
       "deactivatedDate": "2026-02-16"
@@ -1300,13 +1281,6 @@
       "date": "2026-02-24",
       "inactive": true,
       "deactivatedDate": "2026-03-04"
-    },
-    {
-      "text": "Some day you will be old enough to start reading fairy tales again.",
-      "author": "C.S. Lewis",
-      "date": "2026-02-26",
-      "inactive": true,
-      "deactivatedDate": "2026-03-05"
     },
     {
       "text": "Faith is to believe what you do not see; the reward of this faith is to see what you believe.",
@@ -1661,13 +1635,6 @@
     {
       "text": "A soft answer turneth away wrath.",
       "author": "King Solomon",
-      "date": "2026-03-12",
-      "inactive": true,
-      "deactivatedDate": "2026-03-20"
-    },
-    {
-      "text": "The only person you are destined to become is the person you decide to be.",
-      "author": "Ralph Waldo Emerson",
       "date": "2026-03-12",
       "inactive": true,
       "deactivatedDate": "2026-03-20"
@@ -2091,9 +2058,44 @@
       "date": "2026-03-24",
       "inactive": true,
       "deactivatedDate": "2026-04-02"
+    },
+    {
+      "text": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+      "author": "Albert Einstein",
+      "date": "2026-03-26",
+      "inactive": true,
+      "deactivatedDate": "2026-04-03"
+    },
+    {
+      "text": "Integrity is doing the right thing even when no one is watching.",
+      "author": "C.S. Lewis",
+      "date": "2026-03-26",
+      "inactive": true,
+      "deactivatedDate": "2026-04-03"
+    },
+    {
+      "text": "A hero is someone who has given his or her life to something bigger than oneself.",
+      "author": "Joseph Campbell",
+      "date": "2026-03-26",
+      "inactive": true,
+      "deactivatedDate": "2026-04-03"
+    },
+    {
+      "text": "You don't have to be the victim of your environment. You can also be the architect of it.",
+      "author": "James Clear",
+      "date": "2026-03-25",
+      "inactive": true,
+      "deactivatedDate": "2026-04-03"
+    },
+    {
+      "text": "Write it on your heart that every day is the best day in the year.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-03-25",
+      "inactive": true,
+      "deactivatedDate": "2026-04-03"
     }
   ],
-  "lastRotation": "2026-04-02",
+  "lastRotation": "2026-04-03",
   "totalQuotes": 319,
   "activeQuotes": 42,
   "inactiveQuotes": 277
