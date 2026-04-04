@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
+      "author": "Dr. Seuss",
+      "date": "2026-04-04",
+      "inactive": false
+    },
+    {
+      "text": "It is during our darkest moments that we must focus to see the light.",
+      "author": "Aristotle",
+      "date": "2026-04-04",
+      "inactive": false
+    },
+    {
+      "text": "The secret of staying young is to live honestly, eat slowly, and lie about your age.",
+      "author": "Lucille Ball",
+      "date": "2026-04-04",
+      "inactive": false
+    },
+    {
+      "text": "However late you think you are, however many chances you think you have missed, you have not traveled beyond the reach of divine love.",
+      "author": "Jeffrey R. Holland",
+      "date": "2026-04-04",
+      "inactive": false
+    },
+    {
+      "text": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-04-04",
+      "inactive": false
+    },
+    {
       "text": "If you judge people, you have no time to love them.",
       "author": "Mother Teresa",
       "date": "2026-04-03",
@@ -223,36 +253,6 @@
       "inactive": false
     },
     {
-      "text": "Kind words can be short and easy to speak, but their echoes are truly endless.",
-      "author": "Mother Teresa",
-      "date": "2026-03-27",
-      "inactive": false
-    },
-    {
-      "text": "There is no innovation and creativity without failure. Period.",
-      "author": "Brené Brown",
-      "date": "2026-03-27",
-      "inactive": false
-    },
-    {
-      "text": "Happiness can be found even in the darkest of times, if one only remembers to turn on the light.",
-      "author": "J.K. Rowling",
-      "date": "2026-03-27",
-      "inactive": false
-    },
-    {
-      "text": "Habits are the compound interest of self-improvement.",
-      "author": "James Clear",
-      "date": "2026-03-26",
-      "inactive": false
-    },
-    {
-      "text": "If you can dream it, you can do it.",
-      "author": "Walt Disney",
-      "date": "2026-03-26",
-      "inactive": false
-    },
-    {
       "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
       "author": "Confucius",
       "date": "2026-02-06",
@@ -262,12 +262,6 @@
       "text": "The past is behind, learn from it. The future is ahead, prepare for it. The present is here, live it.",
       "author": "Thomas S. Monson",
       "date": "2026-02-05",
-      "inactive": true
-    },
-    {
-      "text": "However late you think you are, however many chances you think you have missed, you have not traveled beyond the reach of divine love.",
-      "author": "Jeffrey R. Holland",
-      "date": "2026-02-04",
       "inactive": true
     },
     {
@@ -385,12 +379,6 @@
       "inactive": true
     },
     {
-      "text": "It is during our darkest moments that we must focus to see the light.",
-      "author": "Aristotle",
-      "date": "2026-01-20",
-      "inactive": true
-    },
-    {
       "text": "Everything has beauty, but not everyone sees it.",
       "author": "Confucius",
       "date": "2026-01-20",
@@ -417,12 +405,6 @@
     {
       "text": "The best way out is always through.",
       "author": "Robert Frost",
-      "date": "2026-01-18",
-      "inactive": true
-    },
-    {
-      "text": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
-      "author": "Ralph Waldo Emerson",
       "date": "2026-01-18",
       "inactive": true
     },
@@ -928,13 +910,6 @@
     {
       "text": "Without a struggle, there can be no progress.",
       "author": "Frederick Douglass",
-      "date": "2026-02-12",
-      "inactive": true,
-      "deactivatedDate": "2026-02-14"
-    },
-    {
-      "text": "The secret of staying young is to live honestly, eat slowly, and lie about your age.",
-      "author": "Lucille Ball",
       "date": "2026-02-12",
       "inactive": true,
       "deactivatedDate": "2026-02-14"
@@ -1703,13 +1678,6 @@
       "deactivatedDate": "2026-03-22"
     },
     {
-      "text": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
-      "author": "Dr. Seuss",
-      "date": "2026-03-14",
-      "inactive": true,
-      "deactivatedDate": "2026-03-22"
-    },
-    {
       "text": "Even miracles take a little time.",
       "author": "Fairy Godmother, Cinderella",
       "date": "2026-03-15",
@@ -2093,9 +2061,44 @@
       "date": "2026-03-25",
       "inactive": true,
       "deactivatedDate": "2026-04-03"
+    },
+    {
+      "text": "Kind words can be short and easy to speak, but their echoes are truly endless.",
+      "author": "Mother Teresa",
+      "date": "2026-03-27",
+      "inactive": true,
+      "deactivatedDate": "2026-04-04"
+    },
+    {
+      "text": "There is no innovation and creativity without failure. Period.",
+      "author": "Brené Brown",
+      "date": "2026-03-27",
+      "inactive": true,
+      "deactivatedDate": "2026-04-04"
+    },
+    {
+      "text": "Happiness can be found even in the darkest of times, if one only remembers to turn on the light.",
+      "author": "J.K. Rowling",
+      "date": "2026-03-27",
+      "inactive": true,
+      "deactivatedDate": "2026-04-04"
+    },
+    {
+      "text": "Habits are the compound interest of self-improvement.",
+      "author": "James Clear",
+      "date": "2026-03-26",
+      "inactive": true,
+      "deactivatedDate": "2026-04-04"
+    },
+    {
+      "text": "If you can dream it, you can do it.",
+      "author": "Walt Disney",
+      "date": "2026-03-26",
+      "inactive": true,
+      "deactivatedDate": "2026-04-04"
     }
   ],
-  "lastRotation": "2026-04-03",
+  "lastRotation": "2026-04-04",
   "totalQuotes": 319,
   "activeQuotes": 42,
   "inactiveQuotes": 277
