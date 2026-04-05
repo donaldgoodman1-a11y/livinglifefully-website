@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live by the light that I have.",
+      "author": "Abraham Lincoln",
+      "date": "2026-04-05",
+      "inactive": false
+    },
+    {
+      "text": "Intelligence plus character—that is the goal of true education.",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-04-05",
+      "inactive": false
+    },
+    {
+      "text": "The power of love and kindness can overcome any challenge or hardship.\nThe Lubavitcher Rebbe",
+      "author": "The Lubavitcher Rebbe",
+      "date": "2026-04-05",
+      "inactive": false
+    },
+    {
+      "text": "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.",
+      "author": "Rumi",
+      "date": "2026-04-05",
+      "inactive": false
+    },
+    {
+      "text": "I have learned that if one advances confidently in the direction of his dreams, he will meet with a success unexpected in common hours.",
+      "author": "Henry David Thoreau",
+      "date": "2026-04-05",
+      "inactive": false
+    },
+    {
       "text": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
       "author": "Dr. Seuss",
       "date": "2026-04-04",
@@ -223,36 +253,6 @@
       "inactive": false
     },
     {
-      "text": "The brick walls are there for a reason. They're not there to keep us out. The brick walls are there to give us a chance to show how badly we want something.",
-      "author": "Randy Pausch",
-      "date": "2026-03-28",
-      "inactive": false
-    },
-    {
-      "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
-      "author": "Martin Luther King Jr.",
-      "date": "2026-03-28",
-      "inactive": false
-    },
-    {
-      "text": "We suffer more often in imagination than in reality.",
-      "author": "Seneca",
-      "date": "2026-03-28",
-      "inactive": false
-    },
-    {
-      "text": "I learned that courage was not the absence of fear, but the triumph over it.",
-      "author": "Nelson Mandela",
-      "date": "2026-03-27",
-      "inactive": false
-    },
-    {
-      "text": "You were born to win, but to be a winner, you must plan to win, prepare to win, and expect to win.",
-      "author": "Zig Ziglar",
-      "date": "2026-03-27",
-      "inactive": false
-    },
-    {
       "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
       "author": "Confucius",
       "date": "2026-02-06",
@@ -369,12 +369,6 @@
     {
       "text": "We read to know we are not alone.",
       "author": "C.S. Lewis",
-      "date": "2026-01-22",
-      "inactive": true
-    },
-    {
-      "text": "I have learned that if one advances confidently in the direction of his dreams, he will meet with a success unexpected in common hours.",
-      "author": "Henry David Thoreau",
       "date": "2026-01-22",
       "inactive": true
     },
@@ -541,12 +535,6 @@
       "inactive": true
     },
     {
-      "text": "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.",
-      "author": "Rumi",
-      "date": "2026-01-08",
-      "inactive": true
-    },
-    {
       "text": "Raise your words, not voice. It is rain that grows flowers, not thunder.",
       "author": "Rumi",
       "date": "2026-01-08",
@@ -596,12 +584,6 @@
     },
     {
       "text": "You don't have to see the whole staircase, just take the first step.",
-      "author": "Martin Luther King Jr.",
-      "date": "2026-01-03",
-      "inactive": true
-    },
-    {
-      "text": "Intelligence plus character—that is the goal of true education.",
       "author": "Martin Luther King Jr.",
       "date": "2026-01-03",
       "inactive": true
@@ -1100,13 +1082,6 @@
       "text": "Remember that sometimes not getting what you want is a wonderful stroke of luck.",
       "author": "Dalai Lama",
       "date": "2026-02-19",
-      "inactive": true,
-      "deactivatedDate": "2026-02-25"
-    },
-    {
-      "text": "The power of love and kindness can overcome any challenge or hardship.\nThe Lubavitcher Rebbe",
-      "author": "The Lubavitcher Rebbe",
-      "date": "2026-02-20",
       "inactive": true,
       "deactivatedDate": "2026-02-25"
     },
@@ -1734,13 +1709,6 @@
       "deactivatedDate": "2026-03-24"
     },
     {
-      "text": "I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live by the light that I have.",
-      "author": "Abraham Lincoln",
-      "date": "2026-03-16",
-      "inactive": true,
-      "deactivatedDate": "2026-03-24"
-    },
-    {
       "text": "In the end, it's not the years in your life that count. It's the life in your years.",
       "author": "Abraham Lincoln",
       "date": "2026-03-17",
@@ -2096,9 +2064,44 @@
       "date": "2026-03-26",
       "inactive": true,
       "deactivatedDate": "2026-04-04"
+    },
+    {
+      "text": "The brick walls are there for a reason. They're not there to keep us out. The brick walls are there to give us a chance to show how badly we want something.",
+      "author": "Randy Pausch",
+      "date": "2026-03-28",
+      "inactive": true,
+      "deactivatedDate": "2026-04-05"
+    },
+    {
+      "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-03-28",
+      "inactive": true,
+      "deactivatedDate": "2026-04-05"
+    },
+    {
+      "text": "We suffer more often in imagination than in reality.",
+      "author": "Seneca",
+      "date": "2026-03-28",
+      "inactive": true,
+      "deactivatedDate": "2026-04-05"
+    },
+    {
+      "text": "I learned that courage was not the absence of fear, but the triumph over it.",
+      "author": "Nelson Mandela",
+      "date": "2026-03-27",
+      "inactive": true,
+      "deactivatedDate": "2026-04-05"
+    },
+    {
+      "text": "You were born to win, but to be a winner, you must plan to win, prepare to win, and expect to win.",
+      "author": "Zig Ziglar",
+      "date": "2026-03-27",
+      "inactive": true,
+      "deactivatedDate": "2026-04-05"
     }
   ],
-  "lastRotation": "2026-04-04",
+  "lastRotation": "2026-04-05",
   "totalQuotes": 319,
   "activeQuotes": 42,
   "inactiveQuotes": 277
