@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "The happiness of your life depends upon the quality of your thoughts.",
+      "author": "Marcus Aurelius",
+      "date": "2026-04-06",
+      "inactive": false
+    },
+    {
+      "text": "Not all those who wander are lost.",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-04-06",
+      "inactive": false
+    },
+    {
+      "text": "Try a little harder to be a little better.",
+      "author": "Gordon B. Hinckley",
+      "date": "2026-04-06",
+      "inactive": false
+    },
+    {
+      "text": "The more that you read, the more things you will know. The more that you learn, the more places you'll go.",
+      "author": "Dr. Seuss",
+      "date": "2026-04-06",
+      "inactive": false
+    },
+    {
+      "text": "Sometimes we're tested not to show our weaknesses, but to discover our strengths.",
+      "author": "Rafiki, The Lion King",
+      "date": "2026-04-06",
+      "inactive": false
+    },
+    {
       "text": "I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live by the light that I have.",
       "author": "Abraham Lincoln",
       "date": "2026-04-05",
@@ -223,36 +253,6 @@
       "inactive": false
     },
     {
-      "text": "Courage doesn't always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.'",
-      "author": "Mary Anne Radmacher",
-      "date": "2026-03-29",
-      "inactive": false
-    },
-    {
-      "text": "Hardships often prepare ordinary people for an extraordinary destiny.",
-      "author": "C.S. Lewis",
-      "date": "2026-03-29",
-      "inactive": false
-    },
-    {
-      "text": "Let us not pray to be sheltered from dangers but to be fearless when facing them.",
-      "author": "Rabindranath Tagore",
-      "date": "2026-03-29",
-      "inactive": false
-    },
-    {
-      "text": "Decisions determine destiny.",
-      "author": "Thomas S. Monson",
-      "date": "2026-03-28",
-      "inactive": false
-    },
-    {
-      "text": "The future belongs to those who believe in the beauty of their dreams.",
-      "author": "Eleanor Roosevelt",
-      "date": "2026-03-28",
-      "inactive": false
-    },
-    {
       "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
       "author": "Confucius",
       "date": "2026-02-06",
@@ -283,20 +283,8 @@
       "inactive": true
     },
     {
-      "text": "Try a little harder to be a little better.",
-      "author": "Gordon B. Hinckley",
-      "date": "2026-02-02",
-      "inactive": true
-    },
-    {
       "text": "Imagination is more important than knowledge.",
       "author": "Albert Einstein",
-      "date": "2026-02-01",
-      "inactive": true
-    },
-    {
-      "text": "The happiness of your life depends upon the quality of your thoughts.",
-      "author": "Marcus Aurelius",
       "date": "2026-02-01",
       "inactive": true
     },
@@ -674,12 +662,6 @@
     },
     {
       "text": "All we have to decide is what to do with the time that is given us.",
-      "author": "J.R.R. Tolkien",
-      "date": "2025-12-25",
-      "inactive": true
-    },
-    {
-      "text": "Not all those who wander are lost.",
       "author": "J.R.R. Tolkien",
       "date": "2025-12-25",
       "inactive": true
@@ -1256,13 +1238,6 @@
     {
       "text": "Fantasy is hardly an escape from reality. It's a way of understanding it.",
       "author": "Lloyd Alexander",
-      "date": "2026-02-27",
-      "inactive": true,
-      "deactivatedDate": "2026-03-06"
-    },
-    {
-      "text": "Sometimes we're tested not to show our weaknesses, but to discover our strengths.",
-      "author": "Rafiki, The Lion King",
       "date": "2026-02-27",
       "inactive": true,
       "deactivatedDate": "2026-03-06"
@@ -1863,13 +1838,6 @@
       "deactivatedDate": "2026-03-30"
     },
     {
-      "text": "The more that you read, the more things you will know. The more that you learn, the more places you'll go.",
-      "author": "Dr. Seuss",
-      "date": "2026-03-22",
-      "inactive": true,
-      "deactivatedDate": "2026-03-30"
-    },
-    {
       "text": "All our dreams can come true, if we have the courage to pursue them.",
       "author": "Walt Disney",
       "date": "2026-03-22",
@@ -2099,9 +2067,44 @@
       "date": "2026-03-27",
       "inactive": true,
       "deactivatedDate": "2026-04-05"
+    },
+    {
+      "text": "Courage doesn't always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.'",
+      "author": "Mary Anne Radmacher",
+      "date": "2026-03-29",
+      "inactive": true,
+      "deactivatedDate": "2026-04-06"
+    },
+    {
+      "text": "Hardships often prepare ordinary people for an extraordinary destiny.",
+      "author": "C.S. Lewis",
+      "date": "2026-03-29",
+      "inactive": true,
+      "deactivatedDate": "2026-04-06"
+    },
+    {
+      "text": "Let us not pray to be sheltered from dangers but to be fearless when facing them.",
+      "author": "Rabindranath Tagore",
+      "date": "2026-03-29",
+      "inactive": true,
+      "deactivatedDate": "2026-04-06"
+    },
+    {
+      "text": "Decisions determine destiny.",
+      "author": "Thomas S. Monson",
+      "date": "2026-03-28",
+      "inactive": true,
+      "deactivatedDate": "2026-04-06"
+    },
+    {
+      "text": "The future belongs to those who believe in the beauty of their dreams.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-03-28",
+      "inactive": true,
+      "deactivatedDate": "2026-04-06"
     }
   ],
-  "lastRotation": "2026-04-05",
+  "lastRotation": "2026-04-06",
   "totalQuotes": 319,
   "activeQuotes": 42,
   "inactiveQuotes": 277
