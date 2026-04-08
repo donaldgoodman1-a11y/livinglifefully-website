@@ -1,9 +1,7 @@
  [build]
-  functions = "netlify/functions"
-
+  functions = "Netlify/Functions"
 [functions]
   node_bundler = "esbuild"
-
 [functions.daily-quotes]
   schedule = "0 16 * * *" 
   
