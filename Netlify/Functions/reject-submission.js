@@ -1,13 +1,4 @@
  exports.handler = async (event) => {
-  // Check for valid Netlify Identity JWT
-  const authHeader = event.headers['authorization'];
-  if (!authHeader || !authHeader.startsWith('Bearer ')) {
-    return {
-      statusCode: 401,
-      body: JSON.stringify({ error: 'Unauthorized' })
-    };
-  }
-
   if (event.httpMethod !== 'POST') {
     return {
       statusCode: 405,
@@ -32,7 +23,6 @@
       };
     }
 
-    // Mark the submission as spam (removes from main list but keeps record)
     const spamResponse = await fetch(
       `https://api.netlify.com/api/v1/submissions/${id}/spam`,
       {
@@ -44,7 +34,6 @@
     );
 
     if (!spamResponse.ok) {
-      // If marking as spam fails, try to delete it
       const deleteResponse = await fetch(
         `https://api.netlify.com/api/v1/submissions/${id}`,
         {
