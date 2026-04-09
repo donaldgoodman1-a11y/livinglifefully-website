@@ -1,5 +1,13 @@
  exports.handler = async (event) => {
   // Check for admin key
+  const adminKey = event.headers['x-admin-key'];
+const expectedKey = 'admin123';
+if (!adminKey || adminKey !== expectedKey) {
+  return {
+    statusCode: 401,
+    body: JSON.stringify({ error: 'Unauthorized' })
+  };
+}
    if (event.httpMethod !== 'POST') {
     return {
       statusCode: 405,
