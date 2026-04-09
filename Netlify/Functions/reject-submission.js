@@ -1,9 +1,7 @@
-exports.handler = async (event) => {
-  // Check for admin key
-  const adminKey = event.headers['x-admin-key'];
-  const expectedKey = 'admin123';
-
-  if (!adminKey || adminKey !== expectedKey) {
+ exports.handler = async (event) => {
+  // Check for valid Netlify Identity JWT
+  const authHeader = event.headers['authorization'];
+  if (!authHeader || !authHeader.startsWith('Bearer ')) {
     return {
       statusCode: 401,
       body: JSON.stringify({ error: 'Unauthorized' })
@@ -19,7 +17,6 @@ exports.handler = async (event) => {
 
   try {
     const { id } = JSON.parse(event.body);
-
     if (!id) {
       return {
         statusCode: 400,
@@ -28,7 +25,6 @@ exports.handler = async (event) => {
     }
 
     const netlifyToken = process.env.NETLIFY_API_TOKEN;
-
     if (!netlifyToken) {
       return {
         statusCode: 500,
