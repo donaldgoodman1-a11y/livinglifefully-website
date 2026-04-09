@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "People often say that motivation doesn't last. Well, neither does bathing—that's why we recommend it daily.",
+      "author": "Zig Ziglar",
+      "date": "2026-04-09",
+      "inactive": false
+    },
+    {
+      "text": "A soft answer turneth away wrath.",
+      "author": "King Solomon",
+      "date": "2026-04-09",
+      "inactive": false
+    },
+    {
+      "text": "Each child brings his own blessing into the world.",
+      "author": "Talmud",
+      "date": "2026-04-09",
+      "inactive": false
+    },
+    {
+      "text": "How many slams in an old screen door? Depends how loud you shut it.",
+      "author": "Shel Silverstein",
+      "date": "2026-04-09",
+      "inactive": false
+    },
+    {
+      "text": "I wish it need not have happened in my time, said Frodo. So do I, said Gandalf, and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-04-09",
+      "inactive": false
+    },
+    {
       "text": "Don’t make a project out of yourself. \nMove outside yourself.",
       "author": "Dr Goodman",
       "date": "2026-04-08"
@@ -235,36 +265,6 @@
       "text": "You don't have to be perfect to be loved.",
       "author": "Russell M. Nelson",
       "date": "2026-04-01",
-      "inactive": false
-    },
-    {
-      "text": "You are never too old to set another goal or to dream a new dream.",
-      "author": "C.S. Lewis",
-      "date": "2026-04-01",
-      "inactive": false
-    },
-    {
-      "text": "A pleasure is not full grown until it is remembered.",
-      "author": "C.S. Lewis",
-      "date": "2026-04-01",
-      "inactive": false
-    },
-    {
-      "text": "The weak can never forgive. Forgiveness is the attribute of the strong.",
-      "author": "Mahatma Gandhi",
-      "date": "2026-04-01",
-      "inactive": false
-    },
-    {
-      "text": "You miss 100% of the shots you don't take.",
-      "author": "Wayne Gretzky",
-      "date": "2026-03-31",
-      "inactive": false
-    },
-    {
-      "text": "There is a place where the sidewalk ends and before the street begins.",
-      "author": "Shel Silverstein",
-      "date": "2026-03-31",
       "inactive": false
     },
     {
@@ -870,13 +870,6 @@
       "deactivatedDate": "2026-02-15"
     },
     {
-      "text": "People often say that motivation doesn't last. Well, neither does bathing—that's why we recommend it daily.",
-      "author": "Zig Ziglar",
-      "date": "2026-02-12",
-      "inactive": true,
-      "deactivatedDate": "2026-02-15"
-    },
-    {
       "text": "Be kind whenever possible. It is always possible.",
       "author": "Dalai Lama",
       "date": "2026-02-12",
@@ -1262,13 +1255,6 @@
       "deactivatedDate": "2026-03-09"
     },
     {
-      "text": "How many slams in an old screen door? Depends how loud you shut it.",
-      "author": "Shel Silverstein",
-      "date": "2026-03-02",
-      "inactive": true,
-      "deactivatedDate": "2026-03-09"
-    },
-    {
       "text": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
       "author": "Marcus Aurelius",
       "date": "2026-03-03",
@@ -1330,13 +1316,6 @@
       "date": "2026-03-04",
       "inactive": true,
       "deactivatedDate": "2026-03-12"
-    },
-    {
-      "text": "Each child brings his own blessing into the world.",
-      "author": "Talmud",
-      "date": "2026-03-05",
-      "inactive": true,
-      "deactivatedDate": "2026-03-13"
     },
     {
       "text": "In a gentle way, you can shake the world.",
@@ -1465,13 +1444,6 @@
       "deactivatedDate": "2026-03-18"
     },
     {
-      "text": "I wish it need not have happened in my time, said Frodo. So do I, said Gandalf, and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.",
-      "author": "J.R.R. Tolkien",
-      "date": "2026-03-10",
-      "inactive": true,
-      "deactivatedDate": "2026-03-18"
-    },
-    {
       "text": "Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world.",
       "author": "Desmond Tutu",
       "date": "2026-03-10",
@@ -1512,13 +1484,6 @@
       "date": "2026-03-11",
       "inactive": true,
       "deactivatedDate": "2026-03-19"
-    },
-    {
-      "text": "A soft answer turneth away wrath.",
-      "author": "King Solomon",
-      "date": "2026-03-12",
-      "inactive": true,
-      "deactivatedDate": "2026-03-20"
     },
     {
       "text": "You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes.",
@@ -2121,10 +2086,45 @@
       "date": "2026-03-30",
       "inactive": true,
       "deactivatedDate": "2026-04-08"
+    },
+    {
+      "text": "You are never too old to set another goal or to dream a new dream.",
+      "author": "C.S. Lewis",
+      "date": "2026-04-01",
+      "inactive": true,
+      "deactivatedDate": "2026-04-09"
+    },
+    {
+      "text": "A pleasure is not full grown until it is remembered.",
+      "author": "C.S. Lewis",
+      "date": "2026-04-01",
+      "inactive": true,
+      "deactivatedDate": "2026-04-09"
+    },
+    {
+      "text": "The weak can never forgive. Forgiveness is the attribute of the strong.",
+      "author": "Mahatma Gandhi",
+      "date": "2026-04-01",
+      "inactive": true,
+      "deactivatedDate": "2026-04-09"
+    },
+    {
+      "text": "You miss 100% of the shots you don't take.",
+      "author": "Wayne Gretzky",
+      "date": "2026-03-31",
+      "inactive": true,
+      "deactivatedDate": "2026-04-09"
+    },
+    {
+      "text": "There is a place where the sidewalk ends and before the street begins.",
+      "author": "Shel Silverstein",
+      "date": "2026-03-31",
+      "inactive": true,
+      "deactivatedDate": "2026-04-09"
     }
   ],
-  "lastRotation": "2026-04-08",
-  "totalQuotes": 319,
-  "activeQuotes": 42,
+  "lastRotation": "2026-04-09",
+  "totalQuotes": 322,
+  "activeQuotes": 45,
   "inactiveQuotes": 277
 }
