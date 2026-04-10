@@ -32,37 +32,6 @@ function githubGet(path) {
   });
 }
 
-// Verify Netlify Identity JWT
-async function verifyNetlifyJWT(token) {
-  return new Promise((resolve, reject) => {
-    const options = {
-      hostname: "livinglifefullywithhope.com",
-      path: "/.netlify/identity/user",
-      method: "GET",
-      headers: {
-        Authorization: `Bearer ${token}`,
-      },
-    };
-    const req = https.request(options, (res) => {
-      let data = "";
-      res.on("data", (chunk) => (data += chunk));
-      res.on("end", () => {
-        if (res.statusCode === 200) {
-          try {
-            resolve(JSON.parse(data));
-          } catch (e) {
-            reject(new Error("Invalid user data"));
-          }
-        } else {
-          reject(new Error("Unauthorized"));
-        }
-      });
-    });
-    req.on("error", reject);
-    req.end();
-  });
-}
-
 exports.handler = async (event) => {
   const headers = {
     "Access-Control-Allow-Origin": "*",
@@ -83,20 +52,11 @@ exports.handler = async (event) => {
     };
   }
 
-  // Verify Netlify Identity JWT
+  // Simple password check
+  const adminKey = process.env.ADMIN_KEY;
   const authHeader = event.headers["authorization"] || "";
-  const token = authHeader.replace("Bearer ", "").trim();
-  if (!token) {
-    return {
-      statusCode: 401,
-      headers,
-      body: JSON.stringify({ error: "Unauthorized" }),
-    };
-  }
-
-  try {
-    await verifyNetlifyJWT(token);
-  } catch (err) {
+  const provided = authHeader.replace("Bearer ", "").trim();
+  if (!provided || (adminKey && provided !== adminKey)) {
     return {
       statusCode: 401,
       headers,
