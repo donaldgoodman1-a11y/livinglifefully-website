@@ -1,8 +1,8 @@
 const https = require("https");
 
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
-const GITHUB_REPO = "donaldgoodman1-a11y/livinglifefully-website";
-const FILE_PATH = "data/community-wisdom.json";
+const GITHUB_REPO = process.env.GITHUB_REPO || "donaldgoodman1-a11y/livinglifefully-website";
+const PENDING_FILE = "data/pending-submissions.json";
 
 function githubGet(path) {
   return new Promise((resolve, reject) => {
@@ -96,7 +96,6 @@ exports.handler = async (event) => {
     const data = JSON.parse(event.body);
     const { wisdom, author } = data;
 
-    // Validate
     if (!wisdom || wisdom.trim().length === 0) {
       return {
         statusCode: 400,
@@ -108,9 +107,7 @@ exports.handler = async (event) => {
       return {
         statusCode: 400,
         headers,
-        body: JSON.stringify({
-          error: "Submission is too long. Please keep it under 1000 characters.",
-        }),
+        body: JSON.stringify({ error: "Submission is too long. Please keep it under 1000 characters." }),
       };
     }
 
@@ -118,31 +115,27 @@ exports.handler = async (event) => {
       id: Date.now().toString(),
       wisdom: wisdom.trim(),
       author: (author && author.trim()) || "Anonymous Reader",
+      date: new Date().toISOString().split("T")[0],
       submittedAt: new Date().toISOString(),
     };
 
-    // Read current file from GitHub
+    // Read current pending-submissions.json from GitHub
     const getResponse = await githubGet(
-      `/repos/${GITHUB_REPO}/contents/${FILE_PATH}`
+      `/repos/${GITHUB_REPO}/contents/${PENDING_FILE}`
     );
 
-    let currentData = { pending: [], approved: [], rejected: [] };
+    let currentData = { pending: [], approvedCount: 0, rejectedCount: 0 };
     let sha = null;
 
     if (getResponse.status === 200) {
       sha = getResponse.body.sha;
       const content = Buffer.from(getResponse.body.content, "base64").toString("utf8");
       const parsed = JSON.parse(content);
-      if (Array.isArray(parsed)) {
-        // Legacy format — migrate
-        currentData = { pending: parsed, approved: [], rejected: [] };
-      } else {
-        currentData = {
-          pending: parsed.pending || [],
-          approved: parsed.approved || [],
-          rejected: parsed.rejected || [],
-        };
-      }
+      currentData = {
+        pending: parsed.pending || [],
+        approvedCount: parsed.approvedCount || 0,
+        rejectedCount: parsed.rejectedCount || 0,
+      };
     }
     // If 404, file doesn't exist yet — we'll create it fresh
 
@@ -160,7 +153,7 @@ exports.handler = async (event) => {
     };
 
     const putResponse = await githubPut(
-      `/repos/${GITHUB_REPO}/contents/${FILE_PATH}`,
+      `/repos/${GITHUB_REPO}/contents/${PENDING_FILE}`,
       putPayload
     );
 
