@@ -1,8 +1,8 @@
  const https = require("https");
 
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
-const GITHUB_REPO = "donaldgoodman1-a11y/livinglifefully-website";
-const FILE_PATH = "data/community-wisdom.json";
+const GITHUB_REPO = process.env.GITHUB_REPO || "donaldgoodman1-a11y/livinglifefully-website";
+const PENDING_FILE = "data/pending-submissions.json";
 
 function githubGet(path) {
   return new Promise((resolve, reject) => {
@@ -16,7 +16,6 @@ function githubGet(path) {
         Accept: "application/vnd.github.v3+json",
       },
     };
-
     const req = https.request(options, (res) => {
       let data = "";
       res.on("data", (chunk) => (data += chunk));
@@ -28,7 +27,37 @@ function githubGet(path) {
         }
       });
     });
+    req.on("error", reject);
+    req.end();
+  });
+}
 
+// Verify Netlify Identity JWT
+async function verifyNetlifyJWT(token) {
+  return new Promise((resolve, reject) => {
+    const options = {
+      hostname: "livinglifefullywithhope.com",
+      path: "/.netlify/identity/user",
+      method: "GET",
+      headers: {
+        Authorization: `Bearer ${token}`,
+      },
+    };
+    const req = https.request(options, (res) => {
+      let data = "";
+      res.on("data", (chunk) => (data += chunk));
+      res.on("end", () => {
+        if (res.statusCode === 200) {
+          try {
+            resolve(JSON.parse(data));
+          } catch (e) {
+            reject(new Error("Invalid user data"));
+          }
+        } else {
+          reject(new Error("Unauthorized"));
+        }
+      });
+    });
     req.on("error", reject);
     req.end();
   });
@@ -54,18 +83,25 @@ exports.handler = async (event) => {
     };
   }
 
-  // Check for admin password
-  const adminPassword = process.env.ADMIN_PASSWORD;
-  if (adminPassword) {
-    const authHeader = event.headers["authorization"] || "";
-    const provided = authHeader.replace("Bearer ", "").trim();
-    if (provided !== adminPassword) {
-      return {
-        statusCode: 401,
-        headers,
-        body: JSON.stringify({ error: "Unauthorized" }),
-      };
-    }
+  // Verify Netlify Identity JWT
+  const authHeader = event.headers["authorization"] || "";
+  const token = authHeader.replace("Bearer ", "").trim();
+  if (!token) {
+    return {
+      statusCode: 401,
+      headers,
+      body: JSON.stringify({ error: "Unauthorized" }),
+    };
+  }
+
+  try {
+    await verifyNetlifyJWT(token);
+  } catch (err) {
+    return {
+      statusCode: 401,
+      headers,
+      body: JSON.stringify({ error: "Unauthorized" }),
+    };
   }
 
   if (!GITHUB_TOKEN) {
@@ -78,15 +114,14 @@ exports.handler = async (event) => {
 
   try {
     const response = await githubGet(
-      `/repos/${GITHUB_REPO}/contents/${FILE_PATH}`
+      `/repos/${GITHUB_REPO}/contents/${PENDING_FILE}`
     );
 
     if (response.status === 404) {
-      // File doesn't exist yet — return empty arrays
       return {
         statusCode: 200,
         headers,
-        body: JSON.stringify({ pending: [], approved: [], rejected: [] }),
+        body: JSON.stringify({ pending: [], approvedCount: 0, rejectedCount: 0 }),
       };
     }
 
@@ -94,29 +129,17 @@ exports.handler = async (event) => {
       throw new Error(`GitHub API error: ${response.status}`);
     }
 
-    const content = Buffer.from(response.body.content, "base64").toString(
-      "utf8"
-    );
+    const content = Buffer.from(response.body.content, "base64").toString("utf8");
     const data = JSON.parse(content);
 
-    // Support both array format and object format
-    let pending = [];
-    let approved = [];
-    let rejected = [];
-
-    if (Array.isArray(data)) {
-      // Legacy: flat array — treat all as pending
-      pending = data;
-    } else {
-      pending = data.pending || [];
-      approved = data.approved || [];
-      rejected = data.rejected || [];
-    }
+    const pending = data.pending || [];
+    const approvedCount = data.approvedCount || 0;
+    const rejectedCount = data.rejectedCount || 0;
 
     return {
       statusCode: 200,
       headers,
-      body: JSON.stringify({ pending, approved, rejected }),
+      body: JSON.stringify({ pending, approvedCount, rejectedCount }),
     };
   } catch (err) {
     console.error("get-submissions error:", err);
