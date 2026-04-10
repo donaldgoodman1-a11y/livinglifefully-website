@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-04-10",
+      "inactive": false
+    },
+    {
+      "text": "The obstacle is the way.",
+      "author": "Ryan Holiday",
+      "date": "2026-04-10",
+      "inactive": false
+    },
+    {
+      "text": "Friendship is born at that moment when one person says to another: What! You too? I thought I was the only one.",
+      "author": "C.S. Lewis",
+      "date": "2026-04-10",
+      "inactive": false
+    },
+    {
+      "text": "Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!",
+      "author": "Dr. Seuss",
+      "date": "2026-04-10",
+      "inactive": false
+    },
+    {
+      "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+      "author": "Aristotle",
+      "date": "2026-04-10",
+      "inactive": false
+    },
+    {
       "text": "People often say that motivation doesn't last. Well, neither does bathing—that's why we recommend it daily.",
       "author": "Zig Ziglar",
       "date": "2026-04-09",
@@ -235,36 +265,6 @@
       "text": "A single sunbeam is enough to drive away many shadows.",
       "author": "St. Francis of Assisi",
       "date": "2026-04-02",
-      "inactive": false
-    },
-    {
-      "text": "When we long for life without difficulties, remember that oaks grow strong in contrary winds and diamonds are made under pressure.",
-      "author": "Peter Marshall",
-      "date": "2026-04-02",
-      "inactive": false
-    },
-    {
-      "text": "Be who God meant you to be and you will set the world on fire.",
-      "author": "St. Catherine of Siena",
-      "date": "2026-04-02",
-      "inactive": false
-    },
-    {
-      "text": "To pay attention, this is our endless and proper work.",
-      "author": "Mary Oliver",
-      "date": "2026-04-02",
-      "inactive": false
-    },
-    {
-      "text": "And we know that all things work together for good to them that love God.",
-      "author": "Paul the Apostle",
-      "date": "2026-04-01",
-      "inactive": false
-    },
-    {
-      "text": "You don't have to be perfect to be loved.",
-      "author": "Russell M. Nelson",
-      "date": "2026-04-01",
       "inactive": false
     },
     {
@@ -730,12 +730,6 @@
       "inactive": true
     },
     {
-      "text": "The obstacle is the way.",
-      "author": "Ryan Holiday",
-      "date": "2025-12-15",
-      "inactive": true
-    },
-    {
       "text": "The impediment to action advances action. What stands in the way becomes the way.",
       "author": "Ryan Holiday",
       "date": "2025-12-15",
@@ -912,13 +906,6 @@
       "deactivatedDate": "2026-02-17"
     },
     {
-      "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
-      "author": "Aristotle",
-      "date": "2026-02-12",
-      "inactive": true,
-      "deactivatedDate": "2026-02-19"
-    },
-    {
       "text": "Wherever you go, go with all your heart.",
       "author": "Confucius",
       "date": "2026-02-12",
@@ -938,13 +925,6 @@
       "date": "2026-02-13",
       "inactive": true,
       "deactivatedDate": "2026-02-20"
-    },
-    {
-      "text": "Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!",
-      "author": "Dr. Seuss",
-      "date": "2026-02-14",
-      "inactive": true,
-      "deactivatedDate": "2026-02-21"
     },
     {
       "text": "For I know the thoughts that I think toward you, saith the Lord, thoughts of peace, and not of evil.",
@@ -1144,13 +1124,6 @@
     },
     {
       "text": "Isn't it funny how day by day nothing changes, but when you look back, everything is different.",
-      "author": "C.S. Lewis",
-      "date": "2026-02-25",
-      "inactive": true,
-      "deactivatedDate": "2026-03-04"
-    },
-    {
-      "text": "Friendship is born at that moment when one person says to another: What! You too? I thought I was the only one.",
       "author": "C.S. Lewis",
       "date": "2026-02-25",
       "inactive": true,
@@ -1955,13 +1928,6 @@
       "deactivatedDate": "2026-04-05"
     },
     {
-      "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
-      "author": "Martin Luther King Jr.",
-      "date": "2026-03-28",
-      "inactive": true,
-      "deactivatedDate": "2026-04-05"
-    },
-    {
       "text": "We suffer more often in imagination than in reality.",
       "author": "Seneca",
       "date": "2026-03-28",
@@ -2121,9 +2087,44 @@
       "date": "2026-03-31",
       "inactive": true,
       "deactivatedDate": "2026-04-09"
+    },
+    {
+      "text": "When we long for life without difficulties, remember that oaks grow strong in contrary winds and diamonds are made under pressure.",
+      "author": "Peter Marshall",
+      "date": "2026-04-02",
+      "inactive": true,
+      "deactivatedDate": "2026-04-10"
+    },
+    {
+      "text": "Be who God meant you to be and you will set the world on fire.",
+      "author": "St. Catherine of Siena",
+      "date": "2026-04-02",
+      "inactive": true,
+      "deactivatedDate": "2026-04-10"
+    },
+    {
+      "text": "To pay attention, this is our endless and proper work.",
+      "author": "Mary Oliver",
+      "date": "2026-04-02",
+      "inactive": true,
+      "deactivatedDate": "2026-04-10"
+    },
+    {
+      "text": "And we know that all things work together for good to them that love God.",
+      "author": "Paul the Apostle",
+      "date": "2026-04-01",
+      "inactive": true,
+      "deactivatedDate": "2026-04-10"
+    },
+    {
+      "text": "You don't have to be perfect to be loved.",
+      "author": "Russell M. Nelson",
+      "date": "2026-04-01",
+      "inactive": true,
+      "deactivatedDate": "2026-04-10"
     }
   ],
-  "lastRotation": "2026-04-09",
+  "lastRotation": "2026-04-10",
   "totalQuotes": 322,
   "activeQuotes": 45,
   "inactiveQuotes": 277
