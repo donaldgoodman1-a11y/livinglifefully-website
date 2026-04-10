@@ -1,1 +1,13 @@
-{ "pending": [], "approvedCount": 0, "rejectedCount": 0 }
+{
+  "pending": [
+    {
+      "id": "1775791324099",
+      "wisdom": "We’re all here to give each other a help up",
+      "author": "Anonymous Reader",
+      "date": "2026-04-10",
+      "submittedAt": "2026-04-10T03:22:04.101Z"
+    }
+  ],
+  "approvedCount": 0,
+  "rejectedCount": 0
+}
