@@ -55,7 +55,7 @@ exports.handler = async (event) => {
   }
 
   // Check for admin password
-  const adminPassword = process.env.ADMIN_PASSWORD;
+  const adminPassword = process.env.ADMIN_KEY;
   if (adminPassword) {
     const authHeader = event.headers["authorization"] || "";
     const provided = authHeader.replace("Bearer ", "").trim();
