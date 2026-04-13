@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "The spiritual gift of agency, the freedom to choose, is essential to our growth.",
+      "author": "Dallin H. Oaks",
+      "date": "2026-04-12",
+      "inactive": false
+    },
+    {
+      "text": "What would life be if we had no courage to attempt anything?",
+      "author": "Vincent Van Gogh",
+      "date": "2026-04-12",
+      "inactive": false
+    },
+    {
+      "text": "That which does not kill us makes us stronger.",
+      "author": "Friedrich Nietzsche",
+      "date": "2026-04-12",
+      "inactive": false
+    },
+    {
+      "text": "Tell me, what is it you plan to do with your one wild and precious life?",
+      "author": "Mary Oliver",
+      "date": "2026-04-12",
+      "inactive": false
+    },
+    {
+      "text": "Nothing can dim the light which shines from within.",
+      "author": "Maya Angelou",
+      "date": "2026-04-12",
+      "inactive": false
+    },
+    {
       "text": "It is easier to build strong children than to repair broken men.",
       "author": "Frederick Douglass",
       "date": "2026-04-11",
@@ -238,36 +268,6 @@
       "inactive": false
     },
     {
-      "text": "The secret of staying young is to live honestly, eat slowly, and lie about your age.",
-      "author": "Lucille Ball",
-      "date": "2026-04-04",
-      "inactive": false
-    },
-    {
-      "text": "However late you think you are, however many chances you think you have missed, you have not traveled beyond the reach of divine love.",
-      "author": "Jeffrey R. Holland",
-      "date": "2026-04-04",
-      "inactive": false
-    },
-    {
-      "text": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-04-04",
-      "inactive": false
-    },
-    {
-      "text": "If you judge people, you have no time to love them.",
-      "author": "Mother Teresa",
-      "date": "2026-04-03",
-      "inactive": false
-    },
-    {
-      "text": "I'm a success today because I had a friend who believed in me and I didn't have the heart to let him down.",
-      "author": "Abraham Lincoln",
-      "date": "2026-04-03",
-      "inactive": false
-    },
-    {
       "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
       "author": "Confucius",
       "date": "2026-02-06",
@@ -418,12 +418,6 @@
       "inactive": true
     },
     {
-      "text": "That which does not kill us makes us stronger.",
-      "author": "Friedrich Nietzsche",
-      "date": "2026-01-15",
-      "inactive": true
-    },
-    {
       "text": "When we are no longer able to change a situation, we are challenged to change ourselves.",
       "author": "Viktor Frankl",
       "date": "2026-01-14",
@@ -481,12 +475,6 @@
       "text": "The secret to so many artists living so long is that every painting is a new adventure. So, you see, they're always looking ahead to something new and exciting.",
       "author": "Norman Rockwell",
       "date": "2026-01-10",
-      "inactive": true
-    },
-    {
-      "text": "Tell me, what is it you plan to do with your one wild and precious life?",
-      "author": "Mary Oliver",
-      "date": "2026-01-09",
       "inactive": true
     },
     {
@@ -754,12 +742,6 @@
       "inactive": true
     },
     {
-      "text": "What would life be if we had no courage to attempt anything?",
-      "author": "Vincent Van Gogh",
-      "date": "2025-12-13",
-      "inactive": true
-    },
-    {
       "text": "I feel that there is nothing more truly artistic than to love people.",
       "author": "Vincent Van Gogh",
       "date": "2025-12-13",
@@ -1020,13 +1002,6 @@
     {
       "text": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you.",
       "author": "Jesus Christ",
-      "date": "2026-02-19",
-      "inactive": true,
-      "deactivatedDate": "2026-02-26"
-    },
-    {
-      "text": "Nothing can dim the light which shines from within.",
-      "author": "Maya Angelou",
       "date": "2026-02-19",
       "inactive": true,
       "deactivatedDate": "2026-02-26"
@@ -1788,13 +1763,6 @@
       "deactivatedDate": "2026-04-01"
     },
     {
-      "text": "The spiritual gift of agency, the freedom to choose, is essential to our growth.",
-      "author": "Dallin H. Oaks",
-      "date": "2026-03-23",
-      "inactive": true,
-      "deactivatedDate": "2026-04-01"
-    },
-    {
       "text": "Owning our story and loving ourselves through that process is the bravest thing that we'll ever do.",
       "author": "Brené Brown",
       "date": "2026-03-23",
@@ -2122,9 +2090,44 @@
       "date": "2026-04-02",
       "inactive": true,
       "deactivatedDate": "2026-04-11"
+    },
+    {
+      "text": "The secret of staying young is to live honestly, eat slowly, and lie about your age.",
+      "author": "Lucille Ball",
+      "date": "2026-04-04",
+      "inactive": true,
+      "deactivatedDate": "2026-04-12"
+    },
+    {
+      "text": "However late you think you are, however many chances you think you have missed, you have not traveled beyond the reach of divine love.",
+      "author": "Jeffrey R. Holland",
+      "date": "2026-04-04",
+      "inactive": true,
+      "deactivatedDate": "2026-04-12"
+    },
+    {
+      "text": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-04-04",
+      "inactive": true,
+      "deactivatedDate": "2026-04-12"
+    },
+    {
+      "text": "If you judge people, you have no time to love them.",
+      "author": "Mother Teresa",
+      "date": "2026-04-03",
+      "inactive": true,
+      "deactivatedDate": "2026-04-12"
+    },
+    {
+      "text": "I'm a success today because I had a friend who believed in me and I didn't have the heart to let him down.",
+      "author": "Abraham Lincoln",
+      "date": "2026-04-03",
+      "inactive": true,
+      "deactivatedDate": "2026-04-12"
     }
   ],
-  "lastRotation": "2026-04-11",
+  "lastRotation": "2026-04-12",
   "totalQuotes": 322,
   "activeQuotes": 45,
   "inactiveQuotes": 277
