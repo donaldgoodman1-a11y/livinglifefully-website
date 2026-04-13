@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "I feel that there is nothing more truly artistic than to love people.",
+      "author": "Vincent Van Gogh",
+      "date": "2026-04-13",
+      "inactive": false
+    },
+    {
+      "text": "You do not rise to the level of your goals. You fall to the level of your systems.",
+      "author": "James Clear",
+      "date": "2026-04-13",
+      "inactive": false
+    },
+    {
+      "text": "Experience is what you get when you didn't get what you wanted.",
+      "author": "Randy Pausch",
+      "date": "2026-04-13",
+      "inactive": false
+    },
+    {
+      "text": "Be kind, for everyone you meet is fighting a hard battle.",
+      "author": "Plato",
+      "date": "2026-04-13",
+      "inactive": false
+    },
+    {
+      "text": "You'll miss the best things if you keep your eyes shut.",
+      "author": "Dr. Seuss",
+      "date": "2026-04-13",
+      "inactive": false
+    },
+    {
       "text": "The spiritual gift of agency, the freedom to choose, is essential to our growth.",
       "author": "Dallin H. Oaks",
       "date": "2026-04-12",
@@ -235,36 +265,6 @@
       "text": "Intelligence plus character—that is the goal of true education.",
       "author": "Martin Luther King Jr.",
       "date": "2026-04-05",
-      "inactive": false
-    },
-    {
-      "text": "The power of love and kindness can overcome any challenge or hardship.\nThe Lubavitcher Rebbe",
-      "author": "The Lubavitcher Rebbe",
-      "date": "2026-04-05",
-      "inactive": false
-    },
-    {
-      "text": "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.",
-      "author": "Rumi",
-      "date": "2026-04-05",
-      "inactive": false
-    },
-    {
-      "text": "I have learned that if one advances confidently in the direction of his dreams, he will meet with a success unexpected in common hours.",
-      "author": "Henry David Thoreau",
-      "date": "2026-04-05",
-      "inactive": false
-    },
-    {
-      "text": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
-      "author": "Dr. Seuss",
-      "date": "2026-04-04",
-      "inactive": false
-    },
-    {
-      "text": "It is during our darkest moments that we must focus to see the light.",
-      "author": "Aristotle",
-      "date": "2026-04-04",
       "inactive": false
     },
     {
@@ -724,12 +724,6 @@
       "inactive": true
     },
     {
-      "text": "You do not rise to the level of your goals. You fall to the level of your systems.",
-      "author": "James Clear",
-      "date": "2025-12-14",
-      "inactive": true
-    },
-    {
       "text": "The most effective way to change your behavior is to focus not on what you want to achieve, but on who you wish to become.",
       "author": "James Clear",
       "date": "2025-12-14",
@@ -737,12 +731,6 @@
     },
     {
       "text": "Great things are done by a series of small things brought together.",
-      "author": "Vincent Van Gogh",
-      "date": "2025-12-13",
-      "inactive": true
-    },
-    {
-      "text": "I feel that there is nothing more truly artistic than to love people.",
       "author": "Vincent Van Gogh",
       "date": "2025-12-13",
       "inactive": true
@@ -757,13 +745,6 @@
     {
       "text": "Knowing yourself is the beginning of all wisdom.",
       "author": "Aristotle",
-      "date": "2026-02-07",
-      "inactive": true,
-      "deactivatedDate": "2026-02-12"
-    },
-    {
-      "text": "Be kind, for everyone you meet is fighting a hard battle.",
-      "author": "Plato",
       "date": "2026-02-07",
       "inactive": true,
       "deactivatedDate": "2026-02-12"
@@ -848,13 +829,6 @@
     {
       "text": "Be kind whenever possible. It is always possible.",
       "author": "Dalai Lama",
-      "date": "2026-02-12",
-      "inactive": true,
-      "deactivatedDate": "2026-02-15"
-    },
-    {
-      "text": "Experience is what you get when you didn't get what you wanted.",
-      "author": "Randy Pausch",
       "date": "2026-02-12",
       "inactive": true,
       "deactivatedDate": "2026-02-15"
@@ -1665,13 +1639,6 @@
       "deactivatedDate": "2026-03-28"
     },
     {
-      "text": "You'll miss the best things if you keep your eyes shut.",
-      "author": "Dr. Seuss",
-      "date": "2026-03-21",
-      "inactive": true,
-      "deactivatedDate": "2026-03-29"
-    },
-    {
       "text": "The most glorious moments in your life are not the so-called days of success, but rather those days when out of dejection and despair you feel rise in you a challenge to life.",
       "author": "Gustave Flaubert",
       "date": "2026-03-21",
@@ -2125,9 +2092,44 @@
       "date": "2026-04-03",
       "inactive": true,
       "deactivatedDate": "2026-04-12"
+    },
+    {
+      "text": "The power of love and kindness can overcome any challenge or hardship.\nThe Lubavitcher Rebbe",
+      "author": "The Lubavitcher Rebbe",
+      "date": "2026-04-05",
+      "inactive": true,
+      "deactivatedDate": "2026-04-13"
+    },
+    {
+      "text": "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.",
+      "author": "Rumi",
+      "date": "2026-04-05",
+      "inactive": true,
+      "deactivatedDate": "2026-04-13"
+    },
+    {
+      "text": "I have learned that if one advances confidently in the direction of his dreams, he will meet with a success unexpected in common hours.",
+      "author": "Henry David Thoreau",
+      "date": "2026-04-05",
+      "inactive": true,
+      "deactivatedDate": "2026-04-13"
+    },
+    {
+      "text": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
+      "author": "Dr. Seuss",
+      "date": "2026-04-04",
+      "inactive": true,
+      "deactivatedDate": "2026-04-13"
+    },
+    {
+      "text": "It is during our darkest moments that we must focus to see the light.",
+      "author": "Aristotle",
+      "date": "2026-04-04",
+      "inactive": true,
+      "deactivatedDate": "2026-04-13"
     }
   ],
-  "lastRotation": "2026-04-12",
+  "lastRotation": "2026-04-13",
   "totalQuotes": 322,
   "activeQuotes": 45,
   "inactiveQuotes": 277
