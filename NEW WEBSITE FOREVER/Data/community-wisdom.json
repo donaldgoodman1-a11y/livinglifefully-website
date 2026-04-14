@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+      "author": "Zig Ziglar",
+      "date": "2026-04-14",
+      "inactive": false
+    },
+    {
+      "text": "Never wound a snake; kill it.",
+      "author": "Harriet Tubman",
+      "date": "2026-04-14",
+      "inactive": false
+    },
+    {
+      "text": "All we have to decide is what to do with the time that is given us.",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-04-14",
+      "inactive": false
+    },
+    {
+      "text": "Someone I loved once gave me a box full of darkness. It took me years to understand that this too, was a gift.",
+      "author": "Mary Oliver",
+      "date": "2026-04-14",
+      "inactive": false
+    },
+    {
+      "text": "I am not what happened to me, I am what I choose to become.",
+      "author": "Carl Jung",
+      "date": "2026-04-14",
+      "inactive": false
+    },
+    {
       "text": "I feel that there is nothing more truly artistic than to love people.",
       "author": "Vincent Van Gogh",
       "date": "2026-04-13",
@@ -238,36 +268,6 @@
       "inactive": false
     },
     {
-      "text": "Try a little harder to be a little better.",
-      "author": "Gordon B. Hinckley",
-      "date": "2026-04-06",
-      "inactive": false
-    },
-    {
-      "text": "The more that you read, the more things you will know. The more that you learn, the more places you'll go.",
-      "author": "Dr. Seuss",
-      "date": "2026-04-06",
-      "inactive": false
-    },
-    {
-      "text": "Sometimes we're tested not to show our weaknesses, but to discover our strengths.",
-      "author": "Rafiki, The Lion King",
-      "date": "2026-04-06",
-      "inactive": false
-    },
-    {
-      "text": "I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live by the light that I have.",
-      "author": "Abraham Lincoln",
-      "date": "2026-04-05",
-      "inactive": false
-    },
-    {
-      "text": "Intelligence plus character—that is the goal of true education.",
-      "author": "Martin Luther King Jr.",
-      "date": "2026-04-05",
-      "inactive": false
-    },
-    {
       "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
       "author": "Confucius",
       "date": "2026-02-06",
@@ -448,12 +448,6 @@
       "inactive": true
     },
     {
-      "text": "I am not what happened to me, I am what I choose to become.",
-      "author": "Carl Jung",
-      "date": "2026-01-11",
-      "inactive": true
-    },
-    {
       "text": "Knowing your own darkness is the best method for dealing with the darknesses of other people.",
       "author": "Carl Jung",
       "date": "2026-01-11",
@@ -475,12 +469,6 @@
       "text": "The secret to so many artists living so long is that every painting is a new adventure. So, you see, they're always looking ahead to something new and exciting.",
       "author": "Norman Rockwell",
       "date": "2026-01-10",
-      "inactive": true
-    },
-    {
-      "text": "Someone I loved once gave me a box full of darkness. It took me years to understand that this too, was a gift.",
-      "author": "Mary Oliver",
-      "date": "2026-01-09",
       "inactive": true
     },
     {
@@ -640,12 +628,6 @@
       "inactive": true
     },
     {
-      "text": "All we have to decide is what to do with the time that is given us.",
-      "author": "J.R.R. Tolkien",
-      "date": "2025-12-25",
-      "inactive": true
-    },
-    {
       "text": "Those who don't believe in magic will never find it.",
       "author": "Roald Dahl",
       "date": "2025-12-23",
@@ -701,12 +683,6 @@
     },
     {
       "text": "Every great dream begins with a dreamer.",
-      "author": "Harriet Tubman",
-      "date": "2025-12-17",
-      "inactive": true
-    },
-    {
-      "text": "Never wound a snake; kill it.",
       "author": "Harriet Tubman",
       "date": "2025-12-17",
       "inactive": true
@@ -1294,13 +1270,6 @@
       "date": "2026-03-06",
       "inactive": true,
       "deactivatedDate": "2026-03-14"
-    },
-    {
-      "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
-      "author": "Zig Ziglar",
-      "date": "2026-03-07",
-      "inactive": true,
-      "deactivatedDate": "2026-03-15"
     },
     {
       "text": "Attitude is a little thing that makes a big difference.",
@@ -2127,9 +2096,44 @@
       "date": "2026-04-04",
       "inactive": true,
       "deactivatedDate": "2026-04-13"
+    },
+    {
+      "text": "Try a little harder to be a little better.",
+      "author": "Gordon B. Hinckley",
+      "date": "2026-04-06",
+      "inactive": true,
+      "deactivatedDate": "2026-04-14"
+    },
+    {
+      "text": "The more that you read, the more things you will know. The more that you learn, the more places you'll go.",
+      "author": "Dr. Seuss",
+      "date": "2026-04-06",
+      "inactive": true,
+      "deactivatedDate": "2026-04-14"
+    },
+    {
+      "text": "Sometimes we're tested not to show our weaknesses, but to discover our strengths.",
+      "author": "Rafiki, The Lion King",
+      "date": "2026-04-06",
+      "inactive": true,
+      "deactivatedDate": "2026-04-14"
+    },
+    {
+      "text": "I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live by the light that I have.",
+      "author": "Abraham Lincoln",
+      "date": "2026-04-05",
+      "inactive": true,
+      "deactivatedDate": "2026-04-14"
+    },
+    {
+      "text": "Intelligence plus character—that is the goal of true education.",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-04-05",
+      "inactive": true,
+      "deactivatedDate": "2026-04-14"
     }
   ],
-  "lastRotation": "2026-04-13",
+  "lastRotation": "2026-04-14",
   "totalQuotes": 322,
   "activeQuotes": 45,
   "inactiveQuotes": 277
