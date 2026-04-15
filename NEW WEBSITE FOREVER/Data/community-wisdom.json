@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "The only person you are destined to become is the person you decide to be.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-04-15",
+      "inactive": false
+    },
+    {
+      "text": "There is some good in this world, and it's worth fighting for.",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-04-15",
+      "inactive": false
+    },
+    {
+      "text": "Dwell on the beauty of life. Watch the stars, and see yourself running with them.",
+      "author": "Marcus Aurelius",
+      "date": "2026-04-15",
+      "inactive": false
+    },
+    {
+      "text": "Getting old is like climbing a mountain; you get a little out of breath, but the view is much better.",
+      "author": "Ingrid Bergman",
+      "date": "2026-04-15",
+      "inactive": false
+    },
+    {
+      "text": "To bear trials with a calm mind robs misfortune of its strength and burden.",
+      "author": "Seneca",
+      "date": "2026-04-15",
+      "inactive": false
+    },
+    {
       "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
       "author": "Zig Ziglar",
       "date": "2026-04-14",
@@ -235,36 +265,6 @@
       "text": "Doubt your doubts before you doubt your faith.",
       "author": "Dieter F. Uchtdorf",
       "date": "2026-04-07",
-      "inactive": false
-    },
-    {
-      "text": "Life is either a daring adventure or nothing at all.",
-      "author": "Helen Keller",
-      "date": "2026-04-07",
-      "inactive": false
-    },
-    {
-      "text": "Imagination is more important than knowledge.",
-      "author": "Albert Einstein",
-      "date": "2026-04-07",
-      "inactive": false
-    },
-    {
-      "text": "Water is fluid, soft, and yielding. But water will wear away rock, which is rigid and cannot yield. As a rule, whatever is fluid, soft, and yielding will overcome whatever is rigid and hard.",
-      "author": "Lao Tzu",
-      "date": "2026-04-07",
-      "inactive": false
-    },
-    {
-      "text": "The happiness of your life depends upon the quality of your thoughts.",
-      "author": "Marcus Aurelius",
-      "date": "2026-04-06",
-      "inactive": false
-    },
-    {
-      "text": "Not all those who wander are lost.",
-      "author": "J.R.R. Tolkien",
-      "date": "2026-04-06",
       "inactive": false
     },
     {
@@ -1230,13 +1230,6 @@
       "deactivatedDate": "2026-03-13"
     },
     {
-      "text": "There is some good in this world, and it's worth fighting for.",
-      "author": "J.R.R. Tolkien",
-      "date": "2026-03-05",
-      "inactive": true,
-      "deactivatedDate": "2026-03-13"
-    },
-    {
       "text": "I grew up like a neglected weed, ignorant of liberty, having no experience of it.",
       "author": "Harriet Tubman",
       "date": "2026-03-06",
@@ -1288,13 +1281,6 @@
     {
       "text": "If you have good thoughts they will shine out of your face like sunbeams and you will always look lovely.",
       "author": "Roald Dahl",
-      "date": "2026-03-08",
-      "inactive": true,
-      "deactivatedDate": "2026-03-16"
-    },
-    {
-      "text": "To bear trials with a calm mind robs misfortune of its strength and burden.",
-      "author": "Seneca",
       "date": "2026-03-08",
       "inactive": true,
       "deactivatedDate": "2026-03-16"
@@ -1358,13 +1344,6 @@
     {
       "text": "Fear thou not; for I am with thee: be not dismayed; for I am thy God.",
       "author": "Isaiah",
-      "date": "2026-03-11",
-      "inactive": true,
-      "deactivatedDate": "2026-03-19"
-    },
-    {
-      "text": "Getting old is like climbing a mountain; you get a little out of breath, but the view is much better.",
-      "author": "Ingrid Bergman",
       "date": "2026-03-11",
       "inactive": true,
       "deactivatedDate": "2026-03-19"
@@ -1512,13 +1491,6 @@
     {
       "text": "Real change takes time. What matters most is that you start.",
       "author": "Russell M. Nelson",
-      "date": "2026-03-18",
-      "inactive": true,
-      "deactivatedDate": "2026-03-26"
-    },
-    {
-      "text": "Dwell on the beauty of life. Watch the stars, and see yourself running with them.",
-      "author": "Marcus Aurelius",
       "date": "2026-03-18",
       "inactive": true,
       "deactivatedDate": "2026-03-26"
@@ -2000,13 +1972,6 @@
       "deactivatedDate": "2026-04-11"
     },
     {
-      "text": "The only person you are destined to become is the person you decide to be.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-04-03",
-      "inactive": true,
-      "deactivatedDate": "2026-04-11"
-    },
-    {
       "text": "Some day you will be old enough to start reading fairy tales again.",
       "author": "C.S. Lewis",
       "date": "2026-04-03",
@@ -2131,9 +2096,44 @@
       "date": "2026-04-05",
       "inactive": true,
       "deactivatedDate": "2026-04-14"
+    },
+    {
+      "text": "Life is either a daring adventure or nothing at all.",
+      "author": "Helen Keller",
+      "date": "2026-04-07",
+      "inactive": true,
+      "deactivatedDate": "2026-04-15"
+    },
+    {
+      "text": "Imagination is more important than knowledge.",
+      "author": "Albert Einstein",
+      "date": "2026-04-07",
+      "inactive": true,
+      "deactivatedDate": "2026-04-15"
+    },
+    {
+      "text": "Water is fluid, soft, and yielding. But water will wear away rock, which is rigid and cannot yield. As a rule, whatever is fluid, soft, and yielding will overcome whatever is rigid and hard.",
+      "author": "Lao Tzu",
+      "date": "2026-04-07",
+      "inactive": true,
+      "deactivatedDate": "2026-04-15"
+    },
+    {
+      "text": "The happiness of your life depends upon the quality of your thoughts.",
+      "author": "Marcus Aurelius",
+      "date": "2026-04-06",
+      "inactive": true,
+      "deactivatedDate": "2026-04-15"
+    },
+    {
+      "text": "Not all those who wander are lost.",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-04-06",
+      "inactive": true,
+      "deactivatedDate": "2026-04-15"
     }
   ],
-  "lastRotation": "2026-04-14",
+  "lastRotation": "2026-04-15",
   "totalQuotes": 322,
   "activeQuotes": 45,
   "inactiveQuotes": 277
