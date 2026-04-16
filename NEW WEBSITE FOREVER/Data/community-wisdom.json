@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "The weak can never forgive. Forgiveness is the attribute of the strong.",
+      "author": "Mahatma Gandhi",
+      "date": "2026-04-16",
+      "inactive": false
+    },
+    {
+      "text": "Hope is being able to see that there is light despite all of the darkness.",
+      "author": "Desmond Tutu",
+      "date": "2026-04-16",
+      "inactive": false
+    },
+    {
+      "text": "The beginning is the most important part of the work.",
+      "author": "Plato",
+      "date": "2026-04-16",
+      "inactive": false
+    },
+    {
+      "text": "Why fit in when you were born to stand out?",
+      "author": "Dr. Seuss",
+      "date": "2026-04-16",
+      "inactive": false
+    },
+    {
+      "text": "Tell me to what you pay attention and I will tell you who you are.",
+      "author": "José Ortega y Gasset",
+      "date": "2026-04-16",
+      "inactive": false
+    },
+    {
       "text": "The only person you are destined to become is the person you decide to be.",
       "author": "Ralph Waldo Emerson",
       "date": "2026-04-15",
@@ -238,36 +268,6 @@
       "inactive": false
     },
     {
-      "text": "Creativity is the power to reject the past, to change the status quo, and to seek new potential.",
-      "author": "Ai Weiwei",
-      "date": "2026-04-08",
-      "inactive": false
-    },
-    {
-      "text": "Remember that sometimes not getting what you want is a wonderful stroke of luck.",
-      "author": "Dalai Lama",
-      "date": "2026-04-08",
-      "inactive": false
-    },
-    {
-      "text": "Happiness depends upon ourselves.",
-      "author": "Aristotle",
-      "date": "2026-04-08",
-      "inactive": false
-    },
-    {
-      "text": "Better to get on the bike and fall then never to get on the back at all.",
-      "author": "Dr Goodman",
-      "date": "2026-04-07",
-      "inactive": false
-    },
-    {
-      "text": "Doubt your doubts before you doubt your faith.",
-      "author": "Dieter F. Uchtdorf",
-      "date": "2026-04-07",
-      "inactive": false
-    },
-    {
       "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
       "author": "Confucius",
       "date": "2026-02-06",
@@ -421,12 +421,6 @@
       "text": "When we are no longer able to change a situation, we are challenged to change ourselves.",
       "author": "Viktor Frankl",
       "date": "2026-01-14",
-      "inactive": true
-    },
-    {
-      "text": "Hope is being able to see that there is light despite all of the darkness.",
-      "author": "Desmond Tutu",
-      "date": "2026-01-13",
       "inactive": true
     },
     {
@@ -775,13 +769,6 @@
       "deactivatedDate": "2026-02-13"
     },
     {
-      "text": "Tell me to what you pay attention and I will tell you who you are.",
-      "author": "José Ortega y Gasset",
-      "date": "2026-02-12",
-      "inactive": true,
-      "deactivatedDate": "2026-02-14"
-    },
-    {
       "text": "Without a struggle, there can be no progress.",
       "author": "Frederick Douglass",
       "date": "2026-02-12",
@@ -817,13 +804,6 @@
       "deactivatedDate": "2026-02-16"
     },
     {
-      "text": "The beginning is the most important part of the work.",
-      "author": "Plato",
-      "date": "2026-02-12",
-      "inactive": true,
-      "deactivatedDate": "2026-02-16"
-    },
-    {
       "text": "Where the head goes, the body follows. Perception precedes action.",
       "author": "Ryan Holiday",
       "date": "2026-02-12",
@@ -847,13 +827,6 @@
     {
       "text": "In the middle of difficulty lies opportunity.",
       "author": "Albert Einstein",
-      "date": "2026-02-13",
-      "inactive": true,
-      "deactivatedDate": "2026-02-20"
-    },
-    {
-      "text": "Why fit in when you were born to stand out?",
-      "author": "Dr. Seuss",
       "date": "2026-02-13",
       "inactive": true,
       "deactivatedDate": "2026-02-20"
@@ -1909,13 +1882,6 @@
       "deactivatedDate": "2026-04-09"
     },
     {
-      "text": "The weak can never forgive. Forgiveness is the attribute of the strong.",
-      "author": "Mahatma Gandhi",
-      "date": "2026-04-01",
-      "inactive": true,
-      "deactivatedDate": "2026-04-09"
-    },
-    {
       "text": "You miss 100% of the shots you don't take.",
       "author": "Wayne Gretzky",
       "date": "2026-03-31",
@@ -2131,9 +2097,44 @@
       "date": "2026-04-06",
       "inactive": true,
       "deactivatedDate": "2026-04-15"
+    },
+    {
+      "text": "Creativity is the power to reject the past, to change the status quo, and to seek new potential.",
+      "author": "Ai Weiwei",
+      "date": "2026-04-08",
+      "inactive": true,
+      "deactivatedDate": "2026-04-16"
+    },
+    {
+      "text": "Remember that sometimes not getting what you want is a wonderful stroke of luck.",
+      "author": "Dalai Lama",
+      "date": "2026-04-08",
+      "inactive": true,
+      "deactivatedDate": "2026-04-16"
+    },
+    {
+      "text": "Happiness depends upon ourselves.",
+      "author": "Aristotle",
+      "date": "2026-04-08",
+      "inactive": true,
+      "deactivatedDate": "2026-04-16"
+    },
+    {
+      "text": "Better to get on the bike and fall then never to get on the back at all.",
+      "author": "Dr Goodman",
+      "date": "2026-04-07",
+      "inactive": true,
+      "deactivatedDate": "2026-04-16"
+    },
+    {
+      "text": "Doubt your doubts before you doubt your faith.",
+      "author": "Dieter F. Uchtdorf",
+      "date": "2026-04-07",
+      "inactive": true,
+      "deactivatedDate": "2026-04-16"
     }
   ],
-  "lastRotation": "2026-04-15",
+  "lastRotation": "2026-04-16",
   "totalQuotes": 322,
   "activeQuotes": 45,
   "inactiveQuotes": 277
