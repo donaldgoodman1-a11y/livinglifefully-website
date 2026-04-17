@@ -3,7 +3,7 @@
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
 const GITHUB_REPO = process.env.GITHUB_REPO || "donaldgoodman1-a11y/livinglifefully-website";
 const PENDING_FILE = "data/pending-submissions.json";
-const QUOTES_FILE = "NEW WEBSITE FOREVER/Data/community-wisdom.json";
+const QUOTES_FILE = "NEW%20WEBSITE%20FOREVER/Data/community-wisdom.json";
 
 function githubRequest(method, path, body) {
   return new Promise((resolve, reject) => {
