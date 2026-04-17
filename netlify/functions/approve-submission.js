@@ -3,7 +3,7 @@
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
 const GITHUB_REPO = process.env.GITHUB_REPO || "donaldgoodman1-a11y/livinglifefully-website";
 const PENDING_FILE = "data/pending-submissions.json";
-const APPROVED_FILE = "data/community-wisdom.json";
+const QUOTES_FILE = "data/quotes.json";
 
 function githubRequest(method, path, body) {
   return new Promise((resolve, reject) => {
@@ -53,7 +53,6 @@ exports.handler = async (event) => {
     return { statusCode: 405, headers, body: JSON.stringify({ error: "Method not allowed" }) };
   }
 
-  // Simple password check
   const adminKey = process.env.ADMIN_KEY;
   const authHeader = event.headers["authorization"] || "";
   const provided = authHeader.replace("Bearer ", "").trim();
@@ -61,7 +60,6 @@ exports.handler = async (event) => {
     return { statusCode: 401, headers, body: JSON.stringify({ error: "Unauthorized" }) };
   }
 
-  // Parse body
   let id, wisdom, author;
   try {
     ({ id, wisdom, author } = JSON.parse(event.body));
@@ -69,16 +67,9 @@ exports.handler = async (event) => {
     return { statusCode: 400, headers, body: JSON.stringify({ error: "Invalid request body" }) };
   }
 
-  if (!id) {
-    return { statusCode: 400, headers, body: JSON.stringify({ error: "Missing submission ID" }) };
-  }
-  if (!wisdom) {
-    return { statusCode: 400, headers, body: JSON.stringify({ error: "Missing wisdom text" }) };
-  }
-
-  if (!GITHUB_TOKEN) {
-    return { statusCode: 500, headers, body: JSON.stringify({ error: "GitHub token not configured" }) };
-  }
+  if (!id) return { statusCode: 400, headers, body: JSON.stringify({ error: "Missing submission ID" }) };
+  if (!wisdom) return { statusCode: 400, headers, body: JSON.stringify({ error: "Missing wisdom text" }) };
+  if (!GITHUB_TOKEN) return { statusCode: 500, headers, body: JSON.stringify({ error: "GitHub token not configured" }) };
 
   try {
     // Step 1: Get pending submissions
@@ -86,66 +77,59 @@ exports.handler = async (event) => {
     if (pendingGet.status === 404) {
       return { statusCode: 404, headers, body: JSON.stringify({ error: "No pending submissions found" }) };
     }
-    if (pendingGet.status !== 200) {
-      throw new Error(`GitHub API error getting pending: ${pendingGet.status}`);
-    }
+    if (pendingGet.status !== 200) throw new Error(`GitHub API error getting pending: ${pendingGet.status}`);
 
     const pendingSha = pendingGet.body.sha;
-    const pendingContent = Buffer.from(pendingGet.body.content, "base64").toString("utf8");
-    const pendingData = JSON.parse(pendingContent);
-
+    const pendingData = JSON.parse(Buffer.from(pendingGet.body.content, "base64").toString("utf8"));
     const pending = pendingData.pending || [];
     const submission = pending.find(sub => sub.id === id);
     if (!submission) {
       return { statusCode: 404, headers, body: JSON.stringify({ error: "Submission not found" }) };
     }
 
-    // Remove from pending
     pendingData.pending = pending.filter(sub => sub.id !== id);
     pendingData.approvedCount = (pendingData.approvedCount || 0) + 1;
 
-    // Step 2: Get community-wisdom.json
-    const wisdomGet = await githubRequest("GET", `/repos/${GITHUB_REPO}/contents/${APPROVED_FILE}`);
-    let wisdomData = { quotes: [] };
-    let wisdomSha = null;
+    // Step 2: Get quotes.json
+    const quotesGet = await githubRequest("GET", `/repos/${GITHUB_REPO}/contents/${QUOTES_FILE}`);
+    if (quotesGet.status !== 200) throw new Error(`GitHub API error getting quotes.json: ${quotesGet.status}`);
 
-    if (wisdomGet.status === 200) {
-      wisdomSha = wisdomGet.body.sha;
-      const wisdomContent = Buffer.from(wisdomGet.body.content, "base64").toString("utf8");
-      wisdomData = JSON.parse(wisdomContent);
-      wisdomData.quotes = wisdomData.quotes || [];
-    } else if (wisdomGet.status !== 404) {
-      throw new Error(`GitHub API error getting wisdom: ${wisdomGet.status}`);
-    }
+    const quotesSha = quotesGet.body.sha;
+    const quotesData = JSON.parse(Buffer.from(quotesGet.body.content, "base64").toString("utf8"));
+    quotesData.quotes = quotesData.quotes || [];
 
-    // Add approved quote
+    // New quote — inactive:false so it shows immediately, communitySubmission:true for filtering
     const newQuote = {
       text: (wisdom || submission.wisdom).trim(),
       author: (author || submission.author || "Anonymous Reader").trim(),
       date: new Date().toISOString().split("T")[0],
+      inactive: false,
+      communitySubmission: true,
     };
-    wisdomData.quotes.unshift(newQuote);
 
-    // Step 3: Save community-wisdom.json
-    const wisdomUpdate = await githubRequest("PUT", `/repos/${GITHUB_REPO}/contents/${APPROVED_FILE}`, {
-      message: `Approved wisdom from ${newQuote.author}`,
-      content: Buffer.from(JSON.stringify(wisdomData, null, 2)).toString("base64"),
-      ...(wisdomSha ? { sha: wisdomSha } : {}),
+    quotesData.quotes.unshift(newQuote);
+    quotesData.totalQuotes = quotesData.quotes.length;
+    quotesData.activeQuotes = quotesData.quotes.filter(q => !q.inactive).length;
+    quotesData.inactiveQuotes = quotesData.quotes.filter(q => q.inactive).length;
+
+    // Step 3: Save quotes.json
+    const quotesUpdate = await githubRequest("PUT", `/repos/${GITHUB_REPO}/contents/${QUOTES_FILE}`, {
+      message: `Approved community wisdom from ${newQuote.author}`,
+      content: Buffer.from(JSON.stringify(quotesData, null, 2)).toString("base64"),
+      sha: quotesSha,
       branch: "main",
     });
-
-    if (wisdomUpdate.status !== 200 && wisdomUpdate.status !== 201) {
-      throw new Error("Failed to update community wisdom file");
+    if (quotesUpdate.status !== 200 && quotesUpdate.status !== 201) {
+      throw new Error("Failed to update quotes.json");
     }
 
-    // Step 4: Save pending-submissions.json (with submission removed)
+    // Step 4: Save pending-submissions.json
     const pendingUpdate = await githubRequest("PUT", `/repos/${GITHUB_REPO}/contents/${PENDING_FILE}`, {
       message: `Approved and removed submission ${id}`,
       content: Buffer.from(JSON.stringify(pendingData, null, 2)).toString("base64"),
       sha: pendingSha,
       branch: "main",
     });
-
     if (pendingUpdate.status !== 200 && pendingUpdate.status !== 201) {
       throw new Error("Failed to update pending submissions file");
     }
