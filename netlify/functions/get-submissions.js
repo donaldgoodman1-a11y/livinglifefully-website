@@ -1,5 +1,4 @@
  const https = require("https");
-
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
 const GITHUB_REPO = process.env.GITHUB_REPO || "donaldgoodman1-a11y/livinglifefully-website";
 const PENDING_FILE = "data/pending-submissions.json";
@@ -45,44 +44,23 @@ exports.handler = async (event) => {
   }
 
   if (event.httpMethod !== "GET") {
-    return {
-      statusCode: 405,
-      headers,
-      body: JSON.stringify({ error: "Method not allowed" }),
-    };
+    return { statusCode: 405, headers, body: JSON.stringify({ error: "Method not allowed" }) };
   }
 
-  // Simple password check
-  const adminKey = process.env.ADMIN_KEY;
   const authHeader = event.headers["authorization"] || "";
-  const provided = authHeader.replace("Bearer ", "").trim();
-  if (!provided || (adminKey && provided !== adminKey)) {
-    return {
-      statusCode: 401,
-      headers,
-      body: JSON.stringify({ error: "Unauthorized" }),
-    };
+  if (!authHeader.startsWith("Bearer ")) {
+    return { statusCode: 401, headers, body: JSON.stringify({ error: "Unauthorized" }) };
   }
 
   if (!GITHUB_TOKEN) {
-    return {
-      statusCode: 500,
-      headers,
-      body: JSON.stringify({ error: "GitHub token not configured" }),
-    };
+    return { statusCode: 500, headers, body: JSON.stringify({ error: "GitHub token not configured" }) };
   }
 
   try {
-    const response = await githubGet(
-      `/repos/${GITHUB_REPO}/contents/${PENDING_FILE}`
-    );
+    const response = await githubGet(`/repos/${GITHUB_REPO}/contents/${PENDING_FILE}`);
 
     if (response.status === 404) {
-      return {
-        statusCode: 200,
-        headers,
-        body: JSON.stringify({ pending: [], approvedCount: 0, rejectedCount: 0 }),
-      };
+      return { statusCode: 200, headers, body: JSON.stringify({ pending: [], approvedCount: 0, rejectedCount: 0 }) };
     }
 
     if (response.status !== 200) {
@@ -92,21 +70,17 @@ exports.handler = async (event) => {
     const content = Buffer.from(response.body.content, "base64").toString("utf8");
     const data = JSON.parse(content);
 
-    const pending = data.pending || [];
-    const approvedCount = data.approvedCount || 0;
-    const rejectedCount = data.rejectedCount || 0;
-
     return {
       statusCode: 200,
       headers,
-      body: JSON.stringify({ pending, approvedCount, rejectedCount }),
+      body: JSON.stringify({
+        pending: data.pending || [],
+        approvedCount: data.approvedCount || 0,
+        rejectedCount: data.rejectedCount || 0,
+      }),
     };
   } catch (err) {
     console.error("get-submissions error:", err);
-    return {
-      statusCode: 500,
-      headers,
-      body: JSON.stringify({ error: err.message }),
-    };
+    return { statusCode: 500, headers, body: JSON.stringify({ error: err.message }) };
   }
 };
