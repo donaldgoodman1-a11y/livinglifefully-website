@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Try to be a rainbow in someone's cloud.",
+      "author": "Maya Angelou",
+      "date": "2026-04-17",
+      "inactive": false
+    },
+    {
+      "text": "When you're screwing up and nobody says anything to you anymore, that means they've given up on you.",
+      "author": "Randy Pausch",
+      "date": "2026-04-17",
+      "inactive": false
+    },
+    {
+      "text": "It's not what happens to you, but how you react to it that matters.",
+      "author": "Epictetus",
+      "date": "2026-04-17",
+      "inactive": false
+    },
+    {
+      "text": "No man is crushed by misfortune unless he has first been deceived by prosperity.\n-Seneca",
+      "author": "Seneca",
+      "date": "2026-04-17",
+      "inactive": false
+    },
+    {
+      "text": "The gathering of Israel is the most important thing taking place on earth today.",
+      "author": "Russell M. Nelson",
+      "date": "2026-04-17",
+      "inactive": false
+    },
+    {
       "text": "The weak can never forgive. Forgiveness is the attribute of the strong.",
       "author": "Mahatma Gandhi",
       "date": "2026-04-16",
@@ -241,33 +271,6 @@
       "inactive": false
     },
     {
-      "text": "Don’t make a project out of yourself. \nMove outside yourself.",
-      "author": "Dr Goodman",
-      "date": "2026-04-08"
-    },
-    {
-      "text": "let GO",
-      "author": "Anonymous Reader",
-      "date": "2026-04-08"
-    },
-    {
-      "text": "let GO",
-      "author": "Anonymous Reader",
-      "date": "2026-04-08"
-    },
-    {
-      "text": "You must do the things you think you cannot do.",
-      "author": "Eleanor Roosevelt",
-      "date": "2026-04-08",
-      "inactive": false
-    },
-    {
-      "text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest.",
-      "author": "Jesus Christ",
-      "date": "2026-04-08",
-      "inactive": false
-    },
-    {
       "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
       "author": "Confucius",
       "date": "2026-02-06",
@@ -403,12 +406,6 @@
       "text": "Luck is what happens when preparation meets opportunity.",
       "author": "Seneca",
       "date": "2026-01-16",
-      "inactive": true
-    },
-    {
-      "text": "It's not what happens to you, but how you react to it that matters.",
-      "author": "Epictetus",
-      "date": "2026-01-15",
       "inactive": true
     },
     {
@@ -550,12 +547,6 @@
       "inactive": true
     },
     {
-      "text": "The gathering of Israel is the most important thing taking place on earth today.",
-      "author": "Russell M. Nelson",
-      "date": "2026-01-02",
-      "inactive": true
-    },
-    {
       "text": "We are to become even as He is.",
       "author": "David A. Bednar",
       "date": "2026-01-01",
@@ -643,12 +634,6 @@
       "text": "It's kind of fun to do the impossible.",
       "author": "Walt Disney",
       "date": "2025-12-21",
-      "inactive": true
-    },
-    {
-      "text": "When you're screwing up and nobody says anything to you anymore, that means they've given up on you.",
-      "author": "Randy Pausch",
-      "date": "2025-12-20",
       "inactive": true
     },
     {
@@ -956,20 +941,6 @@
       "date": "2026-02-20",
       "inactive": true,
       "deactivatedDate": "2026-02-27"
-    },
-    {
-      "text": "No man is crushed by misfortune unless he has first been deceived by prosperity.\n-Seneca",
-      "author": "Seneca",
-      "date": "2026-02-22",
-      "inactive": true,
-      "deactivatedDate": "2026-02-28"
-    },
-    {
-      "text": "Try to be a rainbow in someone's cloud.",
-      "author": "Maya Angelou",
-      "date": "2026-02-21",
-      "inactive": true,
-      "deactivatedDate": "2026-02-28"
     },
     {
       "text": "The difference between winning and losing is most often not quitting.",
@@ -2132,9 +2103,44 @@
       "date": "2026-04-07",
       "inactive": true,
       "deactivatedDate": "2026-04-16"
+    },
+    {
+      "text": "Don’t make a project out of yourself. \nMove outside yourself.",
+      "author": "Dr Goodman",
+      "date": "2026-04-08",
+      "inactive": true,
+      "deactivatedDate": "2026-04-17"
+    },
+    {
+      "text": "let GO",
+      "author": "Anonymous Reader",
+      "date": "2026-04-08",
+      "inactive": true,
+      "deactivatedDate": "2026-04-17"
+    },
+    {
+      "text": "let GO",
+      "author": "Anonymous Reader",
+      "date": "2026-04-08",
+      "inactive": true,
+      "deactivatedDate": "2026-04-17"
+    },
+    {
+      "text": "You must do the things you think you cannot do.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-04-08",
+      "inactive": true,
+      "deactivatedDate": "2026-04-17"
+    },
+    {
+      "text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest.",
+      "author": "Jesus Christ",
+      "date": "2026-04-08",
+      "inactive": true,
+      "deactivatedDate": "2026-04-17"
     }
   ],
-  "lastRotation": "2026-04-16",
+  "lastRotation": "2026-04-17",
   "totalQuotes": 322,
   "activeQuotes": 45,
   "inactiveQuotes": 277
