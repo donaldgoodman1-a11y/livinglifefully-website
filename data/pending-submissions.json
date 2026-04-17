@@ -1,13 +1,5 @@
 {
-  "pending": [
-    {
-      "id": "1776447165889",
-      "wisdom": "Don’t make a project out of yourself",
-      "author": "Anonymous Reader",
-      "date": "2026-04-17",
-      "submittedAt": "2026-04-17T17:32:45.892Z"
-    }
-  ],
-  "approvedCount": 6,
+  "pending": [],
+  "approvedCount": 7,
   "rejectedCount": 3
 }
