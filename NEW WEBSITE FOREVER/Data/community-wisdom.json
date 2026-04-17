@@ -1,6 +1,13 @@
 {
   "quotes": [
     {
+      "text": "To be happy takes daily practice and daily gratitude.",
+      "author": "Anonymous Reader",
+      "date": "2026-04-17",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
       "text": "Just Let Go!",
       "author": "Anonymous Reader",
       "date": "2026-04-17",
@@ -2148,7 +2155,7 @@
     }
   ],
   "lastRotation": "2026-04-17",
-  "totalQuotes": 323,
-  "activeQuotes": 46,
+  "totalQuotes": 324,
+  "activeQuotes": 47,
   "inactiveQuotes": 277
 }
