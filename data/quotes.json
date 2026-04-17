@@ -1,6 +1,13 @@
 {
   "quotes": [
     {
+      "text": "Don’t make a project out of yourself!",
+      "author": "Donald  Goodman",
+      "date": "2026-04-17",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
       "text": "Dont make a project out of yourself",
       "author": "Dr. Goodman",
       "date": "2026-04-17",
@@ -1483,7 +1490,7 @@
       "Henry B. Eyring"
     ]
   },
-  "totalQuotes": 288,
-  "activeQuotes": 288,
+  "totalQuotes": 289,
+  "activeQuotes": 289,
   "inactiveQuotes": 0
 }
