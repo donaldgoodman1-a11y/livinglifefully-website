@@ -1,13 +1,5 @@
 {
-  "pending": [
-    {
-      "id": "1776443595047",
-      "wisdom": "Making a reality out of your fantasy often makes it a nightmare.",
-      "author": "Dr.  Goodman",
-      "date": "2026-04-17",
-      "submittedAt": "2026-04-17T16:33:15.049Z"
-    }
-  ],
-  "approvedCount": 2,
+  "pending": [],
+  "approvedCount": 3,
   "rejectedCount": 3
 }
