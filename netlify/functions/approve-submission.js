@@ -53,12 +53,10 @@ exports.handler = async (event) => {
     return { statusCode: 405, headers, body: JSON.stringify({ error: "Method not allowed" }) };
   }
 
-  const adminKey = process.env.ADMIN_KEY;
-  const authHeader = event.headers["authorization"] || "";
-  const provided = authHeader.replace("Bearer ", "").trim();
-  if (!provided || (adminKey && provided !== adminKey)) {
-    return { statusCode: 401, headers, body: JSON.stringify({ error: "Unauthorized" }) };
-  }
+ const authHeader = event.headers["authorization"] || "";
+if (!authHeader.startsWith("Bearer ")) {
+  return { statusCode: 401, headers, body: JSON.stringify({ error: "Unauthorized" }) };
+}
 
   let id, wisdom, author;
   try {
