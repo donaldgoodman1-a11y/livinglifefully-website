@@ -1,13 +1,5 @@
 {
-  "pending": [
-    {
-      "id": "1776450327694",
-      "wisdom": "To be happy takes daily practice and daily gratitude.",
-      "author": "Anonymous Reader",
-      "date": "2026-04-17",
-      "submittedAt": "2026-04-17T18:25:27.696Z"
-    }
-  ],
-  "approvedCount": 10,
+  "pending": [],
+  "approvedCount": 11,
   "rejectedCount": 3
 }
