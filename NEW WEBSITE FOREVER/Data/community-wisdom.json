@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "We can ignore reality, but we cannot ignore the consequences of ignoring reality.",
+      "author": "Ayn Rand",
+      "date": "2026-04-18",
+      "inactive": false
+    },
+    {
+      "text": "It always seems impossible until it's done.",
+      "author": "Nelson Mandela",
+      "date": "2026-04-18",
+      "inactive": false
+    },
+    {
+      "text": "It does not do to dwell on dreams and forget to live.",
+      "author": "J.K. Rowling",
+      "date": "2026-04-18",
+      "inactive": false
+    },
+    {
+      "text": "What we think, we become.",
+      "author": "Dalai Lama",
+      "date": "2026-04-18",
+      "inactive": false
+    },
+    {
+      "text": "What we insistently desire, over time, is what we will eventually become.",
+      "author": "Neal A. Maxwell",
+      "date": "2026-04-18",
+      "inactive": false
+    },
+    {
       "text": "To be happy takes daily practice and daily gratitude.",
       "author": "Anonymous Reader",
       "date": "2026-04-17",
@@ -255,36 +285,6 @@
       "inactive": false
     },
     {
-      "text": "People often say that motivation doesn't last. Well, neither does bathing—that's why we recommend it daily.",
-      "author": "Zig Ziglar",
-      "date": "2026-04-09",
-      "inactive": false
-    },
-    {
-      "text": "A soft answer turneth away wrath.",
-      "author": "King Solomon",
-      "date": "2026-04-09",
-      "inactive": false
-    },
-    {
-      "text": "Each child brings his own blessing into the world.",
-      "author": "Talmud",
-      "date": "2026-04-09",
-      "inactive": false
-    },
-    {
-      "text": "How many slams in an old screen door? Depends how loud you shut it.",
-      "author": "Shel Silverstein",
-      "date": "2026-04-09",
-      "inactive": false
-    },
-    {
-      "text": "I wish it need not have happened in my time, said Frodo. So do I, said Gandalf, and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.",
-      "author": "J.R.R. Tolkien",
-      "date": "2026-04-09",
-      "inactive": false
-    },
-    {
       "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
       "author": "Confucius",
       "date": "2026-02-06",
@@ -501,12 +501,6 @@
       "inactive": true
     },
     {
-      "text": "What we think, we become.",
-      "author": "Dalai Lama",
-      "date": "2026-01-07",
-      "inactive": true
-    },
-    {
       "text": "Our prime purpose in this life is to help others. And if you can't help them, at least don't hurt them.",
       "author": "Dalai Lama",
       "date": "2026-01-07",
@@ -522,12 +516,6 @@
       "text": "Breathing in, I calm body and mind. Breathing out, I smile.",
       "author": "Thich Nhat Hanh",
       "date": "2026-01-06",
-      "inactive": true
-    },
-    {
-      "text": "What we insistently desire, over time, is what we will eventually become.",
-      "author": "Neal A. Maxwell",
-      "date": "2026-01-05",
       "inactive": true
     },
     {
@@ -648,12 +636,6 @@
       "text": "It's kind of fun to do the impossible.",
       "author": "Walt Disney",
       "date": "2025-12-21",
-      "inactive": true
-    },
-    {
-      "text": "It always seems impossible until it's done.",
-      "author": "Nelson Mandela",
-      "date": "2025-12-19",
       "inactive": true
     },
     {
@@ -980,13 +962,6 @@
     {
       "text": "We choose to be in control or choose to surrender.",
       "author": "Ryan Holiday",
-      "date": "2026-02-23",
-      "inactive": true,
-      "deactivatedDate": "2026-03-02"
-    },
-    {
-      "text": "It does not do to dwell on dreams and forget to live.",
-      "author": "J.K. Rowling",
       "date": "2026-02-23",
       "inactive": true,
       "deactivatedDate": "2026-03-02"
@@ -1832,13 +1807,6 @@
       "deactivatedDate": "2026-04-08"
     },
     {
-      "text": "We can ignore reality, but we cannot ignore the consequences of ignoring reality.",
-      "author": "Ayn Rand",
-      "date": "2026-03-31",
-      "inactive": true,
-      "deactivatedDate": "2026-04-08"
-    },
-    {
       "text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
       "author": "Helen Keller",
       "date": "2026-03-31",
@@ -2152,9 +2120,44 @@
       "date": "2026-04-08",
       "inactive": true,
       "deactivatedDate": "2026-04-17"
+    },
+    {
+      "text": "People often say that motivation doesn't last. Well, neither does bathing—that's why we recommend it daily.",
+      "author": "Zig Ziglar",
+      "date": "2026-04-09",
+      "inactive": true,
+      "deactivatedDate": "2026-04-18"
+    },
+    {
+      "text": "A soft answer turneth away wrath.",
+      "author": "King Solomon",
+      "date": "2026-04-09",
+      "inactive": true,
+      "deactivatedDate": "2026-04-18"
+    },
+    {
+      "text": "Each child brings his own blessing into the world.",
+      "author": "Talmud",
+      "date": "2026-04-09",
+      "inactive": true,
+      "deactivatedDate": "2026-04-18"
+    },
+    {
+      "text": "How many slams in an old screen door? Depends how loud you shut it.",
+      "author": "Shel Silverstein",
+      "date": "2026-04-09",
+      "inactive": true,
+      "deactivatedDate": "2026-04-18"
+    },
+    {
+      "text": "I wish it need not have happened in my time, said Frodo. So do I, said Gandalf, and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-04-09",
+      "inactive": true,
+      "deactivatedDate": "2026-04-18"
     }
   ],
-  "lastRotation": "2026-04-17",
+  "lastRotation": "2026-04-18",
   "totalQuotes": 324,
   "activeQuotes": 47,
   "inactiveQuotes": 277
