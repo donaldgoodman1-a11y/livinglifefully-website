@@ -1,6 +1,13 @@
 {
   "quotes": [
     {
+      "text": "When we make our fantasies our reality they often become our nightmares.",
+      "author": "Dr Goodman",
+      "date": "2026-04-18",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
       "text": "We can ignore reality, but we cannot ignore the consequences of ignoring reality.",
       "author": "Ayn Rand",
       "date": "2026-04-18",
@@ -2158,7 +2165,7 @@
     }
   ],
   "lastRotation": "2026-04-18",
-  "totalQuotes": 324,
-  "activeQuotes": 47,
+  "totalQuotes": 325,
+  "activeQuotes": 48,
   "inactiveQuotes": 277
 }
