@@ -1,5 +1,13 @@
 {
-  "pending": [],
+  "pending": [
+    {
+      "id": "1776551751362",
+      "wisdom": "When we make our fantasies our reality they often become our nightmares.",
+      "author": "Dr Goodman",
+      "date": "2026-04-18",
+      "submittedAt": "2026-04-18T22:35:51.364Z"
+    }
+  ],
   "approvedCount": 11,
   "rejectedCount": 3
 }
