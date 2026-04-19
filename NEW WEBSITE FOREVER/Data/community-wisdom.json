@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Humanity must seek what is NOT simple and obvious using the simple and obvious.",
+      "author": "Musonius Rufus",
+      "date": "2026-04-19",
+      "inactive": false
+    },
+    {
+      "text": "Each child brings his own blessing into the world.",
+      "author": "Talmud",
+      "date": "2026-04-19",
+      "inactive": false
+    },
+    {
+      "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-04-19",
+      "inactive": false
+    },
+    {
+      "text": "When we keep the commandments, the blessings come.",
+      "author": "Henry B. Eyring",
+      "date": "2026-04-19",
+      "inactive": false
+    },
+    {
+      "text": "Not all of us can do great things. But we can do small things with great love.",
+      "author": "Mother Teresa",
+      "date": "2026-04-19",
+      "inactive": false
+    },
+    {
       "text": "Don’t make a project out of yourself. Get out of yourself and help someone else.",
       "author": "Anonymous Reader",
       "date": "2026-04-19",
@@ -266,36 +296,6 @@
       "text": "All our dreams can come true, if we have the courage to pursue them.",
       "author": "Walt Disney",
       "date": "2026-04-11",
-      "inactive": false
-    },
-    {
-      "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
-      "author": "Martin Luther King Jr.",
-      "date": "2026-04-10",
-      "inactive": false
-    },
-    {
-      "text": "The obstacle is the way.",
-      "author": "Ryan Holiday",
-      "date": "2026-04-10",
-      "inactive": false
-    },
-    {
-      "text": "Friendship is born at that moment when one person says to another: What! You too? I thought I was the only one.",
-      "author": "C.S. Lewis",
-      "date": "2026-04-10",
-      "inactive": false
-    },
-    {
-      "text": "Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!",
-      "author": "Dr. Seuss",
-      "date": "2026-04-10",
-      "inactive": false
-    },
-    {
-      "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
-      "author": "Aristotle",
-      "date": "2026-04-10",
       "inactive": false
     },
     {
@@ -932,13 +932,6 @@
       "deactivatedDate": "2026-02-27"
     },
     {
-      "text": "Humanity must seek what is NOT simple and obvious using the simple and obvious.",
-      "author": "Musonius Rufus",
-      "date": "2026-02-20",
-      "inactive": true,
-      "deactivatedDate": "2026-02-27"
-    },
-    {
       "text": "Energy and persistence conquer all things.",
       "author": "Benjamin Franklin",
       "date": "2026-02-20",
@@ -1338,13 +1331,6 @@
       "deactivatedDate": "2026-03-21"
     },
     {
-      "text": "When we keep the commandments, the blessings come.",
-      "author": "Henry B. Eyring",
-      "date": "2026-03-14",
-      "inactive": true,
-      "deactivatedDate": "2026-03-22"
-    },
-    {
       "text": "Let your light so shine before men.",
       "author": "Jesus Christ",
       "date": "2026-03-14",
@@ -1388,13 +1374,6 @@
     },
     {
       "text": "We cannot do great things on this earth, only small things with great love.",
-      "author": "Mother Teresa",
-      "date": "2026-03-16",
-      "inactive": true,
-      "deactivatedDate": "2026-03-24"
-    },
-    {
-      "text": "Not all of us can do great things. But we can do small things with great love.",
       "author": "Mother Teresa",
       "date": "2026-03-16",
       "inactive": true,
@@ -1501,13 +1480,6 @@
     {
       "text": "The best way to predict your future is to create it.",
       "author": "Abraham Lincoln",
-      "date": "2026-03-20",
-      "inactive": true,
-      "deactivatedDate": "2026-03-28"
-    },
-    {
-      "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
-      "author": "Ralph Waldo Emerson",
       "date": "2026-03-20",
       "inactive": true,
       "deactivatedDate": "2026-03-28"
@@ -2150,13 +2122,6 @@
       "deactivatedDate": "2026-04-18"
     },
     {
-      "text": "Each child brings his own blessing into the world.",
-      "author": "Talmud",
-      "date": "2026-04-09",
-      "inactive": true,
-      "deactivatedDate": "2026-04-18"
-    },
-    {
       "text": "How many slams in an old screen door? Depends how loud you shut it.",
       "author": "Shel Silverstein",
       "date": "2026-04-09",
@@ -2169,9 +2134,44 @@
       "date": "2026-04-09",
       "inactive": true,
       "deactivatedDate": "2026-04-18"
+    },
+    {
+      "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-04-10",
+      "inactive": true,
+      "deactivatedDate": "2026-04-19"
+    },
+    {
+      "text": "The obstacle is the way.",
+      "author": "Ryan Holiday",
+      "date": "2026-04-10",
+      "inactive": true,
+      "deactivatedDate": "2026-04-19"
+    },
+    {
+      "text": "Friendship is born at that moment when one person says to another: What! You too? I thought I was the only one.",
+      "author": "C.S. Lewis",
+      "date": "2026-04-10",
+      "inactive": true,
+      "deactivatedDate": "2026-04-19"
+    },
+    {
+      "text": "Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!",
+      "author": "Dr. Seuss",
+      "date": "2026-04-10",
+      "inactive": true,
+      "deactivatedDate": "2026-04-19"
+    },
+    {
+      "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+      "author": "Aristotle",
+      "date": "2026-04-10",
+      "inactive": true,
+      "deactivatedDate": "2026-04-19"
     }
   ],
-  "lastRotation": "2026-04-18",
+  "lastRotation": "2026-04-19",
   "totalQuotes": 326,
   "activeQuotes": 49,
   "inactiveQuotes": 277
