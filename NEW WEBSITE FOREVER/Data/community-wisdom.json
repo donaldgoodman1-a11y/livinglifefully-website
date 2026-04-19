@@ -1,6 +1,13 @@
 {
   "quotes": [
     {
+      "text": "Don’t make a project out of yourself. Get out of yourself and help someone else.",
+      "author": "Anonymous Reader",
+      "date": "2026-04-19",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
       "text": "When we make our fantasies our reality they often become our nightmares.",
       "author": "Dr Goodman",
       "date": "2026-04-18",
@@ -2165,7 +2172,7 @@
     }
   ],
   "lastRotation": "2026-04-18",
-  "totalQuotes": 325,
-  "activeQuotes": 48,
+  "totalQuotes": 326,
+  "activeQuotes": 49,
   "inactiveQuotes": 277
 }
