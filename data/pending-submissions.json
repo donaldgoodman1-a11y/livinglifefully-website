@@ -1,13 +1,6 @@
 {
   "pending": [
     {
-      "id": "1776656374090",
-      "wisdom": "Grasshopper: if you want control you must let go of control",
-      "author": "Kung fu",
-      "date": "2026-04-20",
-      "submittedAt": "2026-04-20T03:39:34.090Z"
-    },
-    {
       "id": "1776656467175",
       "wisdom": "You can't heal the people you love. You can't make choices for them. You can't rescue \nthem. You can promise that they won't journey alone. You can loan them your map. But \nthis trip is theirs. By Laura Jean Truman",
       "author": "Laura Jean Truman",
@@ -15,6 +8,6 @@
       "submittedAt": "2026-04-20T03:41:07.175Z"
     }
   ],
-  "approvedCount": 17,
+  "approvedCount": 18,
   "rejectedCount": 3
 }
