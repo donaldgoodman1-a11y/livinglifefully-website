@@ -1,6 +1,13 @@
 {
   "quotes": [
     {
+      "text": "Wherever you are… Be there. \nThis saying has been said in different ways, but this particular way has my personal touch on it. \nI had a plack made  for each one of my kids so that they know how important it is to be focused and in the moment.",
+      "author": "Steve LeBaron",
+      "date": "2026-04-20",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
       "text": "As life brings moments that feel too heavy to bear, place your trust in Christ. The burden may remain, but through the Atonement, it no longer rests on you alone.",
       "author": "Natalie LeBaron",
       "date": "2026-04-20",
@@ -2179,7 +2186,7 @@
     }
   ],
   "lastRotation": "2026-04-19",
-  "totalQuotes": 327,
-  "activeQuotes": 50,
+  "totalQuotes": 328,
+  "activeQuotes": 51,
   "inactiveQuotes": 277
 }
