@@ -1,5 +1,13 @@
 {
-  "pending": [],
+  "pending": [
+    {
+      "id": "1776657408272",
+      "wisdom": "The proper function of man is to live, not to exist. I shall not waste my days in trying to \nprolong them. I shall use my time…",
+      "author": "Jack London",
+      "date": "2026-04-20",
+      "submittedAt": "2026-04-20T03:56:48.276Z"
+    }
+  ],
   "approvedCount": 19,
   "rejectedCount": 3
 }
