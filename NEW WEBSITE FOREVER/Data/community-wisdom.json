@@ -1,6 +1,13 @@
 {
   "quotes": [
     {
+      "text": "Grasshopper: if you want control you must let go of control",
+      "author": "Kung fu",
+      "date": "2026-04-20",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
       "text": "Hugh B. Brown wrote: We ask for strength and God gives us difficulties, which makes us \nstrong. We pray for wisdom and God sends us problems, the solution of which develops \nwisdom. We plead for prosperity and God gives us brain and brawn to work. We plead \nfor courage and God gives us dangers to overcome. We ask for favors and God gives us \nopportunities. This is the answer.”",
       "author": "Hugh B Brown",
       "date": "2026-04-20",
@@ -2200,7 +2207,7 @@
     }
   ],
   "lastRotation": "2026-04-19",
-  "totalQuotes": 330,
-  "activeQuotes": 53,
+  "totalQuotes": 331,
+  "activeQuotes": 54,
   "inactiveQuotes": 277
 }
