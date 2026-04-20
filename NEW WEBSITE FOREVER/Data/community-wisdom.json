@@ -1,6 +1,13 @@
 {
   "quotes": [
     {
+      "text": "As life brings moments that feel too heavy to bear, place your trust in Christ. The burden may remain, but through the Atonement, it no longer rests on you alone.",
+      "author": "Natalie LeBaron",
+      "date": "2026-04-20",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
       "text": "Humanity must seek what is NOT simple and obvious using the simple and obvious.",
       "author": "Musonius Rufus",
       "date": "2026-04-19",
@@ -2172,7 +2179,7 @@
     }
   ],
   "lastRotation": "2026-04-19",
-  "totalQuotes": 326,
-  "activeQuotes": 49,
+  "totalQuotes": 327,
+  "activeQuotes": 50,
   "inactiveQuotes": 277
 }
