@@ -1,6 +1,13 @@
 {
   "quotes": [
     {
+      "text": "You can't heal the people you love. You can't make choices for them. You can't rescue \nthem. You can promise that they won't journey alone. You can loan them your map. But \nthis trip is theirs. By Laura Jean Truman",
+      "author": "Laura Jean Truman",
+      "date": "2026-04-20",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
       "text": "Grasshopper: if you want control you must let go of control",
       "author": "Kung fu",
       "date": "2026-04-20",
@@ -2207,7 +2214,7 @@
     }
   ],
   "lastRotation": "2026-04-19",
-  "totalQuotes": 331,
-  "activeQuotes": 54,
+  "totalQuotes": 332,
+  "activeQuotes": 55,
   "inactiveQuotes": 277
 }
