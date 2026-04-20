@@ -1,6 +1,13 @@
 {
   "quotes": [
     {
+      "text": "The proper function of man is to live, not to exist. I shall not waste my days in trying to \nprolong them. I shall use my time…",
+      "author": "Jack London",
+      "date": "2026-04-20",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
       "text": "You can't heal the people you love. You can't make choices for them. You can't rescue \nthem. You can promise that they won't journey alone. You can loan them your map. But \nthis trip is theirs. By Laura Jean Truman",
       "author": "Laura Jean Truman",
       "date": "2026-04-20",
@@ -2214,7 +2221,7 @@
     }
   ],
   "lastRotation": "2026-04-19",
-  "totalQuotes": 332,
-  "activeQuotes": 55,
+  "totalQuotes": 333,
+  "activeQuotes": 56,
   "inactiveQuotes": 277
 }
