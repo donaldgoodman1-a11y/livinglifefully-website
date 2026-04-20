@@ -1,6 +1,13 @@
 {
   "quotes": [
     {
+      "text": "Hugh B. Brown wrote: We ask for strength and God gives us difficulties, which makes us \nstrong. We pray for wisdom and God sends us problems, the solution of which develops \nwisdom. We plead for prosperity and God gives us brain and brawn to work. We plead \nfor courage and God gives us dangers to overcome. We ask for favors and God gives us \nopportunities. This is the answer.”",
+      "author": "Hugh B Brown",
+      "date": "2026-04-20",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
       "text": "Remember: The serenity prayer: God grant me the serenity to accept the things I cannot \nchange; courage to change the things I can; and wisdom to know the difference. Living \none day at a time; enjoying one moment at a time; accepting hardships as the pathway to \npeace; taking, as He did, this sinful world as it is, not as I would have it; trusting that He \nwill make all things right If I surrender to His Will; that I may be reasonably happy in \nthis life and supremely happy with Him forever in the next. Amen",
       "author": "Reinhold Niebuhr",
       "date": "2026-04-20",
@@ -2193,7 +2200,7 @@
     }
   ],
   "lastRotation": "2026-04-19",
-  "totalQuotes": 329,
-  "activeQuotes": 52,
+  "totalQuotes": 330,
+  "activeQuotes": 53,
   "inactiveQuotes": 277
 }
