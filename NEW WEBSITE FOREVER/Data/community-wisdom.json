@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "With the new day comes new strength and new thoughts.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-04-20",
+      "inactive": false
+    },
+    {
+      "text": "Be kind whenever possible. It is always possible.",
+      "author": "Dalai Lama",
+      "date": "2026-04-20",
+      "inactive": false
+    },
+    {
+      "text": "Because you are alive, everything is possible.",
+      "author": "Thich Nhat Hanh",
+      "date": "2026-04-20",
+      "inactive": false
+    },
+    {
+      "text": "Be still, and know that I am God.",
+      "author": "King David",
+      "date": "2026-04-20",
+      "inactive": false
+    },
+    {
+      "text": "You are never too old to set another goal or to dream a new dream.",
+      "author": "C.S. Lewis",
+      "date": "2026-04-20",
+      "inactive": false
+    },
+    {
       "text": "The proper function of man is to live, not to exist. I shall not waste my days in trying to \nprolong them. I shall use my time…",
       "author": "Jack London",
       "date": "2026-04-20",
@@ -318,36 +348,6 @@
       "inactive": false
     },
     {
-      "text": "It is easier to build strong children than to repair broken men.",
-      "author": "Frederick Douglass",
-      "date": "2026-04-11",
-      "inactive": false
-    },
-    {
-      "text": "There is no innovation and creativity without failure. Period.",
-      "author": "Brené Brown",
-      "date": "2026-04-11",
-      "inactive": false
-    },
-    {
-      "text": "Habits are the compound interest of self-improvement.",
-      "author": "James Clear",
-      "date": "2026-04-11",
-      "inactive": false
-    },
-    {
-      "text": "The quieter you become, the more you can hear.",
-      "author": "Rumi",
-      "date": "2026-04-11",
-      "inactive": false
-    },
-    {
-      "text": "All our dreams can come true, if we have the courage to pursue them.",
-      "author": "Walt Disney",
-      "date": "2026-04-11",
-      "inactive": false
-    },
-    {
       "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
       "author": "Confucius",
       "date": "2026-02-06",
@@ -369,12 +369,6 @@
       "text": "Peace begins with a smile.",
       "author": "Mother Teresa",
       "date": "2026-02-04",
-      "inactive": true
-    },
-    {
-      "text": "Be still, and know that I am God.",
-      "author": "King David",
-      "date": "2026-02-02",
       "inactive": true
     },
     {
@@ -829,13 +823,6 @@
     {
       "text": "It's not about how to achieve your dreams, it's about how to lead your life. If you lead your life the right way, the karma will take care of itself.",
       "author": "Randy Pausch",
-      "date": "2026-02-12",
-      "inactive": true,
-      "deactivatedDate": "2026-02-15"
-    },
-    {
-      "text": "Be kind whenever possible. It is always possible.",
-      "author": "Dalai Lama",
       "date": "2026-02-12",
       "inactive": true,
       "deactivatedDate": "2026-02-15"
@@ -1352,13 +1339,6 @@
       "deactivatedDate": "2026-03-20"
     },
     {
-      "text": "Because you are alive, everything is possible.",
-      "author": "Thich Nhat Hanh",
-      "date": "2026-03-13",
-      "inactive": true,
-      "deactivatedDate": "2026-03-21"
-    },
-    {
       "text": "Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.",
       "author": "Viktor Frankl",
       "date": "2026-03-13",
@@ -1585,13 +1565,6 @@
     {
       "text": "If you accomplish something good with hard work, the labor passes quickly, but the good endures; if you do something shameful in pursuit of pleasure, the pleasure passes quickly, but the shame endures.",
       "author": "Musonius Rufus",
-      "date": "2026-03-23",
-      "inactive": true,
-      "deactivatedDate": "2026-03-31"
-    },
-    {
-      "text": "With the new day comes new strength and new thoughts.",
-      "author": "Eleanor Roosevelt",
       "date": "2026-03-23",
       "inactive": true,
       "deactivatedDate": "2026-03-31"
@@ -1854,13 +1827,6 @@
       "date": "2026-03-30",
       "inactive": true,
       "deactivatedDate": "2026-04-08"
-    },
-    {
-      "text": "You are never too old to set another goal or to dream a new dream.",
-      "author": "C.S. Lewis",
-      "date": "2026-04-01",
-      "inactive": true,
-      "deactivatedDate": "2026-04-09"
     },
     {
       "text": "A pleasure is not full grown until it is remembered.",
@@ -2218,9 +2184,44 @@
       "date": "2026-04-10",
       "inactive": true,
       "deactivatedDate": "2026-04-19"
+    },
+    {
+      "text": "It is easier to build strong children than to repair broken men.",
+      "author": "Frederick Douglass",
+      "date": "2026-04-11",
+      "inactive": true,
+      "deactivatedDate": "2026-04-20"
+    },
+    {
+      "text": "There is no innovation and creativity without failure. Period.",
+      "author": "Brené Brown",
+      "date": "2026-04-11",
+      "inactive": true,
+      "deactivatedDate": "2026-04-20"
+    },
+    {
+      "text": "Habits are the compound interest of self-improvement.",
+      "author": "James Clear",
+      "date": "2026-04-11",
+      "inactive": true,
+      "deactivatedDate": "2026-04-20"
+    },
+    {
+      "text": "The quieter you become, the more you can hear.",
+      "author": "Rumi",
+      "date": "2026-04-11",
+      "inactive": true,
+      "deactivatedDate": "2026-04-20"
+    },
+    {
+      "text": "All our dreams can come true, if we have the courage to pursue them.",
+      "author": "Walt Disney",
+      "date": "2026-04-11",
+      "inactive": true,
+      "deactivatedDate": "2026-04-20"
     }
   ],
-  "lastRotation": "2026-04-19",
+  "lastRotation": "2026-04-20",
   "totalQuotes": 333,
   "activeQuotes": 56,
   "inactiveQuotes": 277
