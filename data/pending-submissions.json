@@ -1,5 +1,13 @@
 {
-  "pending": [],
+  "pending": [
+    {
+      "id": "1776655867685",
+      "wisdom": "Remember: The serenity prayer: God grant me the serenity to accept the things I cannot \nchange; courage to change the things I can; and wisdom to know the difference. Living \none day at a time; enjoying one moment at a time; accepting hardships as the pathway to \npeace; taking, as He did, this sinful world as it is, not as I would have it; trusting that He \nwill make all things right If I surrender to His Will; that I may be reasonably happy in \nthis life and supremely happy with Him forever in the next. Amen",
+      "author": "Reinhold Niebuhr",
+      "date": "2026-04-20",
+      "submittedAt": "2026-04-20T03:31:07.688Z"
+    }
+  ],
   "approvedCount": 15,
   "rejectedCount": 3
 }
