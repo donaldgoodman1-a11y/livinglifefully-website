@@ -1,5 +1,13 @@
 {
-  "pending": [],
+  "pending": [
+    {
+      "id": "1776656374090",
+      "wisdom": "Grasshopper: if you want control you must let go of control",
+      "author": "Kung fu",
+      "date": "2026-04-20",
+      "submittedAt": "2026-04-20T03:39:34.090Z"
+    }
+  ],
   "approvedCount": 17,
   "rejectedCount": 3
 }
