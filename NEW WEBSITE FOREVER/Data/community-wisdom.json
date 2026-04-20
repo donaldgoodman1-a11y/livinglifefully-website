@@ -1,6 +1,13 @@
 {
   "quotes": [
     {
+      "text": "Remember: The serenity prayer: God grant me the serenity to accept the things I cannot \nchange; courage to change the things I can; and wisdom to know the difference. Living \none day at a time; enjoying one moment at a time; accepting hardships as the pathway to \npeace; taking, as He did, this sinful world as it is, not as I would have it; trusting that He \nwill make all things right If I surrender to His Will; that I may be reasonably happy in \nthis life and supremely happy with Him forever in the next. Amen",
+      "author": "Reinhold Niebuhr",
+      "date": "2026-04-20",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
       "text": "Wherever you are… Be there. \nThis saying has been said in different ways, but this particular way has my personal touch on it. \nI had a plack made  for each one of my kids so that they know how important it is to be focused and in the moment.",
       "author": "Steve LeBaron",
       "date": "2026-04-20",
@@ -2186,7 +2193,7 @@
     }
   ],
   "lastRotation": "2026-04-19",
-  "totalQuotes": 328,
-  "activeQuotes": 51,
+  "totalQuotes": 329,
+  "activeQuotes": 52,
   "inactiveQuotes": 277
 }
