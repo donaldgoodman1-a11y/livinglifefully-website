@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "We are to become even as He is.",
+      "author": "David A. Bednar",
+      "date": "2026-04-21",
+      "inactive": false
+    },
+    {
+      "text": "Without a struggle, there can be no progress.",
+      "author": "Frederick Douglass",
+      "date": "2026-04-21",
+      "inactive": false
+    },
+    {
+      "text": "The least of things with a meaning is worth more in life than the greatest of things without it.",
+      "author": "Carl Jung",
+      "date": "2026-04-21",
+      "inactive": false
+    },
+    {
+      "text": "Doubt your doubts before you doubt your faith.",
+      "author": "Dieter F. Uchtdorf",
+      "date": "2026-04-21",
+      "inactive": false
+    },
+    {
+      "text": "You don't have to be perfect to be loved.",
+      "author": "Russell M. Nelson",
+      "date": "2026-04-21",
+      "inactive": false
+    },
+    {
       "text": "With the new day comes new strength and new thoughts.",
       "author": "Eleanor Roosevelt",
       "date": "2026-04-20",
@@ -318,36 +348,6 @@
       "inactive": false
     },
     {
-      "text": "The spiritual gift of agency, the freedom to choose, is essential to our growth.",
-      "author": "Dallin H. Oaks",
-      "date": "2026-04-12",
-      "inactive": false
-    },
-    {
-      "text": "What would life be if we had no courage to attempt anything?",
-      "author": "Vincent Van Gogh",
-      "date": "2026-04-12",
-      "inactive": false
-    },
-    {
-      "text": "That which does not kill us makes us stronger.",
-      "author": "Friedrich Nietzsche",
-      "date": "2026-04-12",
-      "inactive": false
-    },
-    {
-      "text": "Tell me, what is it you plan to do with your one wild and precious life?",
-      "author": "Mary Oliver",
-      "date": "2026-04-12",
-      "inactive": false
-    },
-    {
-      "text": "Nothing can dim the light which shines from within.",
-      "author": "Maya Angelou",
-      "date": "2026-04-12",
-      "inactive": false
-    },
-    {
       "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
       "author": "Confucius",
       "date": "2026-02-06",
@@ -516,12 +516,6 @@
       "inactive": true
     },
     {
-      "text": "The least of things with a meaning is worth more in life than the greatest of things without it.",
-      "author": "Carl Jung",
-      "date": "2026-01-11",
-      "inactive": true
-    },
-    {
       "text": "Faith does not eliminate questions. But faith knows where to take them.",
       "author": "Elisabeth Elliot",
       "date": "2026-01-10",
@@ -603,12 +597,6 @@
       "text": "Good inspiration is based on good information.",
       "author": "Russell M. Nelson",
       "date": "2026-01-02",
-      "inactive": true
-    },
-    {
-      "text": "We are to become even as He is.",
-      "author": "David A. Bednar",
-      "date": "2026-01-01",
       "inactive": true
     },
     {
@@ -805,13 +793,6 @@
       "date": "2026-02-12",
       "inactive": true,
       "deactivatedDate": "2026-02-13"
-    },
-    {
-      "text": "Without a struggle, there can be no progress.",
-      "author": "Frederick Douglass",
-      "date": "2026-02-12",
-      "inactive": true,
-      "deactivatedDate": "2026-02-14"
     },
     {
       "text": "You're off to great places! Today is your day! Your mountain is waiting, so get on your way!",
@@ -1878,13 +1859,6 @@
       "deactivatedDate": "2026-04-10"
     },
     {
-      "text": "You don't have to be perfect to be loved.",
-      "author": "Russell M. Nelson",
-      "date": "2026-04-01",
-      "inactive": true,
-      "deactivatedDate": "2026-04-10"
-    },
-    {
       "text": "People do not decide their futures, they decide their habits and their habits decide their futures.",
       "author": "F.M. Alexander",
       "date": "2026-04-03",
@@ -2081,13 +2055,6 @@
       "deactivatedDate": "2026-04-16"
     },
     {
-      "text": "Doubt your doubts before you doubt your faith.",
-      "author": "Dieter F. Uchtdorf",
-      "date": "2026-04-07",
-      "inactive": true,
-      "deactivatedDate": "2026-04-16"
-    },
-    {
       "text": "Don’t make a project out of yourself. \nMove outside yourself.",
       "author": "Dr Goodman",
       "date": "2026-04-08",
@@ -2219,9 +2186,44 @@
       "date": "2026-04-11",
       "inactive": true,
       "deactivatedDate": "2026-04-20"
+    },
+    {
+      "text": "The spiritual gift of agency, the freedom to choose, is essential to our growth.",
+      "author": "Dallin H. Oaks",
+      "date": "2026-04-12",
+      "inactive": true,
+      "deactivatedDate": "2026-04-21"
+    },
+    {
+      "text": "What would life be if we had no courage to attempt anything?",
+      "author": "Vincent Van Gogh",
+      "date": "2026-04-12",
+      "inactive": true,
+      "deactivatedDate": "2026-04-21"
+    },
+    {
+      "text": "That which does not kill us makes us stronger.",
+      "author": "Friedrich Nietzsche",
+      "date": "2026-04-12",
+      "inactive": true,
+      "deactivatedDate": "2026-04-21"
+    },
+    {
+      "text": "Tell me, what is it you plan to do with your one wild and precious life?",
+      "author": "Mary Oliver",
+      "date": "2026-04-12",
+      "inactive": true,
+      "deactivatedDate": "2026-04-21"
+    },
+    {
+      "text": "Nothing can dim the light which shines from within.",
+      "author": "Maya Angelou",
+      "date": "2026-04-12",
+      "inactive": true,
+      "deactivatedDate": "2026-04-21"
     }
   ],
-  "lastRotation": "2026-04-20",
+  "lastRotation": "2026-04-21",
   "totalQuotes": 333,
   "activeQuotes": 56,
   "inactiveQuotes": 277
