@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Be who God meant you to be and you will set the world on fire.",
+      "author": "St. Catherine of Siena",
+      "date": "2026-04-22",
+      "inactive": false
+    },
+    {
+      "text": "A goal without a plan is just a wish.",
+      "author": "Antoine de Saint-Exupéry",
+      "date": "2026-04-22",
+      "inactive": false
+    },
+    {
+      "text": "Weeping may endure for a night, but joy cometh in the morning.",
+      "author": "King David",
+      "date": "2026-04-22",
+      "inactive": false
+    },
+    {
+      "text": "Instructions for living a life: Pay attention. Be astonished. Tell about it.",
+      "author": "Mary Oliver",
+      "date": "2026-04-22",
+      "inactive": false
+    },
+    {
+      "text": "They that wait upon the Lord shall renew their strength; they shall mount up with wings as eagles.",
+      "author": "Isaiah",
+      "date": "2026-04-22",
+      "inactive": false
+    },
+    {
       "text": "We are to become even as He is.",
       "author": "David A. Bednar",
       "date": "2026-04-21",
@@ -318,36 +348,6 @@
       "inactive": false
     },
     {
-      "text": "I feel that there is nothing more truly artistic than to love people.",
-      "author": "Vincent Van Gogh",
-      "date": "2026-04-13",
-      "inactive": false
-    },
-    {
-      "text": "You do not rise to the level of your goals. You fall to the level of your systems.",
-      "author": "James Clear",
-      "date": "2026-04-13",
-      "inactive": false
-    },
-    {
-      "text": "Experience is what you get when you didn't get what you wanted.",
-      "author": "Randy Pausch",
-      "date": "2026-04-13",
-      "inactive": false
-    },
-    {
-      "text": "Be kind, for everyone you meet is fighting a hard battle.",
-      "author": "Plato",
-      "date": "2026-04-13",
-      "inactive": false
-    },
-    {
-      "text": "You'll miss the best things if you keep your eyes shut.",
-      "author": "Dr. Seuss",
-      "date": "2026-04-13",
-      "inactive": false
-    },
-    {
       "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
       "author": "Confucius",
       "date": "2026-02-06",
@@ -528,12 +528,6 @@
       "inactive": true
     },
     {
-      "text": "Instructions for living a life: Pay attention. Be astonished. Tell about it.",
-      "author": "Mary Oliver",
-      "date": "2026-01-09",
-      "inactive": true
-    },
-    {
       "text": "When it's over, I want to say: all my life I was a bride married to amazement.",
       "author": "Mary Oliver",
       "date": "2026-01-09",
@@ -639,12 +633,6 @@
       "text": "You either walk inside your story and own it or you stand outside your story and hustle for your worthiness.",
       "author": "Brené Brown",
       "date": "2025-12-27",
-      "inactive": true
-    },
-    {
-      "text": "A goal without a plan is just a wish.",
-      "author": "Antoine de Saint-Exupéry",
-      "date": "2025-12-26",
       "inactive": true
     },
     {
@@ -1054,13 +1042,6 @@
       "deactivatedDate": "2026-03-06"
     },
     {
-      "text": "They that wait upon the Lord shall renew their strength; they shall mount up with wings as eagles.",
-      "author": "Isaiah",
-      "date": "2026-02-27",
-      "inactive": true,
-      "deactivatedDate": "2026-03-06"
-    },
-    {
       "text": "Unless someone like you cares a whole awful lot, nothing is going to get better. It's not.",
       "author": "Dr. Seuss",
       "date": "2026-02-26",
@@ -1175,13 +1156,6 @@
     {
       "text": "In a gentle way, you can shake the world.",
       "author": "Mahatma Gandhi",
-      "date": "2026-03-05",
-      "inactive": true,
-      "deactivatedDate": "2026-03-13"
-    },
-    {
-      "text": "Weeping may endure for a night, but joy cometh in the morning.",
-      "author": "King David",
       "date": "2026-03-05",
       "inactive": true,
       "deactivatedDate": "2026-03-13"
@@ -1838,13 +1812,6 @@
       "deactivatedDate": "2026-04-10"
     },
     {
-      "text": "Be who God meant you to be and you will set the world on fire.",
-      "author": "St. Catherine of Siena",
-      "date": "2026-04-02",
-      "inactive": true,
-      "deactivatedDate": "2026-04-10"
-    },
-    {
       "text": "To pay attention, this is our endless and proper work.",
       "author": "Mary Oliver",
       "date": "2026-04-02",
@@ -2221,9 +2188,44 @@
       "date": "2026-04-12",
       "inactive": true,
       "deactivatedDate": "2026-04-21"
+    },
+    {
+      "text": "I feel that there is nothing more truly artistic than to love people.",
+      "author": "Vincent Van Gogh",
+      "date": "2026-04-13",
+      "inactive": true,
+      "deactivatedDate": "2026-04-22"
+    },
+    {
+      "text": "You do not rise to the level of your goals. You fall to the level of your systems.",
+      "author": "James Clear",
+      "date": "2026-04-13",
+      "inactive": true,
+      "deactivatedDate": "2026-04-22"
+    },
+    {
+      "text": "Experience is what you get when you didn't get what you wanted.",
+      "author": "Randy Pausch",
+      "date": "2026-04-13",
+      "inactive": true,
+      "deactivatedDate": "2026-04-22"
+    },
+    {
+      "text": "Be kind, for everyone you meet is fighting a hard battle.",
+      "author": "Plato",
+      "date": "2026-04-13",
+      "inactive": true,
+      "deactivatedDate": "2026-04-22"
+    },
+    {
+      "text": "You'll miss the best things if you keep your eyes shut.",
+      "author": "Dr. Seuss",
+      "date": "2026-04-13",
+      "inactive": true,
+      "deactivatedDate": "2026-04-22"
     }
   ],
-  "lastRotation": "2026-04-21",
+  "lastRotation": "2026-04-22",
   "totalQuotes": 333,
   "activeQuotes": 56,
   "inactiveQuotes": 277
