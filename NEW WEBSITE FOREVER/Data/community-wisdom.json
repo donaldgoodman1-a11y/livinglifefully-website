@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Let us always meet each other with smile, for the smile is the beginning of love.",
+      "author": "Mother Teresa",
+      "date": "2026-04-23",
+      "inactive": false
+    },
+    {
+      "text": "Integrity is doing the right thing even when no one is watching.",
+      "author": "C.S. Lewis",
+      "date": "2026-04-23",
+      "inactive": false
+    },
+    {
+      "text": "Better to get on the bike and fall then never to get on the back at all.",
+      "author": "Dr Goodman",
+      "date": "2026-04-23",
+      "inactive": false
+    },
+    {
+      "text": "Life is to be enjoyed, not endured.",
+      "author": "Gordon B. Hinckley",
+      "date": "2026-04-23",
+      "inactive": false
+    },
+    {
+      "text": "Choose faith over fear, and doubt not.",
+      "author": "David A. Bednar",
+      "date": "2026-04-23",
+      "inactive": false
+    },
+    {
       "text": "Be who God meant you to be and you will set the world on fire.",
       "author": "St. Catherine of Siena",
       "date": "2026-04-22",
@@ -315,36 +345,6 @@
       "text": "To bear trials with a calm mind robs misfortune of its strength and burden.",
       "author": "Seneca",
       "date": "2026-04-15",
-      "inactive": false
-    },
-    {
-      "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
-      "author": "Zig Ziglar",
-      "date": "2026-04-14",
-      "inactive": false
-    },
-    {
-      "text": "Never wound a snake; kill it.",
-      "author": "Harriet Tubman",
-      "date": "2026-04-14",
-      "inactive": false
-    },
-    {
-      "text": "All we have to decide is what to do with the time that is given us.",
-      "author": "J.R.R. Tolkien",
-      "date": "2026-04-14",
-      "inactive": false
-    },
-    {
-      "text": "Someone I loved once gave me a box full of darkness. It took me years to understand that this too, was a gift.",
-      "author": "Mary Oliver",
-      "date": "2026-04-14",
-      "inactive": false
-    },
-    {
-      "text": "I am not what happened to me, I am what I choose to become.",
-      "author": "Carl Jung",
-      "date": "2026-04-14",
       "inactive": false
     },
     {
@@ -1308,13 +1308,6 @@
       "deactivatedDate": "2026-03-21"
     },
     {
-      "text": "Choose faith over fear, and doubt not.",
-      "author": "David A. Bednar",
-      "date": "2026-03-13",
-      "inactive": true,
-      "deactivatedDate": "2026-03-21"
-    },
-    {
       "text": "Let your light so shine before men.",
       "author": "Jesus Christ",
       "date": "2026-03-14",
@@ -1490,13 +1483,6 @@
       "deactivatedDate": "2026-03-29"
     },
     {
-      "text": "Let us always meet each other with smile, for the smile is the beginning of love.",
-      "author": "Mother Teresa",
-      "date": "2026-03-21",
-      "inactive": true,
-      "deactivatedDate": "2026-03-29"
-    },
-    {
       "text": "Because a thing seems difficult for you, do not think it impossible for anyone to accomplish.",
       "author": "Marcus Aurelius",
       "date": "2026-03-20",
@@ -1616,13 +1602,6 @@
       "deactivatedDate": "2026-04-03"
     },
     {
-      "text": "Integrity is doing the right thing even when no one is watching.",
-      "author": "C.S. Lewis",
-      "date": "2026-03-26",
-      "inactive": true,
-      "deactivatedDate": "2026-04-03"
-    },
-    {
       "text": "A hero is someone who has given his or her life to something bigger than oneself.",
       "author": "Joseph Campbell",
       "date": "2026-03-26",
@@ -1737,13 +1716,6 @@
     {
       "text": "The Lord loves effort.",
       "author": "Russell M. Nelson",
-      "date": "2026-03-30",
-      "inactive": true,
-      "deactivatedDate": "2026-04-07"
-    },
-    {
-      "text": "Life is to be enjoyed, not endured.",
-      "author": "Gordon B. Hinckley",
       "date": "2026-03-30",
       "inactive": true,
       "deactivatedDate": "2026-04-07"
@@ -2015,13 +1987,6 @@
       "deactivatedDate": "2026-04-16"
     },
     {
-      "text": "Better to get on the bike and fall then never to get on the back at all.",
-      "author": "Dr Goodman",
-      "date": "2026-04-07",
-      "inactive": true,
-      "deactivatedDate": "2026-04-16"
-    },
-    {
       "text": "Don’t make a project out of yourself. \nMove outside yourself.",
       "author": "Dr Goodman",
       "date": "2026-04-08",
@@ -2223,9 +2188,44 @@
       "date": "2026-04-13",
       "inactive": true,
       "deactivatedDate": "2026-04-22"
+    },
+    {
+      "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+      "author": "Zig Ziglar",
+      "date": "2026-04-14",
+      "inactive": true,
+      "deactivatedDate": "2026-04-23"
+    },
+    {
+      "text": "Never wound a snake; kill it.",
+      "author": "Harriet Tubman",
+      "date": "2026-04-14",
+      "inactive": true,
+      "deactivatedDate": "2026-04-23"
+    },
+    {
+      "text": "All we have to decide is what to do with the time that is given us.",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-04-14",
+      "inactive": true,
+      "deactivatedDate": "2026-04-23"
+    },
+    {
+      "text": "Someone I loved once gave me a box full of darkness. It took me years to understand that this too, was a gift.",
+      "author": "Mary Oliver",
+      "date": "2026-04-14",
+      "inactive": true,
+      "deactivatedDate": "2026-04-23"
+    },
+    {
+      "text": "I am not what happened to me, I am what I choose to become.",
+      "author": "Carl Jung",
+      "date": "2026-04-14",
+      "inactive": true,
+      "deactivatedDate": "2026-04-23"
     }
   ],
-  "lastRotation": "2026-04-22",
+  "lastRotation": "2026-04-23",
   "totalQuotes": 333,
   "activeQuotes": 56,
   "inactiveQuotes": 277
