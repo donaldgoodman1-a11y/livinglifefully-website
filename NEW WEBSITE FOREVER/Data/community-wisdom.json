@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Unless someone like you cares a whole awful lot, nothing is going to get better. It's not.",
+      "author": "Dr. Seuss",
+      "date": "2026-04-24",
+      "inactive": false
+    },
+    {
+      "text": "Let yourself be silently drawn by the strange pull of what you really love. It will not lead you astray.",
+      "author": "Rumi",
+      "date": "2026-04-24",
+      "inactive": false
+    },
+    {
+      "text": "Our prime purpose in this life is to help others. And if you can't help them, at least don't hurt them.",
+      "author": "Dalai Lama",
+      "date": "2026-04-24",
+      "inactive": false
+    },
+    {
+      "text": "You were born to win, but to be a winner, you must plan to win, prepare to win, and expect to win.",
+      "author": "Zig Ziglar",
+      "date": "2026-04-24",
+      "inactive": false
+    },
+    {
+      "text": "The issue for us is trusting God enough to trust also His timing.",
+      "author": "Neal A. Maxwell",
+      "date": "2026-04-24",
+      "inactive": false
+    },
+    {
       "text": "Let us always meet each other with smile, for the smile is the beginning of love.",
       "author": "Mother Teresa",
       "date": "2026-04-23",
@@ -318,36 +348,6 @@
       "inactive": false
     },
     {
-      "text": "The only person you are destined to become is the person you decide to be.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-04-15",
-      "inactive": false
-    },
-    {
-      "text": "There is some good in this world, and it's worth fighting for.",
-      "author": "J.R.R. Tolkien",
-      "date": "2026-04-15",
-      "inactive": false
-    },
-    {
-      "text": "Dwell on the beauty of life. Watch the stars, and see yourself running with them.",
-      "author": "Marcus Aurelius",
-      "date": "2026-04-15",
-      "inactive": false
-    },
-    {
-      "text": "Getting old is like climbing a mountain; you get a little out of breath, but the view is much better.",
-      "author": "Ingrid Bergman",
-      "date": "2026-04-15",
-      "inactive": false
-    },
-    {
-      "text": "To bear trials with a calm mind robs misfortune of its strength and burden.",
-      "author": "Seneca",
-      "date": "2026-04-15",
-      "inactive": false
-    },
-    {
       "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
       "author": "Confucius",
       "date": "2026-02-06",
@@ -534,21 +534,9 @@
       "inactive": true
     },
     {
-      "text": "Let yourself be silently drawn by the strange pull of what you really love. It will not lead you astray.",
-      "author": "Rumi",
-      "date": "2026-01-08",
-      "inactive": true
-    },
-    {
       "text": "Raise your words, not voice. It is rain that grows flowers, not thunder.",
       "author": "Rumi",
       "date": "2026-01-08",
-      "inactive": true
-    },
-    {
-      "text": "Our prime purpose in this life is to help others. And if you can't help them, at least don't hurt them.",
-      "author": "Dalai Lama",
-      "date": "2026-01-07",
       "inactive": true
     },
     {
@@ -561,12 +549,6 @@
       "text": "Breathing in, I calm body and mind. Breathing out, I smile.",
       "author": "Thich Nhat Hanh",
       "date": "2026-01-06",
-      "inactive": true
-    },
-    {
-      "text": "The issue for us is trusting God enough to trust also His timing.",
-      "author": "Neal A. Maxwell",
-      "date": "2026-01-05",
       "inactive": true
     },
     {
@@ -1038,13 +1020,6 @@
       "text": "Fantasy is hardly an escape from reality. It's a way of understanding it.",
       "author": "Lloyd Alexander",
       "date": "2026-02-27",
-      "inactive": true,
-      "deactivatedDate": "2026-03-06"
-    },
-    {
-      "text": "Unless someone like you cares a whole awful lot, nothing is going to get better. It's not.",
-      "author": "Dr. Seuss",
-      "date": "2026-02-26",
       "inactive": true,
       "deactivatedDate": "2026-03-06"
     },
@@ -1665,13 +1640,6 @@
       "deactivatedDate": "2026-04-05"
     },
     {
-      "text": "You were born to win, but to be a winner, you must plan to win, prepare to win, and expect to win.",
-      "author": "Zig Ziglar",
-      "date": "2026-03-27",
-      "inactive": true,
-      "deactivatedDate": "2026-04-05"
-    },
-    {
       "text": "Courage doesn't always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.'",
       "author": "Mary Anne Radmacher",
       "date": "2026-03-29",
@@ -2223,9 +2191,44 @@
       "date": "2026-04-14",
       "inactive": true,
       "deactivatedDate": "2026-04-23"
+    },
+    {
+      "text": "The only person you are destined to become is the person you decide to be.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-04-15",
+      "inactive": true,
+      "deactivatedDate": "2026-04-24"
+    },
+    {
+      "text": "There is some good in this world, and it's worth fighting for.",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-04-15",
+      "inactive": true,
+      "deactivatedDate": "2026-04-24"
+    },
+    {
+      "text": "Dwell on the beauty of life. Watch the stars, and see yourself running with them.",
+      "author": "Marcus Aurelius",
+      "date": "2026-04-15",
+      "inactive": true,
+      "deactivatedDate": "2026-04-24"
+    },
+    {
+      "text": "Getting old is like climbing a mountain; you get a little out of breath, but the view is much better.",
+      "author": "Ingrid Bergman",
+      "date": "2026-04-15",
+      "inactive": true,
+      "deactivatedDate": "2026-04-24"
+    },
+    {
+      "text": "To bear trials with a calm mind robs misfortune of its strength and burden.",
+      "author": "Seneca",
+      "date": "2026-04-15",
+      "inactive": true,
+      "deactivatedDate": "2026-04-24"
     }
   ],
-  "lastRotation": "2026-04-23",
+  "lastRotation": "2026-04-24",
   "totalQuotes": 333,
   "activeQuotes": 56,
   "inactiveQuotes": 277
