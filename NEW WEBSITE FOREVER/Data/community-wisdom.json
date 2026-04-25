@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "It is easier to build strong children than to repair broken men.",
+      "author": "Frederick Douglass",
+      "date": "2026-04-25",
+      "inactive": false
+    },
+    {
+      "text": "It does not matter how slowly you go as long as you do not stop.",
+      "author": "Confucius",
+      "date": "2026-04-25",
+      "inactive": false
+    },
+    {
+      "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
+      "author": "Confucius",
+      "date": "2026-04-25",
+      "inactive": false
+    },
+    {
+      "text": "Gratitude is the healthiest of all human emotions.",
+      "author": "Zig Ziglar",
+      "date": "2026-04-25",
+      "inactive": false
+    },
+    {
+      "text": "Accept the things to which fate binds you, and love the people with whom fate brings you together.",
+      "author": "Marcus Aurelius",
+      "date": "2026-04-25",
+      "inactive": false
+    },
+    {
       "text": "Unless someone like you cares a whole awful lot, nothing is going to get better. It's not.",
       "author": "Dr. Seuss",
       "date": "2026-04-24",
@@ -318,42 +348,6 @@
       "inactive": false
     },
     {
-      "text": "The weak can never forgive. Forgiveness is the attribute of the strong.",
-      "author": "Mahatma Gandhi",
-      "date": "2026-04-16",
-      "inactive": false
-    },
-    {
-      "text": "Hope is being able to see that there is light despite all of the darkness.",
-      "author": "Desmond Tutu",
-      "date": "2026-04-16",
-      "inactive": false
-    },
-    {
-      "text": "The beginning is the most important part of the work.",
-      "author": "Plato",
-      "date": "2026-04-16",
-      "inactive": false
-    },
-    {
-      "text": "Why fit in when you were born to stand out?",
-      "author": "Dr. Seuss",
-      "date": "2026-04-16",
-      "inactive": false
-    },
-    {
-      "text": "Tell me to what you pay attention and I will tell you who you are.",
-      "author": "José Ortega y Gasset",
-      "date": "2026-04-16",
-      "inactive": false
-    },
-    {
-      "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
-      "author": "Confucius",
-      "date": "2026-02-06",
-      "inactive": true
-    },
-    {
       "text": "The past is behind, learn from it. The future is ahead, prepare for it. The present is here, live it.",
       "author": "Thomas S. Monson",
       "date": "2026-02-05",
@@ -588,12 +582,6 @@
       "inactive": true
     },
     {
-      "text": "Accept the things to which fate binds you, and love the people with whom fate brings you together.",
-      "author": "Marcus Aurelius",
-      "date": "2025-12-30",
-      "inactive": true
-    },
-    {
       "text": "We delight in the beauty of the butterfly, but rarely admit the changes it has gone through to achieve that beauty.",
       "author": "Maya Angelou",
       "date": "2025-12-29",
@@ -603,12 +591,6 @@
       "text": "Success is liking yourself, liking what you do, and liking how you do it.",
       "author": "Maya Angelou",
       "date": "2025-12-29",
-      "inactive": true
-    },
-    {
-      "text": "Gratitude is the healthiest of all human emotions.",
-      "author": "Zig Ziglar",
-      "date": "2025-12-28",
       "inactive": true
     },
     {
@@ -823,13 +805,6 @@
     {
       "text": "Keep your face to the sunshine and you cannot see a shadow.",
       "author": "Helen Keller",
-      "date": "2026-02-15",
-      "inactive": true,
-      "deactivatedDate": "2026-02-22"
-    },
-    {
-      "text": "It does not matter how slowly you go as long as you do not stop.",
-      "author": "Confucius",
       "date": "2026-02-15",
       "inactive": true,
       "deactivatedDate": "2026-02-22"
@@ -2053,13 +2028,6 @@
       "deactivatedDate": "2026-04-19"
     },
     {
-      "text": "It is easier to build strong children than to repair broken men.",
-      "author": "Frederick Douglass",
-      "date": "2026-04-11",
-      "inactive": true,
-      "deactivatedDate": "2026-04-20"
-    },
-    {
       "text": "There is no innovation and creativity without failure. Period.",
       "author": "Brené Brown",
       "date": "2026-04-11",
@@ -2226,9 +2194,44 @@
       "date": "2026-04-15",
       "inactive": true,
       "deactivatedDate": "2026-04-24"
+    },
+    {
+      "text": "The weak can never forgive. Forgiveness is the attribute of the strong.",
+      "author": "Mahatma Gandhi",
+      "date": "2026-04-16",
+      "inactive": true,
+      "deactivatedDate": "2026-04-25"
+    },
+    {
+      "text": "Hope is being able to see that there is light despite all of the darkness.",
+      "author": "Desmond Tutu",
+      "date": "2026-04-16",
+      "inactive": true,
+      "deactivatedDate": "2026-04-25"
+    },
+    {
+      "text": "The beginning is the most important part of the work.",
+      "author": "Plato",
+      "date": "2026-04-16",
+      "inactive": true,
+      "deactivatedDate": "2026-04-25"
+    },
+    {
+      "text": "Why fit in when you were born to stand out?",
+      "author": "Dr. Seuss",
+      "date": "2026-04-16",
+      "inactive": true,
+      "deactivatedDate": "2026-04-25"
+    },
+    {
+      "text": "Tell me to what you pay attention and I will tell you who you are.",
+      "author": "José Ortega y Gasset",
+      "date": "2026-04-16",
+      "inactive": true,
+      "deactivatedDate": "2026-04-25"
     }
   ],
-  "lastRotation": "2026-04-24",
+  "lastRotation": "2026-04-25",
   "totalQuotes": 333,
   "activeQuotes": 56,
   "inactiveQuotes": 277
