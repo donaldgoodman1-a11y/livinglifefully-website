@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Where the head goes, the body follows. Perception precedes action.",
+      "author": "Ryan Holiday",
+      "date": "2026-04-27",
+      "inactive": false
+    },
+    {
+      "text": "Act as if what you do makes a difference. It does.",
+      "author": "William James",
+      "date": "2026-04-27",
+      "inactive": false
+    },
+    {
+      "text": "Those who have a 'why' to live, can bear with almost any 'how'.",
+      "author": "Viktor Frankl",
+      "date": "2026-04-27",
+      "inactive": false
+    },
+    {
+      "text": "The mind is everything. What you think you become.",
+      "author": "Buddha",
+      "date": "2026-04-27",
+      "inactive": false
+    },
+    {
+      "text": "If you're going through hell, keep going.",
+      "author": "Winston Churchill",
+      "date": "2026-04-27",
+      "inactive": false
+    },
+    {
       "text": "We must be willing to let go of the life we planned so as to have the life that is waiting for us.",
       "author": "Joseph Campbell",
       "date": "2026-04-26",
@@ -314,38 +344,6 @@
       "author": "Nelson Mandela",
       "date": "2026-04-18",
       "inactive": false
-    },
-    {
-      "text": "It does not do to dwell on dreams and forget to live.",
-      "author": "J.K. Rowling",
-      "date": "2026-04-18",
-      "inactive": false
-    },
-    {
-      "text": "What we think, we become.",
-      "author": "Dalai Lama",
-      "date": "2026-04-18",
-      "inactive": false
-    },
-    {
-      "text": "What we insistently desire, over time, is what we will eventually become.",
-      "author": "Neal A. Maxwell",
-      "date": "2026-04-18",
-      "inactive": false
-    },
-    {
-      "text": "To be happy takes daily practice and daily gratitude.",
-      "author": "Anonymous Reader",
-      "date": "2026-04-17",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "Just Let Go!",
-      "author": "Anonymous Reader",
-      "date": "2026-04-17",
-      "inactive": false,
-      "communitySubmission": true
     },
     {
       "text": "The past is behind, learn from it. The future is ahead, prepare for it. The present is here, live it.",
@@ -755,20 +753,6 @@
       "deactivatedDate": "2026-02-15"
     },
     {
-      "text": "The mind is everything. What you think you become.",
-      "author": "Buddha",
-      "date": "2026-02-12",
-      "inactive": true,
-      "deactivatedDate": "2026-02-16"
-    },
-    {
-      "text": "Where the head goes, the body follows. Perception precedes action.",
-      "author": "Ryan Holiday",
-      "date": "2026-02-12",
-      "inactive": true,
-      "deactivatedDate": "2026-02-16"
-    },
-    {
       "text": "The purpose of our lives is to be happy.",
       "author": "Dalai Lama",
       "date": "2026-02-12",
@@ -993,13 +977,6 @@
       "deactivatedDate": "2026-03-07"
     },
     {
-      "text": "If you're going through hell, keep going.",
-      "author": "Winston Churchill",
-      "date": "2026-02-28",
-      "inactive": true,
-      "deactivatedDate": "2026-03-07"
-    },
-    {
       "text": "The Lord is my shepherd; I shall not want.",
       "author": "King David",
       "date": "2026-03-01",
@@ -1030,13 +1007,6 @@
     {
       "text": "Wise men speak because they have something to say; fools because they have to say something.",
       "author": "Plato",
-      "date": "2026-03-02",
-      "inactive": true,
-      "deactivatedDate": "2026-03-10"
-    },
-    {
-      "text": "Those who have a 'why' to live, can bear with almost any 'how'.",
-      "author": "Viktor Frankl",
       "date": "2026-03-02",
       "inactive": true,
       "deactivatedDate": "2026-03-10"
@@ -1135,13 +1105,6 @@
     {
       "text": "If you have good thoughts they will shine out of your face like sunbeams and you will always look lovely.",
       "author": "Roald Dahl",
-      "date": "2026-03-08",
-      "inactive": true,
-      "deactivatedDate": "2026-03-16"
-    },
-    {
-      "text": "Act as if what you do makes a difference. It does.",
-      "author": "William James",
       "date": "2026-03-08",
       "inactive": true,
       "deactivatedDate": "2026-03-16"
@@ -2230,9 +2193,46 @@
       "date": "2026-04-17",
       "inactive": true,
       "deactivatedDate": "2026-04-26"
+    },
+    {
+      "text": "It does not do to dwell on dreams and forget to live.",
+      "author": "J.K. Rowling",
+      "date": "2026-04-18",
+      "inactive": true,
+      "deactivatedDate": "2026-04-27"
+    },
+    {
+      "text": "What we think, we become.",
+      "author": "Dalai Lama",
+      "date": "2026-04-18",
+      "inactive": true,
+      "deactivatedDate": "2026-04-27"
+    },
+    {
+      "text": "What we insistently desire, over time, is what we will eventually become.",
+      "author": "Neal A. Maxwell",
+      "date": "2026-04-18",
+      "inactive": true,
+      "deactivatedDate": "2026-04-27"
+    },
+    {
+      "text": "To be happy takes daily practice and daily gratitude.",
+      "author": "Anonymous Reader",
+      "date": "2026-04-17",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-04-27"
+    },
+    {
+      "text": "Just Let Go!",
+      "author": "Anonymous Reader",
+      "date": "2026-04-17",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-04-27"
     }
   ],
-  "lastRotation": "2026-04-26",
+  "lastRotation": "2026-04-27",
   "totalQuotes": 333,
   "activeQuotes": 56,
   "inactiveQuotes": 277
