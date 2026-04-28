@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "We do not need magic to transform our world. We carry all the power we need inside ourselves already.",
+      "author": "J.K. Rowling",
+      "date": "2026-04-28",
+      "inactive": false
+    },
+    {
+      "text": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-04-28",
+      "inactive": false
+    },
+    {
+      "text": "Opposition is part of the divine plan.",
+      "author": "Dallin H. Oaks",
+      "date": "2026-04-28",
+      "inactive": false
+    },
+    {
+      "text": "If you are a dreamer, come in.",
+      "author": "Shel Silverstein",
+      "date": "2026-04-28",
+      "inactive": false
+    },
+    {
+      "text": "“If I die before my dog, please show him my dead body. dogs can process death, but I would hate for him to think I abandoned him”.",
+      "author": "Unknown",
+      "date": "2026-04-28",
+      "inactive": false
+    },
+    {
       "text": "Where the head goes, the body follows. Perception precedes action.",
       "author": "Ryan Holiday",
       "date": "2026-04-27",
@@ -311,38 +341,6 @@
       "text": "When we keep the commandments, the blessings come.",
       "author": "Henry B. Eyring",
       "date": "2026-04-19",
-      "inactive": false
-    },
-    {
-      "text": "Not all of us can do great things. But we can do small things with great love.",
-      "author": "Mother Teresa",
-      "date": "2026-04-19",
-      "inactive": false
-    },
-    {
-      "text": "Don’t make a project out of yourself. Get out of yourself and help someone else.",
-      "author": "Anonymous Reader",
-      "date": "2026-04-19",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "When we make our fantasies our reality they often become our nightmares.",
-      "author": "Dr Goodman",
-      "date": "2026-04-18",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "We can ignore reality, but we cannot ignore the consequences of ignoring reality.",
-      "author": "Ayn Rand",
-      "date": "2026-04-18",
-      "inactive": false
-    },
-    {
-      "text": "It always seems impossible until it's done.",
-      "author": "Nelson Mandela",
-      "date": "2026-04-18",
       "inactive": false
     },
     {
@@ -984,13 +982,6 @@
       "deactivatedDate": "2026-03-08"
     },
     {
-      "text": "We do not need magic to transform our world. We carry all the power we need inside ourselves already.",
-      "author": "J.K. Rowling",
-      "date": "2026-03-02",
-      "inactive": true,
-      "deactivatedDate": "2026-03-09"
-    },
-    {
       "text": "Rock bottom became the solid foundation on which I rebuilt my life.",
       "author": "J.K. Rowling",
       "date": "2026-03-02",
@@ -1029,20 +1020,6 @@
       "text": "Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.",
       "author": "Carl Jung",
       "date": "2026-03-05",
-      "inactive": true,
-      "deactivatedDate": "2026-03-12"
-    },
-    {
-      "text": "“If I die before my dog, please show him my dead body. dogs can process death, but I would hate for him to think I abandoned him”.",
-      "author": "Unknown",
-      "date": "2026-03-05",
-      "inactive": true,
-      "deactivatedDate": "2026-03-12"
-    },
-    {
-      "text": "If you are a dreamer, come in.",
-      "author": "Shel Silverstein",
-      "date": "2026-03-04",
       "inactive": true,
       "deactivatedDate": "2026-03-12"
     },
@@ -1161,13 +1138,6 @@
     {
       "text": "Fear thou not; for I am with thee: be not dismayed; for I am thy God.",
       "author": "Isaiah",
-      "date": "2026-03-11",
-      "inactive": true,
-      "deactivatedDate": "2026-03-19"
-    },
-    {
-      "text": "Opposition is part of the divine plan.",
-      "author": "Dallin H. Oaks",
       "date": "2026-03-11",
       "inactive": true,
       "deactivatedDate": "2026-03-19"
@@ -1315,13 +1285,6 @@
     {
       "text": "Walk as if you are kissing the Earth with your feet.",
       "author": "Thich Nhat Hanh",
-      "date": "2026-03-19",
-      "inactive": true,
-      "deactivatedDate": "2026-03-27"
-    },
-    {
-      "text": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
-      "author": "Eleanor Roosevelt",
       "date": "2026-03-19",
       "inactive": true,
       "deactivatedDate": "2026-03-27"
@@ -2230,9 +2193,46 @@
       "inactive": true,
       "communitySubmission": true,
       "deactivatedDate": "2026-04-27"
+    },
+    {
+      "text": "Not all of us can do great things. But we can do small things with great love.",
+      "author": "Mother Teresa",
+      "date": "2026-04-19",
+      "inactive": true,
+      "deactivatedDate": "2026-04-28"
+    },
+    {
+      "text": "Don’t make a project out of yourself. Get out of yourself and help someone else.",
+      "author": "Anonymous Reader",
+      "date": "2026-04-19",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-04-28"
+    },
+    {
+      "text": "When we make our fantasies our reality they often become our nightmares.",
+      "author": "Dr Goodman",
+      "date": "2026-04-18",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-04-28"
+    },
+    {
+      "text": "We can ignore reality, but we cannot ignore the consequences of ignoring reality.",
+      "author": "Ayn Rand",
+      "date": "2026-04-18",
+      "inactive": true,
+      "deactivatedDate": "2026-04-28"
+    },
+    {
+      "text": "It always seems impossible until it's done.",
+      "author": "Nelson Mandela",
+      "date": "2026-04-18",
+      "inactive": true,
+      "deactivatedDate": "2026-04-28"
     }
   ],
-  "lastRotation": "2026-04-27",
+  "lastRotation": "2026-04-28",
   "totalQuotes": 333,
   "activeQuotes": 56,
   "inactiveQuotes": 277
