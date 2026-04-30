@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Luck is what happens when preparation meets opportunity.",
+      "author": "Seneca",
+      "date": "2026-04-30",
+      "inactive": false
+    },
+    {
+      "text": "To bear trials with a calm mind robs misfortune of its strength and burden.",
+      "author": "Seneca",
+      "date": "2026-04-30",
+      "inactive": false
+    },
+    {
+      "text": "You either walk inside your story and own it or you stand outside your story and hustle for your worthiness.",
+      "author": "Brené Brown",
+      "date": "2026-04-30",
+      "inactive": false
+    },
+    {
+      "text": "Fear thou not; for I am with thee: be not dismayed; for I am thy God.",
+      "author": "Isaiah",
+      "date": "2026-04-30",
+      "inactive": false
+    },
+    {
+      "text": "Knowing yourself is the beginning of all wisdom.",
+      "author": "Aristotle",
+      "date": "2026-04-30",
+      "inactive": false
+    },
+    {
       "text": "It is during our darkest moments that we must focus to see the light.",
       "author": "Aristotle",
       "date": "2026-04-29",
@@ -308,41 +338,6 @@
       "communitySubmission": true
     },
     {
-      "text": "You can't heal the people you love. You can't make choices for them. You can't rescue \nthem. You can promise that they won't journey alone. You can loan them your map. But \nthis trip is theirs. By Laura Jean Truman",
-      "author": "Laura Jean Truman",
-      "date": "2026-04-20",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "Grasshopper: if you want control you must let go of control",
-      "author": "Kung fu",
-      "date": "2026-04-20",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "Hugh B. Brown wrote: We ask for strength and God gives us difficulties, which makes us \nstrong. We pray for wisdom and God sends us problems, the solution of which develops \nwisdom. We plead for prosperity and God gives us brain and brawn to work. We plead \nfor courage and God gives us dangers to overcome. We ask for favors and God gives us \nopportunities. This is the answer.”",
-      "author": "Hugh B Brown",
-      "date": "2026-04-20",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "Remember: The serenity prayer: God grant me the serenity to accept the things I cannot \nchange; courage to change the things I can; and wisdom to know the difference. Living \none day at a time; enjoying one moment at a time; accepting hardships as the pathway to \npeace; taking, as He did, this sinful world as it is, not as I would have it; trusting that He \nwill make all things right If I surrender to His Will; that I may be reasonably happy in \nthis life and supremely happy with Him forever in the next. Amen",
-      "author": "Reinhold Niebuhr",
-      "date": "2026-04-20",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "Wherever you are… Be there. \nThis saying has been said in different ways, but this particular way has my personal touch on it. \nI had a plack made  for each one of my kids so that they know how important it is to be focused and in the moment.",
-      "author": "Steve LeBaron",
-      "date": "2026-04-20",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
       "text": "Peace begins with a smile.",
       "author": "Mother Teresa",
       "date": "2026-02-04",
@@ -446,12 +441,6 @@
     },
     {
       "text": "It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.",
-      "author": "Seneca",
-      "date": "2026-01-16",
-      "inactive": true
-    },
-    {
-      "text": "Luck is what happens when preparation meets opportunity.",
       "author": "Seneca",
       "date": "2026-01-16",
       "inactive": true
@@ -571,12 +560,6 @@
       "inactive": true
     },
     {
-      "text": "You either walk inside your story and own it or you stand outside your story and hustle for your worthiness.",
-      "author": "Brené Brown",
-      "date": "2025-12-27",
-      "inactive": true
-    },
-    {
       "text": "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.",
       "author": "Antoine de Saint-Exupéry",
       "date": "2025-12-26",
@@ -658,13 +641,6 @@
       "text": "It is your reaction to adversity, not the adversity itself, that determines how your life's story will develop.",
       "author": "Dieter F. Uchtdorf",
       "date": "2026-02-08",
-      "inactive": true,
-      "deactivatedDate": "2026-02-12"
-    },
-    {
-      "text": "Knowing yourself is the beginning of all wisdom.",
-      "author": "Aristotle",
-      "date": "2026-02-07",
       "inactive": true,
       "deactivatedDate": "2026-02-12"
     },
@@ -1105,13 +1081,6 @@
     {
       "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
       "author": "Ralph Waldo Emerson",
-      "date": "2026-03-11",
-      "inactive": true,
-      "deactivatedDate": "2026-03-19"
-    },
-    {
-      "text": "Fear thou not; for I am with thee: be not dismayed; for I am thy God.",
-      "author": "Isaiah",
       "date": "2026-03-11",
       "inactive": true,
       "deactivatedDate": "2026-03-19"
@@ -2055,13 +2024,6 @@
       "deactivatedDate": "2026-04-24"
     },
     {
-      "text": "To bear trials with a calm mind robs misfortune of its strength and burden.",
-      "author": "Seneca",
-      "date": "2026-04-15",
-      "inactive": true,
-      "deactivatedDate": "2026-04-24"
-    },
-    {
       "text": "The weak can never forgive. Forgiveness is the attribute of the strong.",
       "author": "Mahatma Gandhi",
       "date": "2026-04-16",
@@ -2233,9 +2195,49 @@
       "date": "2026-04-19",
       "inactive": true,
       "deactivatedDate": "2026-04-29"
+    },
+    {
+      "text": "You can't heal the people you love. You can't make choices for them. You can't rescue \nthem. You can promise that they won't journey alone. You can loan them your map. But \nthis trip is theirs. By Laura Jean Truman",
+      "author": "Laura Jean Truman",
+      "date": "2026-04-20",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-04-30"
+    },
+    {
+      "text": "Grasshopper: if you want control you must let go of control",
+      "author": "Kung fu",
+      "date": "2026-04-20",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-04-30"
+    },
+    {
+      "text": "Hugh B. Brown wrote: We ask for strength and God gives us difficulties, which makes us \nstrong. We pray for wisdom and God sends us problems, the solution of which develops \nwisdom. We plead for prosperity and God gives us brain and brawn to work. We plead \nfor courage and God gives us dangers to overcome. We ask for favors and God gives us \nopportunities. This is the answer.”",
+      "author": "Hugh B Brown",
+      "date": "2026-04-20",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-04-30"
+    },
+    {
+      "text": "Remember: The serenity prayer: God grant me the serenity to accept the things I cannot \nchange; courage to change the things I can; and wisdom to know the difference. Living \none day at a time; enjoying one moment at a time; accepting hardships as the pathway to \npeace; taking, as He did, this sinful world as it is, not as I would have it; trusting that He \nwill make all things right If I surrender to His Will; that I may be reasonably happy in \nthis life and supremely happy with Him forever in the next. Amen",
+      "author": "Reinhold Niebuhr",
+      "date": "2026-04-20",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-04-30"
+    },
+    {
+      "text": "Wherever you are… Be there. \nThis saying has been said in different ways, but this particular way has my personal touch on it. \nI had a plack made  for each one of my kids so that they know how important it is to be focused and in the moment.",
+      "author": "Steve LeBaron",
+      "date": "2026-04-20",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-04-30"
     }
   ],
-  "lastRotation": "2026-04-29",
+  "lastRotation": "2026-04-30",
   "totalQuotes": 333,
   "activeQuotes": 56,
   "inactiveQuotes": 277
