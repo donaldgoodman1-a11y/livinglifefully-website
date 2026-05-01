@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "The best way to predict your future is to create it.",
+      "author": "Abraham Lincoln",
+      "date": "2026-05-01",
+      "inactive": false
+    },
+    {
+      "text": "Don’t make a project out of yourself. \nMove outside yourself.",
+      "author": "Dr Goodman",
+      "date": "2026-05-01",
+      "inactive": false
+    },
+    {
+      "text": "The difference between winning and losing is most often not quitting.",
+      "author": "Walt Disney",
+      "date": "2026-05-01",
+      "inactive": false
+    },
+    {
+      "text": "Success is liking yourself, liking what you do, and liking how you do it.",
+      "author": "Maya Angelou",
+      "date": "2026-05-01",
+      "inactive": false
+    },
+    {
+      "text": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.",
+      "author": "J.K. Rowling",
+      "date": "2026-05-01",
+      "inactive": false
+    },
+    {
       "text": "Luck is what happens when preparation meets opportunity.",
       "author": "Seneca",
       "date": "2026-04-30",
@@ -307,37 +337,6 @@
       "inactive": false
     },
     {
-      "text": "Be kind whenever possible. It is always possible.",
-      "author": "Dalai Lama",
-      "date": "2026-04-20",
-      "inactive": false
-    },
-    {
-      "text": "Because you are alive, everything is possible.",
-      "author": "Thich Nhat Hanh",
-      "date": "2026-04-20",
-      "inactive": false
-    },
-    {
-      "text": "Be still, and know that I am God.",
-      "author": "King David",
-      "date": "2026-04-20",
-      "inactive": false
-    },
-    {
-      "text": "You are never too old to set another goal or to dream a new dream.",
-      "author": "C.S. Lewis",
-      "date": "2026-04-20",
-      "inactive": false
-    },
-    {
-      "text": "The proper function of man is to live, not to exist. I shall not waste my days in trying to \nprolong them. I shall use my time…",
-      "author": "Jack London",
-      "date": "2026-04-20",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
       "text": "Peace begins with a smile.",
       "author": "Mother Teresa",
       "date": "2026-02-04",
@@ -549,12 +548,6 @@
     },
     {
       "text": "We delight in the beauty of the butterfly, but rarely admit the changes it has gone through to achieve that beauty.",
-      "author": "Maya Angelou",
-      "date": "2025-12-29",
-      "inactive": true
-    },
-    {
-      "text": "Success is liking yourself, liking what you do, and liking how you do it.",
       "author": "Maya Angelou",
       "date": "2025-12-29",
       "inactive": true
@@ -832,20 +825,6 @@
       "date": "2026-02-20",
       "inactive": true,
       "deactivatedDate": "2026-02-27"
-    },
-    {
-      "text": "The difference between winning and losing is most often not quitting.",
-      "author": "Walt Disney",
-      "date": "2026-02-22",
-      "inactive": true,
-      "deactivatedDate": "2026-03-01"
-    },
-    {
-      "text": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.",
-      "author": "J.K. Rowling",
-      "date": "2026-02-22",
-      "inactive": true,
-      "deactivatedDate": "2026-03-01"
     },
     {
       "text": "An investment in knowledge pays the best interest.",
@@ -1242,13 +1221,6 @@
     {
       "text": "I can't die but once.",
       "author": "Harriet Tubman",
-      "date": "2026-03-20",
-      "inactive": true,
-      "deactivatedDate": "2026-03-28"
-    },
-    {
-      "text": "The best way to predict your future is to create it.",
-      "author": "Abraham Lincoln",
       "date": "2026-03-20",
       "inactive": true,
       "deactivatedDate": "2026-03-28"
@@ -1765,13 +1737,6 @@
       "deactivatedDate": "2026-04-16"
     },
     {
-      "text": "Don’t make a project out of yourself. \nMove outside yourself.",
-      "author": "Dr Goodman",
-      "date": "2026-04-08",
-      "inactive": true,
-      "deactivatedDate": "2026-04-17"
-    },
-    {
       "text": "let GO",
       "author": "Anonymous Reader",
       "date": "2026-04-08",
@@ -2235,9 +2200,45 @@
       "inactive": true,
       "communitySubmission": true,
       "deactivatedDate": "2026-04-30"
+    },
+    {
+      "text": "Be kind whenever possible. It is always possible.",
+      "author": "Dalai Lama",
+      "date": "2026-04-20",
+      "inactive": true,
+      "deactivatedDate": "2026-05-01"
+    },
+    {
+      "text": "Because you are alive, everything is possible.",
+      "author": "Thich Nhat Hanh",
+      "date": "2026-04-20",
+      "inactive": true,
+      "deactivatedDate": "2026-05-01"
+    },
+    {
+      "text": "Be still, and know that I am God.",
+      "author": "King David",
+      "date": "2026-04-20",
+      "inactive": true,
+      "deactivatedDate": "2026-05-01"
+    },
+    {
+      "text": "You are never too old to set another goal or to dream a new dream.",
+      "author": "C.S. Lewis",
+      "date": "2026-04-20",
+      "inactive": true,
+      "deactivatedDate": "2026-05-01"
+    },
+    {
+      "text": "The proper function of man is to live, not to exist. I shall not waste my days in trying to \nprolong them. I shall use my time…",
+      "author": "Jack London",
+      "date": "2026-04-20",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-05-01"
     }
   ],
-  "lastRotation": "2026-04-30",
+  "lastRotation": "2026-05-01",
   "totalQuotes": 333,
   "activeQuotes": 56,
   "inactiveQuotes": 277
