@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "No matter what anyone says or does, my task is to be good.",
+      "author": "Marcus Aurelius",
+      "date": "2026-05-02",
+      "inactive": false
+    },
+    {
+      "text": "If you have good thoughts they will shine out of your face like sunbeams and you will always look lovely.",
+      "author": "Roald Dahl",
+      "date": "2026-05-02",
+      "inactive": false
+    },
+    {
+      "text": "Whatever you are, be a good one.",
+      "author": "Abraham Lincoln",
+      "date": "2026-05-02",
+      "inactive": false
+    },
+    {
+      "text": "Isn't it funny how day by day nothing changes, but when you look back, everything is different.",
+      "author": "C.S. Lewis",
+      "date": "2026-05-02",
+      "inactive": false
+    },
+    {
+      "text": "I alone cannot change the world, but I can cast a stone across the waters to create many ripples.",
+      "author": "Mother Teresa",
+      "date": "2026-05-02",
+      "inactive": false
+    },
+    {
       "text": "The best way to predict your future is to create it.",
       "author": "Abraham Lincoln",
       "date": "2026-05-01",
@@ -304,36 +334,6 @@
       "text": "We are to become even as He is.",
       "author": "David A. Bednar",
       "date": "2026-04-21",
-      "inactive": false
-    },
-    {
-      "text": "Without a struggle, there can be no progress.",
-      "author": "Frederick Douglass",
-      "date": "2026-04-21",
-      "inactive": false
-    },
-    {
-      "text": "The least of things with a meaning is worth more in life than the greatest of things without it.",
-      "author": "Carl Jung",
-      "date": "2026-04-21",
-      "inactive": false
-    },
-    {
-      "text": "Doubt your doubts before you doubt your faith.",
-      "author": "Dieter F. Uchtdorf",
-      "date": "2026-04-21",
-      "inactive": false
-    },
-    {
-      "text": "You don't have to be perfect to be loved.",
-      "author": "Russell M. Nelson",
-      "date": "2026-04-21",
-      "inactive": false
-    },
-    {
-      "text": "With the new day comes new strength and new thoughts.",
-      "author": "Eleanor Roosevelt",
-      "date": "2026-04-20",
       "inactive": false
     },
     {
@@ -792,13 +792,6 @@
       "deactivatedDate": "2026-02-26"
     },
     {
-      "text": "No matter what anyone says or does, my task is to be good.",
-      "author": "Marcus Aurelius",
-      "date": "2026-02-20",
-      "inactive": true,
-      "deactivatedDate": "2026-02-26"
-    },
-    {
       "text": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you.",
       "author": "Jesus Christ",
       "date": "2026-02-19",
@@ -855,13 +848,6 @@
       "deactivatedDate": "2026-03-03"
     },
     {
-      "text": "Isn't it funny how day by day nothing changes, but when you look back, everything is different.",
-      "author": "C.S. Lewis",
-      "date": "2026-02-25",
-      "inactive": true,
-      "deactivatedDate": "2026-03-04"
-    },
-    {
       "text": "Faith is taking the first step even when you don't see the whole staircase.",
       "author": "Martin Luther King Jr.",
       "date": "2026-02-25",
@@ -902,13 +888,6 @@
       "date": "2026-02-27",
       "inactive": true,
       "deactivatedDate": "2026-03-06"
-    },
-    {
-      "text": "I alone cannot change the world, but I can cast a stone across the waters to create many ripples.",
-      "author": "Mother Teresa",
-      "date": "2026-02-28",
-      "inactive": true,
-      "deactivatedDate": "2026-03-07"
     },
     {
       "text": "The Lord is my shepherd; I shall not want.",
@@ -1007,13 +986,6 @@
       "date": "2026-03-07",
       "inactive": true,
       "deactivatedDate": "2026-03-15"
-    },
-    {
-      "text": "If you have good thoughts they will shine out of your face like sunbeams and you will always look lovely.",
-      "author": "Roald Dahl",
-      "date": "2026-03-08",
-      "inactive": true,
-      "deactivatedDate": "2026-03-16"
     },
     {
       "text": "We can press forward with steadfastness in Christ.",
@@ -1189,13 +1161,6 @@
       "date": "2026-03-18",
       "inactive": true,
       "deactivatedDate": "2026-03-26"
-    },
-    {
-      "text": "Whatever you are, be a good one.",
-      "author": "Abraham Lincoln",
-      "date": "2026-03-19",
-      "inactive": true,
-      "deactivatedDate": "2026-03-27"
     },
     {
       "text": "Your work is to discover your work and then with all your heart to give yourself to it.",
@@ -2236,9 +2201,44 @@
       "inactive": true,
       "communitySubmission": true,
       "deactivatedDate": "2026-05-01"
+    },
+    {
+      "text": "Without a struggle, there can be no progress.",
+      "author": "Frederick Douglass",
+      "date": "2026-04-21",
+      "inactive": true,
+      "deactivatedDate": "2026-05-02"
+    },
+    {
+      "text": "The least of things with a meaning is worth more in life than the greatest of things without it.",
+      "author": "Carl Jung",
+      "date": "2026-04-21",
+      "inactive": true,
+      "deactivatedDate": "2026-05-02"
+    },
+    {
+      "text": "Doubt your doubts before you doubt your faith.",
+      "author": "Dieter F. Uchtdorf",
+      "date": "2026-04-21",
+      "inactive": true,
+      "deactivatedDate": "2026-05-02"
+    },
+    {
+      "text": "You don't have to be perfect to be loved.",
+      "author": "Russell M. Nelson",
+      "date": "2026-04-21",
+      "inactive": true,
+      "deactivatedDate": "2026-05-02"
+    },
+    {
+      "text": "With the new day comes new strength and new thoughts.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-04-20",
+      "inactive": true,
+      "deactivatedDate": "2026-05-02"
     }
   ],
-  "lastRotation": "2026-05-01",
+  "lastRotation": "2026-05-02",
   "totalQuotes": 333,
   "activeQuotes": 56,
   "inactiveQuotes": 277
