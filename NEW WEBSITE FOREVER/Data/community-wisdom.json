@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Don't gobblefunk around with words.",
+      "author": "Roald Dahl",
+      "date": "2026-05-03",
+      "inactive": false
+    },
+    {
+      "text": "You don't have to be the victim of your environment. You can also be the architect of it.",
+      "author": "James Clear",
+      "date": "2026-05-03",
+      "inactive": false
+    },
+    {
+      "text": "Desire is the father of action.",
+      "author": "Dallin H. Oaks",
+      "date": "2026-05-03",
+      "inactive": false
+    },
+    {
+      "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+      "author": "Zig Ziglar",
+      "date": "2026-05-03",
+      "inactive": false
+    },
+    {
+      "text": "How many slams in an old screen door? Depends how loud you shut it.",
+      "author": "Shel Silverstein",
+      "date": "2026-05-03",
+      "inactive": false
+    },
+    {
       "text": "No matter what anyone says or does, my task is to be good.",
       "author": "Marcus Aurelius",
       "date": "2026-05-02",
@@ -304,36 +334,6 @@
       "text": "Be who God meant you to be and you will set the world on fire.",
       "author": "St. Catherine of Siena",
       "date": "2026-04-22",
-      "inactive": false
-    },
-    {
-      "text": "A goal without a plan is just a wish.",
-      "author": "Antoine de Saint-Exupéry",
-      "date": "2026-04-22",
-      "inactive": false
-    },
-    {
-      "text": "Weeping may endure for a night, but joy cometh in the morning.",
-      "author": "King David",
-      "date": "2026-04-22",
-      "inactive": false
-    },
-    {
-      "text": "Instructions for living a life: Pay attention. Be astonished. Tell about it.",
-      "author": "Mary Oliver",
-      "date": "2026-04-22",
-      "inactive": false
-    },
-    {
-      "text": "They that wait upon the Lord shall renew their strength; they shall mount up with wings as eagles.",
-      "author": "Isaiah",
-      "date": "2026-04-22",
-      "inactive": false
-    },
-    {
-      "text": "We are to become even as He is.",
-      "author": "David A. Bednar",
-      "date": "2026-04-21",
       "inactive": false
     },
     {
@@ -1296,20 +1296,6 @@
       "deactivatedDate": "2026-04-02"
     },
     {
-      "text": "Don't gobblefunk around with words.",
-      "author": "Roald Dahl",
-      "date": "2026-03-25",
-      "inactive": true,
-      "deactivatedDate": "2026-04-02"
-    },
-    {
-      "text": "Desire is the father of action.",
-      "author": "Dallin H. Oaks",
-      "date": "2026-03-25",
-      "inactive": true,
-      "deactivatedDate": "2026-04-02"
-    },
-    {
       "text": "It is only with the heart that one can see rightly; what is essential is invisible to the eye.",
       "author": "Antoine de Saint-Exupéry",
       "date": "2026-03-24",
@@ -1334,13 +1320,6 @@
       "text": "A hero is someone who has given his or her life to something bigger than oneself.",
       "author": "Joseph Campbell",
       "date": "2026-03-26",
-      "inactive": true,
-      "deactivatedDate": "2026-04-03"
-    },
-    {
-      "text": "You don't have to be the victim of your environment. You can also be the architect of it.",
-      "author": "James Clear",
-      "date": "2026-03-25",
       "inactive": true,
       "deactivatedDate": "2026-04-03"
     },
@@ -1744,13 +1723,6 @@
       "deactivatedDate": "2026-04-18"
     },
     {
-      "text": "How many slams in an old screen door? Depends how loud you shut it.",
-      "author": "Shel Silverstein",
-      "date": "2026-04-09",
-      "inactive": true,
-      "deactivatedDate": "2026-04-18"
-    },
-    {
       "text": "I wish it need not have happened in my time, said Frodo. So do I, said Gandalf, and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.",
       "author": "J.R.R. Tolkien",
       "date": "2026-04-09",
@@ -1889,13 +1861,6 @@
       "date": "2026-04-13",
       "inactive": true,
       "deactivatedDate": "2026-04-22"
-    },
-    {
-      "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
-      "author": "Zig Ziglar",
-      "date": "2026-04-14",
-      "inactive": true,
-      "deactivatedDate": "2026-04-23"
     },
     {
       "text": "Never wound a snake; kill it.",
@@ -2236,9 +2201,44 @@
       "date": "2026-04-20",
       "inactive": true,
       "deactivatedDate": "2026-05-02"
+    },
+    {
+      "text": "A goal without a plan is just a wish.",
+      "author": "Antoine de Saint-Exupéry",
+      "date": "2026-04-22",
+      "inactive": true,
+      "deactivatedDate": "2026-05-03"
+    },
+    {
+      "text": "Weeping may endure for a night, but joy cometh in the morning.",
+      "author": "King David",
+      "date": "2026-04-22",
+      "inactive": true,
+      "deactivatedDate": "2026-05-03"
+    },
+    {
+      "text": "Instructions for living a life: Pay attention. Be astonished. Tell about it.",
+      "author": "Mary Oliver",
+      "date": "2026-04-22",
+      "inactive": true,
+      "deactivatedDate": "2026-05-03"
+    },
+    {
+      "text": "They that wait upon the Lord shall renew their strength; they shall mount up with wings as eagles.",
+      "author": "Isaiah",
+      "date": "2026-04-22",
+      "inactive": true,
+      "deactivatedDate": "2026-05-03"
+    },
+    {
+      "text": "We are to become even as He is.",
+      "author": "David A. Bednar",
+      "date": "2026-04-21",
+      "inactive": true,
+      "deactivatedDate": "2026-05-03"
     }
   ],
-  "lastRotation": "2026-05-02",
+  "lastRotation": "2026-05-03",
   "totalQuotes": 333,
   "activeQuotes": 56,
   "inactiveQuotes": 277
