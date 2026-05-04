@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Courage doesn't always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.'",
+      "author": "Mary Anne Radmacher",
+      "date": "2026-05-04",
+      "inactive": false
+    },
+    {
+      "text": "If there is no struggle, there is no progress.",
+      "author": "Frederick Douglass",
+      "date": "2026-05-04",
+      "inactive": false
+    },
+    {
+      "text": "Faith is to believe what you do not see; the reward of this faith is to see what you believe.",
+      "author": "St. Augustine",
+      "date": "2026-05-04",
+      "inactive": false
+    },
+    {
+      "text": "If they merit redemption through Teshuva and Mitzvos, I will hasten the coming of the Moshiach.",
+      "author": "Sanhedrin",
+      "date": "2026-05-04",
+      "inactive": false
+    },
+    {
+      "text": "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.",
+      "author": "Antoine de Saint-Exupéry",
+      "date": "2026-05-04",
+      "inactive": false
+    },
+    {
       "text": "Don't gobblefunk around with words.",
       "author": "Roald Dahl",
       "date": "2026-05-03",
@@ -307,36 +337,6 @@
       "inactive": false
     },
     {
-      "text": "Integrity is doing the right thing even when no one is watching.",
-      "author": "C.S. Lewis",
-      "date": "2026-04-23",
-      "inactive": false
-    },
-    {
-      "text": "Better to get on the bike and fall then never to get on the back at all.",
-      "author": "Dr Goodman",
-      "date": "2026-04-23",
-      "inactive": false
-    },
-    {
-      "text": "Life is to be enjoyed, not endured.",
-      "author": "Gordon B. Hinckley",
-      "date": "2026-04-23",
-      "inactive": false
-    },
-    {
-      "text": "Choose faith over fear, and doubt not.",
-      "author": "David A. Bednar",
-      "date": "2026-04-23",
-      "inactive": false
-    },
-    {
-      "text": "Be who God meant you to be and you will set the world on fire.",
-      "author": "St. Catherine of Siena",
-      "date": "2026-04-22",
-      "inactive": false
-    },
-    {
       "text": "Peace begins with a smile.",
       "author": "Mother Teresa",
       "date": "2026-02-04",
@@ -553,12 +553,6 @@
       "inactive": true
     },
     {
-      "text": "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.",
-      "author": "Antoine de Saint-Exupéry",
-      "date": "2025-12-26",
-      "inactive": true
-    },
-    {
       "text": "Those who don't believe in magic will never find it.",
       "author": "Roald Dahl",
       "date": "2025-12-23",
@@ -592,12 +586,6 @@
       "text": "There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living.",
       "author": "Nelson Mandela",
       "date": "2025-12-19",
-      "inactive": true
-    },
-    {
-      "text": "If there is no struggle, there is no progress.",
-      "author": "Frederick Douglass",
-      "date": "2025-12-18",
       "inactive": true
     },
     {
@@ -771,13 +759,6 @@
       "deactivatedDate": "2026-02-24"
     },
     {
-      "text": "If they merit redemption through Teshuva and Mitzvos, I will hasten the coming of the Moshiach.",
-      "author": "Sanhedrin",
-      "date": "2026-02-16",
-      "inactive": true,
-      "deactivatedDate": "2026-02-24"
-    },
-    {
       "text": "Do what you can, with what you have, where you are.",
       "author": "Theodore Roosevelt",
       "date": "2026-02-19",
@@ -860,13 +841,6 @@
       "date": "2026-02-24",
       "inactive": true,
       "deactivatedDate": "2026-03-04"
-    },
-    {
-      "text": "Faith is to believe what you do not see; the reward of this faith is to see what you believe.",
-      "author": "St. Augustine",
-      "date": "2026-02-26",
-      "inactive": true,
-      "deactivatedDate": "2026-03-05"
     },
     {
       "text": "To love at all is to be vulnerable.",
@@ -1371,13 +1345,6 @@
       "date": "2026-03-27",
       "inactive": true,
       "deactivatedDate": "2026-04-05"
-    },
-    {
-      "text": "Courage doesn't always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.'",
-      "author": "Mary Anne Radmacher",
-      "date": "2026-03-29",
-      "inactive": true,
-      "deactivatedDate": "2026-04-06"
     },
     {
       "text": "Hardships often prepare ordinary people for an extraordinary destiny.",
@@ -2236,9 +2203,44 @@
       "date": "2026-04-21",
       "inactive": true,
       "deactivatedDate": "2026-05-03"
+    },
+    {
+      "text": "Integrity is doing the right thing even when no one is watching.",
+      "author": "C.S. Lewis",
+      "date": "2026-04-23",
+      "inactive": true,
+      "deactivatedDate": "2026-05-04"
+    },
+    {
+      "text": "Better to get on the bike and fall then never to get on the back at all.",
+      "author": "Dr Goodman",
+      "date": "2026-04-23",
+      "inactive": true,
+      "deactivatedDate": "2026-05-04"
+    },
+    {
+      "text": "Life is to be enjoyed, not endured.",
+      "author": "Gordon B. Hinckley",
+      "date": "2026-04-23",
+      "inactive": true,
+      "deactivatedDate": "2026-05-04"
+    },
+    {
+      "text": "Choose faith over fear, and doubt not.",
+      "author": "David A. Bednar",
+      "date": "2026-04-23",
+      "inactive": true,
+      "deactivatedDate": "2026-05-04"
+    },
+    {
+      "text": "Be who God meant you to be and you will set the world on fire.",
+      "author": "St. Catherine of Siena",
+      "date": "2026-04-22",
+      "inactive": true,
+      "deactivatedDate": "2026-05-04"
     }
   ],
-  "lastRotation": "2026-05-03",
+  "lastRotation": "2026-05-04",
   "totalQuotes": 333,
   "activeQuotes": 56,
   "inactiveQuotes": 277
