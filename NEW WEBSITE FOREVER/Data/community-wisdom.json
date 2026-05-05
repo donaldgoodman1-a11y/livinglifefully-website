@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "What you see and what you hear depends a great deal on where you are standing. It also depends on what sort of person you are.",
+      "author": "C.S. Lewis",
+      "date": "2026-05-05",
+      "inactive": false
+    },
+    {
+      "text": "Tell me to what you pay attention and I will tell you who you are.",
+      "author": "José Ortega y Gasset",
+      "date": "2026-05-05",
+      "inactive": false
+    },
+    {
+      "text": "Do what you can, with what you have, where you are.",
+      "author": "Theodore Roosevelt",
+      "date": "2026-05-05",
+      "inactive": false
+    },
+    {
+      "text": "Rock bottom became the solid foundation on which I rebuilt my life.",
+      "author": "J.K. Rowling",
+      "date": "2026-05-05",
+      "inactive": false
+    },
+    {
+      "text": "Follow your bliss and the universe will open doors where there were only walls.",
+      "author": "Joseph Campbell",
+      "date": "2026-05-05",
+      "inactive": false
+    },
+    {
       "text": "Courage doesn't always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.'",
       "author": "Mary Anne Radmacher",
       "date": "2026-05-04",
@@ -307,36 +337,6 @@
       "inactive": false
     },
     {
-      "text": "Let yourself be silently drawn by the strange pull of what you really love. It will not lead you astray.",
-      "author": "Rumi",
-      "date": "2026-04-24",
-      "inactive": false
-    },
-    {
-      "text": "Our prime purpose in this life is to help others. And if you can't help them, at least don't hurt them.",
-      "author": "Dalai Lama",
-      "date": "2026-04-24",
-      "inactive": false
-    },
-    {
-      "text": "You were born to win, but to be a winner, you must plan to win, prepare to win, and expect to win.",
-      "author": "Zig Ziglar",
-      "date": "2026-04-24",
-      "inactive": false
-    },
-    {
-      "text": "The issue for us is trusting God enough to trust also His timing.",
-      "author": "Neal A. Maxwell",
-      "date": "2026-04-24",
-      "inactive": false
-    },
-    {
-      "text": "Let us always meet each other with smile, for the smile is the beginning of love.",
-      "author": "Mother Teresa",
-      "date": "2026-04-23",
-      "inactive": false
-    },
-    {
       "text": "Peace begins with a smile.",
       "author": "Mother Teresa",
       "date": "2026-02-04",
@@ -370,12 +370,6 @@
       "text": "You know you've reached middle age when you're cautioned to slow down by your doctor, instead of by the police.",
       "author": "Joan Rivers",
       "date": "2026-01-30",
-      "inactive": true
-    },
-    {
-      "text": "What you see and what you hear depends a great deal on where you are standing. It also depends on what sort of person you are.",
-      "author": "C.S. Lewis",
-      "date": "2026-01-29",
       "inactive": true
     },
     {
@@ -460,12 +454,6 @@
       "text": "It is better to light a candle than curse the darkness.",
       "author": "Eleanor Roosevelt",
       "date": "2026-01-13",
-      "inactive": true
-    },
-    {
-      "text": "Follow your bliss and the universe will open doors where there were only walls.",
-      "author": "Joseph Campbell",
-      "date": "2026-01-12",
       "inactive": true
     },
     {
@@ -759,13 +747,6 @@
       "deactivatedDate": "2026-02-24"
     },
     {
-      "text": "Do what you can, with what you have, where you are.",
-      "author": "Theodore Roosevelt",
-      "date": "2026-02-19",
-      "inactive": true,
-      "deactivatedDate": "2026-02-25"
-    },
-    {
       "text": "The cave you fear to enter holds the treasure you seek.",
       "author": "Joseph Campbell",
       "date": "2026-02-20",
@@ -869,13 +850,6 @@
       "date": "2026-03-01",
       "inactive": true,
       "deactivatedDate": "2026-03-08"
-    },
-    {
-      "text": "Rock bottom became the solid foundation on which I rebuilt my life.",
-      "author": "J.K. Rowling",
-      "date": "2026-03-02",
-      "inactive": true,
-      "deactivatedDate": "2026-03-09"
     },
     {
       "text": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
@@ -1914,13 +1888,6 @@
       "deactivatedDate": "2026-04-25"
     },
     {
-      "text": "Tell me to what you pay attention and I will tell you who you are.",
-      "author": "José Ortega y Gasset",
-      "date": "2026-04-16",
-      "inactive": true,
-      "deactivatedDate": "2026-04-25"
-    },
-    {
       "text": "Try to be a rainbow in someone's cloud.",
       "author": "Maya Angelou",
       "date": "2026-04-17",
@@ -2238,9 +2205,44 @@
       "date": "2026-04-22",
       "inactive": true,
       "deactivatedDate": "2026-05-04"
+    },
+    {
+      "text": "Let yourself be silently drawn by the strange pull of what you really love. It will not lead you astray.",
+      "author": "Rumi",
+      "date": "2026-04-24",
+      "inactive": true,
+      "deactivatedDate": "2026-05-05"
+    },
+    {
+      "text": "Our prime purpose in this life is to help others. And if you can't help them, at least don't hurt them.",
+      "author": "Dalai Lama",
+      "date": "2026-04-24",
+      "inactive": true,
+      "deactivatedDate": "2026-05-05"
+    },
+    {
+      "text": "You were born to win, but to be a winner, you must plan to win, prepare to win, and expect to win.",
+      "author": "Zig Ziglar",
+      "date": "2026-04-24",
+      "inactive": true,
+      "deactivatedDate": "2026-05-05"
+    },
+    {
+      "text": "The issue for us is trusting God enough to trust also His timing.",
+      "author": "Neal A. Maxwell",
+      "date": "2026-04-24",
+      "inactive": true,
+      "deactivatedDate": "2026-05-05"
+    },
+    {
+      "text": "Let us always meet each other with smile, for the smile is the beginning of love.",
+      "author": "Mother Teresa",
+      "date": "2026-04-23",
+      "inactive": true,
+      "deactivatedDate": "2026-05-05"
     }
   ],
-  "lastRotation": "2026-05-04",
+  "lastRotation": "2026-05-05",
   "totalQuotes": 333,
   "activeQuotes": 56,
   "inactiveQuotes": 277
