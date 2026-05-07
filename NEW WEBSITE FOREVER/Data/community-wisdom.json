@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Tell me, what is it you plan to do with your one wild and precious life?",
+      "author": "Mary Oliver",
+      "date": "2026-05-07",
+      "inactive": false
+    },
+    {
+      "text": "The most effective way to change your behavior is to focus not on what you want to achieve, but on who you wish to become.",
+      "author": "James Clear",
+      "date": "2026-05-07",
+      "inactive": false
+    },
+    {
+      "text": "We cannot do great things on this earth, only small things with great love.",
+      "author": "Mother Teresa",
+      "date": "2026-05-07",
+      "inactive": false
+    },
+    {
+      "text": "Focus on the moment, not the monsters that may or may not be up ahead.",
+      "author": "Ryan Holiday",
+      "date": "2026-05-07",
+      "inactive": false
+    },
+    {
+      "text": "The meeting of two personalities is like the contact of two chemical substances: if there is any reaction, both are transformed.",
+      "author": "Carl Jung",
+      "date": "2026-05-07",
+      "inactive": false
+    },
+    {
       "text": "The wound is the place where the Light enters you.",
       "author": "Rumi",
       "date": "2026-05-06",
@@ -307,36 +337,6 @@
       "inactive": false
     },
     {
-      "text": "No man is crushed by misfortune unless he has first been deceived by prosperity.\n-Seneca",
-      "author": "Seneca",
-      "date": "2026-04-26",
-      "inactive": false
-    },
-    {
-      "text": "Every action you take is a vote for the type of person you wish to become.",
-      "author": "James Clear",
-      "date": "2026-04-26",
-      "inactive": false
-    },
-    {
-      "text": "The only impossible journey is the one you never begin.",
-      "author": "Tony Robbins",
-      "date": "2026-04-26",
-      "inactive": false
-    },
-    {
-      "text": "It is not our abilities that show what we truly are. It is our choices.",
-      "author": "J.K. Rowling",
-      "date": "2026-04-26",
-      "inactive": false
-    },
-    {
-      "text": "It is easier to build strong children than to repair broken men.",
-      "author": "Frederick Douglass",
-      "date": "2026-04-25",
-      "inactive": false
-    },
-    {
       "text": "Peace begins with a smile.",
       "author": "Mother Teresa",
       "date": "2026-02-04",
@@ -577,12 +577,6 @@
       "inactive": true
     },
     {
-      "text": "The most effective way to change your behavior is to focus not on what you want to achieve, but on who you wish to become.",
-      "author": "James Clear",
-      "date": "2025-12-14",
-      "inactive": true
-    },
-    {
       "text": "Great things are done by a series of small things brought together.",
       "author": "Vincent Van Gogh",
       "date": "2025-12-13",
@@ -778,13 +772,6 @@
       "deactivatedDate": "2026-03-02"
     },
     {
-      "text": "The meeting of two personalities is like the contact of two chemical substances: if there is any reaction, both are transformed.",
-      "author": "Carl Jung",
-      "date": "2026-02-24",
-      "inactive": true,
-      "deactivatedDate": "2026-03-03"
-    },
-    {
       "text": "Faith is taking the first step even when you don't see the whole staircase.",
       "author": "Martin Luther King Jr.",
       "date": "2026-02-25",
@@ -878,13 +865,6 @@
     {
       "text": "I grew up like a neglected weed, ignorant of liberty, having no experience of it.",
       "author": "Harriet Tubman",
-      "date": "2026-03-06",
-      "inactive": true,
-      "deactivatedDate": "2026-03-14"
-    },
-    {
-      "text": "Focus on the moment, not the monsters that may or may not be up ahead.",
-      "author": "Ryan Holiday",
       "date": "2026-03-06",
       "inactive": true,
       "deactivatedDate": "2026-03-14"
@@ -1021,13 +1001,6 @@
       "date": "2026-03-15",
       "inactive": true,
       "deactivatedDate": "2026-03-23"
-    },
-    {
-      "text": "We cannot do great things on this earth, only small things with great love.",
-      "author": "Mother Teresa",
-      "date": "2026-03-16",
-      "inactive": true,
-      "deactivatedDate": "2026-03-24"
     },
     {
       "text": "Freedom is never given; it is won.",
@@ -1723,13 +1696,6 @@
       "deactivatedDate": "2026-04-21"
     },
     {
-      "text": "Tell me, what is it you plan to do with your one wild and precious life?",
-      "author": "Mary Oliver",
-      "date": "2026-04-12",
-      "inactive": true,
-      "deactivatedDate": "2026-04-21"
-    },
-    {
       "text": "Nothing can dim the light which shines from within.",
       "author": "Maya Angelou",
       "date": "2026-04-12",
@@ -2243,9 +2209,44 @@
       "date": "2026-04-24",
       "inactive": true,
       "deactivatedDate": "2026-05-06"
+    },
+    {
+      "text": "No man is crushed by misfortune unless he has first been deceived by prosperity.\n-Seneca",
+      "author": "Seneca",
+      "date": "2026-04-26",
+      "inactive": true,
+      "deactivatedDate": "2026-05-07"
+    },
+    {
+      "text": "Every action you take is a vote for the type of person you wish to become.",
+      "author": "James Clear",
+      "date": "2026-04-26",
+      "inactive": true,
+      "deactivatedDate": "2026-05-07"
+    },
+    {
+      "text": "The only impossible journey is the one you never begin.",
+      "author": "Tony Robbins",
+      "date": "2026-04-26",
+      "inactive": true,
+      "deactivatedDate": "2026-05-07"
+    },
+    {
+      "text": "It is not our abilities that show what we truly are. It is our choices.",
+      "author": "J.K. Rowling",
+      "date": "2026-04-26",
+      "inactive": true,
+      "deactivatedDate": "2026-05-07"
+    },
+    {
+      "text": "It is easier to build strong children than to repair broken men.",
+      "author": "Frederick Douglass",
+      "date": "2026-04-25",
+      "inactive": true,
+      "deactivatedDate": "2026-05-07"
     }
   ],
-  "lastRotation": "2026-05-06",
+  "lastRotation": "2026-05-07",
   "totalQuotes": 333,
   "activeQuotes": 56,
   "inactiveQuotes": 277
