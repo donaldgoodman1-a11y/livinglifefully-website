@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "It is your reaction to adversity, not the adversity itself, that determines how your life's story will develop.",
+      "author": "Dieter F. Uchtdorf",
+      "date": "2026-05-08",
+      "inactive": false
+    },
+    {
+      "text": "I feel that there is nothing more truly artistic than to love people.",
+      "author": "Vincent Van Gogh",
+      "date": "2026-05-08",
+      "inactive": false
+    },
+    {
+      "text": "You don't have to be perfect to be loved.",
+      "author": "Russell M. Nelson",
+      "date": "2026-05-08",
+      "inactive": false
+    },
+    {
+      "text": "Intelligence plus character—that is the goal of true education.",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-05-08",
+      "inactive": false
+    },
+    {
+      "text": "There is some good in this world, and it's worth fighting for.",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-05-08",
+      "inactive": false
+    },
+    {
       "text": "Tell me, what is it you plan to do with your one wild and precious life?",
       "author": "Mary Oliver",
       "date": "2026-05-07",
@@ -307,36 +337,6 @@
       "inactive": false
     },
     {
-      "text": "Act as if what you do makes a difference. It does.",
-      "author": "William James",
-      "date": "2026-04-27",
-      "inactive": false
-    },
-    {
-      "text": "Those who have a 'why' to live, can bear with almost any 'how'.",
-      "author": "Viktor Frankl",
-      "date": "2026-04-27",
-      "inactive": false
-    },
-    {
-      "text": "The mind is everything. What you think you become.",
-      "author": "Buddha",
-      "date": "2026-04-27",
-      "inactive": false
-    },
-    {
-      "text": "If you're going through hell, keep going.",
-      "author": "Winston Churchill",
-      "date": "2026-04-27",
-      "inactive": false
-    },
-    {
-      "text": "We must be willing to let go of the life we planned so as to have the life that is waiting for us.",
-      "author": "Joseph Campbell",
-      "date": "2026-04-26",
-      "inactive": false
-    },
-    {
       "text": "Peace begins with a smile.",
       "author": "Mother Teresa",
       "date": "2026-02-04",
@@ -581,13 +581,6 @@
       "author": "Vincent Van Gogh",
       "date": "2025-12-13",
       "inactive": true
-    },
-    {
-      "text": "It is your reaction to adversity, not the adversity itself, that determines how your life's story will develop.",
-      "author": "Dieter F. Uchtdorf",
-      "date": "2026-02-08",
-      "inactive": true,
-      "deactivatedDate": "2026-02-12"
     },
     {
       "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
@@ -1500,13 +1493,6 @@
       "deactivatedDate": "2026-04-14"
     },
     {
-      "text": "Intelligence plus character—that is the goal of true education.",
-      "author": "Martin Luther King Jr.",
-      "date": "2026-04-05",
-      "inactive": true,
-      "deactivatedDate": "2026-04-14"
-    },
-    {
       "text": "Life is either a daring adventure or nothing at all.",
       "author": "Helen Keller",
       "date": "2026-04-07",
@@ -1703,13 +1689,6 @@
       "deactivatedDate": "2026-04-21"
     },
     {
-      "text": "I feel that there is nothing more truly artistic than to love people.",
-      "author": "Vincent Van Gogh",
-      "date": "2026-04-13",
-      "inactive": true,
-      "deactivatedDate": "2026-04-22"
-    },
-    {
       "text": "You do not rise to the level of your goals. You fall to the level of your systems.",
       "author": "James Clear",
       "date": "2026-04-13",
@@ -1768,13 +1747,6 @@
     {
       "text": "The only person you are destined to become is the person you decide to be.",
       "author": "Ralph Waldo Emerson",
-      "date": "2026-04-15",
-      "inactive": true,
-      "deactivatedDate": "2026-04-24"
-    },
-    {
-      "text": "There is some good in this world, and it's worth fighting for.",
-      "author": "J.R.R. Tolkien",
       "date": "2026-04-15",
       "inactive": true,
       "deactivatedDate": "2026-04-24"
@@ -2057,13 +2029,6 @@
       "deactivatedDate": "2026-05-02"
     },
     {
-      "text": "You don't have to be perfect to be loved.",
-      "author": "Russell M. Nelson",
-      "date": "2026-04-21",
-      "inactive": true,
-      "deactivatedDate": "2026-05-02"
-    },
-    {
       "text": "With the new day comes new strength and new thoughts.",
       "author": "Eleanor Roosevelt",
       "date": "2026-04-20",
@@ -2244,9 +2209,44 @@
       "date": "2026-04-25",
       "inactive": true,
       "deactivatedDate": "2026-05-07"
+    },
+    {
+      "text": "Act as if what you do makes a difference. It does.",
+      "author": "William James",
+      "date": "2026-04-27",
+      "inactive": true,
+      "deactivatedDate": "2026-05-08"
+    },
+    {
+      "text": "Those who have a 'why' to live, can bear with almost any 'how'.",
+      "author": "Viktor Frankl",
+      "date": "2026-04-27",
+      "inactive": true,
+      "deactivatedDate": "2026-05-08"
+    },
+    {
+      "text": "The mind is everything. What you think you become.",
+      "author": "Buddha",
+      "date": "2026-04-27",
+      "inactive": true,
+      "deactivatedDate": "2026-05-08"
+    },
+    {
+      "text": "If you're going through hell, keep going.",
+      "author": "Winston Churchill",
+      "date": "2026-04-27",
+      "inactive": true,
+      "deactivatedDate": "2026-05-08"
+    },
+    {
+      "text": "We must be willing to let go of the life we planned so as to have the life that is waiting for us.",
+      "author": "Joseph Campbell",
+      "date": "2026-04-26",
+      "inactive": true,
+      "deactivatedDate": "2026-05-08"
     }
   ],
-  "lastRotation": "2026-05-07",
+  "lastRotation": "2026-05-08",
   "totalQuotes": 333,
   "activeQuotes": 56,
   "inactiveQuotes": 277
