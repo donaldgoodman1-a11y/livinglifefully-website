@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Let your light so shine before men.",
+      "author": "Jesus Christ",
+      "date": "2026-05-09",
+      "inactive": false
+    },
+    {
+      "text": "I am not what happened to me, I am what I choose to become.",
+      "author": "Carl Jung",
+      "date": "2026-05-09",
+      "inactive": false
+    },
+    {
+      "text": "Be who God meant you to be and you will set the world on fire.",
+      "author": "St. Catherine of Siena",
+      "date": "2026-05-09",
+      "inactive": false
+    },
+    {
+      "text": "It does not do to dwell on dreams and forget to live.",
+      "author": "J.K. Rowling",
+      "date": "2026-05-09",
+      "inactive": false
+    },
+    {
+      "text": "Raise your words, not voice. It is rain that grows flowers, not thunder.",
+      "author": "Rumi",
+      "date": "2026-05-09",
+      "inactive": false
+    },
+    {
       "text": "It is your reaction to adversity, not the adversity itself, that determines how your life's story will develop.",
       "author": "Dieter F. Uchtdorf",
       "date": "2026-05-08",
@@ -307,36 +337,6 @@
       "inactive": false
     },
     {
-      "text": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
-      "author": "Eleanor Roosevelt",
-      "date": "2026-04-28",
-      "inactive": false
-    },
-    {
-      "text": "Opposition is part of the divine plan.",
-      "author": "Dallin H. Oaks",
-      "date": "2026-04-28",
-      "inactive": false
-    },
-    {
-      "text": "If you are a dreamer, come in.",
-      "author": "Shel Silverstein",
-      "date": "2026-04-28",
-      "inactive": false
-    },
-    {
-      "text": "“If I die before my dog, please show him my dead body. dogs can process death, but I would hate for him to think I abandoned him”.",
-      "author": "Unknown",
-      "date": "2026-04-28",
-      "inactive": false
-    },
-    {
-      "text": "Where the head goes, the body follows. Perception precedes action.",
-      "author": "Ryan Holiday",
-      "date": "2026-04-27",
-      "inactive": false
-    },
-    {
       "text": "Peace begins with a smile.",
       "author": "Mother Teresa",
       "date": "2026-02-04",
@@ -466,12 +466,6 @@
       "text": "When it's over, I want to say: all my life I was a bride married to amazement.",
       "author": "Mary Oliver",
       "date": "2026-01-09",
-      "inactive": true
-    },
-    {
-      "text": "Raise your words, not voice. It is rain that grows flowers, not thunder.",
-      "author": "Rumi",
-      "date": "2026-01-08",
       "inactive": true
     },
     {
@@ -952,13 +946,6 @@
       "date": "2026-03-13",
       "inactive": true,
       "deactivatedDate": "2026-03-21"
-    },
-    {
-      "text": "Let your light so shine before men.",
-      "author": "Jesus Christ",
-      "date": "2026-03-14",
-      "inactive": true,
-      "deactivatedDate": "2026-03-22"
     },
     {
       "text": "Go confidently in the direction of your dreams. Live the life you have imagined.",
@@ -1738,13 +1725,6 @@
       "deactivatedDate": "2026-04-23"
     },
     {
-      "text": "I am not what happened to me, I am what I choose to become.",
-      "author": "Carl Jung",
-      "date": "2026-04-14",
-      "inactive": true,
-      "deactivatedDate": "2026-04-23"
-    },
-    {
       "text": "The only person you are destined to become is the person you decide to be.",
       "author": "Ralph Waldo Emerson",
       "date": "2026-04-15",
@@ -1820,13 +1800,6 @@
       "date": "2026-04-17",
       "inactive": true,
       "deactivatedDate": "2026-04-26"
-    },
-    {
-      "text": "It does not do to dwell on dreams and forget to live.",
-      "author": "J.K. Rowling",
-      "date": "2026-04-18",
-      "inactive": true,
-      "deactivatedDate": "2026-04-27"
     },
     {
       "text": "What we think, we become.",
@@ -2099,13 +2072,6 @@
       "deactivatedDate": "2026-05-04"
     },
     {
-      "text": "Be who God meant you to be and you will set the world on fire.",
-      "author": "St. Catherine of Siena",
-      "date": "2026-04-22",
-      "inactive": true,
-      "deactivatedDate": "2026-05-04"
-    },
-    {
       "text": "Let yourself be silently drawn by the strange pull of what you really love. It will not lead you astray.",
       "author": "Rumi",
       "date": "2026-04-24",
@@ -2244,9 +2210,44 @@
       "date": "2026-04-26",
       "inactive": true,
       "deactivatedDate": "2026-05-08"
+    },
+    {
+      "text": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-04-28",
+      "inactive": true,
+      "deactivatedDate": "2026-05-09"
+    },
+    {
+      "text": "Opposition is part of the divine plan.",
+      "author": "Dallin H. Oaks",
+      "date": "2026-04-28",
+      "inactive": true,
+      "deactivatedDate": "2026-05-09"
+    },
+    {
+      "text": "If you are a dreamer, come in.",
+      "author": "Shel Silverstein",
+      "date": "2026-04-28",
+      "inactive": true,
+      "deactivatedDate": "2026-05-09"
+    },
+    {
+      "text": "“If I die before my dog, please show him my dead body. dogs can process death, but I would hate for him to think I abandoned him”.",
+      "author": "Unknown",
+      "date": "2026-04-28",
+      "inactive": true,
+      "deactivatedDate": "2026-05-09"
+    },
+    {
+      "text": "Where the head goes, the body follows. Perception precedes action.",
+      "author": "Ryan Holiday",
+      "date": "2026-04-27",
+      "inactive": true,
+      "deactivatedDate": "2026-05-09"
     }
   ],
-  "lastRotation": "2026-05-08",
+  "lastRotation": "2026-05-09",
   "totalQuotes": 333,
   "activeQuotes": 56,
   "inactiveQuotes": 277
