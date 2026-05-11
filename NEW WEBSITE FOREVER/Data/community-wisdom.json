@@ -1,6 +1,13 @@
 {
   "quotes": [
     {
+      "text": "“Strong minds discuss ideas, average minds discuss events, weak minds discuss people”",
+      "author": "Socrates",
+      "date": "2026-05-11",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
       "text": "Let yourself be silently drawn by the strange pull of what you really love. It will not lead you astray.",
       "author": "Rumi",
       "date": "2026-05-10",
@@ -2248,7 +2255,7 @@
     }
   ],
   "lastRotation": "2026-05-10",
-  "totalQuotes": 333,
-  "activeQuotes": 56,
+  "totalQuotes": 334,
+  "activeQuotes": 57,
   "inactiveQuotes": 277
 }
