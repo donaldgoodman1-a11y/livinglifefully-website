@@ -1,6 +1,37 @@
 {
   "quotes": [
     {
+      "text": "Habits are the compound interest of self-improvement.",
+      "author": "James Clear",
+      "date": "2026-05-11",
+      "inactive": false
+    },
+    {
+      "text": "Hugh B. Brown wrote: We ask for strength and God gives us difficulties, which makes us \nstrong. We pray for wisdom and God sends us problems, the solution of which develops \nwisdom. We plead for prosperity and God gives us brain and brawn to work. We plead \nfor courage and God gives us dangers to overcome. We ask for favors and God gives us \nopportunities. This is the answer.”",
+      "author": "Hugh B Brown",
+      "date": "2026-05-11",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "You must do the things you think you cannot do.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-05-11",
+      "inactive": false
+    },
+    {
+      "text": "Friendship is born at that moment when one person says to another: What! You too? I thought I was the only one.",
+      "author": "C.S. Lewis",
+      "date": "2026-05-11",
+      "inactive": false
+    },
+    {
+      "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-05-11",
+      "inactive": false
+    },
+    {
       "text": "“Strong minds discuss ideas, average minds discuss events, weak minds discuss people”",
       "author": "Socrates",
       "date": "2026-05-11",
@@ -311,36 +342,6 @@
       "text": "Luck is what happens when preparation meets opportunity.",
       "author": "Seneca",
       "date": "2026-04-30",
-      "inactive": false
-    },
-    {
-      "text": "To bear trials with a calm mind robs misfortune of its strength and burden.",
-      "author": "Seneca",
-      "date": "2026-04-30",
-      "inactive": false
-    },
-    {
-      "text": "You either walk inside your story and own it or you stand outside your story and hustle for your worthiness.",
-      "author": "Brené Brown",
-      "date": "2026-04-30",
-      "inactive": false
-    },
-    {
-      "text": "Fear thou not; for I am with thee: be not dismayed; for I am thy God.",
-      "author": "Isaiah",
-      "date": "2026-04-30",
-      "inactive": false
-    },
-    {
-      "text": "Knowing yourself is the beginning of all wisdom.",
-      "author": "Aristotle",
-      "date": "2026-04-30",
-      "inactive": false
-    },
-    {
-      "text": "It is during our darkest moments that we must focus to see the light.",
-      "author": "Aristotle",
-      "date": "2026-04-29",
       "inactive": false
     },
     {
@@ -1543,13 +1544,6 @@
       "deactivatedDate": "2026-04-17"
     },
     {
-      "text": "You must do the things you think you cannot do.",
-      "author": "Eleanor Roosevelt",
-      "date": "2026-04-08",
-      "inactive": true,
-      "deactivatedDate": "2026-04-17"
-    },
-    {
       "text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest.",
       "author": "Jesus Christ",
       "date": "2026-04-08",
@@ -1578,22 +1572,8 @@
       "deactivatedDate": "2026-04-18"
     },
     {
-      "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
-      "author": "Martin Luther King Jr.",
-      "date": "2026-04-10",
-      "inactive": true,
-      "deactivatedDate": "2026-04-19"
-    },
-    {
       "text": "The obstacle is the way.",
       "author": "Ryan Holiday",
-      "date": "2026-04-10",
-      "inactive": true,
-      "deactivatedDate": "2026-04-19"
-    },
-    {
-      "text": "Friendship is born at that moment when one person says to another: What! You too? I thought I was the only one.",
-      "author": "C.S. Lewis",
       "date": "2026-04-10",
       "inactive": true,
       "deactivatedDate": "2026-04-19"
@@ -1611,13 +1591,6 @@
       "date": "2026-04-10",
       "inactive": true,
       "deactivatedDate": "2026-04-19"
-    },
-    {
-      "text": "Habits are the compound interest of self-improvement.",
-      "author": "James Clear",
-      "date": "2026-04-11",
-      "inactive": true,
-      "deactivatedDate": "2026-04-20"
     },
     {
       "text": "The quieter you become, the more you can hear.",
@@ -1894,14 +1867,6 @@
     {
       "text": "Grasshopper: if you want control you must let go of control",
       "author": "Kung fu",
-      "date": "2026-04-20",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-04-30"
-    },
-    {
-      "text": "Hugh B. Brown wrote: We ask for strength and God gives us difficulties, which makes us \nstrong. We pray for wisdom and God sends us problems, the solution of which develops \nwisdom. We plead for prosperity and God gives us brain and brawn to work. We plead \nfor courage and God gives us dangers to overcome. We ask for favors and God gives us \nopportunities. This is the answer.”",
-      "author": "Hugh B Brown",
       "date": "2026-04-20",
       "inactive": true,
       "communitySubmission": true,
@@ -2252,9 +2217,44 @@
       "date": "2026-04-28",
       "inactive": true,
       "deactivatedDate": "2026-05-10"
+    },
+    {
+      "text": "To bear trials with a calm mind robs misfortune of its strength and burden.",
+      "author": "Seneca",
+      "date": "2026-04-30",
+      "inactive": true,
+      "deactivatedDate": "2026-05-11"
+    },
+    {
+      "text": "You either walk inside your story and own it or you stand outside your story and hustle for your worthiness.",
+      "author": "Brené Brown",
+      "date": "2026-04-30",
+      "inactive": true,
+      "deactivatedDate": "2026-05-11"
+    },
+    {
+      "text": "Fear thou not; for I am with thee: be not dismayed; for I am thy God.",
+      "author": "Isaiah",
+      "date": "2026-04-30",
+      "inactive": true,
+      "deactivatedDate": "2026-05-11"
+    },
+    {
+      "text": "Knowing yourself is the beginning of all wisdom.",
+      "author": "Aristotle",
+      "date": "2026-04-30",
+      "inactive": true,
+      "deactivatedDate": "2026-05-11"
+    },
+    {
+      "text": "It is during our darkest moments that we must focus to see the light.",
+      "author": "Aristotle",
+      "date": "2026-04-29",
+      "inactive": true,
+      "deactivatedDate": "2026-05-11"
     }
   ],
-  "lastRotation": "2026-05-10",
+  "lastRotation": "2026-05-11",
   "totalQuotes": 334,
   "activeQuotes": 57,
   "inactiveQuotes": 277
