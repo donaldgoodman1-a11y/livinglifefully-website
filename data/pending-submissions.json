@@ -1,13 +1,5 @@
 {
-  "pending": [
-    {
-      "id": "1778457708944",
-      "wisdom": "“Strong minds discuss ideas, average minds discuss events, weak minds discuss people”",
-      "author": "Socrates",
-      "date": "2026-05-11",
-      "submittedAt": "2026-05-11T00:01:48.948Z"
-    }
-  ],
-  "approvedCount": 20,
+  "pending": [],
+  "approvedCount": 21,
   "rejectedCount": 3
 }
