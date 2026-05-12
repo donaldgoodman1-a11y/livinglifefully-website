@@ -1,6 +1,13 @@
 {
   "quotes": [
     {
+      "text": "There are moments when tribulations occur in our lives, and we cannot avoid them. But they are there for some reason … Only when we have overcome them do we understand why they were there.",
+      "author": "Paulo Coelho",
+      "date": "2026-05-12",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
       "text": "Although the world is full of suffering, it is full also of the overcoming of it.",
       "author": "Helen Keller",
       "date": "2026-05-12",
@@ -2269,7 +2276,7 @@
     }
   ],
   "lastRotation": "2026-05-12",
-  "totalQuotes": 336,
-  "activeQuotes": 59,
+  "totalQuotes": 337,
+  "activeQuotes": 60,
   "inactiveQuotes": 277
 }
