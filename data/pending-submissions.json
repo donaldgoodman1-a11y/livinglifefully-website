@@ -1,13 +1,6 @@
 {
   "pending": [
     {
-      "id": "1778607595343",
-      "wisdom": "Although the world is full of suffering, it is full also of the overcoming of it.",
-      "author": "Helen Keller",
-      "date": "2026-05-12",
-      "submittedAt": "2026-05-12T17:39:55.346Z"
-    },
-    {
       "id": "1778607663817",
       "wisdom": "There are moments when tribulations occur in our lives, and we cannot avoid them. But they are there for some reason … Only when we have overcome them do we understand why they were there.",
       "author": "Paulo Coelho",
@@ -29,6 +22,6 @@
       "submittedAt": "2026-05-12T17:44:48.834Z"
     }
   ],
-  "approvedCount": 22,
+  "approvedCount": 23,
   "rejectedCount": 3
 }
