@@ -1,6 +1,13 @@
 {
   "quotes": [
     {
+      "text": "There is something you must remember. You are braver than you believe, stronger than you seem, and smarter than you think. But the most important thing is, even if we’re apart, I’ll always be with you.",
+      "author": "Christopher Robin",
+      "date": "2026-05-12",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
       "text": "It always helps to have people we love beside us when we have to do difficult things in life.",
       "author": "Fred Rogers",
       "date": "2026-05-12",
@@ -2283,7 +2290,7 @@
     }
   ],
   "lastRotation": "2026-05-12",
-  "totalQuotes": 338,
-  "activeQuotes": 61,
+  "totalQuotes": 339,
+  "activeQuotes": 62,
   "inactiveQuotes": 277
 }
