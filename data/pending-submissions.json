@@ -1,5 +1,13 @@
 {
-  "pending": [],
+  "pending": [
+    {
+      "id": "1778596259214",
+      "wisdom": "“Loneliness, is not the absence of people around us, but the inability to express what truly matters within us",
+      "author": "Carl Jung",
+      "date": "2026-05-12",
+      "submittedAt": "2026-05-12T14:30:59.217Z"
+    }
+  ],
   "approvedCount": 21,
   "rejectedCount": 3
 }
