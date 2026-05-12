@@ -1,6 +1,13 @@
 {
   "quotes": [
     {
+      "text": "Although the world is full of suffering, it is full also of the overcoming of it.",
+      "author": "Helen Keller",
+      "date": "2026-05-12",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
       "text": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
       "author": "Marcus Aurelius",
       "date": "2026-05-12",
@@ -2262,7 +2269,7 @@
     }
   ],
   "lastRotation": "2026-05-12",
-  "totalQuotes": 335,
-  "activeQuotes": 58,
+  "totalQuotes": 336,
+  "activeQuotes": 59,
   "inactiveQuotes": 277
 }
