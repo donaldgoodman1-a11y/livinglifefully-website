@@ -1,5 +1,13 @@
 {
-  "pending": [],
+  "pending": [
+    {
+      "id": "1778607595343",
+      "wisdom": "Although the world is full of suffering, it is full also of the overcoming of it.",
+      "author": "Helen Keller",
+      "date": "2026-05-12",
+      "submittedAt": "2026-05-12T17:39:55.346Z"
+    }
+  ],
   "approvedCount": 22,
   "rejectedCount": 3
 }
