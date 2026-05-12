@@ -1,6 +1,13 @@
 {
   "quotes": [
     {
+      "text": "“Loneliness, is not the absence of people around us, but the inability to express what truly matters within us",
+      "author": "Carl Jung",
+      "date": "2026-05-12",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
       "text": "Habits are the compound interest of self-improvement.",
       "author": "James Clear",
       "date": "2026-05-11",
@@ -2255,7 +2262,7 @@
     }
   ],
   "lastRotation": "2026-05-11",
-  "totalQuotes": 334,
-  "activeQuotes": 57,
+  "totalQuotes": 335,
+  "activeQuotes": 58,
   "inactiveQuotes": 277
 }
