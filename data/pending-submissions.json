@@ -1,13 +1,6 @@
 {
   "pending": [
     {
-      "id": "1778607663817",
-      "wisdom": "There are moments when tribulations occur in our lives, and we cannot avoid them. But they are there for some reason … Only when we have overcome them do we understand why they were there.",
-      "author": "Paulo Coelho",
-      "date": "2026-05-12",
-      "submittedAt": "2026-05-12T17:41:03.817Z"
-    },
-    {
       "id": "1778607746523",
       "wisdom": "It always helps to have people we love beside us when we have to do difficult things in life.",
       "author": "Fred Rogers",
@@ -22,6 +15,6 @@
       "submittedAt": "2026-05-12T17:44:48.834Z"
     }
   ],
-  "approvedCount": 23,
+  "approvedCount": 24,
   "rejectedCount": 3
 }
