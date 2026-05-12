@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
+      "author": "Marcus Aurelius",
+      "date": "2026-05-12",
+      "inactive": false
+    },
+    {
+      "text": "No man is crushed by misfortune unless he has first been deceived by prosperity.\n-Seneca",
+      "author": "Seneca",
+      "date": "2026-05-12",
+      "inactive": false
+    },
+    {
+      "text": "Never wound a snake; kill it.",
+      "author": "Harriet Tubman",
+      "date": "2026-05-12",
+      "inactive": false
+    },
+    {
+      "text": "The spiritual gift of agency, the freedom to choose, is essential to our growth.",
+      "author": "Dallin H. Oaks",
+      "date": "2026-05-12",
+      "inactive": false
+    },
+    {
+      "text": "The least of things with a meaning is worth more in life than the greatest of things without it.",
+      "author": "Carl Jung",
+      "date": "2026-05-12",
+      "inactive": false
+    },
+    {
       "text": "“Loneliness, is not the absence of people around us, but the inability to express what truly matters within us",
       "author": "Carl Jung",
       "date": "2026-05-12",
@@ -319,36 +349,6 @@
       "text": "The best way to predict your future is to create it.",
       "author": "Abraham Lincoln",
       "date": "2026-05-01",
-      "inactive": false
-    },
-    {
-      "text": "Don’t make a project out of yourself. \nMove outside yourself.",
-      "author": "Dr Goodman",
-      "date": "2026-05-01",
-      "inactive": false
-    },
-    {
-      "text": "The difference between winning and losing is most often not quitting.",
-      "author": "Walt Disney",
-      "date": "2026-05-01",
-      "inactive": false
-    },
-    {
-      "text": "Success is liking yourself, liking what you do, and liking how you do it.",
-      "author": "Maya Angelou",
-      "date": "2026-05-01",
-      "inactive": false
-    },
-    {
-      "text": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.",
-      "author": "J.K. Rowling",
-      "date": "2026-05-01",
-      "inactive": false
-    },
-    {
-      "text": "Luck is what happens when preparation meets opportunity.",
-      "author": "Seneca",
-      "date": "2026-04-30",
       "inactive": false
     },
     {
@@ -814,13 +814,6 @@
       "date": "2026-03-01",
       "inactive": true,
       "deactivatedDate": "2026-03-08"
-    },
-    {
-      "text": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
-      "author": "Marcus Aurelius",
-      "date": "2026-03-03",
-      "inactive": true,
-      "deactivatedDate": "2026-03-10"
     },
     {
       "text": "Wise men speak because they have something to say; fools because they have to say something.",
@@ -1607,13 +1600,6 @@
       "deactivatedDate": "2026-04-20"
     },
     {
-      "text": "The spiritual gift of agency, the freedom to choose, is essential to our growth.",
-      "author": "Dallin H. Oaks",
-      "date": "2026-04-12",
-      "inactive": true,
-      "deactivatedDate": "2026-04-21"
-    },
-    {
       "text": "What would life be if we had no courage to attempt anything?",
       "author": "Vincent Van Gogh",
       "date": "2026-04-12",
@@ -1661,13 +1647,6 @@
       "date": "2026-04-13",
       "inactive": true,
       "deactivatedDate": "2026-04-22"
-    },
-    {
-      "text": "Never wound a snake; kill it.",
-      "author": "Harriet Tubman",
-      "date": "2026-04-14",
-      "inactive": true,
-      "deactivatedDate": "2026-04-23"
     },
     {
       "text": "All we have to decide is what to do with the time that is given us.",
@@ -1939,13 +1918,6 @@
       "deactivatedDate": "2026-05-02"
     },
     {
-      "text": "The least of things with a meaning is worth more in life than the greatest of things without it.",
-      "author": "Carl Jung",
-      "date": "2026-04-21",
-      "inactive": true,
-      "deactivatedDate": "2026-05-02"
-    },
-    {
       "text": "Doubt your doubts before you doubt your faith.",
       "author": "Dieter F. Uchtdorf",
       "date": "2026-04-21",
@@ -2084,13 +2056,6 @@
       "date": "2026-04-24",
       "inactive": true,
       "deactivatedDate": "2026-05-06"
-    },
-    {
-      "text": "No man is crushed by misfortune unless he has first been deceived by prosperity.\n-Seneca",
-      "author": "Seneca",
-      "date": "2026-04-26",
-      "inactive": true,
-      "deactivatedDate": "2026-05-07"
     },
     {
       "text": "Every action you take is a vote for the type of person you wish to become.",
@@ -2259,9 +2224,44 @@
       "date": "2026-04-29",
       "inactive": true,
       "deactivatedDate": "2026-05-11"
+    },
+    {
+      "text": "Don’t make a project out of yourself. \nMove outside yourself.",
+      "author": "Dr Goodman",
+      "date": "2026-05-01",
+      "inactive": true,
+      "deactivatedDate": "2026-05-12"
+    },
+    {
+      "text": "The difference between winning and losing is most often not quitting.",
+      "author": "Walt Disney",
+      "date": "2026-05-01",
+      "inactive": true,
+      "deactivatedDate": "2026-05-12"
+    },
+    {
+      "text": "Success is liking yourself, liking what you do, and liking how you do it.",
+      "author": "Maya Angelou",
+      "date": "2026-05-01",
+      "inactive": true,
+      "deactivatedDate": "2026-05-12"
+    },
+    {
+      "text": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.",
+      "author": "J.K. Rowling",
+      "date": "2026-05-01",
+      "inactive": true,
+      "deactivatedDate": "2026-05-12"
+    },
+    {
+      "text": "Luck is what happens when preparation meets opportunity.",
+      "author": "Seneca",
+      "date": "2026-04-30",
+      "inactive": true,
+      "deactivatedDate": "2026-05-12"
     }
   ],
-  "lastRotation": "2026-05-11",
+  "lastRotation": "2026-05-12",
   "totalQuotes": 335,
   "activeQuotes": 58,
   "inactiveQuotes": 277
