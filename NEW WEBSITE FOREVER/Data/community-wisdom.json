@@ -1,6 +1,37 @@
 {
   "quotes": [
     {
+      "text": "Don’t make a project out of yourself. Get out of yourself and help someone else.",
+      "author": "Anonymous Reader",
+      "date": "2026-05-13",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "Thousands of candles can be lighted from a single candle. Happiness never decreases by being shared.",
+      "author": "Buddha",
+      "date": "2026-05-13",
+      "inactive": false
+    },
+    {
+      "text": "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
+      "author": "Mother Teresa",
+      "date": "2026-05-13",
+      "inactive": false
+    },
+    {
+      "text": "Good inspiration is based on good information.",
+      "author": "Russell M. Nelson",
+      "date": "2026-05-13",
+      "inactive": false
+    },
+    {
+      "text": "Be the change that you wish to see in the world.",
+      "author": "Mahatma Gandhi",
+      "date": "2026-05-13",
+      "inactive": false
+    },
+    {
       "text": "There is something you must remember. You are braver than you believe, stronger than you seem, and smarter than you think. But the most important thing is, even if we’re apart, I’ll always be with you.",
       "author": "Christopher Robin",
       "date": "2026-05-12",
@@ -350,51 +381,9 @@
       "inactive": false
     },
     {
-      "text": "If you have good thoughts they will shine out of your face like sunbeams and you will always look lovely.",
-      "author": "Roald Dahl",
-      "date": "2026-05-02",
-      "inactive": false
-    },
-    {
-      "text": "Whatever you are, be a good one.",
-      "author": "Abraham Lincoln",
-      "date": "2026-05-02",
-      "inactive": false
-    },
-    {
-      "text": "Isn't it funny how day by day nothing changes, but when you look back, everything is different.",
-      "author": "C.S. Lewis",
-      "date": "2026-05-02",
-      "inactive": false
-    },
-    {
-      "text": "I alone cannot change the world, but I can cast a stone across the waters to create many ripples.",
-      "author": "Mother Teresa",
-      "date": "2026-05-02",
-      "inactive": false
-    },
-    {
-      "text": "The best way to predict your future is to create it.",
-      "author": "Abraham Lincoln",
-      "date": "2026-05-01",
-      "inactive": false
-    },
-    {
       "text": "Peace begins with a smile.",
       "author": "Mother Teresa",
       "date": "2026-02-04",
-      "inactive": true
-    },
-    {
-      "text": "Thousands of candles can be lighted from a single candle. Happiness never decreases by being shared.",
-      "author": "Buddha",
-      "date": "2026-01-31",
-      "inactive": true
-    },
-    {
-      "text": "Be the change that you wish to see in the world.",
-      "author": "Mahatma Gandhi",
-      "date": "2026-01-31",
       "inactive": true
     },
     {
@@ -542,12 +531,6 @@
       "inactive": true
     },
     {
-      "text": "Good inspiration is based on good information.",
-      "author": "Russell M. Nelson",
-      "date": "2026-01-02",
-      "inactive": true
-    },
-    {
       "text": "Prayer is not asking. Prayer is putting oneself in the hands of God.",
       "author": "Mother Teresa",
       "date": "2025-12-31",
@@ -623,13 +606,6 @@
       "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
       "author": "Winston Churchill",
       "date": "2026-02-08",
-      "inactive": true,
-      "deactivatedDate": "2026-02-12"
-    },
-    {
-      "text": "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
-      "author": "Mother Teresa",
-      "date": "2026-02-10",
       "inactive": true,
       "deactivatedDate": "2026-02-12"
     },
@@ -1805,14 +1781,6 @@
       "deactivatedDate": "2026-04-28"
     },
     {
-      "text": "Don’t make a project out of yourself. Get out of yourself and help someone else.",
-      "author": "Anonymous Reader",
-      "date": "2026-04-19",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-04-28"
-    },
-    {
       "text": "When we make our fantasies our reality they often become our nightmares.",
       "author": "Dr Goodman",
       "date": "2026-04-18",
@@ -2287,9 +2255,44 @@
       "date": "2026-04-30",
       "inactive": true,
       "deactivatedDate": "2026-05-12"
+    },
+    {
+      "text": "If you have good thoughts they will shine out of your face like sunbeams and you will always look lovely.",
+      "author": "Roald Dahl",
+      "date": "2026-05-02",
+      "inactive": true,
+      "deactivatedDate": "2026-05-13"
+    },
+    {
+      "text": "Whatever you are, be a good one.",
+      "author": "Abraham Lincoln",
+      "date": "2026-05-02",
+      "inactive": true,
+      "deactivatedDate": "2026-05-13"
+    },
+    {
+      "text": "Isn't it funny how day by day nothing changes, but when you look back, everything is different.",
+      "author": "C.S. Lewis",
+      "date": "2026-05-02",
+      "inactive": true,
+      "deactivatedDate": "2026-05-13"
+    },
+    {
+      "text": "I alone cannot change the world, but I can cast a stone across the waters to create many ripples.",
+      "author": "Mother Teresa",
+      "date": "2026-05-02",
+      "inactive": true,
+      "deactivatedDate": "2026-05-13"
+    },
+    {
+      "text": "The best way to predict your future is to create it.",
+      "author": "Abraham Lincoln",
+      "date": "2026-05-01",
+      "inactive": true,
+      "deactivatedDate": "2026-05-13"
     }
   ],
-  "lastRotation": "2026-05-12",
+  "lastRotation": "2026-05-13",
   "totalQuotes": 339,
   "activeQuotes": 62,
   "inactiveQuotes": 277
