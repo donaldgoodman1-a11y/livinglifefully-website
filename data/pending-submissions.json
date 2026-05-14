@@ -1,13 +1,5 @@
 {
-  "pending": [
-    {
-      "id": "1778779908554",
-      "wisdom": "A successful marriage requires falling in love many times, always with the same person.",
-      "author": "Mignon McLaughlin",
-      "date": "2026-05-14",
-      "submittedAt": "2026-05-14T17:31:48.556Z"
-    }
-  ],
-  "approvedCount": 26,
+  "pending": [],
+  "approvedCount": 27,
   "rejectedCount": 3
 }
