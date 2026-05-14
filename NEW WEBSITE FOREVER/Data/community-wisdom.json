@@ -1,6 +1,13 @@
 {
   "quotes": [
     {
+      "text": "A successful marriage requires falling in love many times, always with the same person.",
+      "author": "Mignon McLaughlin",
+      "date": "2026-05-14",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
       "text": "There is no greater agony than bearing an untold story inside you.",
       "author": "Maya Angelou",
       "date": "2026-05-14",
@@ -2296,7 +2303,7 @@
     }
   ],
   "lastRotation": "2026-05-14",
-  "totalQuotes": 339,
-  "activeQuotes": 62,
+  "totalQuotes": 340,
+  "activeQuotes": 63,
   "inactiveQuotes": 277
 }
