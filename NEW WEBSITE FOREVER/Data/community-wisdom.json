@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "There is no greater agony than bearing an untold story inside you.",
+      "author": "Maya Angelou",
+      "date": "2026-05-14",
+      "inactive": false
+    },
+    {
+      "text": "The Lord is my shepherd; I shall not want.",
+      "author": "King David",
+      "date": "2026-05-14",
+      "inactive": false
+    },
+    {
+      "text": "The best preparation for tomorrow is doing your best today.",
+      "author": "H. Jackson Brown Jr.",
+      "date": "2026-05-14",
+      "inactive": false
+    },
+    {
+      "text": "Breathing in, I calm body and mind. Breathing out, I smile.",
+      "author": "Thich Nhat Hanh",
+      "date": "2026-05-14",
+      "inactive": false
+    },
+    {
+      "text": "Faith does not eliminate questions. But faith knows where to take them.",
+      "author": "Elisabeth Elliot",
+      "date": "2026-05-14",
+      "inactive": false
+    },
+    {
       "text": "Don’t make a project out of yourself. Get out of yourself and help someone else.",
       "author": "Anonymous Reader",
       "date": "2026-05-13",
@@ -351,36 +381,6 @@
       "inactive": false
     },
     {
-      "text": "You don't have to be the victim of your environment. You can also be the architect of it.",
-      "author": "James Clear",
-      "date": "2026-05-03",
-      "inactive": false
-    },
-    {
-      "text": "Desire is the father of action.",
-      "author": "Dallin H. Oaks",
-      "date": "2026-05-03",
-      "inactive": false
-    },
-    {
-      "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
-      "author": "Zig Ziglar",
-      "date": "2026-05-03",
-      "inactive": false
-    },
-    {
-      "text": "How many slams in an old screen door? Depends how loud you shut it.",
-      "author": "Shel Silverstein",
-      "date": "2026-05-03",
-      "inactive": false
-    },
-    {
-      "text": "No matter what anyone says or does, my task is to be good.",
-      "author": "Marcus Aurelius",
-      "date": "2026-05-02",
-      "inactive": false
-    },
-    {
       "text": "Peace begins with a smile.",
       "author": "Mother Teresa",
       "date": "2026-02-04",
@@ -435,12 +435,6 @@
       "inactive": true
     },
     {
-      "text": "The best preparation for tomorrow is doing your best today.",
-      "author": "H. Jackson Brown Jr.",
-      "date": "2026-01-19",
-      "inactive": true
-    },
-    {
       "text": "The best way out is always through.",
       "author": "Robert Frost",
       "date": "2026-01-18",
@@ -483,12 +477,6 @@
       "inactive": true
     },
     {
-      "text": "Faith does not eliminate questions. But faith knows where to take them.",
-      "author": "Elisabeth Elliot",
-      "date": "2026-01-10",
-      "inactive": true
-    },
-    {
       "text": "The secret to so many artists living so long is that every painting is a new adventure. So, you see, they're always looking ahead to something new and exciting.",
       "author": "Norman Rockwell",
       "date": "2026-01-10",
@@ -502,12 +490,6 @@
     },
     {
       "text": "The present moment is the only time over which we have dominion.",
-      "author": "Thich Nhat Hanh",
-      "date": "2026-01-06",
-      "inactive": true
-    },
-    {
-      "text": "Breathing in, I calm body and mind. Breathing out, I smile.",
       "author": "Thich Nhat Hanh",
       "date": "2026-01-06",
       "inactive": true
@@ -811,13 +793,6 @@
       "date": "2026-02-27",
       "inactive": true,
       "deactivatedDate": "2026-03-06"
-    },
-    {
-      "text": "The Lord is my shepherd; I shall not want.",
-      "author": "King David",
-      "date": "2026-03-01",
-      "inactive": true,
-      "deactivatedDate": "2026-03-08"
     },
     {
       "text": "Wise men speak because they have something to say; fools because they have to say something.",
@@ -2159,13 +2134,6 @@
       "deactivatedDate": "2026-05-10"
     },
     {
-      "text": "There is no greater agony than bearing an untold story inside you.",
-      "author": "Maya Angelou",
-      "date": "2026-04-29",
-      "inactive": true,
-      "deactivatedDate": "2026-05-10"
-    },
-    {
       "text": "The past is behind, learn from it. The future is ahead, prepare for it. The present is here, live it.",
       "author": "Thomas S. Monson",
       "date": "2026-04-29",
@@ -2290,9 +2258,44 @@
       "date": "2026-05-01",
       "inactive": true,
       "deactivatedDate": "2026-05-13"
+    },
+    {
+      "text": "You don't have to be the victim of your environment. You can also be the architect of it.",
+      "author": "James Clear",
+      "date": "2026-05-03",
+      "inactive": true,
+      "deactivatedDate": "2026-05-14"
+    },
+    {
+      "text": "Desire is the father of action.",
+      "author": "Dallin H. Oaks",
+      "date": "2026-05-03",
+      "inactive": true,
+      "deactivatedDate": "2026-05-14"
+    },
+    {
+      "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+      "author": "Zig Ziglar",
+      "date": "2026-05-03",
+      "inactive": true,
+      "deactivatedDate": "2026-05-14"
+    },
+    {
+      "text": "How many slams in an old screen door? Depends how loud you shut it.",
+      "author": "Shel Silverstein",
+      "date": "2026-05-03",
+      "inactive": true,
+      "deactivatedDate": "2026-05-14"
+    },
+    {
+      "text": "No matter what anyone says or does, my task is to be good.",
+      "author": "Marcus Aurelius",
+      "date": "2026-05-02",
+      "inactive": true,
+      "deactivatedDate": "2026-05-14"
     }
   ],
-  "lastRotation": "2026-05-13",
+  "lastRotation": "2026-05-14",
   "totalQuotes": 339,
   "activeQuotes": 62,
   "inactiveQuotes": 277
