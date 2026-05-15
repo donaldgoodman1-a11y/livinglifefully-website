@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "All we have to decide is what to do with the time that is given us.",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-05-15",
+      "inactive": false
+    },
+    {
+      "text": "The purpose of our lives is to be happy.",
+      "author": "Dalai Lama",
+      "date": "2026-05-15",
+      "inactive": false
+    },
+    {
+      "text": "We can press forward with steadfastness in Christ.",
+      "author": "David A. Bednar",
+      "date": "2026-05-15",
+      "inactive": false
+    },
+    {
+      "text": "A person's a person, no matter how small.",
+      "author": "Dr. Seuss",
+      "date": "2026-05-15",
+      "inactive": false
+    },
+    {
+      "text": "There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living.",
+      "author": "Nelson Mandela",
+      "date": "2026-05-15",
+      "inactive": false
+    },
+    {
       "text": "A successful marriage requires falling in love many times, always with the same person.",
       "author": "Mignon McLaughlin",
       "date": "2026-05-14",
@@ -358,36 +388,6 @@
       "inactive": false
     },
     {
-      "text": "If there is no struggle, there is no progress.",
-      "author": "Frederick Douglass",
-      "date": "2026-05-04",
-      "inactive": false
-    },
-    {
-      "text": "Faith is to believe what you do not see; the reward of this faith is to see what you believe.",
-      "author": "St. Augustine",
-      "date": "2026-05-04",
-      "inactive": false
-    },
-    {
-      "text": "If they merit redemption through Teshuva and Mitzvos, I will hasten the coming of the Moshiach.",
-      "author": "Sanhedrin",
-      "date": "2026-05-04",
-      "inactive": false
-    },
-    {
-      "text": "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.",
-      "author": "Antoine de Saint-Exupéry",
-      "date": "2026-05-04",
-      "inactive": false
-    },
-    {
-      "text": "Don't gobblefunk around with words.",
-      "author": "Roald Dahl",
-      "date": "2026-05-03",
-      "inactive": false
-    },
-    {
       "text": "Peace begins with a smile.",
       "author": "Mother Teresa",
       "date": "2026-02-04",
@@ -568,12 +568,6 @@
       "inactive": true
     },
     {
-      "text": "There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living.",
-      "author": "Nelson Mandela",
-      "date": "2025-12-19",
-      "inactive": true
-    },
-    {
       "text": "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
       "author": "Benjamin Franklin",
       "date": "2025-12-16",
@@ -646,13 +640,6 @@
       "date": "2026-02-12",
       "inactive": true,
       "deactivatedDate": "2026-02-15"
-    },
-    {
-      "text": "The purpose of our lives is to be happy.",
-      "author": "Dalai Lama",
-      "date": "2026-02-12",
-      "inactive": true,
-      "deactivatedDate": "2026-02-17"
     },
     {
       "text": "Wherever you go, go with all your heart.",
@@ -872,13 +859,6 @@
       "deactivatedDate": "2026-03-15"
     },
     {
-      "text": "We can press forward with steadfastness in Christ.",
-      "author": "David A. Bednar",
-      "date": "2026-03-09",
-      "inactive": true,
-      "deactivatedDate": "2026-03-17"
-    },
-    {
       "text": "The gospel is a message of hope and salvation for all.",
       "author": "Henry B. Eyring",
       "date": "2026-03-09",
@@ -1091,13 +1071,6 @@
     {
       "text": "I can do all things through Christ which strengtheneth me.",
       "author": "Paul the Apostle",
-      "date": "2026-03-21",
-      "inactive": true,
-      "deactivatedDate": "2026-03-30"
-    },
-    {
-      "text": "A person's a person, no matter how small.",
-      "author": "Dr. Seuss",
       "date": "2026-03-21",
       "inactive": true,
       "deactivatedDate": "2026-03-30"
@@ -1633,13 +1606,6 @@
       "date": "2026-04-13",
       "inactive": true,
       "deactivatedDate": "2026-04-22"
-    },
-    {
-      "text": "All we have to decide is what to do with the time that is given us.",
-      "author": "J.R.R. Tolkien",
-      "date": "2026-04-14",
-      "inactive": true,
-      "deactivatedDate": "2026-04-23"
     },
     {
       "text": "Someone I loved once gave me a box full of darkness. It took me years to understand that this too, was a gift.",
@@ -2300,9 +2266,44 @@
       "date": "2026-05-02",
       "inactive": true,
       "deactivatedDate": "2026-05-14"
+    },
+    {
+      "text": "If there is no struggle, there is no progress.",
+      "author": "Frederick Douglass",
+      "date": "2026-05-04",
+      "inactive": true,
+      "deactivatedDate": "2026-05-15"
+    },
+    {
+      "text": "Faith is to believe what you do not see; the reward of this faith is to see what you believe.",
+      "author": "St. Augustine",
+      "date": "2026-05-04",
+      "inactive": true,
+      "deactivatedDate": "2026-05-15"
+    },
+    {
+      "text": "If they merit redemption through Teshuva and Mitzvos, I will hasten the coming of the Moshiach.",
+      "author": "Sanhedrin",
+      "date": "2026-05-04",
+      "inactive": true,
+      "deactivatedDate": "2026-05-15"
+    },
+    {
+      "text": "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.",
+      "author": "Antoine de Saint-Exupéry",
+      "date": "2026-05-04",
+      "inactive": true,
+      "deactivatedDate": "2026-05-15"
+    },
+    {
+      "text": "Don't gobblefunk around with words.",
+      "author": "Roald Dahl",
+      "date": "2026-05-03",
+      "inactive": true,
+      "deactivatedDate": "2026-05-15"
     }
   ],
-  "lastRotation": "2026-05-14",
+  "lastRotation": "2026-05-15",
   "totalQuotes": 340,
   "activeQuotes": 63,
   "inactiveQuotes": 277
