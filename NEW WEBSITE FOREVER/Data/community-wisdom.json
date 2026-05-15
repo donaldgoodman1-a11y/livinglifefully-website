@@ -1,6 +1,13 @@
 {
   "quotes": [
     {
+      "text": "Patience is the companion of wisdom.",
+      "author": "St. Augustine of Hippo",
+      "date": "2026-05-15",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
       "text": "All we have to decide is what to do with the time that is given us.",
       "author": "J.R.R. Tolkien",
       "date": "2026-05-15",
@@ -2304,7 +2311,7 @@
     }
   ],
   "lastRotation": "2026-05-15",
-  "totalQuotes": 340,
-  "activeQuotes": 63,
+  "totalQuotes": 341,
+  "activeQuotes": 64,
   "inactiveQuotes": 277
 }
