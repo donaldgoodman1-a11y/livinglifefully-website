@@ -1,13 +1,5 @@
 {
-  "pending": [
-    {
-      "id": "1778882715082",
-      "wisdom": "Patience is the companion of wisdom.",
-      "author": "St. Augustine of Hippo",
-      "date": "2026-05-15",
-      "submittedAt": "2026-05-15T22:05:15.085Z"
-    }
-  ],
-  "approvedCount": 27,
+  "pending": [],
+  "approvedCount": 28,
   "rejectedCount": 3
 }
