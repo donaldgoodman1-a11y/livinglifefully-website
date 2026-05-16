@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "It does not matter how slowly you go as long as you do not stop.",
+      "author": "Confucius",
+      "date": "2026-05-16",
+      "inactive": false
+    },
+    {
+      "text": "Fear thou not; for I am with thee: be not dismayed; for I am thy God.",
+      "author": "Isaiah",
+      "date": "2026-05-16",
+      "inactive": false
+    },
+    {
+      "text": "Life is to be enjoyed, not endured.",
+      "author": "Gordon B. Hinckley",
+      "date": "2026-05-16",
+      "inactive": false
+    },
+    {
+      "text": "They that wait upon the Lord shall renew their strength; they shall mount up with wings as eagles.",
+      "author": "Isaiah",
+      "date": "2026-05-16",
+      "inactive": false
+    },
+    {
+      "text": "The past is behind, learn from it. The future is ahead, prepare for it. The present is here, live it.",
+      "author": "Thomas S. Monson",
+      "date": "2026-05-16",
+      "inactive": false
+    },
+    {
       "text": "Patience is the companion of wisdom.",
       "author": "St. Augustine of Hippo",
       "date": "2026-05-15",
@@ -362,36 +392,6 @@
       "text": "What you see and what you hear depends a great deal on where you are standing. It also depends on what sort of person you are.",
       "author": "C.S. Lewis",
       "date": "2026-05-05",
-      "inactive": false
-    },
-    {
-      "text": "Tell me to what you pay attention and I will tell you who you are.",
-      "author": "José Ortega y Gasset",
-      "date": "2026-05-05",
-      "inactive": false
-    },
-    {
-      "text": "Do what you can, with what you have, where you are.",
-      "author": "Theodore Roosevelt",
-      "date": "2026-05-05",
-      "inactive": false
-    },
-    {
-      "text": "Rock bottom became the solid foundation on which I rebuilt my life.",
-      "author": "J.K. Rowling",
-      "date": "2026-05-05",
-      "inactive": false
-    },
-    {
-      "text": "Follow your bliss and the universe will open doors where there were only walls.",
-      "author": "Joseph Campbell",
-      "date": "2026-05-05",
-      "inactive": false
-    },
-    {
-      "text": "Courage doesn't always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.'",
-      "author": "Mary Anne Radmacher",
-      "date": "2026-05-04",
       "inactive": false
     },
     {
@@ -1904,13 +1904,6 @@
       "deactivatedDate": "2026-05-03"
     },
     {
-      "text": "They that wait upon the Lord shall renew their strength; they shall mount up with wings as eagles.",
-      "author": "Isaiah",
-      "date": "2026-04-22",
-      "inactive": true,
-      "deactivatedDate": "2026-05-03"
-    },
-    {
       "text": "We are to become even as He is.",
       "author": "David A. Bednar",
       "date": "2026-04-21",
@@ -1927,13 +1920,6 @@
     {
       "text": "Better to get on the bike and fall then never to get on the back at all.",
       "author": "Dr Goodman",
-      "date": "2026-04-23",
-      "inactive": true,
-      "deactivatedDate": "2026-05-04"
-    },
-    {
-      "text": "Life is to be enjoyed, not endured.",
-      "author": "Gordon B. Hinckley",
       "date": "2026-04-23",
       "inactive": true,
       "deactivatedDate": "2026-05-04"
@@ -1972,13 +1958,6 @@
       "date": "2026-04-23",
       "inactive": true,
       "deactivatedDate": "2026-05-05"
-    },
-    {
-      "text": "It does not matter how slowly you go as long as you do not stop.",
-      "author": "Confucius",
-      "date": "2026-04-25",
-      "inactive": true,
-      "deactivatedDate": "2026-05-06"
     },
     {
       "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
@@ -2114,13 +2093,6 @@
       "deactivatedDate": "2026-05-10"
     },
     {
-      "text": "The past is behind, learn from it. The future is ahead, prepare for it. The present is here, live it.",
-      "author": "Thomas S. Monson",
-      "date": "2026-04-29",
-      "inactive": true,
-      "deactivatedDate": "2026-05-10"
-    },
-    {
       "text": "Never let a problem to be solved become more important than a person to be loved.",
       "author": "Thomas S. Monson",
       "date": "2026-04-29",
@@ -2144,13 +2116,6 @@
     {
       "text": "You either walk inside your story and own it or you stand outside your story and hustle for your worthiness.",
       "author": "Brené Brown",
-      "date": "2026-04-30",
-      "inactive": true,
-      "deactivatedDate": "2026-05-11"
-    },
-    {
-      "text": "Fear thou not; for I am with thee: be not dismayed; for I am thy God.",
-      "author": "Isaiah",
       "date": "2026-04-30",
       "inactive": true,
       "deactivatedDate": "2026-05-11"
@@ -2308,9 +2273,44 @@
       "date": "2026-05-03",
       "inactive": true,
       "deactivatedDate": "2026-05-15"
+    },
+    {
+      "text": "Tell me to what you pay attention and I will tell you who you are.",
+      "author": "José Ortega y Gasset",
+      "date": "2026-05-05",
+      "inactive": true,
+      "deactivatedDate": "2026-05-16"
+    },
+    {
+      "text": "Do what you can, with what you have, where you are.",
+      "author": "Theodore Roosevelt",
+      "date": "2026-05-05",
+      "inactive": true,
+      "deactivatedDate": "2026-05-16"
+    },
+    {
+      "text": "Rock bottom became the solid foundation on which I rebuilt my life.",
+      "author": "J.K. Rowling",
+      "date": "2026-05-05",
+      "inactive": true,
+      "deactivatedDate": "2026-05-16"
+    },
+    {
+      "text": "Follow your bliss and the universe will open doors where there were only walls.",
+      "author": "Joseph Campbell",
+      "date": "2026-05-05",
+      "inactive": true,
+      "deactivatedDate": "2026-05-16"
+    },
+    {
+      "text": "Courage doesn't always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.'",
+      "author": "Mary Anne Radmacher",
+      "date": "2026-05-04",
+      "inactive": true,
+      "deactivatedDate": "2026-05-16"
     }
   ],
-  "lastRotation": "2026-05-15",
+  "lastRotation": "2026-05-16",
   "totalQuotes": 341,
   "activeQuotes": 64,
   "inactiveQuotes": 277
