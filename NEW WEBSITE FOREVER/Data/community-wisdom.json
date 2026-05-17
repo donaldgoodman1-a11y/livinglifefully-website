@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Write it on your heart that every day is the best day in the year.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-05-17",
+      "inactive": false
+    },
+    {
+      "text": "People often say that motivation doesn't last. Well, neither does bathing—that's why we recommend it daily.",
+      "author": "Zig Ziglar",
+      "date": "2026-05-17",
+      "inactive": false
+    },
+    {
+      "text": "No matter what anyone says or does, my task is to be good.",
+      "author": "Marcus Aurelius",
+      "date": "2026-05-17",
+      "inactive": false
+    },
+    {
+      "text": "First say to yourself what you would be; and then do what you have to do.",
+      "author": "Epictetus",
+      "date": "2026-05-17",
+      "inactive": false
+    },
+    {
+      "text": "What we think, we become.",
+      "author": "Dalai Lama",
+      "date": "2026-05-17",
+      "inactive": false
+    },
+    {
       "text": "It does not matter how slowly you go as long as you do not stop.",
       "author": "Confucius",
       "date": "2026-05-16",
@@ -365,36 +395,6 @@
       "inactive": false
     },
     {
-      "text": "I am seeking, I am striving, I am in it with all my heart.",
-      "author": "Vincent Van Gogh",
-      "date": "2026-05-06",
-      "inactive": false
-    },
-    {
-      "text": "Every great dream begins with a dreamer.",
-      "author": "Harriet Tubman",
-      "date": "2026-05-06",
-      "inactive": false
-    },
-    {
-      "text": "Don't you quit. You keep walking. You keep trying. There is help and happiness ahead.",
-      "author": "Jeffrey R. Holland",
-      "date": "2026-05-06",
-      "inactive": false
-    },
-    {
-      "text": "Nearly all men can stand adversity, but if you want to test a man's character, give him power.",
-      "author": "Abraham Lincoln",
-      "date": "2026-05-06",
-      "inactive": false
-    },
-    {
-      "text": "What you see and what you hear depends a great deal on where you are standing. It also depends on what sort of person you are.",
-      "author": "C.S. Lewis",
-      "date": "2026-05-05",
-      "inactive": false
-    },
-    {
       "text": "Peace begins with a smile.",
       "author": "Mother Teresa",
       "date": "2026-02-04",
@@ -464,12 +464,6 @@
       "text": "It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.",
       "author": "Seneca",
       "date": "2026-01-16",
-      "inactive": true
-    },
-    {
-      "text": "First say to yourself what you would be; and then do what you have to do.",
-      "author": "Epictetus",
-      "date": "2026-01-15",
       "inactive": true
     },
     {
@@ -1174,13 +1168,6 @@
       "deactivatedDate": "2026-04-03"
     },
     {
-      "text": "Write it on your heart that every day is the best day in the year.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-03-25",
-      "inactive": true,
-      "deactivatedDate": "2026-04-03"
-    },
-    {
       "text": "Kind words can be short and easy to speak, but their echoes are truly endless.",
       "author": "Mother Teresa",
       "date": "2026-03-27",
@@ -1517,13 +1504,6 @@
       "deactivatedDate": "2026-04-17"
     },
     {
-      "text": "People often say that motivation doesn't last. Well, neither does bathing—that's why we recommend it daily.",
-      "author": "Zig Ziglar",
-      "date": "2026-04-09",
-      "inactive": true,
-      "deactivatedDate": "2026-04-18"
-    },
-    {
       "text": "A soft answer turneth away wrath.",
       "author": "King Solomon",
       "date": "2026-04-09",
@@ -1697,13 +1677,6 @@
       "date": "2026-04-17",
       "inactive": true,
       "deactivatedDate": "2026-04-26"
-    },
-    {
-      "text": "What we think, we become.",
-      "author": "Dalai Lama",
-      "date": "2026-04-18",
-      "inactive": true,
-      "deactivatedDate": "2026-04-27"
     },
     {
       "text": "What we insistently desire, over time, is what we will eventually become.",
@@ -2233,13 +2206,6 @@
       "deactivatedDate": "2026-05-14"
     },
     {
-      "text": "No matter what anyone says or does, my task is to be good.",
-      "author": "Marcus Aurelius",
-      "date": "2026-05-02",
-      "inactive": true,
-      "deactivatedDate": "2026-05-14"
-    },
-    {
       "text": "If there is no struggle, there is no progress.",
       "author": "Frederick Douglass",
       "date": "2026-05-04",
@@ -2308,9 +2274,44 @@
       "date": "2026-05-04",
       "inactive": true,
       "deactivatedDate": "2026-05-16"
+    },
+    {
+      "text": "I am seeking, I am striving, I am in it with all my heart.",
+      "author": "Vincent Van Gogh",
+      "date": "2026-05-06",
+      "inactive": true,
+      "deactivatedDate": "2026-05-17"
+    },
+    {
+      "text": "Every great dream begins with a dreamer.",
+      "author": "Harriet Tubman",
+      "date": "2026-05-06",
+      "inactive": true,
+      "deactivatedDate": "2026-05-17"
+    },
+    {
+      "text": "Don't you quit. You keep walking. You keep trying. There is help and happiness ahead.",
+      "author": "Jeffrey R. Holland",
+      "date": "2026-05-06",
+      "inactive": true,
+      "deactivatedDate": "2026-05-17"
+    },
+    {
+      "text": "Nearly all men can stand adversity, but if you want to test a man's character, give him power.",
+      "author": "Abraham Lincoln",
+      "date": "2026-05-06",
+      "inactive": true,
+      "deactivatedDate": "2026-05-17"
+    },
+    {
+      "text": "What you see and what you hear depends a great deal on where you are standing. It also depends on what sort of person you are.",
+      "author": "C.S. Lewis",
+      "date": "2026-05-05",
+      "inactive": true,
+      "deactivatedDate": "2026-05-17"
     }
   ],
-  "lastRotation": "2026-05-16",
+  "lastRotation": "2026-05-17",
   "totalQuotes": 341,
   "activeQuotes": 64,
   "inactiveQuotes": 277
