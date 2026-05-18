@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Go confidently in the direction of your dreams. Live the life you have imagined.",
+      "author": "Henry David Thoreau",
+      "date": "2026-05-18",
+      "inactive": false
+    },
+    {
+      "text": "Doubt your doubts before you doubt your faith.",
+      "author": "Dieter F. Uchtdorf",
+      "date": "2026-05-18",
+      "inactive": false
+    },
+    {
+      "text": "Hold on. Hope on.",
+      "author": "Jeffrey R. Holland",
+      "date": "2026-05-18",
+      "inactive": false
+    },
+    {
+      "text": "The joy we feel has little to do with the circumstances of our lives and everything to do with the focus of our lives.",
+      "author": "Russell M. Nelson",
+      "date": "2026-05-18",
+      "inactive": false
+    },
+    {
+      "text": "Listen to the mustn'ts, child. Listen to the don'ts. Listen to the shouldn'ts, the impossibles, the won'ts. Then listen close to me... Anything can happen, child. Anything can be.",
+      "author": "Shel Silverstein",
+      "date": "2026-05-18",
+      "inactive": false
+    },
+    {
       "text": "Write it on your heart that every day is the best day in the year.",
       "author": "Ralph Waldo Emerson",
       "date": "2026-05-17",
@@ -365,45 +395,9 @@
       "inactive": false
     },
     {
-      "text": "The most effective way to change your behavior is to focus not on what you want to achieve, but on who you wish to become.",
-      "author": "James Clear",
-      "date": "2026-05-07",
-      "inactive": false
-    },
-    {
-      "text": "We cannot do great things on this earth, only small things with great love.",
-      "author": "Mother Teresa",
-      "date": "2026-05-07",
-      "inactive": false
-    },
-    {
-      "text": "Focus on the moment, not the monsters that may or may not be up ahead.",
-      "author": "Ryan Holiday",
-      "date": "2026-05-07",
-      "inactive": false
-    },
-    {
-      "text": "The meeting of two personalities is like the contact of two chemical substances: if there is any reaction, both are transformed.",
-      "author": "Carl Jung",
-      "date": "2026-05-07",
-      "inactive": false
-    },
-    {
-      "text": "The wound is the place where the Light enters you.",
-      "author": "Rumi",
-      "date": "2026-05-06",
-      "inactive": false
-    },
-    {
       "text": "Peace begins with a smile.",
       "author": "Mother Teresa",
       "date": "2026-02-04",
-      "inactive": true
-    },
-    {
-      "text": "The joy we feel has little to do with the circumstances of our lives and everything to do with the focus of our lives.",
-      "author": "Russell M. Nelson",
-      "date": "2026-01-31",
       "inactive": true
     },
     {
@@ -545,12 +539,6 @@
       "inactive": true
     },
     {
-      "text": "Listen to the mustn'ts, child. Listen to the don'ts. Listen to the shouldn'ts, the impossibles, the won'ts. Then listen close to me... Anything can happen, child. Anything can be.",
-      "author": "Shel Silverstein",
-      "date": "2025-12-22",
-      "inactive": true
-    },
-    {
       "text": "Draw a crazy picture, Write a nutty poem, Sing a mumble-gumble song, Whistle through your comb.",
       "author": "Shel Silverstein",
       "date": "2025-12-22",
@@ -673,13 +661,6 @@
     {
       "text": "We cannot change the cards we are dealt, just how we play the hand.",
       "author": "Randy Pausch",
-      "date": "2026-02-16",
-      "inactive": true,
-      "deactivatedDate": "2026-02-23"
-    },
-    {
-      "text": "Hold on. Hope on.",
-      "author": "Jeffrey R. Holland",
       "date": "2026-02-16",
       "inactive": true,
       "deactivatedDate": "2026-02-23"
@@ -921,13 +902,6 @@
       "date": "2026-03-13",
       "inactive": true,
       "deactivatedDate": "2026-03-21"
-    },
-    {
-      "text": "Go confidently in the direction of your dreams. Live the life you have imagined.",
-      "author": "Henry David Thoreau",
-      "date": "2026-03-14",
-      "inactive": true,
-      "deactivatedDate": "2026-03-22"
     },
     {
       "text": "Even miracles take a little time.",
@@ -1842,13 +1816,6 @@
       "deactivatedDate": "2026-05-02"
     },
     {
-      "text": "Doubt your doubts before you doubt your faith.",
-      "author": "Dieter F. Uchtdorf",
-      "date": "2026-04-21",
-      "inactive": true,
-      "deactivatedDate": "2026-05-02"
-    },
-    {
       "text": "With the new day comes new strength and new thoughts.",
       "author": "Eleanor Roosevelt",
       "date": "2026-04-20",
@@ -2309,9 +2276,44 @@
       "date": "2026-05-05",
       "inactive": true,
       "deactivatedDate": "2026-05-17"
+    },
+    {
+      "text": "The most effective way to change your behavior is to focus not on what you want to achieve, but on who you wish to become.",
+      "author": "James Clear",
+      "date": "2026-05-07",
+      "inactive": true,
+      "deactivatedDate": "2026-05-18"
+    },
+    {
+      "text": "We cannot do great things on this earth, only small things with great love.",
+      "author": "Mother Teresa",
+      "date": "2026-05-07",
+      "inactive": true,
+      "deactivatedDate": "2026-05-18"
+    },
+    {
+      "text": "Focus on the moment, not the monsters that may or may not be up ahead.",
+      "author": "Ryan Holiday",
+      "date": "2026-05-07",
+      "inactive": true,
+      "deactivatedDate": "2026-05-18"
+    },
+    {
+      "text": "The meeting of two personalities is like the contact of two chemical substances: if there is any reaction, both are transformed.",
+      "author": "Carl Jung",
+      "date": "2026-05-07",
+      "inactive": true,
+      "deactivatedDate": "2026-05-18"
+    },
+    {
+      "text": "The wound is the place where the Light enters you.",
+      "author": "Rumi",
+      "date": "2026-05-06",
+      "inactive": true,
+      "deactivatedDate": "2026-05-18"
     }
   ],
-  "lastRotation": "2026-05-17",
+  "lastRotation": "2026-05-18",
   "totalQuotes": 341,
   "activeQuotes": 64,
   "inactiveQuotes": 277
