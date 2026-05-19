@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live by the light that I have.",
+      "author": "Abraham Lincoln",
+      "date": "2026-05-19",
+      "inactive": false
+    },
+    {
+      "text": "I wish it need not have happened in my time, said Frodo. So do I, said Gandalf, and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-05-19",
+      "inactive": false
+    },
+    {
+      "text": "The issue for us is trusting God enough to trust also His timing.",
+      "author": "Neal A. Maxwell",
+      "date": "2026-05-19",
+      "inactive": false
+    },
+    {
+      "text": "“If I die before my dog, please show him my dead body. dogs can process death, but I would hate for him to think I abandoned him”.",
+      "author": "Unknown",
+      "date": "2026-05-19",
+      "inactive": false
+    },
+    {
+      "text": "However late you think you are, however many chances you think you have missed, you have not traveled beyond the reach of divine love.",
+      "author": "Jeffrey R. Holland",
+      "date": "2026-05-19",
+      "inactive": false
+    },
+    {
       "text": "Go confidently in the direction of your dreams. Live the life you have imagined.",
       "author": "Henry David Thoreau",
       "date": "2026-05-18",
@@ -362,36 +392,6 @@
       "text": "It is your reaction to adversity, not the adversity itself, that determines how your life's story will develop.",
       "author": "Dieter F. Uchtdorf",
       "date": "2026-05-08",
-      "inactive": false
-    },
-    {
-      "text": "I feel that there is nothing more truly artistic than to love people.",
-      "author": "Vincent Van Gogh",
-      "date": "2026-05-08",
-      "inactive": false
-    },
-    {
-      "text": "You don't have to be perfect to be loved.",
-      "author": "Russell M. Nelson",
-      "date": "2026-05-08",
-      "inactive": false
-    },
-    {
-      "text": "Intelligence plus character—that is the goal of true education.",
-      "author": "Martin Luther King Jr.",
-      "date": "2026-05-08",
-      "inactive": false
-    },
-    {
-      "text": "There is some good in this world, and it's worth fighting for.",
-      "author": "J.R.R. Tolkien",
-      "date": "2026-05-08",
-      "inactive": false
-    },
-    {
-      "text": "Tell me, what is it you plan to do with your one wild and precious life?",
-      "author": "Mary Oliver",
-      "date": "2026-05-07",
       "inactive": false
     },
     {
@@ -1324,13 +1324,6 @@
       "deactivatedDate": "2026-04-12"
     },
     {
-      "text": "However late you think you are, however many chances you think you have missed, you have not traveled beyond the reach of divine love.",
-      "author": "Jeffrey R. Holland",
-      "date": "2026-04-04",
-      "inactive": true,
-      "deactivatedDate": "2026-04-12"
-    },
-    {
       "text": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
       "author": "Ralph Waldo Emerson",
       "date": "2026-04-04",
@@ -1390,13 +1383,6 @@
       "text": "The more that you read, the more things you will know. The more that you learn, the more places you'll go.",
       "author": "Dr. Seuss",
       "date": "2026-04-06",
-      "inactive": true,
-      "deactivatedDate": "2026-04-14"
-    },
-    {
-      "text": "I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live by the light that I have.",
-      "author": "Abraham Lincoln",
-      "date": "2026-04-05",
       "inactive": true,
       "deactivatedDate": "2026-04-14"
     },
@@ -1480,13 +1466,6 @@
     {
       "text": "A soft answer turneth away wrath.",
       "author": "King Solomon",
-      "date": "2026-04-09",
-      "inactive": true,
-      "deactivatedDate": "2026-04-18"
-    },
-    {
-      "text": "I wish it need not have happened in my time, said Frodo. So do I, said Gandalf, and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.",
-      "author": "J.R.R. Tolkien",
       "date": "2026-04-09",
       "inactive": true,
       "deactivatedDate": "2026-04-18"
@@ -1886,13 +1865,6 @@
       "deactivatedDate": "2026-05-05"
     },
     {
-      "text": "The issue for us is trusting God enough to trust also His timing.",
-      "author": "Neal A. Maxwell",
-      "date": "2026-04-24",
-      "inactive": true,
-      "deactivatedDate": "2026-05-05"
-    },
-    {
       "text": "Let us always meet each other with smile, for the smile is the beginning of love.",
       "author": "Mother Teresa",
       "date": "2026-04-23",
@@ -2007,13 +1979,6 @@
     {
       "text": "If you are a dreamer, come in.",
       "author": "Shel Silverstein",
-      "date": "2026-04-28",
-      "inactive": true,
-      "deactivatedDate": "2026-05-09"
-    },
-    {
-      "text": "“If I die before my dog, please show him my dead body. dogs can process death, but I would hate for him to think I abandoned him”.",
-      "author": "Unknown",
       "date": "2026-04-28",
       "inactive": true,
       "deactivatedDate": "2026-05-09"
@@ -2311,9 +2276,44 @@
       "date": "2026-05-06",
       "inactive": true,
       "deactivatedDate": "2026-05-18"
+    },
+    {
+      "text": "I feel that there is nothing more truly artistic than to love people.",
+      "author": "Vincent Van Gogh",
+      "date": "2026-05-08",
+      "inactive": true,
+      "deactivatedDate": "2026-05-19"
+    },
+    {
+      "text": "You don't have to be perfect to be loved.",
+      "author": "Russell M. Nelson",
+      "date": "2026-05-08",
+      "inactive": true,
+      "deactivatedDate": "2026-05-19"
+    },
+    {
+      "text": "Intelligence plus character—that is the goal of true education.",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-05-08",
+      "inactive": true,
+      "deactivatedDate": "2026-05-19"
+    },
+    {
+      "text": "There is some good in this world, and it's worth fighting for.",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-05-08",
+      "inactive": true,
+      "deactivatedDate": "2026-05-19"
+    },
+    {
+      "text": "Tell me, what is it you plan to do with your one wild and precious life?",
+      "author": "Mary Oliver",
+      "date": "2026-05-07",
+      "inactive": true,
+      "deactivatedDate": "2026-05-19"
     }
   ],
-  "lastRotation": "2026-05-18",
+  "lastRotation": "2026-05-19",
   "totalQuotes": 341,
   "activeQuotes": 64,
   "inactiveQuotes": 277
