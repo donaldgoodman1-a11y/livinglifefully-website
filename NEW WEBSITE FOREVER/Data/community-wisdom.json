@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Isn't it funny how day by day nothing changes, but when you look back, everything is different.",
+      "author": "C.S. Lewis",
+      "date": "2026-05-20",
+      "inactive": false
+    },
+    {
+      "text": "Happiness can be found even in the darkest of times, if one only remembers to turn on the light.",
+      "author": "J.K. Rowling",
+      "date": "2026-05-20",
+      "inactive": false
+    },
+    {
+      "text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
+      "author": "Helen Keller",
+      "date": "2026-05-20",
+      "inactive": false
+    },
+    {
+      "text": "In three words I can sum up everything I've learned about life: it goes on.",
+      "author": "Robert Frost",
+      "date": "2026-05-20",
+      "inactive": false
+    },
+    {
+      "text": "Peace comes from within. Do not seek it without.",
+      "author": "Thich Nhat Hanh",
+      "date": "2026-05-20",
+      "inactive": false
+    },
+    {
       "text": "I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live by the light that I have.",
       "author": "Abraham Lincoln",
       "date": "2026-05-19",
@@ -362,36 +392,6 @@
       "text": "Let your light so shine before men.",
       "author": "Jesus Christ",
       "date": "2026-05-09",
-      "inactive": false
-    },
-    {
-      "text": "I am not what happened to me, I am what I choose to become.",
-      "author": "Carl Jung",
-      "date": "2026-05-09",
-      "inactive": false
-    },
-    {
-      "text": "Be who God meant you to be and you will set the world on fire.",
-      "author": "St. Catherine of Siena",
-      "date": "2026-05-09",
-      "inactive": false
-    },
-    {
-      "text": "It does not do to dwell on dreams and forget to live.",
-      "author": "J.K. Rowling",
-      "date": "2026-05-09",
-      "inactive": false
-    },
-    {
-      "text": "Raise your words, not voice. It is rain that grows flowers, not thunder.",
-      "author": "Rumi",
-      "date": "2026-05-09",
-      "inactive": false
-    },
-    {
-      "text": "It is your reaction to adversity, not the adversity itself, that determines how your life's story will develop.",
-      "author": "Dieter F. Uchtdorf",
-      "date": "2026-05-08",
       "inactive": false
     },
     {
@@ -911,13 +911,6 @@
       "deactivatedDate": "2026-03-23"
     },
     {
-      "text": "Peace comes from within. Do not seek it without.",
-      "author": "Thich Nhat Hanh",
-      "date": "2026-03-15",
-      "inactive": true,
-      "deactivatedDate": "2026-03-23"
-    },
-    {
       "text": "Faith in Jesus Christ is the first principle of the gospel for a reason.",
       "author": "Henry B. Eyring",
       "date": "2026-03-15",
@@ -1058,13 +1051,6 @@
       "deactivatedDate": "2026-03-31"
     },
     {
-      "text": "In three words I can sum up everything I've learned about life: it goes on.",
-      "author": "Robert Frost",
-      "date": "2026-03-23",
-      "inactive": true,
-      "deactivatedDate": "2026-03-31"
-    },
-    {
       "text": "Live in the sunshine, swim the sea, drink the wild air.",
       "author": "Ralph Waldo Emerson",
       "date": "2026-03-22",
@@ -1144,13 +1130,6 @@
     {
       "text": "Kind words can be short and easy to speak, but their echoes are truly endless.",
       "author": "Mother Teresa",
-      "date": "2026-03-27",
-      "inactive": true,
-      "deactivatedDate": "2026-04-04"
-    },
-    {
-      "text": "Happiness can be found even in the darkest of times, if one only remembers to turn on the light.",
-      "author": "J.K. Rowling",
       "date": "2026-03-27",
       "inactive": true,
       "deactivatedDate": "2026-04-04"
@@ -1242,13 +1221,6 @@
     {
       "text": "Quick to observe means quick to act.",
       "author": "David A. Bednar",
-      "date": "2026-03-31",
-      "inactive": true,
-      "deactivatedDate": "2026-04-08"
-    },
-    {
-      "text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
-      "author": "Helen Keller",
       "date": "2026-03-31",
       "inactive": true,
       "deactivatedDate": "2026-04-08"
@@ -2089,13 +2061,6 @@
       "deactivatedDate": "2026-05-13"
     },
     {
-      "text": "Isn't it funny how day by day nothing changes, but when you look back, everything is different.",
-      "author": "C.S. Lewis",
-      "date": "2026-05-02",
-      "inactive": true,
-      "deactivatedDate": "2026-05-13"
-    },
-    {
       "text": "I alone cannot change the world, but I can cast a stone across the waters to create many ripples.",
       "author": "Mother Teresa",
       "date": "2026-05-02",
@@ -2311,9 +2276,44 @@
       "date": "2026-05-07",
       "inactive": true,
       "deactivatedDate": "2026-05-19"
+    },
+    {
+      "text": "I am not what happened to me, I am what I choose to become.",
+      "author": "Carl Jung",
+      "date": "2026-05-09",
+      "inactive": true,
+      "deactivatedDate": "2026-05-20"
+    },
+    {
+      "text": "Be who God meant you to be and you will set the world on fire.",
+      "author": "St. Catherine of Siena",
+      "date": "2026-05-09",
+      "inactive": true,
+      "deactivatedDate": "2026-05-20"
+    },
+    {
+      "text": "It does not do to dwell on dreams and forget to live.",
+      "author": "J.K. Rowling",
+      "date": "2026-05-09",
+      "inactive": true,
+      "deactivatedDate": "2026-05-20"
+    },
+    {
+      "text": "Raise your words, not voice. It is rain that grows flowers, not thunder.",
+      "author": "Rumi",
+      "date": "2026-05-09",
+      "inactive": true,
+      "deactivatedDate": "2026-05-20"
+    },
+    {
+      "text": "It is your reaction to adversity, not the adversity itself, that determines how your life's story will develop.",
+      "author": "Dieter F. Uchtdorf",
+      "date": "2026-05-08",
+      "inactive": true,
+      "deactivatedDate": "2026-05-20"
     }
   ],
-  "lastRotation": "2026-05-19",
+  "lastRotation": "2026-05-20",
   "totalQuotes": 341,
   "activeQuotes": 64,
   "inactiveQuotes": 277
