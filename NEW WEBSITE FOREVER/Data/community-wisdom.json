@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "You are never too old to set another goal or to dream a new dream.",
+      "author": "C.S. Lewis",
+      "date": "2026-05-21",
+      "inactive": false
+    },
+    {
+      "text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest.",
+      "author": "Jesus Christ",
+      "date": "2026-05-21",
+      "inactive": false
+    },
+    {
+      "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+      "author": "Zig Ziglar",
+      "date": "2026-05-21",
+      "inactive": false
+    },
+    {
+      "text": "There is no innovation and creativity without failure. Period.",
+      "author": "Brené Brown",
+      "date": "2026-05-21",
+      "inactive": false
+    },
+    {
+      "text": "You don't have to be perfect to be loved.",
+      "author": "Russell M. Nelson",
+      "date": "2026-05-21",
+      "inactive": false
+    },
+    {
       "text": "Isn't it funny how day by day nothing changes, but when you look back, everything is different.",
       "author": "C.S. Lewis",
       "date": "2026-05-20",
@@ -362,36 +392,6 @@
       "text": "Let yourself be silently drawn by the strange pull of what you really love. It will not lead you astray.",
       "author": "Rumi",
       "date": "2026-05-10",
-      "inactive": false
-    },
-    {
-      "text": "All our dreams can come true, if we have the courage to pursue them.",
-      "author": "Walt Disney",
-      "date": "2026-05-10",
-      "inactive": false
-    },
-    {
-      "text": "Sometimes we're tested not to show our weaknesses, but to discover our strengths.",
-      "author": "Rafiki, The Lion King",
-      "date": "2026-05-10",
-      "inactive": false
-    },
-    {
-      "text": "There is no innovation and creativity without failure. Period.",
-      "author": "Brené Brown",
-      "date": "2026-05-10",
-      "inactive": false
-    },
-    {
-      "text": "People do not decide their futures, they decide their habits and their habits decide their futures.",
-      "author": "F.M. Alexander",
-      "date": "2026-05-10",
-      "inactive": false
-    },
-    {
-      "text": "Let your light so shine before men.",
-      "author": "Jesus Christ",
-      "date": "2026-05-09",
       "inactive": false
     },
     {
@@ -1429,13 +1429,6 @@
       "deactivatedDate": "2026-04-17"
     },
     {
-      "text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest.",
-      "author": "Jesus Christ",
-      "date": "2026-04-08",
-      "inactive": true,
-      "deactivatedDate": "2026-04-17"
-    },
-    {
       "text": "A soft answer turneth away wrath.",
       "author": "King Solomon",
       "date": "2026-04-09",
@@ -1740,13 +1733,6 @@
     {
       "text": "Be still, and know that I am God.",
       "author": "King David",
-      "date": "2026-04-20",
-      "inactive": true,
-      "deactivatedDate": "2026-05-01"
-    },
-    {
-      "text": "You are never too old to set another goal or to dream a new dream.",
-      "author": "C.S. Lewis",
       "date": "2026-04-20",
       "inactive": true,
       "deactivatedDate": "2026-05-01"
@@ -2089,13 +2075,6 @@
       "deactivatedDate": "2026-05-14"
     },
     {
-      "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
-      "author": "Zig Ziglar",
-      "date": "2026-05-03",
-      "inactive": true,
-      "deactivatedDate": "2026-05-14"
-    },
-    {
       "text": "How many slams in an old screen door? Depends how loud you shut it.",
       "author": "Shel Silverstein",
       "date": "2026-05-03",
@@ -2250,13 +2229,6 @@
       "deactivatedDate": "2026-05-19"
     },
     {
-      "text": "You don't have to be perfect to be loved.",
-      "author": "Russell M. Nelson",
-      "date": "2026-05-08",
-      "inactive": true,
-      "deactivatedDate": "2026-05-19"
-    },
-    {
       "text": "Intelligence plus character—that is the goal of true education.",
       "author": "Martin Luther King Jr.",
       "date": "2026-05-08",
@@ -2311,9 +2283,37 @@
       "date": "2026-05-08",
       "inactive": true,
       "deactivatedDate": "2026-05-20"
+    },
+    {
+      "text": "All our dreams can come true, if we have the courage to pursue them.",
+      "author": "Walt Disney",
+      "date": "2026-05-10",
+      "inactive": true,
+      "deactivatedDate": "2026-05-21"
+    },
+    {
+      "text": "Sometimes we're tested not to show our weaknesses, but to discover our strengths.",
+      "author": "Rafiki, The Lion King",
+      "date": "2026-05-10",
+      "inactive": true,
+      "deactivatedDate": "2026-05-21"
+    },
+    {
+      "text": "People do not decide their futures, they decide their habits and their habits decide their futures.",
+      "author": "F.M. Alexander",
+      "date": "2026-05-10",
+      "inactive": true,
+      "deactivatedDate": "2026-05-21"
+    },
+    {
+      "text": "Let your light so shine before men.",
+      "author": "Jesus Christ",
+      "date": "2026-05-09",
+      "inactive": true,
+      "deactivatedDate": "2026-05-21"
     }
   ],
-  "lastRotation": "2026-05-20",
+  "lastRotation": "2026-05-21",
   "totalQuotes": 341,
   "activeQuotes": 64,
   "inactiveQuotes": 277
