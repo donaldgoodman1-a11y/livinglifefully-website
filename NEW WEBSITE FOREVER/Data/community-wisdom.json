@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Why fit in when you were born to stand out?",
+      "author": "Dr. Seuss",
+      "date": "2026-05-22",
+      "inactive": false
+    },
+    {
+      "text": "Even the smallest person can change the course of the future.",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-05-22",
+      "inactive": false
+    },
+    {
+      "text": "Let us not pray to be sheltered from dangers but to be fearless when facing them.",
+      "author": "Rabindranath Tagore",
+      "date": "2026-05-22",
+      "inactive": false
+    },
+    {
+      "text": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-05-22",
+      "inactive": false
+    },
+    {
+      "text": "If you accomplish something good with hard work, the labor passes quickly, but the good endures; if you do something shameful in pursuit of pleasure, the pleasure passes quickly, but the shame endures.",
+      "author": "Musonius Rufus",
+      "date": "2026-05-22",
+      "inactive": false
+    },
+    {
       "text": "You are never too old to set another goal or to dream a new dream.",
       "author": "C.S. Lewis",
       "date": "2026-05-21",
@@ -362,37 +392,6 @@
       "date": "2026-05-11",
       "inactive": false,
       "communitySubmission": true
-    },
-    {
-      "text": "You must do the things you think you cannot do.",
-      "author": "Eleanor Roosevelt",
-      "date": "2026-05-11",
-      "inactive": false
-    },
-    {
-      "text": "Friendship is born at that moment when one person says to another: What! You too? I thought I was the only one.",
-      "author": "C.S. Lewis",
-      "date": "2026-05-11",
-      "inactive": false
-    },
-    {
-      "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
-      "author": "Martin Luther King Jr.",
-      "date": "2026-05-11",
-      "inactive": false
-    },
-    {
-      "text": "“Strong minds discuss ideas, average minds discuss events, weak minds discuss people”",
-      "author": "Socrates",
-      "date": "2026-05-11",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "Let yourself be silently drawn by the strange pull of what you really love. It will not lead you astray.",
-      "author": "Rumi",
-      "date": "2026-05-10",
-      "inactive": false
     },
     {
       "text": "Peace begins with a smile.",
@@ -974,13 +973,6 @@
       "deactivatedDate": "2026-03-26"
     },
     {
-      "text": "Even the smallest person can change the course of the future.",
-      "author": "J.R.R. Tolkien",
-      "date": "2026-03-18",
-      "inactive": true,
-      "deactivatedDate": "2026-03-26"
-    },
-    {
       "text": "Your work is to discover your work and then with all your heart to give yourself to it.",
       "author": "Buddha",
       "date": "2026-03-19",
@@ -1042,13 +1034,6 @@
       "date": "2026-03-21",
       "inactive": true,
       "deactivatedDate": "2026-03-30"
-    },
-    {
-      "text": "If you accomplish something good with hard work, the labor passes quickly, but the good endures; if you do something shameful in pursuit of pleasure, the pleasure passes quickly, but the shame endures.",
-      "author": "Musonius Rufus",
-      "date": "2026-03-23",
-      "inactive": true,
-      "deactivatedDate": "2026-03-31"
     },
     {
       "text": "Live in the sunshine, swim the sea, drink the wild air.",
@@ -1170,13 +1155,6 @@
       "deactivatedDate": "2026-04-06"
     },
     {
-      "text": "Let us not pray to be sheltered from dangers but to be fearless when facing them.",
-      "author": "Rabindranath Tagore",
-      "date": "2026-03-29",
-      "inactive": true,
-      "deactivatedDate": "2026-04-06"
-    },
-    {
       "text": "Decisions determine destiny.",
       "author": "Thomas S. Monson",
       "date": "2026-03-28",
@@ -1291,13 +1269,6 @@
     {
       "text": "The secret of staying young is to live honestly, eat slowly, and lie about your age.",
       "author": "Lucille Ball",
-      "date": "2026-04-04",
-      "inactive": true,
-      "deactivatedDate": "2026-04-12"
-    },
-    {
-      "text": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
-      "author": "Ralph Waldo Emerson",
       "date": "2026-04-04",
       "inactive": true,
       "deactivatedDate": "2026-04-12"
@@ -1557,13 +1528,6 @@
     {
       "text": "The beginning is the most important part of the work.",
       "author": "Plato",
-      "date": "2026-04-16",
-      "inactive": true,
-      "deactivatedDate": "2026-04-25"
-    },
-    {
-      "text": "Why fit in when you were born to stand out?",
-      "author": "Dr. Seuss",
       "date": "2026-04-16",
       "inactive": true,
       "deactivatedDate": "2026-04-25"
@@ -2311,9 +2275,45 @@
       "date": "2026-05-09",
       "inactive": true,
       "deactivatedDate": "2026-05-21"
+    },
+    {
+      "text": "You must do the things you think you cannot do.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-05-11",
+      "inactive": true,
+      "deactivatedDate": "2026-05-22"
+    },
+    {
+      "text": "Friendship is born at that moment when one person says to another: What! You too? I thought I was the only one.",
+      "author": "C.S. Lewis",
+      "date": "2026-05-11",
+      "inactive": true,
+      "deactivatedDate": "2026-05-22"
+    },
+    {
+      "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-05-11",
+      "inactive": true,
+      "deactivatedDate": "2026-05-22"
+    },
+    {
+      "text": "“Strong minds discuss ideas, average minds discuss events, weak minds discuss people”",
+      "author": "Socrates",
+      "date": "2026-05-11",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-05-22"
+    },
+    {
+      "text": "Let yourself be silently drawn by the strange pull of what you really love. It will not lead you astray.",
+      "author": "Rumi",
+      "date": "2026-05-10",
+      "inactive": true,
+      "deactivatedDate": "2026-05-22"
     }
   ],
-  "lastRotation": "2026-05-21",
+  "lastRotation": "2026-05-22",
   "totalQuotes": 341,
   "activeQuotes": 64,
   "inactiveQuotes": 277
