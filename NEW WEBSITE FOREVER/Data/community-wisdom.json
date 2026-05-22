@@ -1,6 +1,13 @@
 {
   "quotes": [
     {
+      "text": "He who doesn’t see God everywhere isn’t capable of seeing Him anywhere.\nKotzker Rebbe",
+      "author": "Kotzker Rebbe",
+      "date": "2026-05-22",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
       "text": "Life is like riding a bicycle: to keep your balance you must keep moving.",
       "author": "Albert Einstein",
       "date": "2026-05-22",
@@ -2321,7 +2328,7 @@
     }
   ],
   "lastRotation": "2026-05-22",
-  "totalQuotes": 342,
-  "activeQuotes": 65,
+  "totalQuotes": 343,
+  "activeQuotes": 66,
   "inactiveQuotes": 277
 }
