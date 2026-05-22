@@ -1,5 +1,13 @@
 {
-  "pending": [],
+  "pending": [
+    {
+      "id": "1779466198283",
+      "wisdom": "Life is like riding a bicycle: to keep your balance you must keep moving.",
+      "author": "Albert Einstein",
+      "date": "2026-05-22",
+      "submittedAt": "2026-05-22T16:09:58.285Z"
+    }
+  ],
   "approvedCount": 28,
   "rejectedCount": 3
 }
