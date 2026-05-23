@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Everything has beauty, but not everyone sees it.",
+      "author": "Confucius",
+      "date": "2026-05-23",
+      "inactive": false
+    },
+    {
+      "text": "I can do all things through Christ which strengtheneth me.",
+      "author": "Paul the Apostle",
+      "date": "2026-05-23",
+      "inactive": false
+    },
+    {
+      "text": "He who has a why to live can bear almost any how.",
+      "author": "Friedrich Nietzsche",
+      "date": "2026-05-23",
+      "inactive": false
+    },
+    {
+      "text": "Each child brings his own blessing into the world.",
+      "author": "Talmud",
+      "date": "2026-05-23",
+      "inactive": false
+    },
+    {
+      "text": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-05-23",
+      "inactive": false
+    },
+    {
       "text": "He who doesn’t see God everywhere isn’t capable of seeing Him anywhere.\nKotzker Rebbe",
       "author": "Kotzker Rebbe",
       "date": "2026-05-22",
@@ -376,38 +406,6 @@
       "inactive": false
     },
     {
-      "text": "The spiritual gift of agency, the freedom to choose, is essential to our growth.",
-      "author": "Dallin H. Oaks",
-      "date": "2026-05-12",
-      "inactive": false
-    },
-    {
-      "text": "The least of things with a meaning is worth more in life than the greatest of things without it.",
-      "author": "Carl Jung",
-      "date": "2026-05-12",
-      "inactive": false
-    },
-    {
-      "text": "“Loneliness, is not the absence of people around us, but the inability to express what truly matters within us",
-      "author": "Carl Jung",
-      "date": "2026-05-12",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "Habits are the compound interest of self-improvement.",
-      "author": "James Clear",
-      "date": "2026-05-11",
-      "inactive": false
-    },
-    {
-      "text": "Hugh B. Brown wrote: We ask for strength and God gives us difficulties, which makes us \nstrong. We pray for wisdom and God sends us problems, the solution of which develops \nwisdom. We plead for prosperity and God gives us brain and brawn to work. We plead \nfor courage and God gives us dangers to overcome. We ask for favors and God gives us \nopportunities. This is the answer.”",
-      "author": "Hugh B Brown",
-      "date": "2026-05-11",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
       "text": "Peace begins with a smile.",
       "author": "Mother Teresa",
       "date": "2026-02-04",
@@ -441,12 +439,6 @@
       "text": "We read to know we are not alone.",
       "author": "C.S. Lewis",
       "date": "2026-01-22",
-      "inactive": true
-    },
-    {
-      "text": "Everything has beauty, but not everyone sees it.",
-      "author": "Confucius",
-      "date": "2026-01-20",
       "inactive": true
     },
     {
@@ -1022,13 +1014,6 @@
       "deactivatedDate": "2026-03-28"
     },
     {
-      "text": "He who has a why to live can bear almost any how.",
-      "author": "Friedrich Nietzsche",
-      "date": "2026-03-19",
-      "inactive": true,
-      "deactivatedDate": "2026-03-28"
-    },
-    {
       "text": "The most glorious moments in your life are not the so-called days of success, but rather those days when out of dejection and despair you feel rise in you a challenge to life.",
       "author": "Gustave Flaubert",
       "date": "2026-03-21",
@@ -1041,13 +1026,6 @@
       "date": "2026-03-20",
       "inactive": true,
       "deactivatedDate": "2026-03-29"
-    },
-    {
-      "text": "I can do all things through Christ which strengtheneth me.",
-      "author": "Paul the Apostle",
-      "date": "2026-03-21",
-      "inactive": true,
-      "deactivatedDate": "2026-03-30"
     },
     {
       "text": "Live in the sunshine, swim the sea, drink the wild air.",
@@ -1642,13 +1620,6 @@
       "deactivatedDate": "2026-04-29"
     },
     {
-      "text": "Each child brings his own blessing into the world.",
-      "author": "Talmud",
-      "date": "2026-04-19",
-      "inactive": true,
-      "deactivatedDate": "2026-04-29"
-    },
-    {
       "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
       "author": "Ralph Waldo Emerson",
       "date": "2026-04-19",
@@ -1897,13 +1868,6 @@
       "date": "2026-04-26",
       "inactive": true,
       "deactivatedDate": "2026-05-08"
-    },
-    {
-      "text": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
-      "author": "Eleanor Roosevelt",
-      "date": "2026-04-28",
-      "inactive": true,
-      "deactivatedDate": "2026-05-09"
     },
     {
       "text": "Opposition is part of the divine plan.",
@@ -2325,9 +2289,46 @@
       "date": "2026-05-10",
       "inactive": true,
       "deactivatedDate": "2026-05-22"
+    },
+    {
+      "text": "The spiritual gift of agency, the freedom to choose, is essential to our growth.",
+      "author": "Dallin H. Oaks",
+      "date": "2026-05-12",
+      "inactive": true,
+      "deactivatedDate": "2026-05-23"
+    },
+    {
+      "text": "The least of things with a meaning is worth more in life than the greatest of things without it.",
+      "author": "Carl Jung",
+      "date": "2026-05-12",
+      "inactive": true,
+      "deactivatedDate": "2026-05-23"
+    },
+    {
+      "text": "“Loneliness, is not the absence of people around us, but the inability to express what truly matters within us",
+      "author": "Carl Jung",
+      "date": "2026-05-12",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-05-23"
+    },
+    {
+      "text": "Habits are the compound interest of self-improvement.",
+      "author": "James Clear",
+      "date": "2026-05-11",
+      "inactive": true,
+      "deactivatedDate": "2026-05-23"
+    },
+    {
+      "text": "Hugh B. Brown wrote: We ask for strength and God gives us difficulties, which makes us \nstrong. We pray for wisdom and God sends us problems, the solution of which develops \nwisdom. We plead for prosperity and God gives us brain and brawn to work. We plead \nfor courage and God gives us dangers to overcome. We ask for favors and God gives us \nopportunities. This is the answer.”",
+      "author": "Hugh B Brown",
+      "date": "2026-05-11",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-05-23"
     }
   ],
-  "lastRotation": "2026-05-22",
+  "lastRotation": "2026-05-23",
   "totalQuotes": 343,
   "activeQuotes": 66,
   "inactiveQuotes": 277
