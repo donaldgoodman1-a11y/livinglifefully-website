@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "I feel that there is nothing more truly artistic than to love people.",
+      "author": "Vincent Van Gogh",
+      "date": "2026-05-24",
+      "inactive": false
+    },
+    {
+      "text": "The future belongs to those who believe in the beauty of their dreams.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-05-24",
+      "inactive": false
+    },
+    {
+      "text": "Prayer is not asking. Prayer is putting oneself in the hands of God.",
+      "author": "Mother Teresa",
+      "date": "2026-05-24",
+      "inactive": false
+    },
+    {
+      "text": "For I know the thoughts that I think toward you, saith the Lord, thoughts of peace, and not of evil.",
+      "author": "Jeremiah",
+      "date": "2026-05-24",
+      "inactive": false
+    },
+    {
+      "text": "It's not about how to achieve your dreams, it's about how to lead your life. If you lead your life the right way, the karma will take care of itself.",
+      "author": "Randy Pausch",
+      "date": "2026-05-24",
+      "inactive": false
+    },
+    {
       "text": "Everything has beauty, but not everyone sees it.",
       "author": "Confucius",
       "date": "2026-05-23",
@@ -374,38 +404,6 @@
       "communitySubmission": true
     },
     {
-      "text": "There are moments when tribulations occur in our lives, and we cannot avoid them. But they are there for some reason … Only when we have overcome them do we understand why they were there.",
-      "author": "Paulo Coelho",
-      "date": "2026-05-12",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "Although the world is full of suffering, it is full also of the overcoming of it.",
-      "author": "Helen Keller",
-      "date": "2026-05-12",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
-      "author": "Marcus Aurelius",
-      "date": "2026-05-12",
-      "inactive": false
-    },
-    {
-      "text": "No man is crushed by misfortune unless he has first been deceived by prosperity.\n-Seneca",
-      "author": "Seneca",
-      "date": "2026-05-12",
-      "inactive": false
-    },
-    {
-      "text": "Never wound a snake; kill it.",
-      "author": "Harriet Tubman",
-      "date": "2026-05-12",
-      "inactive": false
-    },
-    {
       "text": "Peace begins with a smile.",
       "author": "Mother Teresa",
       "date": "2026-02-04",
@@ -520,12 +518,6 @@
       "inactive": true
     },
     {
-      "text": "Prayer is not asking. Prayer is putting oneself in the hands of God.",
-      "author": "Mother Teresa",
-      "date": "2025-12-31",
-      "inactive": true
-    },
-    {
       "text": "Waste no more time arguing about what a good man should be. Be one.",
       "author": "Marcus Aurelius",
       "date": "2025-12-30",
@@ -629,13 +621,6 @@
       "deactivatedDate": "2026-02-14"
     },
     {
-      "text": "It's not about how to achieve your dreams, it's about how to lead your life. If you lead your life the right way, the karma will take care of itself.",
-      "author": "Randy Pausch",
-      "date": "2026-02-12",
-      "inactive": true,
-      "deactivatedDate": "2026-02-15"
-    },
-    {
       "text": "Wherever you go, go with all your heart.",
       "author": "Confucius",
       "date": "2026-02-12",
@@ -648,13 +633,6 @@
       "date": "2026-02-13",
       "inactive": true,
       "deactivatedDate": "2026-02-20"
-    },
-    {
-      "text": "For I know the thoughts that I think toward you, saith the Lord, thoughts of peace, and not of evil.",
-      "author": "Jeremiah",
-      "date": "2026-02-15",
-      "inactive": true,
-      "deactivatedDate": "2026-02-22"
     },
     {
       "text": "Keep your face to the sunshine and you cannot see a shadow.",
@@ -1149,13 +1127,6 @@
     {
       "text": "Decisions determine destiny.",
       "author": "Thomas S. Monson",
-      "date": "2026-03-28",
-      "inactive": true,
-      "deactivatedDate": "2026-04-06"
-    },
-    {
-      "text": "The future belongs to those who believe in the beauty of their dreams.",
-      "author": "Eleanor Roosevelt",
       "date": "2026-03-28",
       "inactive": true,
       "deactivatedDate": "2026-04-06"
@@ -2164,13 +2135,6 @@
       "deactivatedDate": "2026-05-18"
     },
     {
-      "text": "I feel that there is nothing more truly artistic than to love people.",
-      "author": "Vincent Van Gogh",
-      "date": "2026-05-08",
-      "inactive": true,
-      "deactivatedDate": "2026-05-19"
-    },
-    {
       "text": "Intelligence plus character—that is the goal of true education.",
       "author": "Martin Luther King Jr.",
       "date": "2026-05-08",
@@ -2326,9 +2290,46 @@
       "inactive": true,
       "communitySubmission": true,
       "deactivatedDate": "2026-05-23"
+    },
+    {
+      "text": "There are moments when tribulations occur in our lives, and we cannot avoid them. But they are there for some reason … Only when we have overcome them do we understand why they were there.",
+      "author": "Paulo Coelho",
+      "date": "2026-05-12",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-05-24"
+    },
+    {
+      "text": "Although the world is full of suffering, it is full also of the overcoming of it.",
+      "author": "Helen Keller",
+      "date": "2026-05-12",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-05-24"
+    },
+    {
+      "text": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
+      "author": "Marcus Aurelius",
+      "date": "2026-05-12",
+      "inactive": true,
+      "deactivatedDate": "2026-05-24"
+    },
+    {
+      "text": "No man is crushed by misfortune unless he has first been deceived by prosperity.\n-Seneca",
+      "author": "Seneca",
+      "date": "2026-05-12",
+      "inactive": true,
+      "deactivatedDate": "2026-05-24"
+    },
+    {
+      "text": "Never wound a snake; kill it.",
+      "author": "Harriet Tubman",
+      "date": "2026-05-12",
+      "inactive": true,
+      "deactivatedDate": "2026-05-24"
     }
   ],
-  "lastRotation": "2026-05-23",
+  "lastRotation": "2026-05-24",
   "totalQuotes": 343,
   "activeQuotes": 66,
   "inactiveQuotes": 277
