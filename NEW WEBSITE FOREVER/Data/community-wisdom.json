@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Be still, and know that I am God.",
+      "author": "King David",
+      "date": "2026-05-25",
+      "inactive": false
+    },
+    {
+      "text": "If you judge people, you have no time to love them.",
+      "author": "Mother Teresa",
+      "date": "2026-05-25",
+      "inactive": false
+    },
+    {
+      "text": "Life's most persistent and urgent question is, 'What are you doing for others?'",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-05-25",
+      "inactive": false
+    },
+    {
+      "text": "You can't use up creativity. The more you use, the more you have.",
+      "author": "Maya Angelou",
+      "date": "2026-05-25",
+      "inactive": false
+    },
+    {
+      "text": "Your work is to discover your work and then with all your heart to give yourself to it.",
+      "author": "Buddha",
+      "date": "2026-05-25",
+      "inactive": false
+    },
+    {
       "text": "I feel that there is nothing more truly artistic than to love people.",
       "author": "Vincent Van Gogh",
       "date": "2026-05-24",
@@ -372,38 +402,6 @@
       "inactive": false
     },
     {
-      "text": "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
-      "author": "Mother Teresa",
-      "date": "2026-05-13",
-      "inactive": false
-    },
-    {
-      "text": "Good inspiration is based on good information.",
-      "author": "Russell M. Nelson",
-      "date": "2026-05-13",
-      "inactive": false
-    },
-    {
-      "text": "Be the change that you wish to see in the world.",
-      "author": "Mahatma Gandhi",
-      "date": "2026-05-13",
-      "inactive": false
-    },
-    {
-      "text": "There is something you must remember. You are braver than you believe, stronger than you seem, and smarter than you think. But the most important thing is, even if we’re apart, I’ll always be with you.",
-      "author": "Christopher Robin",
-      "date": "2026-05-12",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "It always helps to have people we love beside us when we have to do difficult things in life.",
-      "author": "Fred Rogers",
-      "date": "2026-05-12",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
       "text": "Peace begins with a smile.",
       "author": "Mother Teresa",
       "date": "2026-02-04",
@@ -698,13 +696,6 @@
       "deactivatedDate": "2026-02-27"
     },
     {
-      "text": "Life's most persistent and urgent question is, 'What are you doing for others?'",
-      "author": "Martin Luther King Jr.",
-      "date": "2026-02-20",
-      "inactive": true,
-      "deactivatedDate": "2026-02-27"
-    },
-    {
       "text": "An investment in knowledge pays the best interest.",
       "author": "Benjamin Franklin",
       "date": "2026-02-22",
@@ -957,13 +948,6 @@
       "deactivatedDate": "2026-03-26"
     },
     {
-      "text": "Your work is to discover your work and then with all your heart to give yourself to it.",
-      "author": "Buddha",
-      "date": "2026-03-19",
-      "inactive": true,
-      "deactivatedDate": "2026-03-27"
-    },
-    {
       "text": "Walk as if you are kissing the Earth with your feet.",
       "author": "Thich Nhat Hanh",
       "date": "2026-03-19",
@@ -1022,13 +1006,6 @@
     {
       "text": "I had reasoned this out in my mind, there was one of two things I had a right to, liberty or death; if I could not have one, I would have the other.",
       "author": "Harriet Tubman",
-      "date": "2026-03-24",
-      "inactive": true,
-      "deactivatedDate": "2026-04-01"
-    },
-    {
-      "text": "You can't use up creativity. The more you use, the more you have.",
-      "author": "Maya Angelou",
       "date": "2026-03-24",
       "inactive": true,
       "deactivatedDate": "2026-04-01"
@@ -1233,13 +1210,6 @@
       "text": "The secret of staying young is to live honestly, eat slowly, and lie about your age.",
       "author": "Lucille Ball",
       "date": "2026-04-04",
-      "inactive": true,
-      "deactivatedDate": "2026-04-12"
-    },
-    {
-      "text": "If you judge people, you have no time to love them.",
-      "author": "Mother Teresa",
-      "date": "2026-04-03",
       "inactive": true,
       "deactivatedDate": "2026-04-12"
     },
@@ -1646,13 +1616,6 @@
     {
       "text": "Because you are alive, everything is possible.",
       "author": "Thich Nhat Hanh",
-      "date": "2026-04-20",
-      "inactive": true,
-      "deactivatedDate": "2026-05-01"
-    },
-    {
-      "text": "Be still, and know that I am God.",
-      "author": "King David",
       "date": "2026-04-20",
       "inactive": true,
       "deactivatedDate": "2026-05-01"
@@ -2327,9 +2290,46 @@
       "date": "2026-05-12",
       "inactive": true,
       "deactivatedDate": "2026-05-24"
+    },
+    {
+      "text": "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
+      "author": "Mother Teresa",
+      "date": "2026-05-13",
+      "inactive": true,
+      "deactivatedDate": "2026-05-25"
+    },
+    {
+      "text": "Good inspiration is based on good information.",
+      "author": "Russell M. Nelson",
+      "date": "2026-05-13",
+      "inactive": true,
+      "deactivatedDate": "2026-05-25"
+    },
+    {
+      "text": "Be the change that you wish to see in the world.",
+      "author": "Mahatma Gandhi",
+      "date": "2026-05-13",
+      "inactive": true,
+      "deactivatedDate": "2026-05-25"
+    },
+    {
+      "text": "There is something you must remember. You are braver than you believe, stronger than you seem, and smarter than you think. But the most important thing is, even if we’re apart, I’ll always be with you.",
+      "author": "Christopher Robin",
+      "date": "2026-05-12",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-05-25"
+    },
+    {
+      "text": "It always helps to have people we love beside us when we have to do difficult things in life.",
+      "author": "Fred Rogers",
+      "date": "2026-05-12",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-05-25"
     }
   ],
-  "lastRotation": "2026-05-24",
+  "lastRotation": "2026-05-25",
   "totalQuotes": 343,
   "activeQuotes": 66,
   "inactiveQuotes": 277
