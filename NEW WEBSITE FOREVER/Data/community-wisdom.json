@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "I would unite with anybody to do right and with nobody to do wrong.",
+      "author": "Frederick Douglass",
+      "date": "2026-05-26",
+      "inactive": false
+    },
+    {
+      "text": "The best way to predict your future is to create it.",
+      "author": "Abraham Lincoln",
+      "date": "2026-05-26",
+      "inactive": false
+    },
+    {
+      "text": "The enabling power of the Atonement strengthens us.",
+      "author": "David A. Bednar",
+      "date": "2026-05-26",
+      "inactive": false
+    },
+    {
+      "text": "You don't have to be great to start, but you have to start to be great.",
+      "author": "Zig Ziglar",
+      "date": "2026-05-26",
+      "inactive": false
+    },
+    {
+      "text": "To pull a friend out of the mire, don’t hesitate to get dirty.\nBaal Shem",
+      "author": "Baal Shem Tov",
+      "date": "2026-05-26",
+      "inactive": false
+    },
+    {
       "text": "Sometimes the future changes quickly and completely, and we’re left with only the choice of what to do next. We can choose to be afraid of it. Just stand there trembling, not moving, assuming the worst that can happen. Or we step forward into the unknown, and assume it will be brilliant.\nDr. Cristina Yang (Sandra Oh) in “Grey’s Anatomy”",
       "author": "Anonymous Reader",
       "date": "2026-05-25",
@@ -378,37 +408,6 @@
       "inactive": false
     },
     {
-      "text": "The best preparation for tomorrow is doing your best today.",
-      "author": "H. Jackson Brown Jr.",
-      "date": "2026-05-14",
-      "inactive": false
-    },
-    {
-      "text": "Breathing in, I calm body and mind. Breathing out, I smile.",
-      "author": "Thich Nhat Hanh",
-      "date": "2026-05-14",
-      "inactive": false
-    },
-    {
-      "text": "Faith does not eliminate questions. But faith knows where to take them.",
-      "author": "Elisabeth Elliot",
-      "date": "2026-05-14",
-      "inactive": false
-    },
-    {
-      "text": "Don’t make a project out of yourself. Get out of yourself and help someone else.",
-      "author": "Anonymous Reader",
-      "date": "2026-05-13",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "Thousands of candles can be lighted from a single candle. Happiness never decreases by being shared.",
-      "author": "Buddha",
-      "date": "2026-05-13",
-      "inactive": false
-    },
-    {
       "text": "Peace begins with a smile.",
       "author": "Mother Teresa",
       "date": "2026-02-04",
@@ -668,13 +667,6 @@
       "deactivatedDate": "2026-02-24"
     },
     {
-      "text": "You don't have to be great to start, but you have to start to be great.",
-      "author": "Zig Ziglar",
-      "date": "2026-02-17",
-      "inactive": true,
-      "deactivatedDate": "2026-02-24"
-    },
-    {
       "text": "The cave you fear to enter holds the treasure you seek.",
       "author": "Joseph Campbell",
       "date": "2026-02-20",
@@ -720,13 +712,6 @@
       "text": "Faith is taking the first step even when you don't see the whole staircase.",
       "author": "Martin Luther King Jr.",
       "date": "2026-02-25",
-      "inactive": true,
-      "deactivatedDate": "2026-03-04"
-    },
-    {
-      "text": "The enabling power of the Atonement strengthens us.",
-      "author": "David A. Bednar",
-      "date": "2026-02-24",
       "inactive": true,
       "deactivatedDate": "2026-03-04"
     },
@@ -803,13 +788,6 @@
     {
       "text": "Lift where you stand.",
       "author": "Dieter F. Uchtdorf",
-      "date": "2026-03-06",
-      "inactive": true,
-      "deactivatedDate": "2026-03-14"
-    },
-    {
-      "text": "I would unite with anybody to do right and with nobody to do wrong.",
-      "author": "Frederick Douglass",
       "date": "2026-03-06",
       "inactive": true,
       "deactivatedDate": "2026-03-14"
@@ -958,13 +936,6 @@
       "text": "Walk as if you are kissing the Earth with your feet.",
       "author": "Thich Nhat Hanh",
       "date": "2026-03-19",
-      "inactive": true,
-      "deactivatedDate": "2026-03-27"
-    },
-    {
-      "text": "To pull a friend out of the mire, don’t hesitate to get dirty.\nBaal Shem",
-      "author": "Baal Shem Tov",
-      "date": "2026-03-18",
       "inactive": true,
       "deactivatedDate": "2026-03-27"
     },
@@ -1937,13 +1908,6 @@
       "deactivatedDate": "2026-05-13"
     },
     {
-      "text": "The best way to predict your future is to create it.",
-      "author": "Abraham Lincoln",
-      "date": "2026-05-01",
-      "inactive": true,
-      "deactivatedDate": "2026-05-13"
-    },
-    {
       "text": "You don't have to be the victim of your environment. You can also be the architect of it.",
       "author": "James Clear",
       "date": "2026-05-03",
@@ -2334,9 +2298,45 @@
       "inactive": true,
       "communitySubmission": true,
       "deactivatedDate": "2026-05-25"
+    },
+    {
+      "text": "The best preparation for tomorrow is doing your best today.",
+      "author": "H. Jackson Brown Jr.",
+      "date": "2026-05-14",
+      "inactive": true,
+      "deactivatedDate": "2026-05-26"
+    },
+    {
+      "text": "Breathing in, I calm body and mind. Breathing out, I smile.",
+      "author": "Thich Nhat Hanh",
+      "date": "2026-05-14",
+      "inactive": true,
+      "deactivatedDate": "2026-05-26"
+    },
+    {
+      "text": "Faith does not eliminate questions. But faith knows where to take them.",
+      "author": "Elisabeth Elliot",
+      "date": "2026-05-14",
+      "inactive": true,
+      "deactivatedDate": "2026-05-26"
+    },
+    {
+      "text": "Don’t make a project out of yourself. Get out of yourself and help someone else.",
+      "author": "Anonymous Reader",
+      "date": "2026-05-13",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-05-26"
+    },
+    {
+      "text": "Thousands of candles can be lighted from a single candle. Happiness never decreases by being shared.",
+      "author": "Buddha",
+      "date": "2026-05-13",
+      "inactive": true,
+      "deactivatedDate": "2026-05-26"
     }
   ],
-  "lastRotation": "2026-05-25",
+  "lastRotation": "2026-05-26",
   "totalQuotes": 344,
   "activeQuotes": 67,
   "inactiveQuotes": 277
