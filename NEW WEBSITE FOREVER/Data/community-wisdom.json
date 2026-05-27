@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "I am not what happened to me, I am what I choose to become.",
+      "author": "Carl Jung",
+      "date": "2026-05-27",
+      "inactive": false
+    },
+    {
+      "text": "Choose faith over fear, and doubt not.",
+      "author": "David A. Bednar",
+      "date": "2026-05-27",
+      "inactive": false
+    },
+    {
+      "text": "The beginning is the most important part of the work.",
+      "author": "Plato",
+      "date": "2026-05-27",
+      "inactive": false
+    },
+    {
+      "text": "Getting old is like climbing a mountain; you get a little out of breath, but the view is much better.",
+      "author": "Ingrid Bergman",
+      "date": "2026-05-27",
+      "inactive": false
+    },
+    {
+      "text": "When you're screwing up and nobody says anything to you anymore, that means they've given up on you.",
+      "author": "Randy Pausch",
+      "date": "2026-05-27",
+      "inactive": false
+    },
+    {
       "text": "I would unite with anybody to do right and with nobody to do wrong.",
       "author": "Frederick Douglass",
       "date": "2026-05-26",
@@ -374,37 +404,6 @@
       "text": "We can press forward with steadfastness in Christ.",
       "author": "David A. Bednar",
       "date": "2026-05-15",
-      "inactive": false
-    },
-    {
-      "text": "A person's a person, no matter how small.",
-      "author": "Dr. Seuss",
-      "date": "2026-05-15",
-      "inactive": false
-    },
-    {
-      "text": "There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living.",
-      "author": "Nelson Mandela",
-      "date": "2026-05-15",
-      "inactive": false
-    },
-    {
-      "text": "A successful marriage requires falling in love many times, always with the same person.",
-      "author": "Mignon McLaughlin",
-      "date": "2026-05-14",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "There is no greater agony than bearing an untold story inside you.",
-      "author": "Maya Angelou",
-      "date": "2026-05-14",
-      "inactive": false
-    },
-    {
-      "text": "The Lord is my shepherd; I shall not want.",
-      "author": "King David",
-      "date": "2026-05-14",
       "inactive": false
     },
     {
@@ -1416,13 +1415,6 @@
       "deactivatedDate": "2026-04-24"
     },
     {
-      "text": "Getting old is like climbing a mountain; you get a little out of breath, but the view is much better.",
-      "author": "Ingrid Bergman",
-      "date": "2026-04-15",
-      "inactive": true,
-      "deactivatedDate": "2026-04-24"
-    },
-    {
       "text": "The weak can never forgive. Forgiveness is the attribute of the strong.",
       "author": "Mahatma Gandhi",
       "date": "2026-04-16",
@@ -1437,22 +1429,8 @@
       "deactivatedDate": "2026-04-25"
     },
     {
-      "text": "The beginning is the most important part of the work.",
-      "author": "Plato",
-      "date": "2026-04-16",
-      "inactive": true,
-      "deactivatedDate": "2026-04-25"
-    },
-    {
       "text": "Try to be a rainbow in someone's cloud.",
       "author": "Maya Angelou",
-      "date": "2026-04-17",
-      "inactive": true,
-      "deactivatedDate": "2026-04-26"
-    },
-    {
-      "text": "When you're screwing up and nobody says anything to you anymore, that means they've given up on you.",
-      "author": "Randy Pausch",
       "date": "2026-04-17",
       "inactive": true,
       "deactivatedDate": "2026-04-26"
@@ -1658,13 +1636,6 @@
     {
       "text": "Better to get on the bike and fall then never to get on the back at all.",
       "author": "Dr Goodman",
-      "date": "2026-04-23",
-      "inactive": true,
-      "deactivatedDate": "2026-05-04"
-    },
-    {
-      "text": "Choose faith over fear, and doubt not.",
-      "author": "David A. Bednar",
       "date": "2026-04-23",
       "inactive": true,
       "deactivatedDate": "2026-05-04"
@@ -2090,13 +2061,6 @@
       "deactivatedDate": "2026-05-19"
     },
     {
-      "text": "I am not what happened to me, I am what I choose to become.",
-      "author": "Carl Jung",
-      "date": "2026-05-09",
-      "inactive": true,
-      "deactivatedDate": "2026-05-20"
-    },
-    {
       "text": "Be who God meant you to be and you will set the world on fire.",
       "author": "St. Catherine of Siena",
       "date": "2026-05-09",
@@ -2334,9 +2298,45 @@
       "date": "2026-05-13",
       "inactive": true,
       "deactivatedDate": "2026-05-26"
+    },
+    {
+      "text": "A person's a person, no matter how small.",
+      "author": "Dr. Seuss",
+      "date": "2026-05-15",
+      "inactive": true,
+      "deactivatedDate": "2026-05-27"
+    },
+    {
+      "text": "There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living.",
+      "author": "Nelson Mandela",
+      "date": "2026-05-15",
+      "inactive": true,
+      "deactivatedDate": "2026-05-27"
+    },
+    {
+      "text": "A successful marriage requires falling in love many times, always with the same person.",
+      "author": "Mignon McLaughlin",
+      "date": "2026-05-14",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-05-27"
+    },
+    {
+      "text": "There is no greater agony than bearing an untold story inside you.",
+      "author": "Maya Angelou",
+      "date": "2026-05-14",
+      "inactive": true,
+      "deactivatedDate": "2026-05-27"
+    },
+    {
+      "text": "The Lord is my shepherd; I shall not want.",
+      "author": "King David",
+      "date": "2026-05-14",
+      "inactive": true,
+      "deactivatedDate": "2026-05-27"
     }
   ],
-  "lastRotation": "2026-05-26",
+  "lastRotation": "2026-05-27",
   "totalQuotes": 344,
   "activeQuotes": 67,
   "inactiveQuotes": 277
