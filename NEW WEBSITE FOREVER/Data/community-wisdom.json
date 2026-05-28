@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "There is a place where the sidewalk ends and before the street begins.",
+      "author": "Shel Silverstein",
+      "date": "2026-05-28",
+      "inactive": false
+    },
+    {
+      "text": "Every action you take is a vote for the type of person you wish to become.",
+      "author": "James Clear",
+      "date": "2026-05-28",
+      "inactive": false
+    },
+    {
+      "text": "Peace comes from within. Do not seek it without.",
+      "author": "Buddha",
+      "date": "2026-05-28",
+      "inactive": false
+    },
+    {
+      "text": "I had reasoned this out in my mind, there was one of two things I had a right to, liberty or death; if I could not have one, I would have the other.",
+      "author": "Harriet Tubman",
+      "date": "2026-05-28",
+      "inactive": false
+    },
+    {
+      "text": "Peace begins with a smile.",
+      "author": "Mother Teresa",
+      "date": "2026-05-28",
+      "inactive": false
+    },
+    {
       "text": "I am not what happened to me, I am what I choose to become.",
       "author": "Carl Jung",
       "date": "2026-05-27",
@@ -376,43 +406,6 @@
       "inactive": false
     },
     {
-      "text": "The past is behind, learn from it. The future is ahead, prepare for it. The present is here, live it.",
-      "author": "Thomas S. Monson",
-      "date": "2026-05-16",
-      "inactive": false
-    },
-    {
-      "text": "Patience is the companion of wisdom.",
-      "author": "St. Augustine of Hippo",
-      "date": "2026-05-15",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "All we have to decide is what to do with the time that is given us.",
-      "author": "J.R.R. Tolkien",
-      "date": "2026-05-15",
-      "inactive": false
-    },
-    {
-      "text": "The purpose of our lives is to be happy.",
-      "author": "Dalai Lama",
-      "date": "2026-05-15",
-      "inactive": false
-    },
-    {
-      "text": "We can press forward with steadfastness in Christ.",
-      "author": "David A. Bednar",
-      "date": "2026-05-15",
-      "inactive": false
-    },
-    {
-      "text": "Peace begins with a smile.",
-      "author": "Mother Teresa",
-      "date": "2026-02-04",
-      "inactive": true
-    },
-    {
       "text": "You know you've reached middle age when you're cautioned to slow down by your doctor, instead of by the police.",
       "author": "Joan Rivers",
       "date": "2026-01-30",
@@ -594,13 +587,6 @@
       "date": "2026-02-11",
       "inactive": true,
       "deactivatedDate": "2026-02-12"
-    },
-    {
-      "text": "Peace comes from within. Do not seek it without.",
-      "author": "Buddha",
-      "date": "2026-02-12",
-      "inactive": true,
-      "deactivatedDate": "2026-02-13"
     },
     {
       "text": "A cheerful heart is good medicine.",
@@ -981,13 +967,6 @@
       "deactivatedDate": "2026-03-31"
     },
     {
-      "text": "I had reasoned this out in my mind, there was one of two things I had a right to, liberty or death; if I could not have one, I would have the other.",
-      "author": "Harriet Tubman",
-      "date": "2026-03-24",
-      "inactive": true,
-      "deactivatedDate": "2026-04-01"
-    },
-    {
       "text": "The privilege of a lifetime is being who you are.",
       "author": "Joseph Campbell",
       "date": "2026-03-24",
@@ -1130,13 +1109,6 @@
     {
       "text": "You miss 100% of the shots you don't take.",
       "author": "Wayne Gretzky",
-      "date": "2026-03-31",
-      "inactive": true,
-      "deactivatedDate": "2026-04-09"
-    },
-    {
-      "text": "There is a place where the sidewalk ends and before the street begins.",
-      "author": "Shel Silverstein",
       "date": "2026-03-31",
       "inactive": true,
       "deactivatedDate": "2026-04-09"
@@ -1688,13 +1660,6 @@
       "date": "2026-04-24",
       "inactive": true,
       "deactivatedDate": "2026-05-06"
-    },
-    {
-      "text": "Every action you take is a vote for the type of person you wish to become.",
-      "author": "James Clear",
-      "date": "2026-04-26",
-      "inactive": true,
-      "deactivatedDate": "2026-05-07"
     },
     {
       "text": "The only impossible journey is the one you never begin.",
@@ -2334,9 +2299,45 @@
       "date": "2026-05-14",
       "inactive": true,
       "deactivatedDate": "2026-05-27"
+    },
+    {
+      "text": "The past is behind, learn from it. The future is ahead, prepare for it. The present is here, live it.",
+      "author": "Thomas S. Monson",
+      "date": "2026-05-16",
+      "inactive": true,
+      "deactivatedDate": "2026-05-28"
+    },
+    {
+      "text": "Patience is the companion of wisdom.",
+      "author": "St. Augustine of Hippo",
+      "date": "2026-05-15",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-05-28"
+    },
+    {
+      "text": "All we have to decide is what to do with the time that is given us.",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-05-15",
+      "inactive": true,
+      "deactivatedDate": "2026-05-28"
+    },
+    {
+      "text": "The purpose of our lives is to be happy.",
+      "author": "Dalai Lama",
+      "date": "2026-05-15",
+      "inactive": true,
+      "deactivatedDate": "2026-05-28"
+    },
+    {
+      "text": "We can press forward with steadfastness in Christ.",
+      "author": "David A. Bednar",
+      "date": "2026-05-15",
+      "inactive": true,
+      "deactivatedDate": "2026-05-28"
     }
   ],
-  "lastRotation": "2026-05-27",
+  "lastRotation": "2026-05-28",
   "totalQuotes": 344,
   "activeQuotes": 67,
   "inactiveQuotes": 277
