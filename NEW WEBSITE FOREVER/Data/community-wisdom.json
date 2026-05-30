@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Attitude is a little thing that makes a big difference.",
+      "author": "Winston Churchill",
+      "date": "2026-05-30",
+      "inactive": false
+    },
+    {
+      "text": "Nothing can dim the light which shines from within.",
+      "author": "Maya Angelou",
+      "date": "2026-05-30",
+      "inactive": false
+    },
+    {
+      "text": "Dwell on the beauty of life. Watch the stars, and see yourself running with them.",
+      "author": "Marcus Aurelius",
+      "date": "2026-05-30",
+      "inactive": false
+    },
+    {
+      "text": "Be kind, for everyone you meet is fighting a hard battle.",
+      "author": "Plato",
+      "date": "2026-05-30",
+      "inactive": false
+    },
+    {
+      "text": "The only person you are destined to become is the person you decide to be.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-05-30",
+      "inactive": false
+    },
+    {
       "text": "You know you've reached middle age when you're cautioned to slow down by your doctor, instead of by the police.",
       "author": "Joan Rivers",
       "date": "2026-05-29",
@@ -376,36 +406,6 @@
       "inactive": false
     },
     {
-      "text": "Listen to the mustn'ts, child. Listen to the don'ts. Listen to the shouldn'ts, the impossibles, the won'ts. Then listen close to me... Anything can happen, child. Anything can be.",
-      "author": "Shel Silverstein",
-      "date": "2026-05-18",
-      "inactive": false
-    },
-    {
-      "text": "Write it on your heart that every day is the best day in the year.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-05-17",
-      "inactive": false
-    },
-    {
-      "text": "People often say that motivation doesn't last. Well, neither does bathing—that's why we recommend it daily.",
-      "author": "Zig Ziglar",
-      "date": "2026-05-17",
-      "inactive": false
-    },
-    {
-      "text": "No matter what anyone says or does, my task is to be good.",
-      "author": "Marcus Aurelius",
-      "date": "2026-05-17",
-      "inactive": false
-    },
-    {
-      "text": "First say to yourself what you would be; and then do what you have to do.",
-      "author": "Epictetus",
-      "date": "2026-05-17",
-      "inactive": false
-    },
-    {
       "text": "There are far, far better things ahead than any we leave behind.",
       "author": "C.S. Lewis",
       "date": "2026-01-29",
@@ -770,13 +770,6 @@
       "date": "2026-03-06",
       "inactive": true,
       "deactivatedDate": "2026-03-14"
-    },
-    {
-      "text": "Attitude is a little thing that makes a big difference.",
-      "author": "Winston Churchill",
-      "date": "2026-03-07",
-      "inactive": true,
-      "deactivatedDate": "2026-03-15"
     },
     {
       "text": "The gospel is a message of hope and salvation for all.",
@@ -1297,13 +1290,6 @@
       "deactivatedDate": "2026-04-21"
     },
     {
-      "text": "Nothing can dim the light which shines from within.",
-      "author": "Maya Angelou",
-      "date": "2026-04-12",
-      "inactive": true,
-      "deactivatedDate": "2026-04-21"
-    },
-    {
       "text": "You do not rise to the level of your goals. You fall to the level of your systems.",
       "author": "James Clear",
       "date": "2026-04-13",
@@ -1313,13 +1299,6 @@
     {
       "text": "Experience is what you get when you didn't get what you wanted.",
       "author": "Randy Pausch",
-      "date": "2026-04-13",
-      "inactive": true,
-      "deactivatedDate": "2026-04-22"
-    },
-    {
-      "text": "Be kind, for everyone you meet is fighting a hard battle.",
-      "author": "Plato",
       "date": "2026-04-13",
       "inactive": true,
       "deactivatedDate": "2026-04-22"
@@ -1337,20 +1316,6 @@
       "date": "2026-04-14",
       "inactive": true,
       "deactivatedDate": "2026-04-23"
-    },
-    {
-      "text": "The only person you are destined to become is the person you decide to be.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-04-15",
-      "inactive": true,
-      "deactivatedDate": "2026-04-24"
-    },
-    {
-      "text": "Dwell on the beauty of life. Watch the stars, and see yourself running with them.",
-      "author": "Marcus Aurelius",
-      "date": "2026-04-15",
-      "inactive": true,
-      "deactivatedDate": "2026-04-24"
     },
     {
       "text": "The weak can never forgive. Forgiveness is the attribute of the strong.",
@@ -2329,9 +2294,44 @@
       "date": "2026-05-16",
       "inactive": true,
       "deactivatedDate": "2026-05-29"
+    },
+    {
+      "text": "Listen to the mustn'ts, child. Listen to the don'ts. Listen to the shouldn'ts, the impossibles, the won'ts. Then listen close to me... Anything can happen, child. Anything can be.",
+      "author": "Shel Silverstein",
+      "date": "2026-05-18",
+      "inactive": true,
+      "deactivatedDate": "2026-05-30"
+    },
+    {
+      "text": "Write it on your heart that every day is the best day in the year.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-05-17",
+      "inactive": true,
+      "deactivatedDate": "2026-05-30"
+    },
+    {
+      "text": "People often say that motivation doesn't last. Well, neither does bathing—that's why we recommend it daily.",
+      "author": "Zig Ziglar",
+      "date": "2026-05-17",
+      "inactive": true,
+      "deactivatedDate": "2026-05-30"
+    },
+    {
+      "text": "No matter what anyone says or does, my task is to be good.",
+      "author": "Marcus Aurelius",
+      "date": "2026-05-17",
+      "inactive": true,
+      "deactivatedDate": "2026-05-30"
+    },
+    {
+      "text": "First say to yourself what you would be; and then do what you have to do.",
+      "author": "Epictetus",
+      "date": "2026-05-17",
+      "inactive": true,
+      "deactivatedDate": "2026-05-30"
     }
   ],
-  "lastRotation": "2026-05-29",
+  "lastRotation": "2026-05-30",
   "totalQuotes": 343,
   "activeQuotes": 67,
   "inactiveQuotes": 276
