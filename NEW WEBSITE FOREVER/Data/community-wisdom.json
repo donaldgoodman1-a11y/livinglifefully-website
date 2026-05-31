@@ -1,6 +1,13 @@
 {
   "quotes": [
     {
+      "text": "Get up every day and try a little harder than the day before.",
+      "author": "Emeril Lagassi",
+      "date": "2026-05-31",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
       "text": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.",
       "author": "J.K. Rowling",
       "date": "2026-05-31",
@@ -2332,7 +2339,7 @@
     }
   ],
   "lastRotation": "2026-05-31",
-  "totalQuotes": 343,
-  "activeQuotes": 67,
+  "totalQuotes": 344,
+  "activeQuotes": 68,
   "inactiveQuotes": 276
 }
