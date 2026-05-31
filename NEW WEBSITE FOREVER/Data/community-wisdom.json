@@ -1,6 +1,37 @@
 {
   "quotes": [
     {
+      "text": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.",
+      "author": "J.K. Rowling",
+      "date": "2026-05-31",
+      "inactive": false
+    },
+    {
+      "text": "You have power over your mind - not outside events. Realize this, and you will find strength.",
+      "author": "Marcus Aurelius",
+      "date": "2026-05-31",
+      "inactive": false
+    },
+    {
+      "text": "The proper function of man is to live, not to exist. I shall not waste my days in trying to \nprolong them. I shall use my time…",
+      "author": "Jack London",
+      "date": "2026-05-31",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "Courage doesn't always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.'",
+      "author": "Mary Anne Radmacher",
+      "date": "2026-05-31",
+      "inactive": false
+    },
+    {
+      "text": "Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world.",
+      "author": "Desmond Tutu",
+      "date": "2026-05-31",
+      "inactive": false
+    },
+    {
       "text": "Attitude is a little thing that makes a big difference.",
       "author": "Winston Churchill",
       "date": "2026-05-30",
@@ -376,36 +407,6 @@
       "inactive": false
     },
     {
-      "text": "However late you think you are, however many chances you think you have missed, you have not traveled beyond the reach of divine love.",
-      "author": "Jeffrey R. Holland",
-      "date": "2026-05-19",
-      "inactive": false
-    },
-    {
-      "text": "Go confidently in the direction of your dreams. Live the life you have imagined.",
-      "author": "Henry David Thoreau",
-      "date": "2026-05-18",
-      "inactive": false
-    },
-    {
-      "text": "Doubt your doubts before you doubt your faith.",
-      "author": "Dieter F. Uchtdorf",
-      "date": "2026-05-18",
-      "inactive": false
-    },
-    {
-      "text": "Hold on. Hope on.",
-      "author": "Jeffrey R. Holland",
-      "date": "2026-05-18",
-      "inactive": false
-    },
-    {
-      "text": "The joy we feel has little to do with the circumstances of our lives and everything to do with the focus of our lives.",
-      "author": "Russell M. Nelson",
-      "date": "2026-05-18",
-      "inactive": false
-    },
-    {
       "text": "There are far, far better things ahead than any we leave behind.",
       "author": "C.S. Lewis",
       "date": "2026-01-29",
@@ -660,13 +661,6 @@
       "deactivatedDate": "2026-02-26"
     },
     {
-      "text": "You have power over your mind - not outside events. Realize this, and you will find strength.",
-      "author": "Marcus Aurelius",
-      "date": "2026-02-21",
-      "inactive": true,
-      "deactivatedDate": "2026-02-27"
-    },
-    {
       "text": "Energy and persistence conquer all things.",
       "author": "Benjamin Franklin",
       "date": "2026-02-20",
@@ -788,13 +782,6 @@
     {
       "text": "Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.",
       "author": "Brené Brown",
-      "date": "2026-03-10",
-      "inactive": true,
-      "deactivatedDate": "2026-03-18"
-    },
-    {
-      "text": "Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world.",
-      "author": "Desmond Tutu",
       "date": "2026-03-10",
       "inactive": true,
       "deactivatedDate": "2026-03-18"
@@ -1480,14 +1467,6 @@
       "deactivatedDate": "2026-05-01"
     },
     {
-      "text": "The proper function of man is to live, not to exist. I shall not waste my days in trying to \nprolong them. I shall use my time…",
-      "author": "Jack London",
-      "date": "2026-04-20",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-05-01"
-    },
-    {
       "text": "Without a struggle, there can be no progress.",
       "author": "Frederick Douglass",
       "date": "2026-04-21",
@@ -1733,13 +1712,6 @@
       "deactivatedDate": "2026-05-12"
     },
     {
-      "text": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.",
-      "author": "J.K. Rowling",
-      "date": "2026-05-01",
-      "inactive": true,
-      "deactivatedDate": "2026-05-12"
-    },
-    {
       "text": "Luck is what happens when preparation meets opportunity.",
       "author": "Seneca",
       "date": "2026-04-30",
@@ -1848,13 +1820,6 @@
       "text": "Follow your bliss and the universe will open doors where there were only walls.",
       "author": "Joseph Campbell",
       "date": "2026-05-05",
-      "inactive": true,
-      "deactivatedDate": "2026-05-16"
-    },
-    {
-      "text": "Courage doesn't always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.'",
-      "author": "Mary Anne Radmacher",
-      "date": "2026-05-04",
       "inactive": true,
       "deactivatedDate": "2026-05-16"
     },
@@ -2329,9 +2294,44 @@
       "date": "2026-05-17",
       "inactive": true,
       "deactivatedDate": "2026-05-30"
+    },
+    {
+      "text": "However late you think you are, however many chances you think you have missed, you have not traveled beyond the reach of divine love.",
+      "author": "Jeffrey R. Holland",
+      "date": "2026-05-19",
+      "inactive": true,
+      "deactivatedDate": "2026-05-31"
+    },
+    {
+      "text": "Go confidently in the direction of your dreams. Live the life you have imagined.",
+      "author": "Henry David Thoreau",
+      "date": "2026-05-18",
+      "inactive": true,
+      "deactivatedDate": "2026-05-31"
+    },
+    {
+      "text": "Doubt your doubts before you doubt your faith.",
+      "author": "Dieter F. Uchtdorf",
+      "date": "2026-05-18",
+      "inactive": true,
+      "deactivatedDate": "2026-05-31"
+    },
+    {
+      "text": "Hold on. Hope on.",
+      "author": "Jeffrey R. Holland",
+      "date": "2026-05-18",
+      "inactive": true,
+      "deactivatedDate": "2026-05-31"
+    },
+    {
+      "text": "The joy we feel has little to do with the circumstances of our lives and everything to do with the focus of our lives.",
+      "author": "Russell M. Nelson",
+      "date": "2026-05-18",
+      "inactive": true,
+      "deactivatedDate": "2026-05-31"
     }
   ],
-  "lastRotation": "2026-05-30",
+  "lastRotation": "2026-05-31",
   "totalQuotes": 343,
   "activeQuotes": 67,
   "inactiveQuotes": 276
