@@ -1,13 +1,5 @@
 {
-  "pending": [
-    {
-      "id": "1780249095161",
-      "wisdom": "Get up every day and try a little harder than the day before.",
-      "author": "Emeril Lagassi",
-      "date": "2026-05-31",
-      "submittedAt": "2026-05-31T17:38:15.164Z"
-    }
-  ],
-  "approvedCount": 31,
+  "pending": [],
+  "approvedCount": 32,
   "rejectedCount": 3
 }
