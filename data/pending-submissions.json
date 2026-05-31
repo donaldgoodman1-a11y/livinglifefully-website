@@ -1,13 +1,5 @@
 {
-  "pending": [
-    {
-      "id": "1780253765635",
-      "wisdom": "I believe in the goodness of a free society. And I believe that society can remain good only as long as we are willing to fight for it — and to fight against whatever imperfections may exist.",
-      "author": "Jackie Robinson",
-      "date": "2026-05-31",
-      "submittedAt": "2026-05-31T18:56:05.637Z"
-    }
-  ],
-  "approvedCount": 32,
+  "pending": [],
+  "approvedCount": 33,
   "rejectedCount": 3
 }
