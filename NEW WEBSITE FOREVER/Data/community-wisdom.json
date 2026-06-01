@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Hope is being able to see that there is light despite all of the darkness.",
+      "author": "Desmond Tutu",
+      "date": "2026-06-01",
+      "inactive": false
+    },
+    {
+      "text": "A pleasure is not full grown until it is remembered.",
+      "author": "C.S. Lewis",
+      "date": "2026-06-01",
+      "inactive": false
+    },
+    {
+      "text": "We must be willing to let go of the life we planned so as to have the life that is waiting for us.",
+      "author": "Joseph Campbell",
+      "date": "2026-06-01",
+      "inactive": false
+    },
+    {
+      "text": "Trust in the Lord with all thine heart; and lean not unto thine own understanding.",
+      "author": "King Solomon",
+      "date": "2026-06-01",
+      "inactive": false
+    },
+    {
+      "text": "In the middle of difficulty lies opportunity.",
+      "author": "Albert Einstein",
+      "date": "2026-06-01",
+      "inactive": false
+    },
+    {
       "text": "I believe in the goodness of a free society. And I believe that society can remain good only as long as we are willing to fight for it — and to fight against whatever imperfections may exist.",
       "author": "Jackie Robinson",
       "date": "2026-05-31",
@@ -391,36 +421,6 @@
       "inactive": false
     },
     {
-      "text": "Peace comes from within. Do not seek it without.",
-      "author": "Thich Nhat Hanh",
-      "date": "2026-05-20",
-      "inactive": false
-    },
-    {
-      "text": "I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live by the light that I have.",
-      "author": "Abraham Lincoln",
-      "date": "2026-05-19",
-      "inactive": false
-    },
-    {
-      "text": "I wish it need not have happened in my time, said Frodo. So do I, said Gandalf, and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.",
-      "author": "J.R.R. Tolkien",
-      "date": "2026-05-19",
-      "inactive": false
-    },
-    {
-      "text": "The issue for us is trusting God enough to trust also His timing.",
-      "author": "Neal A. Maxwell",
-      "date": "2026-05-19",
-      "inactive": false
-    },
-    {
-      "text": "“If I die before my dog, please show him my dead body. dogs can process death, but I would hate for him to think I abandoned him”.",
-      "author": "Unknown",
-      "date": "2026-05-19",
-      "inactive": false
-    },
-    {
       "text": "There are far, far better things ahead than any we leave behind.",
       "author": "C.S. Lewis",
       "date": "2026-01-29",
@@ -605,13 +605,6 @@
       "deactivatedDate": "2026-02-13"
     },
     {
-      "text": "Trust in the Lord with all thine heart; and lean not unto thine own understanding.",
-      "author": "King Solomon",
-      "date": "2026-02-12",
-      "inactive": true,
-      "deactivatedDate": "2026-02-13"
-    },
-    {
       "text": "You're off to great places! Today is your day! Your mountain is waiting, so get on your way!",
       "author": "Dr. Seuss",
       "date": "2026-02-12",
@@ -624,13 +617,6 @@
       "date": "2026-02-12",
       "inactive": true,
       "deactivatedDate": "2026-02-19"
-    },
-    {
-      "text": "In the middle of difficulty lies opportunity.",
-      "author": "Albert Einstein",
-      "date": "2026-02-13",
-      "inactive": true,
-      "deactivatedDate": "2026-02-20"
     },
     {
       "text": "Keep your face to the sunshine and you cannot see a shadow.",
@@ -1081,13 +1067,6 @@
       "deactivatedDate": "2026-04-08"
     },
     {
-      "text": "A pleasure is not full grown until it is remembered.",
-      "author": "C.S. Lewis",
-      "date": "2026-04-01",
-      "inactive": true,
-      "deactivatedDate": "2026-04-09"
-    },
-    {
       "text": "You miss 100% of the shots you don't take.",
       "author": "Wayne Gretzky",
       "date": "2026-03-31",
@@ -1321,13 +1300,6 @@
     {
       "text": "The weak can never forgive. Forgiveness is the attribute of the strong.",
       "author": "Mahatma Gandhi",
-      "date": "2026-04-16",
-      "inactive": true,
-      "deactivatedDate": "2026-04-25"
-    },
-    {
-      "text": "Hope is being able to see that there is light despite all of the darkness.",
-      "author": "Desmond Tutu",
       "date": "2026-04-16",
       "inactive": true,
       "deactivatedDate": "2026-04-25"
@@ -1624,13 +1596,6 @@
       "text": "If you're going through hell, keep going.",
       "author": "Winston Churchill",
       "date": "2026-04-27",
-      "inactive": true,
-      "deactivatedDate": "2026-05-08"
-    },
-    {
-      "text": "We must be willing to let go of the life we planned so as to have the life that is waiting for us.",
-      "author": "Joseph Campbell",
-      "date": "2026-04-26",
       "inactive": true,
       "deactivatedDate": "2026-05-08"
     },
@@ -2343,9 +2308,44 @@
       "date": "2026-05-18",
       "inactive": true,
       "deactivatedDate": "2026-05-31"
+    },
+    {
+      "text": "Peace comes from within. Do not seek it without.",
+      "author": "Thich Nhat Hanh",
+      "date": "2026-05-20",
+      "inactive": true,
+      "deactivatedDate": "2026-06-01"
+    },
+    {
+      "text": "I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live by the light that I have.",
+      "author": "Abraham Lincoln",
+      "date": "2026-05-19",
+      "inactive": true,
+      "deactivatedDate": "2026-06-01"
+    },
+    {
+      "text": "I wish it need not have happened in my time, said Frodo. So do I, said Gandalf, and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-05-19",
+      "inactive": true,
+      "deactivatedDate": "2026-06-01"
+    },
+    {
+      "text": "The issue for us is trusting God enough to trust also His timing.",
+      "author": "Neal A. Maxwell",
+      "date": "2026-05-19",
+      "inactive": true,
+      "deactivatedDate": "2026-06-01"
+    },
+    {
+      "text": "“If I die before my dog, please show him my dead body. dogs can process death, but I would hate for him to think I abandoned him”.",
+      "author": "Unknown",
+      "date": "2026-05-19",
+      "inactive": true,
+      "deactivatedDate": "2026-06-01"
     }
   ],
-  "lastRotation": "2026-05-31",
+  "lastRotation": "2026-06-01",
   "totalQuotes": 345,
   "activeQuotes": 69,
   "inactiveQuotes": 276
