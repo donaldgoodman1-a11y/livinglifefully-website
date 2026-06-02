@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Weeping may endure for a night, but joy cometh in the morning.",
+      "author": "King David",
+      "date": "2026-06-02",
+      "inactive": false
+    },
+    {
+      "text": "An investment in knowledge pays the best interest.",
+      "author": "Benjamin Franklin",
+      "date": "2026-06-02",
+      "inactive": false
+    },
+    {
+      "text": "The obstacle is the way.",
+      "author": "Ryan Holiday",
+      "date": "2026-06-02",
+      "inactive": false
+    },
+    {
+      "text": "To pay attention, this is our endless and proper work.",
+      "author": "Mary Oliver",
+      "date": "2026-06-02",
+      "inactive": false
+    },
+    {
+      "text": "If you can dream it, you can do it.",
+      "author": "Walt Disney",
+      "date": "2026-06-02",
+      "inactive": false
+    },
+    {
       "text": "Hope is being able to see that there is light despite all of the darkness.",
       "author": "Desmond Tutu",
       "date": "2026-06-01",
@@ -391,36 +421,6 @@
       "inactive": false
     },
     {
-      "text": "You don't have to be perfect to be loved.",
-      "author": "Russell M. Nelson",
-      "date": "2026-05-21",
-      "inactive": false
-    },
-    {
-      "text": "Isn't it funny how day by day nothing changes, but when you look back, everything is different.",
-      "author": "C.S. Lewis",
-      "date": "2026-05-20",
-      "inactive": false
-    },
-    {
-      "text": "Happiness can be found even in the darkest of times, if one only remembers to turn on the light.",
-      "author": "J.K. Rowling",
-      "date": "2026-05-20",
-      "inactive": false
-    },
-    {
-      "text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
-      "author": "Helen Keller",
-      "date": "2026-05-20",
-      "inactive": false
-    },
-    {
-      "text": "In three words I can sum up everything I've learned about life: it goes on.",
-      "author": "Robert Frost",
-      "date": "2026-05-20",
-      "inactive": false
-    },
-    {
       "text": "There are far, far better things ahead than any we leave behind.",
       "author": "C.S. Lewis",
       "date": "2026-01-29",
@@ -666,13 +666,6 @@
       "date": "2026-02-20",
       "inactive": true,
       "deactivatedDate": "2026-02-27"
-    },
-    {
-      "text": "An investment in knowledge pays the best interest.",
-      "author": "Benjamin Franklin",
-      "date": "2026-02-22",
-      "inactive": true,
-      "deactivatedDate": "2026-03-01"
     },
     {
       "text": "We choose to be in control or choose to surrender.",
@@ -990,13 +983,6 @@
       "deactivatedDate": "2026-04-04"
     },
     {
-      "text": "If you can dream it, you can do it.",
-      "author": "Walt Disney",
-      "date": "2026-03-26",
-      "inactive": true,
-      "deactivatedDate": "2026-04-04"
-    },
-    {
       "text": "The brick walls are there for a reason. They're not there to keep us out. The brick walls are there to give us a chance to show how badly we want something.",
       "author": "Randy Pausch",
       "date": "2026-03-28",
@@ -1076,13 +1062,6 @@
     {
       "text": "When we long for life without difficulties, remember that oaks grow strong in contrary winds and diamonds are made under pressure.",
       "author": "Peter Marshall",
-      "date": "2026-04-02",
-      "inactive": true,
-      "deactivatedDate": "2026-04-10"
-    },
-    {
-      "text": "To pay attention, this is our endless and proper work.",
-      "author": "Mary Oliver",
       "date": "2026-04-02",
       "inactive": true,
       "deactivatedDate": "2026-04-10"
@@ -1226,13 +1205,6 @@
       "date": "2026-04-09",
       "inactive": true,
       "deactivatedDate": "2026-04-18"
-    },
-    {
-      "text": "The obstacle is the way.",
-      "author": "Ryan Holiday",
-      "date": "2026-04-10",
-      "inactive": true,
-      "deactivatedDate": "2026-04-19"
     },
     {
       "text": "Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!",
@@ -1469,13 +1441,6 @@
     {
       "text": "A goal without a plan is just a wish.",
       "author": "Antoine de Saint-Exupéry",
-      "date": "2026-04-22",
-      "inactive": true,
-      "deactivatedDate": "2026-05-03"
-    },
-    {
-      "text": "Weeping may endure for a night, but joy cometh in the morning.",
-      "author": "King David",
       "date": "2026-04-22",
       "inactive": true,
       "deactivatedDate": "2026-05-03"
@@ -2343,9 +2308,44 @@
       "date": "2026-05-19",
       "inactive": true,
       "deactivatedDate": "2026-06-01"
+    },
+    {
+      "text": "You don't have to be perfect to be loved.",
+      "author": "Russell M. Nelson",
+      "date": "2026-05-21",
+      "inactive": true,
+      "deactivatedDate": "2026-06-02"
+    },
+    {
+      "text": "Isn't it funny how day by day nothing changes, but when you look back, everything is different.",
+      "author": "C.S. Lewis",
+      "date": "2026-05-20",
+      "inactive": true,
+      "deactivatedDate": "2026-06-02"
+    },
+    {
+      "text": "Happiness can be found even in the darkest of times, if one only remembers to turn on the light.",
+      "author": "J.K. Rowling",
+      "date": "2026-05-20",
+      "inactive": true,
+      "deactivatedDate": "2026-06-02"
+    },
+    {
+      "text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
+      "author": "Helen Keller",
+      "date": "2026-05-20",
+      "inactive": true,
+      "deactivatedDate": "2026-06-02"
+    },
+    {
+      "text": "In three words I can sum up everything I've learned about life: it goes on.",
+      "author": "Robert Frost",
+      "date": "2026-05-20",
+      "inactive": true,
+      "deactivatedDate": "2026-06-02"
     }
   ],
-  "lastRotation": "2026-06-01",
+  "lastRotation": "2026-06-02",
   "totalQuotes": 345,
   "activeQuotes": 69,
   "inactiveQuotes": 276
