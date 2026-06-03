@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "The impediment to action advances action. What stands in the way becomes the way.",
+      "author": "Ryan Holiday",
+      "date": "2026-06-03",
+      "inactive": false
+    },
+    {
+      "text": "Success is liking yourself, liking what you do, and liking how you do it.",
+      "author": "Maya Angelou",
+      "date": "2026-06-03",
+      "inactive": false
+    },
+    {
+      "text": "Lift where you stand.",
+      "author": "Dieter F. Uchtdorf",
+      "date": "2026-06-03",
+      "inactive": false
+    },
+    {
+      "text": "It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.",
+      "author": "Seneca",
+      "date": "2026-06-03",
+      "inactive": false
+    },
+    {
+      "text": "The secret to so many artists living so long is that every painting is a new adventure. So, you see, they're always looking ahead to something new and exciting.",
+      "author": "Norman Rockwell",
+      "date": "2026-06-03",
+      "inactive": false
+    },
+    {
       "text": "Weeping may endure for a night, but joy cometh in the morning.",
       "author": "King David",
       "date": "2026-06-02",
@@ -391,36 +421,6 @@
       "inactive": false
     },
     {
-      "text": "If you accomplish something good with hard work, the labor passes quickly, but the good endures; if you do something shameful in pursuit of pleasure, the pleasure passes quickly, but the shame endures.",
-      "author": "Musonius Rufus",
-      "date": "2026-05-22",
-      "inactive": false
-    },
-    {
-      "text": "You are never too old to set another goal or to dream a new dream.",
-      "author": "C.S. Lewis",
-      "date": "2026-05-21",
-      "inactive": false
-    },
-    {
-      "text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest.",
-      "author": "Jesus Christ",
-      "date": "2026-05-21",
-      "inactive": false
-    },
-    {
-      "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
-      "author": "Zig Ziglar",
-      "date": "2026-05-21",
-      "inactive": false
-    },
-    {
-      "text": "There is no innovation and creativity without failure. Period.",
-      "author": "Brené Brown",
-      "date": "2026-05-21",
-      "inactive": false
-    },
-    {
       "text": "There are far, far better things ahead than any we leave behind.",
       "author": "C.S. Lewis",
       "date": "2026-01-29",
@@ -463,12 +463,6 @@
       "inactive": true
     },
     {
-      "text": "It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.",
-      "author": "Seneca",
-      "date": "2026-01-16",
-      "inactive": true
-    },
-    {
       "text": "When we are no longer able to change a situation, we are challenged to change ourselves.",
       "author": "Viktor Frankl",
       "date": "2026-01-14",
@@ -484,12 +478,6 @@
       "text": "Knowing your own darkness is the best method for dealing with the darknesses of other people.",
       "author": "Carl Jung",
       "date": "2026-01-11",
-      "inactive": true
-    },
-    {
-      "text": "The secret to so many artists living so long is that every painting is a new adventure. So, you see, they're always looking ahead to something new and exciting.",
-      "author": "Norman Rockwell",
-      "date": "2026-01-10",
       "inactive": true
     },
     {
@@ -562,12 +550,6 @@
       "text": "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
       "author": "Benjamin Franklin",
       "date": "2025-12-16",
-      "inactive": true
-    },
-    {
-      "text": "The impediment to action advances action. What stands in the way becomes the way.",
-      "author": "Ryan Holiday",
-      "date": "2025-12-15",
       "inactive": true
     },
     {
@@ -747,13 +729,6 @@
     {
       "text": "I grew up like a neglected weed, ignorant of liberty, having no experience of it.",
       "author": "Harriet Tubman",
-      "date": "2026-03-06",
-      "inactive": true,
-      "deactivatedDate": "2026-03-14"
-    },
-    {
-      "text": "Lift where you stand.",
-      "author": "Dieter F. Uchtdorf",
       "date": "2026-03-06",
       "inactive": true,
       "deactivatedDate": "2026-03-14"
@@ -1649,13 +1624,6 @@
       "deactivatedDate": "2026-05-12"
     },
     {
-      "text": "Success is liking yourself, liking what you do, and liking how you do it.",
-      "author": "Maya Angelou",
-      "date": "2026-05-01",
-      "inactive": true,
-      "deactivatedDate": "2026-05-12"
-    },
-    {
       "text": "Luck is what happens when preparation meets opportunity.",
       "author": "Seneca",
       "date": "2026-04-30",
@@ -2343,9 +2311,44 @@
       "date": "2026-05-20",
       "inactive": true,
       "deactivatedDate": "2026-06-02"
+    },
+    {
+      "text": "If you accomplish something good with hard work, the labor passes quickly, but the good endures; if you do something shameful in pursuit of pleasure, the pleasure passes quickly, but the shame endures.",
+      "author": "Musonius Rufus",
+      "date": "2026-05-22",
+      "inactive": true,
+      "deactivatedDate": "2026-06-03"
+    },
+    {
+      "text": "You are never too old to set another goal or to dream a new dream.",
+      "author": "C.S. Lewis",
+      "date": "2026-05-21",
+      "inactive": true,
+      "deactivatedDate": "2026-06-03"
+    },
+    {
+      "text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest.",
+      "author": "Jesus Christ",
+      "date": "2026-05-21",
+      "inactive": true,
+      "deactivatedDate": "2026-06-03"
+    },
+    {
+      "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+      "author": "Zig Ziglar",
+      "date": "2026-05-21",
+      "inactive": true,
+      "deactivatedDate": "2026-06-03"
+    },
+    {
+      "text": "There is no innovation and creativity without failure. Period.",
+      "author": "Brené Brown",
+      "date": "2026-05-21",
+      "inactive": true,
+      "deactivatedDate": "2026-06-03"
     }
   ],
-  "lastRotation": "2026-06-02",
+  "lastRotation": "2026-06-03",
   "totalQuotes": 345,
   "activeQuotes": 69,
   "inactiveQuotes": 276
