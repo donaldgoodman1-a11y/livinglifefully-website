@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Three things cannot be long hidden: the sun, the moon, and the truth.",
+      "author": "Buddha",
+      "date": "2026-06-04",
+      "inactive": false
+    },
+    {
+      "text": "The privilege of a lifetime is being who you are.",
+      "author": "Joseph Campbell",
+      "date": "2026-06-04",
+      "inactive": false
+    },
+    {
+      "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
+      "author": "Confucius",
+      "date": "2026-06-04",
+      "inactive": false
+    },
+    {
+      "text": "Better to get on the bike and fall then never to get on the back at all.",
+      "author": "Dr Goodman",
+      "date": "2026-06-04",
+      "inactive": false
+    },
+    {
+      "text": "You don't have to be perfect to be loved.",
+      "author": "Russell M. Nelson",
+      "date": "2026-06-04",
+      "inactive": false
+    },
+    {
       "text": "The impediment to action advances action. What stands in the way becomes the way.",
       "author": "Ryan Holiday",
       "date": "2026-06-03",
@@ -388,37 +418,6 @@
       "date": "2026-05-22",
       "inactive": false,
       "communitySubmission": true
-    },
-    {
-      "text": "Life is like riding a bicycle: to keep your balance you must keep moving.",
-      "author": "Albert Einstein",
-      "date": "2026-05-22",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "Why fit in when you were born to stand out?",
-      "author": "Dr. Seuss",
-      "date": "2026-05-22",
-      "inactive": false
-    },
-    {
-      "text": "Even the smallest person can change the course of the future.",
-      "author": "J.R.R. Tolkien",
-      "date": "2026-05-22",
-      "inactive": false
-    },
-    {
-      "text": "Let us not pray to be sheltered from dangers but to be fearless when facing them.",
-      "author": "Rabindranath Tagore",
-      "date": "2026-05-22",
-      "inactive": false
-    },
-    {
-      "text": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-05-22",
-      "inactive": false
     },
     {
       "text": "There are far, far better things ahead than any we leave behind.",
@@ -902,13 +901,6 @@
       "deactivatedDate": "2026-03-31"
     },
     {
-      "text": "The privilege of a lifetime is being who you are.",
-      "author": "Joseph Campbell",
-      "date": "2026-03-24",
-      "inactive": true,
-      "deactivatedDate": "2026-04-01"
-    },
-    {
       "text": "Owning our story and loving ourselves through that process is the bravest thing that we'll ever do.",
       "author": "Brené Brown",
       "date": "2026-03-23",
@@ -925,13 +917,6 @@
     {
       "text": "It is only with the heart that one can see rightly; what is essential is invisible to the eye.",
       "author": "Antoine de Saint-Exupéry",
-      "date": "2026-03-24",
-      "inactive": true,
-      "deactivatedDate": "2026-04-02"
-    },
-    {
-      "text": "Three things cannot be long hidden: the sun, the moon, and the truth.",
-      "author": "Buddha",
       "date": "2026-03-24",
       "inactive": true,
       "deactivatedDate": "2026-04-02"
@@ -1435,13 +1420,6 @@
       "deactivatedDate": "2026-05-04"
     },
     {
-      "text": "Better to get on the bike and fall then never to get on the back at all.",
-      "author": "Dr Goodman",
-      "date": "2026-04-23",
-      "inactive": true,
-      "deactivatedDate": "2026-05-04"
-    },
-    {
       "text": "Our prime purpose in this life is to help others. And if you can't help them, at least don't hurt them.",
       "author": "Dalai Lama",
       "date": "2026-04-24",
@@ -1461,13 +1439,6 @@
       "date": "2026-04-23",
       "inactive": true,
       "deactivatedDate": "2026-05-05"
-    },
-    {
-      "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
-      "author": "Confucius",
-      "date": "2026-04-25",
-      "inactive": true,
-      "deactivatedDate": "2026-05-06"
     },
     {
       "text": "Gratitude is the healthiest of all human emotions.",
@@ -2278,13 +2249,6 @@
       "deactivatedDate": "2026-06-01"
     },
     {
-      "text": "You don't have to be perfect to be loved.",
-      "author": "Russell M. Nelson",
-      "date": "2026-05-21",
-      "inactive": true,
-      "deactivatedDate": "2026-06-02"
-    },
-    {
       "text": "Isn't it funny how day by day nothing changes, but when you look back, everything is different.",
       "author": "C.S. Lewis",
       "date": "2026-05-20",
@@ -2346,9 +2310,45 @@
       "date": "2026-05-21",
       "inactive": true,
       "deactivatedDate": "2026-06-03"
+    },
+    {
+      "text": "Life is like riding a bicycle: to keep your balance you must keep moving.",
+      "author": "Albert Einstein",
+      "date": "2026-05-22",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-06-04"
+    },
+    {
+      "text": "Why fit in when you were born to stand out?",
+      "author": "Dr. Seuss",
+      "date": "2026-05-22",
+      "inactive": true,
+      "deactivatedDate": "2026-06-04"
+    },
+    {
+      "text": "Even the smallest person can change the course of the future.",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-05-22",
+      "inactive": true,
+      "deactivatedDate": "2026-06-04"
+    },
+    {
+      "text": "Let us not pray to be sheltered from dangers but to be fearless when facing them.",
+      "author": "Rabindranath Tagore",
+      "date": "2026-05-22",
+      "inactive": true,
+      "deactivatedDate": "2026-06-04"
+    },
+    {
+      "text": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-05-22",
+      "inactive": true,
+      "deactivatedDate": "2026-06-04"
     }
   ],
-  "lastRotation": "2026-06-03",
+  "lastRotation": "2026-06-04",
   "totalQuotes": 345,
   "activeQuotes": 69,
   "inactiveQuotes": 276
