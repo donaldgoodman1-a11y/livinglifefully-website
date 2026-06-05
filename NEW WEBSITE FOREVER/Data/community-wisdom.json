@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live by the light that I have.",
+      "author": "Abraham Lincoln",
+      "date": "2026-06-05",
+      "inactive": false
+    },
+    {
+      "text": "A soft answer turneth away wrath.",
+      "author": "King Solomon",
+      "date": "2026-06-05",
+      "inactive": false
+    },
+    {
+      "text": "There are far, far better things ahead than any we leave behind.",
+      "author": "C.S. Lewis",
+      "date": "2026-06-05",
+      "inactive": false
+    },
+    {
+      "text": "No act of kindness, no matter how small, is ever wasted.",
+      "author": "Aesop",
+      "date": "2026-06-05",
+      "inactive": false
+    },
+    {
+      "text": "A small act is worth a million thoughts.",
+      "author": "Ai Weiwei",
+      "date": "2026-06-05",
+      "inactive": false
+    },
+    {
       "text": "Three things cannot be long hidden: the sun, the moon, and the truth.",
       "author": "Buddha",
       "date": "2026-06-04",
@@ -389,43 +419,6 @@
       "inactive": false
     },
     {
-      "text": "I can do all things through Christ which strengtheneth me.",
-      "author": "Paul the Apostle",
-      "date": "2026-05-23",
-      "inactive": false
-    },
-    {
-      "text": "He who has a why to live can bear almost any how.",
-      "author": "Friedrich Nietzsche",
-      "date": "2026-05-23",
-      "inactive": false
-    },
-    {
-      "text": "Each child brings his own blessing into the world.",
-      "author": "Talmud",
-      "date": "2026-05-23",
-      "inactive": false
-    },
-    {
-      "text": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
-      "author": "Eleanor Roosevelt",
-      "date": "2026-05-23",
-      "inactive": false
-    },
-    {
-      "text": "He who doesn’t see God everywhere isn’t capable of seeing Him anywhere.\nKotzker Rebbe",
-      "author": "Kotzker Rebbe",
-      "date": "2026-05-22",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "There are far, far better things ahead than any we leave behind.",
-      "author": "C.S. Lewis",
-      "date": "2026-01-29",
-      "inactive": true
-    },
-    {
       "text": "Don't cry because it's over, smile because it happened.",
       "author": "Dr. Seuss",
       "date": "2026-01-26",
@@ -456,12 +449,6 @@
       "inactive": true
     },
     {
-      "text": "No act of kindness, no matter how small, is ever wasted.",
-      "author": "Aesop",
-      "date": "2026-01-16",
-      "inactive": true
-    },
-    {
       "text": "When we are no longer able to change a situation, we are challenged to change ourselves.",
       "author": "Viktor Frankl",
       "date": "2026-01-14",
@@ -489,12 +476,6 @@
       "text": "The present moment is the only time over which we have dominion.",
       "author": "Thich Nhat Hanh",
       "date": "2026-01-06",
-      "inactive": true
-    },
-    {
-      "text": "A small act is worth a million thoughts.",
-      "author": "Ai Weiwei",
-      "date": "2026-01-04",
       "inactive": true
     },
     {
@@ -1158,13 +1139,6 @@
       "date": "2026-04-08",
       "inactive": true,
       "deactivatedDate": "2026-04-16"
-    },
-    {
-      "text": "A soft answer turneth away wrath.",
-      "author": "King Solomon",
-      "date": "2026-04-09",
-      "inactive": true,
-      "deactivatedDate": "2026-04-18"
     },
     {
       "text": "Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!",
@@ -2221,13 +2195,6 @@
       "deactivatedDate": "2026-06-01"
     },
     {
-      "text": "I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live by the light that I have.",
-      "author": "Abraham Lincoln",
-      "date": "2026-05-19",
-      "inactive": true,
-      "deactivatedDate": "2026-06-01"
-    },
-    {
       "text": "I wish it need not have happened in my time, said Frodo. So do I, said Gandalf, and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.",
       "author": "J.R.R. Tolkien",
       "date": "2026-05-19",
@@ -2346,9 +2313,45 @@
       "date": "2026-05-22",
       "inactive": true,
       "deactivatedDate": "2026-06-04"
+    },
+    {
+      "text": "I can do all things through Christ which strengtheneth me.",
+      "author": "Paul the Apostle",
+      "date": "2026-05-23",
+      "inactive": true,
+      "deactivatedDate": "2026-06-05"
+    },
+    {
+      "text": "He who has a why to live can bear almost any how.",
+      "author": "Friedrich Nietzsche",
+      "date": "2026-05-23",
+      "inactive": true,
+      "deactivatedDate": "2026-06-05"
+    },
+    {
+      "text": "Each child brings his own blessing into the world.",
+      "author": "Talmud",
+      "date": "2026-05-23",
+      "inactive": true,
+      "deactivatedDate": "2026-06-05"
+    },
+    {
+      "text": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-05-23",
+      "inactive": true,
+      "deactivatedDate": "2026-06-05"
+    },
+    {
+      "text": "He who doesn’t see God everywhere isn’t capable of seeing Him anywhere.\nKotzker Rebbe",
+      "author": "Kotzker Rebbe",
+      "date": "2026-05-22",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-06-05"
     }
   ],
-  "lastRotation": "2026-06-04",
+  "lastRotation": "2026-06-05",
   "totalQuotes": 345,
   "activeQuotes": 69,
   "inactiveQuotes": 276
