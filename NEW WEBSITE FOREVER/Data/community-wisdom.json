@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Friendship is born at that moment when one person says to another: What! You too? I thought I was the only one.",
+      "author": "C.S. Lewis",
+      "date": "2026-06-06",
+      "inactive": false
+    },
+    {
+      "text": "Faith is taking the first step even when you don't see the whole staircase.",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-06-06",
+      "inactive": false
+    },
+    {
+      "text": "Fantasy is hardly an escape from reality. It's a way of understanding it.",
+      "author": "Lloyd Alexander",
+      "date": "2026-06-06",
+      "inactive": false
+    },
+    {
+      "text": "Don't cry because it's over, smile because it happened.",
+      "author": "Dr. Seuss",
+      "date": "2026-06-06",
+      "inactive": false
+    },
+    {
+      "text": "Not all those who wander are lost.",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-06-06",
+      "inactive": false
+    },
+    {
       "text": "I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live by the light that I have.",
       "author": "Abraham Lincoln",
       "date": "2026-06-05",
@@ -389,42 +419,6 @@
       "inactive": false
     },
     {
-      "text": "The future belongs to those who believe in the beauty of their dreams.",
-      "author": "Eleanor Roosevelt",
-      "date": "2026-05-24",
-      "inactive": false
-    },
-    {
-      "text": "Prayer is not asking. Prayer is putting oneself in the hands of God.",
-      "author": "Mother Teresa",
-      "date": "2026-05-24",
-      "inactive": false
-    },
-    {
-      "text": "For I know the thoughts that I think toward you, saith the Lord, thoughts of peace, and not of evil.",
-      "author": "Jeremiah",
-      "date": "2026-05-24",
-      "inactive": false
-    },
-    {
-      "text": "It's not about how to achieve your dreams, it's about how to lead your life. If you lead your life the right way, the karma will take care of itself.",
-      "author": "Randy Pausch",
-      "date": "2026-05-24",
-      "inactive": false
-    },
-    {
-      "text": "Everything has beauty, but not everyone sees it.",
-      "author": "Confucius",
-      "date": "2026-05-23",
-      "inactive": false
-    },
-    {
-      "text": "Don't cry because it's over, smile because it happened.",
-      "author": "Dr. Seuss",
-      "date": "2026-01-26",
-      "inactive": true
-    },
-    {
       "text": "Humility is not thinking less of yourself, it's thinking of yourself less.",
       "author": "C.S. Lewis",
       "date": "2026-01-23",
@@ -637,13 +631,6 @@
       "deactivatedDate": "2026-03-02"
     },
     {
-      "text": "Faith is taking the first step even when you don't see the whole staircase.",
-      "author": "Martin Luther King Jr.",
-      "date": "2026-02-25",
-      "inactive": true,
-      "deactivatedDate": "2026-03-04"
-    },
-    {
       "text": "To love at all is to be vulnerable.",
       "author": "C.S. Lewis",
       "date": "2026-02-25",
@@ -653,13 +640,6 @@
     {
       "text": "Today you are you, that is truer than true. There is no one alive who is youer than you.",
       "author": "Dr. Seuss",
-      "date": "2026-02-27",
-      "inactive": true,
-      "deactivatedDate": "2026-03-06"
-    },
-    {
-      "text": "Fantasy is hardly an escape from reality. It's a way of understanding it.",
-      "author": "Lloyd Alexander",
       "date": "2026-02-27",
       "inactive": true,
       "deactivatedDate": "2026-03-06"
@@ -1115,13 +1095,6 @@
     {
       "text": "The happiness of your life depends upon the quality of your thoughts.",
       "author": "Marcus Aurelius",
-      "date": "2026-04-06",
-      "inactive": true,
-      "deactivatedDate": "2026-04-15"
-    },
-    {
-      "text": "Not all those who wander are lost.",
-      "author": "J.R.R. Tolkien",
       "date": "2026-04-06",
       "inactive": true,
       "deactivatedDate": "2026-04-15"
@@ -1835,13 +1808,6 @@
       "deactivatedDate": "2026-05-22"
     },
     {
-      "text": "Friendship is born at that moment when one person says to another: What! You too? I thought I was the only one.",
-      "author": "C.S. Lewis",
-      "date": "2026-05-11",
-      "inactive": true,
-      "deactivatedDate": "2026-05-22"
-    },
-    {
       "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
       "author": "Martin Luther King Jr.",
       "date": "2026-05-11",
@@ -2349,9 +2315,44 @@
       "inactive": true,
       "communitySubmission": true,
       "deactivatedDate": "2026-06-05"
+    },
+    {
+      "text": "The future belongs to those who believe in the beauty of their dreams.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-05-24",
+      "inactive": true,
+      "deactivatedDate": "2026-06-06"
+    },
+    {
+      "text": "Prayer is not asking. Prayer is putting oneself in the hands of God.",
+      "author": "Mother Teresa",
+      "date": "2026-05-24",
+      "inactive": true,
+      "deactivatedDate": "2026-06-06"
+    },
+    {
+      "text": "For I know the thoughts that I think toward you, saith the Lord, thoughts of peace, and not of evil.",
+      "author": "Jeremiah",
+      "date": "2026-05-24",
+      "inactive": true,
+      "deactivatedDate": "2026-06-06"
+    },
+    {
+      "text": "It's not about how to achieve your dreams, it's about how to lead your life. If you lead your life the right way, the karma will take care of itself.",
+      "author": "Randy Pausch",
+      "date": "2026-05-24",
+      "inactive": true,
+      "deactivatedDate": "2026-06-06"
+    },
+    {
+      "text": "Everything has beauty, but not everyone sees it.",
+      "author": "Confucius",
+      "date": "2026-05-23",
+      "inactive": true,
+      "deactivatedDate": "2026-06-06"
     }
   ],
-  "lastRotation": "2026-06-05",
+  "lastRotation": "2026-06-06",
   "totalQuotes": 345,
   "activeQuotes": 69,
   "inactiveQuotes": 276
