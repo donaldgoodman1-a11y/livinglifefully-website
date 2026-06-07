@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "The wound is the place where the Light enters you.",
+      "author": "Rumi",
+      "date": "2026-06-07",
+      "inactive": false
+    },
+    {
+      "text": "Kind words can be short and easy to speak, but their echoes are truly endless.",
+      "author": "Mother Teresa",
+      "date": "2026-06-07",
+      "inactive": false
+    },
+    {
+      "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-06-07",
+      "inactive": false
+    },
+    {
+      "text": "It's kind of fun to do the impossible.",
+      "author": "Walt Disney",
+      "date": "2026-06-07",
+      "inactive": false
+    },
+    {
+      "text": "The cave you fear to enter holds the treasure you seek.",
+      "author": "Joseph Campbell",
+      "date": "2026-06-07",
+      "inactive": false
+    },
+    {
       "text": "Friendship is born at that moment when one person says to another: What! You too? I thought I was the only one.",
       "author": "C.S. Lewis",
       "date": "2026-06-06",
@@ -389,36 +419,6 @@
       "inactive": false
     },
     {
-      "text": "If you judge people, you have no time to love them.",
-      "author": "Mother Teresa",
-      "date": "2026-05-25",
-      "inactive": false
-    },
-    {
-      "text": "Life's most persistent and urgent question is, 'What are you doing for others?'",
-      "author": "Martin Luther King Jr.",
-      "date": "2026-05-25",
-      "inactive": false
-    },
-    {
-      "text": "You can't use up creativity. The more you use, the more you have.",
-      "author": "Maya Angelou",
-      "date": "2026-05-25",
-      "inactive": false
-    },
-    {
-      "text": "Your work is to discover your work and then with all your heart to give yourself to it.",
-      "author": "Buddha",
-      "date": "2026-05-25",
-      "inactive": false
-    },
-    {
-      "text": "I feel that there is nothing more truly artistic than to love people.",
-      "author": "Vincent Van Gogh",
-      "date": "2026-05-24",
-      "inactive": false
-    },
-    {
       "text": "Humility is not thinking less of yourself, it's thinking of yourself less.",
       "author": "C.S. Lewis",
       "date": "2026-01-23",
@@ -509,12 +509,6 @@
       "inactive": true
     },
     {
-      "text": "It's kind of fun to do the impossible.",
-      "author": "Walt Disney",
-      "date": "2025-12-21",
-      "inactive": true
-    },
-    {
       "text": "A winner is a dreamer who never gives up.",
       "author": "Nelson Mandela",
       "date": "2025-12-19",
@@ -601,13 +595,6 @@
       "date": "2026-02-17",
       "inactive": true,
       "deactivatedDate": "2026-02-24"
-    },
-    {
-      "text": "The cave you fear to enter holds the treasure you seek.",
-      "author": "Joseph Campbell",
-      "date": "2026-02-20",
-      "inactive": true,
-      "deactivatedDate": "2026-02-26"
     },
     {
       "text": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you.",
@@ -717,13 +704,6 @@
     {
       "text": "Either write something worth reading or do something worth writing.",
       "author": "Benjamin Franklin",
-      "date": "2026-03-11",
-      "inactive": true,
-      "deactivatedDate": "2026-03-19"
-    },
-    {
-      "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
-      "author": "Ralph Waldo Emerson",
       "date": "2026-03-11",
       "inactive": true,
       "deactivatedDate": "2026-03-19"
@@ -895,13 +875,6 @@
       "date": "2026-03-26",
       "inactive": true,
       "deactivatedDate": "2026-04-03"
-    },
-    {
-      "text": "Kind words can be short and easy to speak, but their echoes are truly endless.",
-      "author": "Mother Teresa",
-      "date": "2026-03-27",
-      "inactive": true,
-      "deactivatedDate": "2026-04-04"
     },
     {
       "text": "The brick walls are there for a reason. They're not there to keep us out. The brick walls are there to give us a chance to show how badly we want something.",
@@ -1717,13 +1690,6 @@
       "deactivatedDate": "2026-05-18"
     },
     {
-      "text": "The wound is the place where the Light enters you.",
-      "author": "Rumi",
-      "date": "2026-05-06",
-      "inactive": true,
-      "deactivatedDate": "2026-05-18"
-    },
-    {
       "text": "Intelligence plus character—that is the goal of true education.",
       "author": "Martin Luther King Jr.",
       "date": "2026-05-08",
@@ -2350,9 +2316,44 @@
       "date": "2026-05-23",
       "inactive": true,
       "deactivatedDate": "2026-06-06"
+    },
+    {
+      "text": "If you judge people, you have no time to love them.",
+      "author": "Mother Teresa",
+      "date": "2026-05-25",
+      "inactive": true,
+      "deactivatedDate": "2026-06-07"
+    },
+    {
+      "text": "Life's most persistent and urgent question is, 'What are you doing for others?'",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-05-25",
+      "inactive": true,
+      "deactivatedDate": "2026-06-07"
+    },
+    {
+      "text": "You can't use up creativity. The more you use, the more you have.",
+      "author": "Maya Angelou",
+      "date": "2026-05-25",
+      "inactive": true,
+      "deactivatedDate": "2026-06-07"
+    },
+    {
+      "text": "Your work is to discover your work and then with all your heart to give yourself to it.",
+      "author": "Buddha",
+      "date": "2026-05-25",
+      "inactive": true,
+      "deactivatedDate": "2026-06-07"
+    },
+    {
+      "text": "I feel that there is nothing more truly artistic than to love people.",
+      "author": "Vincent Van Gogh",
+      "date": "2026-05-24",
+      "inactive": true,
+      "deactivatedDate": "2026-06-07"
     }
   ],
-  "lastRotation": "2026-06-06",
+  "lastRotation": "2026-06-07",
   "totalQuotes": 345,
   "activeQuotes": 69,
   "inactiveQuotes": 276
