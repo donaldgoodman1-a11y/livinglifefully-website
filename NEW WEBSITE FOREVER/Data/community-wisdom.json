@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Thousands of candles can be lighted from a single candle. Happiness never decreases by being shared.",
+      "author": "Buddha",
+      "date": "2026-06-08",
+      "inactive": false
+    },
+    {
+      "text": "The gospel is a message of hope and salvation for all.",
+      "author": "Henry B. Eyring",
+      "date": "2026-06-08",
+      "inactive": false
+    },
+    {
+      "text": "When I do good, I feel good. When I do bad, I feel bad. That's my religion.",
+      "author": "Abraham Lincoln",
+      "date": "2026-06-08",
+      "inactive": false
+    },
+    {
+      "text": "We read to know we are not alone.",
+      "author": "C.S. Lewis",
+      "date": "2026-06-08",
+      "inactive": false
+    },
+    {
+      "text": "When we keep the commandments, the blessings come.",
+      "author": "Henry B. Eyring",
+      "date": "2026-06-08",
+      "inactive": false
+    },
+    {
       "text": "The wound is the place where the Light enters you.",
       "author": "Rumi",
       "date": "2026-06-07",
@@ -388,52 +418,9 @@
       "inactive": false
     },
     {
-      "text": "The enabling power of the Atonement strengthens us.",
-      "author": "David A. Bednar",
-      "date": "2026-05-26",
-      "inactive": false
-    },
-    {
-      "text": "You don't have to be great to start, but you have to start to be great.",
-      "author": "Zig Ziglar",
-      "date": "2026-05-26",
-      "inactive": false
-    },
-    {
-      "text": "To pull a friend out of the mire, don’t hesitate to get dirty.\nBaal Shem",
-      "author": "Baal Shem Tov",
-      "date": "2026-05-26",
-      "inactive": false
-    },
-    {
-      "text": "Sometimes the future changes quickly and completely, and we’re left with only the choice of what to do next. We can choose to be afraid of it. Just stand there trembling, not moving, assuming the worst that can happen. Or we step forward into the unknown, and assume it will be brilliant.\nDr. Cristina Yang (Sandra Oh) in “Grey’s Anatomy”",
-      "author": "Anonymous Reader",
-      "date": "2026-05-25",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "Be still, and know that I am God.",
-      "author": "King David",
-      "date": "2026-05-25",
-      "inactive": false
-    },
-    {
       "text": "Humility is not thinking less of yourself, it's thinking of yourself less.",
       "author": "C.S. Lewis",
       "date": "2026-01-23",
-      "inactive": true
-    },
-    {
-      "text": "We read to know we are not alone.",
-      "author": "C.S. Lewis",
-      "date": "2026-01-22",
-      "inactive": true
-    },
-    {
-      "text": "When I do good, I feel good. When I do bad, I feel bad. That's my religion.",
-      "author": "Abraham Lincoln",
-      "date": "2026-01-19",
       "inactive": true
     },
     {
@@ -679,13 +666,6 @@
       "date": "2026-03-06",
       "inactive": true,
       "deactivatedDate": "2026-03-14"
-    },
-    {
-      "text": "The gospel is a message of hope and salvation for all.",
-      "author": "Henry B. Eyring",
-      "date": "2026-03-09",
-      "inactive": true,
-      "deactivatedDate": "2026-03-17"
     },
     {
       "text": "No one can make you feel inferior without your consent.",
@@ -1247,13 +1227,6 @@
     {
       "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
       "author": "Ralph Waldo Emerson",
-      "date": "2026-04-19",
-      "inactive": true,
-      "deactivatedDate": "2026-04-29"
-    },
-    {
-      "text": "When we keep the commandments, the blessings come.",
-      "author": "Henry B. Eyring",
       "date": "2026-04-19",
       "inactive": true,
       "deactivatedDate": "2026-04-29"
@@ -1936,13 +1909,6 @@
       "deactivatedDate": "2026-05-26"
     },
     {
-      "text": "Thousands of candles can be lighted from a single candle. Happiness never decreases by being shared.",
-      "author": "Buddha",
-      "date": "2026-05-13",
-      "inactive": true,
-      "deactivatedDate": "2026-05-26"
-    },
-    {
       "text": "A person's a person, no matter how small.",
       "author": "Dr. Seuss",
       "date": "2026-05-15",
@@ -2351,9 +2317,45 @@
       "date": "2026-05-24",
       "inactive": true,
       "deactivatedDate": "2026-06-07"
+    },
+    {
+      "text": "The enabling power of the Atonement strengthens us.",
+      "author": "David A. Bednar",
+      "date": "2026-05-26",
+      "inactive": true,
+      "deactivatedDate": "2026-06-08"
+    },
+    {
+      "text": "You don't have to be great to start, but you have to start to be great.",
+      "author": "Zig Ziglar",
+      "date": "2026-05-26",
+      "inactive": true,
+      "deactivatedDate": "2026-06-08"
+    },
+    {
+      "text": "To pull a friend out of the mire, don’t hesitate to get dirty.\nBaal Shem",
+      "author": "Baal Shem Tov",
+      "date": "2026-05-26",
+      "inactive": true,
+      "deactivatedDate": "2026-06-08"
+    },
+    {
+      "text": "Sometimes the future changes quickly and completely, and we’re left with only the choice of what to do next. We can choose to be afraid of it. Just stand there trembling, not moving, assuming the worst that can happen. Or we step forward into the unknown, and assume it will be brilliant.\nDr. Cristina Yang (Sandra Oh) in “Grey’s Anatomy”",
+      "author": "Anonymous Reader",
+      "date": "2026-05-25",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-06-08"
+    },
+    {
+      "text": "Be still, and know that I am God.",
+      "author": "King David",
+      "date": "2026-05-25",
+      "inactive": true,
+      "deactivatedDate": "2026-06-08"
     }
   ],
-  "lastRotation": "2026-06-07",
+  "lastRotation": "2026-06-08",
   "totalQuotes": 345,
   "activeQuotes": 69,
   "inactiveQuotes": 276
