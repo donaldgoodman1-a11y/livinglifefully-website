@@ -1,5 +1,13 @@
 {
-  "pending": [],
+  "pending": [
+    {
+      "id": "1780998998837",
+      "wisdom": "Press your lips together, and don’t be in a hurry to answer.",
+      "author": "The Talmud: Avodah Zarah 35 a",
+      "date": "2026-06-09",
+      "submittedAt": "2026-06-09T09:56:38.839Z"
+    }
+  ],
   "approvedCount": 33,
   "rejectedCount": 3
 }
