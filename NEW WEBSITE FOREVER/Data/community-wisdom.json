@@ -1,6 +1,13 @@
 {
   "quotes": [
     {
+      "text": "Press your lips together, and don’t be in a hurry to answer.",
+      "author": "The Talmud: Avodah Zarah 35 a",
+      "date": "2026-06-09",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
       "text": "Thousands of candles can be lighted from a single candle. Happiness never decreases by being shared.",
       "author": "Buddha",
       "date": "2026-06-08",
@@ -2356,7 +2363,7 @@
     }
   ],
   "lastRotation": "2026-06-08",
-  "totalQuotes": 345,
-  "activeQuotes": 69,
+  "totalQuotes": 346,
+  "activeQuotes": 70,
   "inactiveQuotes": 276
 }
