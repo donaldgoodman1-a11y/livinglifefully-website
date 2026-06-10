@@ -1,6 +1,37 @@
 {
   "quotes": [
     {
+      "text": "Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!",
+      "author": "Dr. Seuss",
+      "date": "2026-06-10",
+      "inactive": false
+    },
+    {
+      "text": "However late you think you are, however many chances you think you have missed, you have not traveled beyond the reach of divine love.",
+      "author": "Jeffrey R. Holland",
+      "date": "2026-06-10",
+      "inactive": false
+    },
+    {
+      "text": "Sometimes the questions are complicated and the answers are simple.",
+      "author": "Dr. Seuss",
+      "date": "2026-06-10",
+      "inactive": false
+    },
+    {
+      "text": "When we make our fantasies our reality they often become our nightmares.",
+      "author": "Dr Goodman",
+      "date": "2026-06-10",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.",
+      "author": "Brené Brown",
+      "date": "2026-06-10",
+      "inactive": false
+    },
+    {
       "text": "Knowing yourself is the beginning of all wisdom.",
       "author": "Aristotle",
       "date": "2026-06-09",
@@ -395,36 +426,6 @@
       "inactive": false
     },
     {
-      "text": "Peace comes from within. Do not seek it without.",
-      "author": "Buddha",
-      "date": "2026-05-28",
-      "inactive": false
-    },
-    {
-      "text": "I had reasoned this out in my mind, there was one of two things I had a right to, liberty or death; if I could not have one, I would have the other.",
-      "author": "Harriet Tubman",
-      "date": "2026-05-28",
-      "inactive": false
-    },
-    {
-      "text": "Peace begins with a smile.",
-      "author": "Mother Teresa",
-      "date": "2026-05-28",
-      "inactive": false
-    },
-    {
-      "text": "I am not what happened to me, I am what I choose to become.",
-      "author": "Carl Jung",
-      "date": "2026-05-27",
-      "inactive": false
-    },
-    {
-      "text": "Choose faith over fear, and doubt not.",
-      "author": "David A. Bednar",
-      "date": "2026-05-27",
-      "inactive": false
-    },
-    {
       "text": "Humility is not thinking less of yourself, it's thinking of yourself less.",
       "author": "C.S. Lewis",
       "date": "2026-01-23",
@@ -661,13 +662,6 @@
       "deactivatedDate": "2026-03-17"
     },
     {
-      "text": "Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.",
-      "author": "Brené Brown",
-      "date": "2026-03-10",
-      "inactive": true,
-      "deactivatedDate": "2026-03-18"
-    },
-    {
       "text": "Either write something worth reading or do something worth writing.",
       "author": "Benjamin Franklin",
       "date": "2026-03-11",
@@ -698,13 +692,6 @@
     {
       "text": "Faith in Jesus Christ is the first principle of the gospel for a reason.",
       "author": "Henry B. Eyring",
-      "date": "2026-03-15",
-      "inactive": true,
-      "deactivatedDate": "2026-03-23"
-    },
-    {
-      "text": "Sometimes the questions are complicated and the answers are simple.",
-      "author": "Dr. Seuss",
       "date": "2026-03-15",
       "inactive": true,
       "deactivatedDate": "2026-03-23"
@@ -1046,13 +1033,6 @@
       "deactivatedDate": "2026-04-16"
     },
     {
-      "text": "Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!",
-      "author": "Dr. Seuss",
-      "date": "2026-04-10",
-      "inactive": true,
-      "deactivatedDate": "2026-04-19"
-    },
-    {
       "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
       "author": "Aristotle",
       "date": "2026-04-10",
@@ -1164,14 +1144,6 @@
       "author": "Mother Teresa",
       "date": "2026-04-19",
       "inactive": true,
-      "deactivatedDate": "2026-04-28"
-    },
-    {
-      "text": "When we make our fantasies our reality they often become our nightmares.",
-      "author": "Dr Goodman",
-      "date": "2026-04-18",
-      "inactive": true,
-      "communitySubmission": true,
       "deactivatedDate": "2026-04-28"
     },
     {
@@ -2023,13 +1995,6 @@
       "deactivatedDate": "2026-05-30"
     },
     {
-      "text": "However late you think you are, however many chances you think you have missed, you have not traveled beyond the reach of divine love.",
-      "author": "Jeffrey R. Holland",
-      "date": "2026-05-19",
-      "inactive": true,
-      "deactivatedDate": "2026-05-31"
-    },
-    {
       "text": "Go confidently in the direction of your dreams. Live the life you have imagined.",
       "author": "Henry David Thoreau",
       "date": "2026-05-18",
@@ -2360,9 +2325,44 @@
       "date": "2026-05-26",
       "inactive": true,
       "deactivatedDate": "2026-06-09"
+    },
+    {
+      "text": "Peace comes from within. Do not seek it without.",
+      "author": "Buddha",
+      "date": "2026-05-28",
+      "inactive": true,
+      "deactivatedDate": "2026-06-10"
+    },
+    {
+      "text": "I had reasoned this out in my mind, there was one of two things I had a right to, liberty or death; if I could not have one, I would have the other.",
+      "author": "Harriet Tubman",
+      "date": "2026-05-28",
+      "inactive": true,
+      "deactivatedDate": "2026-06-10"
+    },
+    {
+      "text": "Peace begins with a smile.",
+      "author": "Mother Teresa",
+      "date": "2026-05-28",
+      "inactive": true,
+      "deactivatedDate": "2026-06-10"
+    },
+    {
+      "text": "I am not what happened to me, I am what I choose to become.",
+      "author": "Carl Jung",
+      "date": "2026-05-27",
+      "inactive": true,
+      "deactivatedDate": "2026-06-10"
+    },
+    {
+      "text": "Choose faith over fear, and doubt not.",
+      "author": "David A. Bednar",
+      "date": "2026-05-27",
+      "inactive": true,
+      "deactivatedDate": "2026-06-10"
     }
   ],
-  "lastRotation": "2026-06-09",
+  "lastRotation": "2026-06-10",
   "totalQuotes": 346,
   "activeQuotes": 70,
   "inactiveQuotes": 276
