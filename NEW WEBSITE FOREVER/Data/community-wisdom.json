@@ -1,6 +1,13 @@
 {
   "quotes": [
     {
+      "text": "Greater the persons' stature, the more one has to make sure to humble themselves.\nRashi, Berachos 34b",
+      "author": "Rashi, Berachos 34b",
+      "date": "2026-06-11",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
       "text": "The way to get started is to quit talking and begin doing.",
       "author": "Walt Disney",
       "date": "2026-06-11",
@@ -2363,7 +2370,7 @@
     }
   ],
   "lastRotation": "2026-06-11",
-  "totalQuotes": 346,
-  "activeQuotes": 70,
+  "totalQuotes": 347,
+  "activeQuotes": 71,
   "inactiveQuotes": 276
 }
