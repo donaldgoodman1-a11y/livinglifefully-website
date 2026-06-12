@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "For every minute you are angry you lose sixty seconds of happiness.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-06-12",
+      "inactive": false
+    },
+    {
+      "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-06-12",
+      "inactive": false
+    },
+    {
+      "text": "You can't use up creativity. The more you use, the more you have.",
+      "author": "Maya Angelou",
+      "date": "2026-06-12",
+      "inactive": false
+    },
+    {
+      "text": "You don't have to be the victim of your environment. You can also be the architect of it.",
+      "author": "James Clear",
+      "date": "2026-06-12",
+      "inactive": false
+    },
+    {
+      "text": "Tell me to what you pay attention and I will tell you who you are.",
+      "author": "José Ortega y Gasset",
+      "date": "2026-06-12",
+      "inactive": false
+    },
+    {
       "text": "Greater the persons' stature, the more one has to make sure to humble themselves.\nRashi, Berachos 34b",
       "author": "Rashi, Berachos 34b",
       "date": "2026-06-11",
@@ -403,36 +433,6 @@
       "inactive": false
     },
     {
-      "text": "Dwell on the beauty of life. Watch the stars, and see yourself running with them.",
-      "author": "Marcus Aurelius",
-      "date": "2026-05-30",
-      "inactive": false
-    },
-    {
-      "text": "Be kind, for everyone you meet is fighting a hard battle.",
-      "author": "Plato",
-      "date": "2026-05-30",
-      "inactive": false
-    },
-    {
-      "text": "The only person you are destined to become is the person you decide to be.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-05-30",
-      "inactive": false
-    },
-    {
-      "text": "You know you've reached middle age when you're cautioned to slow down by your doctor, instead of by the police.",
-      "author": "Joan Rivers",
-      "date": "2026-05-29",
-      "inactive": false
-    },
-    {
-      "text": "We are to become even as He is.",
-      "author": "David A. Bednar",
-      "date": "2026-05-29",
-      "inactive": false
-    },
-    {
       "text": "Humility is not thinking less of yourself, it's thinking of yourself less.",
       "author": "C.S. Lewis",
       "date": "2026-01-23",
@@ -706,13 +706,6 @@
     {
       "text": "Freedom is never given; it is won.",
       "author": "A. Philip Randolph",
-      "date": "2026-03-16",
-      "inactive": true,
-      "deactivatedDate": "2026-03-24"
-    },
-    {
-      "text": "For every minute you are angry you lose sixty seconds of happiness.",
-      "author": "Ralph Waldo Emerson",
       "date": "2026-03-16",
       "inactive": true,
       "deactivatedDate": "2026-03-24"
@@ -1432,13 +1425,6 @@
       "deactivatedDate": "2026-05-13"
     },
     {
-      "text": "You don't have to be the victim of your environment. You can also be the architect of it.",
-      "author": "James Clear",
-      "date": "2026-05-03",
-      "inactive": true,
-      "deactivatedDate": "2026-05-14"
-    },
-    {
       "text": "Desire is the father of action.",
       "author": "Dallin H. Oaks",
       "date": "2026-05-03",
@@ -1486,13 +1472,6 @@
       "date": "2026-05-03",
       "inactive": true,
       "deactivatedDate": "2026-05-15"
-    },
-    {
-      "text": "Tell me to what you pay attention and I will tell you who you are.",
-      "author": "José Ortega y Gasset",
-      "date": "2026-05-05",
-      "inactive": true,
-      "deactivatedDate": "2026-05-16"
     },
     {
       "text": "Do what you can, with what you have, where you are.",
@@ -1658,13 +1637,6 @@
     {
       "text": "You must do the things you think you cannot do.",
       "author": "Eleanor Roosevelt",
-      "date": "2026-05-11",
-      "inactive": true,
-      "deactivatedDate": "2026-05-22"
-    },
-    {
-      "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
-      "author": "Martin Luther King Jr.",
       "date": "2026-05-11",
       "inactive": true,
       "deactivatedDate": "2026-05-22"
@@ -2207,13 +2179,6 @@
       "deactivatedDate": "2026-06-07"
     },
     {
-      "text": "You can't use up creativity. The more you use, the more you have.",
-      "author": "Maya Angelou",
-      "date": "2026-05-25",
-      "inactive": true,
-      "deactivatedDate": "2026-06-07"
-    },
-    {
       "text": "Your work is to discover your work and then with all your heart to give yourself to it.",
       "author": "Buddha",
       "date": "2026-05-25",
@@ -2367,9 +2332,44 @@
       "date": "2026-05-28",
       "inactive": true,
       "deactivatedDate": "2026-06-11"
+    },
+    {
+      "text": "Dwell on the beauty of life. Watch the stars, and see yourself running with them.",
+      "author": "Marcus Aurelius",
+      "date": "2026-05-30",
+      "inactive": true,
+      "deactivatedDate": "2026-06-12"
+    },
+    {
+      "text": "Be kind, for everyone you meet is fighting a hard battle.",
+      "author": "Plato",
+      "date": "2026-05-30",
+      "inactive": true,
+      "deactivatedDate": "2026-06-12"
+    },
+    {
+      "text": "The only person you are destined to become is the person you decide to be.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-05-30",
+      "inactive": true,
+      "deactivatedDate": "2026-06-12"
+    },
+    {
+      "text": "You know you've reached middle age when you're cautioned to slow down by your doctor, instead of by the police.",
+      "author": "Joan Rivers",
+      "date": "2026-05-29",
+      "inactive": true,
+      "deactivatedDate": "2026-06-12"
+    },
+    {
+      "text": "We are to become even as He is.",
+      "author": "David A. Bednar",
+      "date": "2026-05-29",
+      "inactive": true,
+      "deactivatedDate": "2026-06-12"
     }
   ],
-  "lastRotation": "2026-06-11",
+  "lastRotation": "2026-06-12",
   "totalQuotes": 347,
   "activeQuotes": 71,
   "inactiveQuotes": 276
