@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "When you're screwing up and nobody says anything to you anymore, that means they've given up on you.",
+      "author": "Randy Pausch",
+      "date": "2026-06-13",
+      "inactive": false
+    },
+    {
+      "text": "I'm a success today because I had a friend who believed in me and I didn't have the heart to let him down.",
+      "author": "Abraham Lincoln",
+      "date": "2026-06-13",
+      "inactive": false
+    },
+    {
+      "text": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt",
+      "date": "2026-06-13",
+      "inactive": false
+    },
+    {
+      "text": "Either write something worth reading or do something worth writing.",
+      "author": "Benjamin Franklin",
+      "date": "2026-06-13",
+      "inactive": false
+    },
+    {
+      "text": "Faith in Jesus Christ is the first principle of the gospel for a reason.",
+      "author": "Henry B. Eyring",
+      "date": "2026-06-13",
+      "inactive": false
+    },
+    {
       "text": "For every minute you are angry you lose sixty seconds of happiness.",
       "author": "Ralph Waldo Emerson",
       "date": "2026-06-12",
@@ -402,37 +432,6 @@
       "inactive": false
     },
     {
-      "text": "The proper function of man is to live, not to exist. I shall not waste my days in trying to \nprolong them. I shall use my time…",
-      "author": "Jack London",
-      "date": "2026-05-31",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "Courage doesn't always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.'",
-      "author": "Mary Anne Radmacher",
-      "date": "2026-05-31",
-      "inactive": false
-    },
-    {
-      "text": "Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world.",
-      "author": "Desmond Tutu",
-      "date": "2026-05-31",
-      "inactive": false
-    },
-    {
-      "text": "Attitude is a little thing that makes a big difference.",
-      "author": "Winston Churchill",
-      "date": "2026-05-30",
-      "inactive": false
-    },
-    {
-      "text": "Nothing can dim the light which shines from within.",
-      "author": "Maya Angelou",
-      "date": "2026-05-30",
-      "inactive": false
-    },
-    {
       "text": "Humility is not thinking less of yourself, it's thinking of yourself less.",
       "author": "C.S. Lewis",
       "date": "2026-01-23",
@@ -578,13 +577,6 @@
       "deactivatedDate": "2026-02-23"
     },
     {
-      "text": "Believe you can and you're halfway there.",
-      "author": "Theodore Roosevelt",
-      "date": "2026-02-16",
-      "inactive": true,
-      "deactivatedDate": "2026-02-23"
-    },
-    {
       "text": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you.",
       "author": "Jesus Christ",
       "date": "2026-02-19",
@@ -669,13 +661,6 @@
       "deactivatedDate": "2026-03-17"
     },
     {
-      "text": "Either write something worth reading or do something worth writing.",
-      "author": "Benjamin Franklin",
-      "date": "2026-03-11",
-      "inactive": true,
-      "deactivatedDate": "2026-03-19"
-    },
-    {
       "text": "You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes.",
       "author": "A.A. Milne",
       "date": "2026-03-12",
@@ -692,13 +677,6 @@
     {
       "text": "Even miracles take a little time.",
       "author": "Fairy Godmother, Cinderella",
-      "date": "2026-03-15",
-      "inactive": true,
-      "deactivatedDate": "2026-03-23"
-    },
-    {
-      "text": "Faith in Jesus Christ is the first principle of the gospel for a reason.",
-      "author": "Henry B. Eyring",
       "date": "2026-03-15",
       "inactive": true,
       "deactivatedDate": "2026-03-23"
@@ -931,13 +909,6 @@
       "text": "The secret of staying young is to live honestly, eat slowly, and lie about your age.",
       "author": "Lucille Ball",
       "date": "2026-04-04",
-      "inactive": true,
-      "deactivatedDate": "2026-04-12"
-    },
-    {
-      "text": "I'm a success today because I had a friend who believed in me and I didn't have the heart to let him down.",
-      "author": "Abraham Lincoln",
-      "date": "2026-04-03",
       "inactive": true,
       "deactivatedDate": "2026-04-12"
     },
@@ -2243,13 +2214,6 @@
       "deactivatedDate": "2026-06-09"
     },
     {
-      "text": "When you're screwing up and nobody says anything to you anymore, that means they've given up on you.",
-      "author": "Randy Pausch",
-      "date": "2026-05-27",
-      "inactive": true,
-      "deactivatedDate": "2026-06-09"
-    },
-    {
       "text": "I would unite with anybody to do right and with nobody to do wrong.",
       "author": "Frederick Douglass",
       "date": "2026-05-26",
@@ -2367,9 +2331,45 @@
       "date": "2026-05-29",
       "inactive": true,
       "deactivatedDate": "2026-06-12"
+    },
+    {
+      "text": "The proper function of man is to live, not to exist. I shall not waste my days in trying to \nprolong them. I shall use my time…",
+      "author": "Jack London",
+      "date": "2026-05-31",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-06-13"
+    },
+    {
+      "text": "Courage doesn't always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.'",
+      "author": "Mary Anne Radmacher",
+      "date": "2026-05-31",
+      "inactive": true,
+      "deactivatedDate": "2026-06-13"
+    },
+    {
+      "text": "Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world.",
+      "author": "Desmond Tutu",
+      "date": "2026-05-31",
+      "inactive": true,
+      "deactivatedDate": "2026-06-13"
+    },
+    {
+      "text": "Attitude is a little thing that makes a big difference.",
+      "author": "Winston Churchill",
+      "date": "2026-05-30",
+      "inactive": true,
+      "deactivatedDate": "2026-06-13"
+    },
+    {
+      "text": "Nothing can dim the light which shines from within.",
+      "author": "Maya Angelou",
+      "date": "2026-05-30",
+      "inactive": true,
+      "deactivatedDate": "2026-06-13"
     }
   ],
-  "lastRotation": "2026-06-12",
+  "lastRotation": "2026-06-13",
   "totalQuotes": 347,
   "activeQuotes": 71,
   "inactiveQuotes": 276
