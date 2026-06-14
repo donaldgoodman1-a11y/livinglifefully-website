@@ -1,6 +1,13 @@
 {
   "quotes": [
     {
+      "text": "Love loves to love love.",
+      "author": "James Joyce “Ulysses”",
+      "date": "2026-06-14",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
       "text": "When you're screwing up and nobody says anything to you anymore, that means they've given up on you.",
       "author": "Randy Pausch",
       "date": "2026-06-13",
@@ -2370,7 +2377,7 @@
     }
   ],
   "lastRotation": "2026-06-13",
-  "totalQuotes": 347,
-  "activeQuotes": 71,
+  "totalQuotes": 348,
+  "activeQuotes": 72,
   "inactiveQuotes": 276
 }
