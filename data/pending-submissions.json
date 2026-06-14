@@ -1,13 +1,6 @@
 {
   "pending": [
     {
-      "id": "1781401942025",
-      "wisdom": "Love loves to love love.",
-      "author": "James Joyce “Ulysses”",
-      "date": "2026-06-14",
-      "submittedAt": "2026-06-14T01:52:22.027Z"
-    },
-    {
       "id": "1781402057837",
       "wisdom": "The secret of staying young is to live honestly, eat slowly, and lie about your age.",
       "author": "Lucille Ball",
@@ -15,6 +8,6 @@
       "submittedAt": "2026-06-14T01:54:17.837Z"
     }
   ],
-  "approvedCount": 35,
+  "approvedCount": 36,
   "rejectedCount": 3
 }
