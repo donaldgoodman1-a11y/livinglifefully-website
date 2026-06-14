@@ -1,6 +1,13 @@
 {
   "quotes": [
     {
+      "text": "The secret of staying young is to live honestly, eat slowly, and lie about your age.",
+      "author": "Lucille Ball",
+      "date": "2026-06-14",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
       "text": "Love loves to love love.",
       "author": "James Joyce “Ulysses”",
       "date": "2026-06-14",
@@ -2377,7 +2384,7 @@
     }
   ],
   "lastRotation": "2026-06-13",
-  "totalQuotes": 348,
-  "activeQuotes": 72,
+  "totalQuotes": 349,
+  "activeQuotes": 73,
   "inactiveQuotes": 276
 }
