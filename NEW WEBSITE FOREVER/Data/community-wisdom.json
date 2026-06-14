@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "All our dreams can come true, if we have the courage to pursue them.",
+      "author": "Walt Disney",
+      "date": "2026-06-14",
+      "inactive": false
+    },
+    {
+      "text": "The most glorious moments in your life are not the so-called days of success, but rather those days when out of dejection and despair you feel rise in you a challenge to life.",
+      "author": "Gustave Flaubert",
+      "date": "2026-06-14",
+      "inactive": false
+    },
+    {
+      "text": "Wherever you go, go with all your heart.",
+      "author": "Confucius",
+      "date": "2026-06-14",
+      "inactive": false
+    },
+    {
+      "text": "The power of love and kindness can overcome any challenge or hardship.\nThe Lubavitcher Rebbe",
+      "author": "The Lubavitcher Rebbe",
+      "date": "2026-06-14",
+      "inactive": false
+    },
+    {
+      "text": "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
+      "author": "Benjamin Franklin",
+      "date": "2026-06-14",
+      "inactive": false
+    },
+    {
       "text": "The secret of staying young is to live honestly, eat slowly, and lie about your age.",
       "author": "Lucille Ball",
       "date": "2026-06-14",
@@ -414,38 +444,6 @@
       "inactive": false
     },
     {
-      "text": "In the middle of difficulty lies opportunity.",
-      "author": "Albert Einstein",
-      "date": "2026-06-01",
-      "inactive": false
-    },
-    {
-      "text": "I believe in the goodness of a free society. And I believe that society can remain good only as long as we are willing to fight for it — and to fight against whatever imperfections may exist.",
-      "author": "Jackie Robinson",
-      "date": "2026-05-31",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "Get up every day and try a little harder than the day before.",
-      "author": "Emeril Lagassi",
-      "date": "2026-05-31",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.",
-      "author": "J.K. Rowling",
-      "date": "2026-05-31",
-      "inactive": false
-    },
-    {
-      "text": "You have power over your mind - not outside events. Realize this, and you will find strength.",
-      "author": "Marcus Aurelius",
-      "date": "2026-05-31",
-      "inactive": false
-    },
-    {
       "text": "Humility is not thinking less of yourself, it's thinking of yourself less.",
       "author": "C.S. Lewis",
       "date": "2026-01-23",
@@ -530,12 +528,6 @@
       "inactive": true
     },
     {
-      "text": "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
-      "author": "Benjamin Franklin",
-      "date": "2025-12-16",
-      "inactive": true
-    },
-    {
       "text": "Great things are done by a series of small things brought together.",
       "author": "Vincent Van Gogh",
       "date": "2025-12-13",
@@ -568,13 +560,6 @@
       "date": "2026-02-12",
       "inactive": true,
       "deactivatedDate": "2026-02-14"
-    },
-    {
-      "text": "Wherever you go, go with all your heart.",
-      "author": "Confucius",
-      "date": "2026-02-12",
-      "inactive": true,
-      "deactivatedDate": "2026-02-19"
     },
     {
       "text": "Keep your face to the sunshine and you cannot see a shadow.",
@@ -759,13 +744,6 @@
       "deactivatedDate": "2026-03-28"
     },
     {
-      "text": "The most glorious moments in your life are not the so-called days of success, but rather those days when out of dejection and despair you feel rise in you a challenge to life.",
-      "author": "Gustave Flaubert",
-      "date": "2026-03-21",
-      "inactive": true,
-      "deactivatedDate": "2026-03-29"
-    },
-    {
       "text": "Because a thing seems difficult for you, do not think it impossible for anyone to accomplish.",
       "author": "Marcus Aurelius",
       "date": "2026-03-20",
@@ -925,13 +903,6 @@
       "date": "2026-04-04",
       "inactive": true,
       "deactivatedDate": "2026-04-12"
-    },
-    {
-      "text": "The power of love and kindness can overcome any challenge or hardship.\nThe Lubavitcher Rebbe",
-      "author": "The Lubavitcher Rebbe",
-      "date": "2026-04-05",
-      "inactive": true,
-      "deactivatedDate": "2026-04-13"
     },
     {
       "text": "I have learned that if one advances confidently in the direction of his dreams, he will meet with a success unexpected in common hours.",
@@ -1590,13 +1561,6 @@
       "date": "2026-05-08",
       "inactive": true,
       "deactivatedDate": "2026-05-20"
-    },
-    {
-      "text": "All our dreams can come true, if we have the courage to pursue them.",
-      "author": "Walt Disney",
-      "date": "2026-05-10",
-      "inactive": true,
-      "deactivatedDate": "2026-05-21"
     },
     {
       "text": "Sometimes we're tested not to show our weaknesses, but to discover our strengths.",
@@ -2381,9 +2345,46 @@
       "date": "2026-05-30",
       "inactive": true,
       "deactivatedDate": "2026-06-13"
+    },
+    {
+      "text": "In the middle of difficulty lies opportunity.",
+      "author": "Albert Einstein",
+      "date": "2026-06-01",
+      "inactive": true,
+      "deactivatedDate": "2026-06-14"
+    },
+    {
+      "text": "I believe in the goodness of a free society. And I believe that society can remain good only as long as we are willing to fight for it — and to fight against whatever imperfections may exist.",
+      "author": "Jackie Robinson",
+      "date": "2026-05-31",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-06-14"
+    },
+    {
+      "text": "Get up every day and try a little harder than the day before.",
+      "author": "Emeril Lagassi",
+      "date": "2026-05-31",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-06-14"
+    },
+    {
+      "text": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.",
+      "author": "J.K. Rowling",
+      "date": "2026-05-31",
+      "inactive": true,
+      "deactivatedDate": "2026-06-14"
+    },
+    {
+      "text": "You have power over your mind - not outside events. Realize this, and you will find strength.",
+      "author": "Marcus Aurelius",
+      "date": "2026-05-31",
+      "inactive": true,
+      "deactivatedDate": "2026-06-14"
     }
   ],
-  "lastRotation": "2026-06-13",
+  "lastRotation": "2026-06-14",
   "totalQuotes": 349,
   "activeQuotes": 73,
   "inactiveQuotes": 276
