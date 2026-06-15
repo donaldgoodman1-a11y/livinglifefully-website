@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "The brick walls are there for a reason. They're not there to keep us out. The brick walls are there to give us a chance to show how badly we want something.",
+      "author": "Randy Pausch",
+      "date": "2026-06-15",
+      "inactive": false
+    },
+    {
+      "text": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
+      "author": "Marcus Aurelius",
+      "date": "2026-06-15",
+      "inactive": false
+    },
+    {
+      "text": "Courage is not simply one of the virtues, but the form of every virtue at the testing point.",
+      "author": "C.S. Lewis",
+      "date": "2026-06-15",
+      "inactive": false
+    },
+    {
+      "text": "You're off to great places! Today is your day! Your mountain is waiting, so get on your way!",
+      "author": "Dr. Seuss",
+      "date": "2026-06-15",
+      "inactive": false
+    },
+    {
+      "text": "Accept the things to which fate binds you, and love the people with whom fate brings you together.",
+      "author": "Marcus Aurelius",
+      "date": "2026-06-15",
+      "inactive": false
+    },
+    {
       "text": "All our dreams can come true, if we have the courage to pursue them.",
       "author": "Walt Disney",
       "date": "2026-06-14",
@@ -414,36 +444,6 @@
       "inactive": false
     },
     {
-      "text": "If you can dream it, you can do it.",
-      "author": "Walt Disney",
-      "date": "2026-06-02",
-      "inactive": false
-    },
-    {
-      "text": "Hope is being able to see that there is light despite all of the darkness.",
-      "author": "Desmond Tutu",
-      "date": "2026-06-01",
-      "inactive": false
-    },
-    {
-      "text": "A pleasure is not full grown until it is remembered.",
-      "author": "C.S. Lewis",
-      "date": "2026-06-01",
-      "inactive": false
-    },
-    {
-      "text": "We must be willing to let go of the life we planned so as to have the life that is waiting for us.",
-      "author": "Joseph Campbell",
-      "date": "2026-06-01",
-      "inactive": false
-    },
-    {
-      "text": "Trust in the Lord with all thine heart; and lean not unto thine own understanding.",
-      "author": "King Solomon",
-      "date": "2026-06-01",
-      "inactive": false
-    },
-    {
       "text": "Humility is not thinking less of yourself, it's thinking of yourself less.",
       "author": "C.S. Lewis",
       "date": "2026-01-23",
@@ -555,13 +555,6 @@
       "deactivatedDate": "2026-02-12"
     },
     {
-      "text": "You're off to great places! Today is your day! Your mountain is waiting, so get on your way!",
-      "author": "Dr. Seuss",
-      "date": "2026-02-12",
-      "inactive": true,
-      "deactivatedDate": "2026-02-14"
-    },
-    {
       "text": "Keep your face to the sunshine and you cannot see a shadow.",
       "author": "Helen Keller",
       "date": "2026-02-15",
@@ -616,13 +609,6 @@
       "date": "2026-03-03",
       "inactive": true,
       "deactivatedDate": "2026-03-11"
-    },
-    {
-      "text": "Courage is not simply one of the virtues, but the form of every virtue at the testing point.",
-      "author": "C.S. Lewis",
-      "date": "2026-03-05",
-      "inactive": true,
-      "deactivatedDate": "2026-03-12"
     },
     {
       "text": "Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.",
@@ -791,13 +777,6 @@
       "date": "2026-03-26",
       "inactive": true,
       "deactivatedDate": "2026-04-03"
-    },
-    {
-      "text": "The brick walls are there for a reason. They're not there to keep us out. The brick walls are there to give us a chance to show how badly we want something.",
-      "author": "Randy Pausch",
-      "date": "2026-03-28",
-      "inactive": true,
-      "deactivatedDate": "2026-04-05"
     },
     {
       "text": "We suffer more often in imagination than in reality.",
@@ -1215,13 +1194,6 @@
     {
       "text": "Gratitude is the healthiest of all human emotions.",
       "author": "Zig Ziglar",
-      "date": "2026-04-25",
-      "inactive": true,
-      "deactivatedDate": "2026-05-06"
-    },
-    {
-      "text": "Accept the things to which fate binds you, and love the people with whom fate brings you together.",
-      "author": "Marcus Aurelius",
       "date": "2026-04-25",
       "inactive": true,
       "deactivatedDate": "2026-05-06"
@@ -1656,13 +1628,6 @@
       "date": "2026-05-12",
       "inactive": true,
       "communitySubmission": true,
-      "deactivatedDate": "2026-05-24"
-    },
-    {
-      "text": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
-      "author": "Marcus Aurelius",
-      "date": "2026-05-12",
-      "inactive": true,
       "deactivatedDate": "2026-05-24"
     },
     {
@@ -2382,9 +2347,44 @@
       "date": "2026-05-31",
       "inactive": true,
       "deactivatedDate": "2026-06-14"
+    },
+    {
+      "text": "If you can dream it, you can do it.",
+      "author": "Walt Disney",
+      "date": "2026-06-02",
+      "inactive": true,
+      "deactivatedDate": "2026-06-15"
+    },
+    {
+      "text": "Hope is being able to see that there is light despite all of the darkness.",
+      "author": "Desmond Tutu",
+      "date": "2026-06-01",
+      "inactive": true,
+      "deactivatedDate": "2026-06-15"
+    },
+    {
+      "text": "A pleasure is not full grown until it is remembered.",
+      "author": "C.S. Lewis",
+      "date": "2026-06-01",
+      "inactive": true,
+      "deactivatedDate": "2026-06-15"
+    },
+    {
+      "text": "We must be willing to let go of the life we planned so as to have the life that is waiting for us.",
+      "author": "Joseph Campbell",
+      "date": "2026-06-01",
+      "inactive": true,
+      "deactivatedDate": "2026-06-15"
+    },
+    {
+      "text": "Trust in the Lord with all thine heart; and lean not unto thine own understanding.",
+      "author": "King Solomon",
+      "date": "2026-06-01",
+      "inactive": true,
+      "deactivatedDate": "2026-06-15"
     }
   ],
-  "lastRotation": "2026-06-14",
+  "lastRotation": "2026-06-15",
   "totalQuotes": 349,
   "activeQuotes": 73,
   "inactiveQuotes": 276
