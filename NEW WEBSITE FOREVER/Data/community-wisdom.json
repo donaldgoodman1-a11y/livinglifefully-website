@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "let GO",
+      "author": "Anonymous Reader",
+      "date": "2026-06-16",
+      "inactive": false
+    },
+    {
+      "text": "Focus on the moment, not the monsters that may or may not be up ahead.",
+      "author": "Ryan Holiday",
+      "date": "2026-06-16",
+      "inactive": false
+    },
+    {
+      "text": "Nearly all men can stand adversity, but if you want to test a man's character, give him power.",
+      "author": "Abraham Lincoln",
+      "date": "2026-06-16",
+      "inactive": false
+    },
+    {
+      "text": "What you see and what you hear depends a great deal on where you are standing. It also depends on what sort of person you are.",
+      "author": "C.S. Lewis",
+      "date": "2026-06-16",
+      "inactive": false
+    },
+    {
+      "text": "The best preparation for tomorrow is doing your best today.",
+      "author": "H. Jackson Brown Jr.",
+      "date": "2026-06-16",
+      "inactive": false
+    },
+    {
       "text": "The brick walls are there for a reason. They're not there to keep us out. The brick walls are there to give us a chance to show how badly we want something.",
       "author": "Randy Pausch",
       "date": "2026-06-15",
@@ -411,36 +441,6 @@
       "text": "It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.",
       "author": "Seneca",
       "date": "2026-06-03",
-      "inactive": false
-    },
-    {
-      "text": "The secret to so many artists living so long is that every painting is a new adventure. So, you see, they're always looking ahead to something new and exciting.",
-      "author": "Norman Rockwell",
-      "date": "2026-06-03",
-      "inactive": false
-    },
-    {
-      "text": "Weeping may endure for a night, but joy cometh in the morning.",
-      "author": "King David",
-      "date": "2026-06-02",
-      "inactive": false
-    },
-    {
-      "text": "An investment in knowledge pays the best interest.",
-      "author": "Benjamin Franklin",
-      "date": "2026-06-02",
-      "inactive": false
-    },
-    {
-      "text": "The obstacle is the way.",
-      "author": "Ryan Holiday",
-      "date": "2026-06-02",
-      "inactive": false
-    },
-    {
-      "text": "To pay attention, this is our endless and proper work.",
-      "author": "Mary Oliver",
-      "date": "2026-06-02",
       "inactive": false
     },
     {
@@ -1444,20 +1444,6 @@
       "deactivatedDate": "2026-05-17"
     },
     {
-      "text": "Nearly all men can stand adversity, but if you want to test a man's character, give him power.",
-      "author": "Abraham Lincoln",
-      "date": "2026-05-06",
-      "inactive": true,
-      "deactivatedDate": "2026-05-17"
-    },
-    {
-      "text": "What you see and what you hear depends a great deal on where you are standing. It also depends on what sort of person you are.",
-      "author": "C.S. Lewis",
-      "date": "2026-05-05",
-      "inactive": true,
-      "deactivatedDate": "2026-05-17"
-    },
-    {
       "text": "The most effective way to change your behavior is to focus not on what you want to achieve, but on who you wish to become.",
       "author": "James Clear",
       "date": "2026-05-07",
@@ -1467,13 +1453,6 @@
     {
       "text": "We cannot do great things on this earth, only small things with great love.",
       "author": "Mother Teresa",
-      "date": "2026-05-07",
-      "inactive": true,
-      "deactivatedDate": "2026-05-18"
-    },
-    {
-      "text": "Focus on the moment, not the monsters that may or may not be up ahead.",
-      "author": "Ryan Holiday",
       "date": "2026-05-07",
       "inactive": true,
       "deactivatedDate": "2026-05-18"
@@ -1680,13 +1659,6 @@
       "inactive": true,
       "communitySubmission": true,
       "deactivatedDate": "2026-05-25"
-    },
-    {
-      "text": "The best preparation for tomorrow is doing your best today.",
-      "author": "H. Jackson Brown Jr.",
-      "date": "2026-05-14",
-      "inactive": true,
-      "deactivatedDate": "2026-05-26"
     },
     {
       "text": "Breathing in, I calm body and mind. Breathing out, I smile.",
@@ -2220,13 +2192,6 @@
       "deactivatedDate": "2026-06-11"
     },
     {
-      "text": "let GO",
-      "author": "Anonymous Reader",
-      "date": "2026-05-29",
-      "inactive": true,
-      "deactivatedDate": "2026-06-11"
-    },
-    {
       "text": "There is a place where the sidewalk ends and before the street begins.",
       "author": "Shel Silverstein",
       "date": "2026-05-28",
@@ -2382,9 +2347,44 @@
       "date": "2026-06-01",
       "inactive": true,
       "deactivatedDate": "2026-06-15"
+    },
+    {
+      "text": "The secret to so many artists living so long is that every painting is a new adventure. So, you see, they're always looking ahead to something new and exciting.",
+      "author": "Norman Rockwell",
+      "date": "2026-06-03",
+      "inactive": true,
+      "deactivatedDate": "2026-06-16"
+    },
+    {
+      "text": "Weeping may endure for a night, but joy cometh in the morning.",
+      "author": "King David",
+      "date": "2026-06-02",
+      "inactive": true,
+      "deactivatedDate": "2026-06-16"
+    },
+    {
+      "text": "An investment in knowledge pays the best interest.",
+      "author": "Benjamin Franklin",
+      "date": "2026-06-02",
+      "inactive": true,
+      "deactivatedDate": "2026-06-16"
+    },
+    {
+      "text": "The obstacle is the way.",
+      "author": "Ryan Holiday",
+      "date": "2026-06-02",
+      "inactive": true,
+      "deactivatedDate": "2026-06-16"
+    },
+    {
+      "text": "To pay attention, this is our endless and proper work.",
+      "author": "Mary Oliver",
+      "date": "2026-06-02",
+      "inactive": true,
+      "deactivatedDate": "2026-06-16"
     }
   ],
-  "lastRotation": "2026-06-15",
+  "lastRotation": "2026-06-16",
   "totalQuotes": 349,
   "activeQuotes": 73,
   "inactiveQuotes": 276
