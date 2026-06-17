@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Water is fluid, soft, and yielding. But water will wear away rock, which is rigid and cannot yield. As a rule, whatever is fluid, soft, and yielding will overcome whatever is rigid and hard.",
+      "author": "Lao Tzu",
+      "date": "2026-06-17",
+      "inactive": false
+    },
+    {
+      "text": "Be who God meant you to be and you will set the world on fire.",
+      "author": "St. Catherine of Siena",
+      "date": "2026-06-17",
+      "inactive": false
+    },
+    {
+      "text": "You can never get a cup of tea large enough or a book long enough to suit me.",
+      "author": "C.S. Lewis",
+      "date": "2026-06-17",
+      "inactive": false
+    },
+    {
+      "text": "The happiness of your life depends upon the quality of your thoughts.",
+      "author": "Marcus Aurelius",
+      "date": "2026-06-17",
+      "inactive": false
+    },
+    {
+      "text": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+      "author": "Buddha",
+      "date": "2026-06-17",
+      "inactive": false
+    },
+    {
       "text": "let GO",
       "author": "Anonymous Reader",
       "date": "2026-06-16",
@@ -414,36 +444,6 @@
       "inactive": false
     },
     {
-      "text": "You don't have to be perfect to be loved.",
-      "author": "Russell M. Nelson",
-      "date": "2026-06-04",
-      "inactive": false
-    },
-    {
-      "text": "The impediment to action advances action. What stands in the way becomes the way.",
-      "author": "Ryan Holiday",
-      "date": "2026-06-03",
-      "inactive": false
-    },
-    {
-      "text": "Success is liking yourself, liking what you do, and liking how you do it.",
-      "author": "Maya Angelou",
-      "date": "2026-06-03",
-      "inactive": false
-    },
-    {
-      "text": "Lift where you stand.",
-      "author": "Dieter F. Uchtdorf",
-      "date": "2026-06-03",
-      "inactive": false
-    },
-    {
-      "text": "It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.",
-      "author": "Seneca",
-      "date": "2026-06-03",
-      "inactive": false
-    },
-    {
       "text": "Humility is not thinking less of yourself, it's thinking of yourself less.",
       "author": "C.S. Lewis",
       "date": "2026-01-23",
@@ -807,13 +807,6 @@
       "deactivatedDate": "2026-04-06"
     },
     {
-      "text": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
-      "author": "Buddha",
-      "date": "2026-03-30",
-      "inactive": true,
-      "deactivatedDate": "2026-04-07"
-    },
-    {
       "text": "The Lord loves effort.",
       "author": "Russell M. Nelson",
       "date": "2026-03-30",
@@ -863,13 +856,6 @@
       "deactivatedDate": "2026-04-11"
     },
     {
-      "text": "You can never get a cup of tea large enough or a book long enough to suit me.",
-      "author": "C.S. Lewis",
-      "date": "2026-04-02",
-      "inactive": true,
-      "deactivatedDate": "2026-04-11"
-    },
-    {
       "text": "A single sunbeam is enough to drive away many shadows.",
       "author": "St. Francis of Assisi",
       "date": "2026-04-02",
@@ -915,20 +901,6 @@
       "text": "Imagination is more important than knowledge.",
       "author": "Albert Einstein",
       "date": "2026-04-07",
-      "inactive": true,
-      "deactivatedDate": "2026-04-15"
-    },
-    {
-      "text": "Water is fluid, soft, and yielding. But water will wear away rock, which is rigid and cannot yield. As a rule, whatever is fluid, soft, and yielding will overcome whatever is rigid and hard.",
-      "author": "Lao Tzu",
-      "date": "2026-04-07",
-      "inactive": true,
-      "deactivatedDate": "2026-04-15"
-    },
-    {
-      "text": "The happiness of your life depends upon the quality of your thoughts.",
-      "author": "Marcus Aurelius",
-      "date": "2026-04-06",
       "inactive": true,
       "deactivatedDate": "2026-04-15"
     },
@@ -1484,13 +1456,6 @@
       "date": "2026-05-07",
       "inactive": true,
       "deactivatedDate": "2026-05-19"
-    },
-    {
-      "text": "Be who God meant you to be and you will set the world on fire.",
-      "author": "St. Catherine of Siena",
-      "date": "2026-05-09",
-      "inactive": true,
-      "deactivatedDate": "2026-05-20"
     },
     {
       "text": "It does not do to dwell on dreams and forget to live.",
@@ -2382,9 +2347,44 @@
       "date": "2026-06-02",
       "inactive": true,
       "deactivatedDate": "2026-06-16"
+    },
+    {
+      "text": "You don't have to be perfect to be loved.",
+      "author": "Russell M. Nelson",
+      "date": "2026-06-04",
+      "inactive": true,
+      "deactivatedDate": "2026-06-17"
+    },
+    {
+      "text": "The impediment to action advances action. What stands in the way becomes the way.",
+      "author": "Ryan Holiday",
+      "date": "2026-06-03",
+      "inactive": true,
+      "deactivatedDate": "2026-06-17"
+    },
+    {
+      "text": "Success is liking yourself, liking what you do, and liking how you do it.",
+      "author": "Maya Angelou",
+      "date": "2026-06-03",
+      "inactive": true,
+      "deactivatedDate": "2026-06-17"
+    },
+    {
+      "text": "Lift where you stand.",
+      "author": "Dieter F. Uchtdorf",
+      "date": "2026-06-03",
+      "inactive": true,
+      "deactivatedDate": "2026-06-17"
+    },
+    {
+      "text": "It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.",
+      "author": "Seneca",
+      "date": "2026-06-03",
+      "inactive": true,
+      "deactivatedDate": "2026-06-17"
     }
   ],
-  "lastRotation": "2026-06-16",
+  "lastRotation": "2026-06-17",
   "totalQuotes": 349,
   "activeQuotes": 73,
   "inactiveQuotes": 276
