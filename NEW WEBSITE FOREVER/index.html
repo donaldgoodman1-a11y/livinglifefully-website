@@ -1,4 +1,13 @@
- <!DOCTYPE html>
+ Got it — this is the correct, most up-to-date version. Here's what to do:
+
+Go to: https://github.com/donaldgoodman1-a11y/livinglifefully-website/blob/main/index.html
+Click the pencil icon to edit
+Press Ctrl+A to select all, then delete everything
+Copy everything below and paste it in:
+
+
+Then commit. Here's the full content to paste:
+html<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -107,8 +116,6 @@
           const [currentWisdom, setCurrentWisdom] = useState(allBookWisdom[0]);
           const [communityWisdom, setCommunityWisdom] = useState([]);
           const [isLoading, setIsLoading] = useState(true);
-
-          // Contribute form state
           const [wisdomText, setWisdomText] = useState('');
           const [authorText, setAuthorText] = useState('');
           const [isSubmitting, setIsSubmitting] = useState(false);
@@ -169,26 +176,19 @@
 
           return (
             <div className="min-h-screen" 
-                 style={{ 
-                   background: 'linear-gradient(to bottom, #0f172a 0%, #1e3a8a 50%, #1e40af 100%)'
-                 }}>
+                 style={{ background: 'linear-gradient(to bottom, #0f172a 0%, #1e3a8a 50%, #1e40af 100%)' }}>
 
-              {/* Header */}
               <header className="bg-slate-950 bg-opacity-90 text-white shadow-xl border-b-4 border-blue-600">
                 <div className="max-w-6xl mx-auto px-6 py-8">
                   <div className="text-center">
-                    <h1 className="text-5xl font-bold mb-3 text-blue-100" 
-                        style={{ fontFamily: "'Crimson Text', serif" }}>
+                    <h1 className="text-5xl font-bold mb-3 text-blue-100" style={{ fontFamily: "'Crimson Text', serif" }}>
                       Living Life Fully With Hope
                     </h1>
-                    <p className="text-xl text-blue-200 font-light">
-                      A Companion for Hope and Wisdom
-                    </p>
+                    <p className="text-xl text-blue-200 font-light">A Companion for Hope and Wisdom</p>
                   </div>
                 </div>
               </header>
 
-              {/* Navigation */}
               <nav className="bg-slate-900 bg-opacity-95 shadow-lg sticky top-0 z-50 border-b-2 border-blue-700">
                 <div className="max-w-6xl mx-auto px-6">
                   <div className="flex justify-center space-x-2 py-4">
@@ -202,10 +202,7 @@
                         key={tab.id}
                         onClick={() => setActiveTab(tab.id)}
                         className={`flex items-center gap-2 px-6 py-3 rounded-lg font-semibold transition-all
-                                  ${activeTab === tab.id 
-                                    ? 'bg-blue-600 text-white shadow-lg transform scale-105' 
-                                    : 'bg-slate-800 text-blue-200 hover:bg-slate-700 hover:text-white'
-                                  }`}
+                                  ${activeTab === tab.id ? 'bg-blue-600 text-white shadow-lg transform scale-105' : 'bg-slate-800 text-blue-200 hover:bg-slate-700 hover:text-white'}`}
                       >
                         <tab.icon size={20} />
                         <span className="hidden sm:inline">{tab.label}</span>
@@ -215,10 +212,7 @@
                 </div>
               </nav>
 
-              {/* Main Content */}
               <main className="max-w-6xl mx-auto px-6 py-12">
-
-                {/* EXPLORE TAB */}
                 {activeTab === 'explore' && (
                   <div className="text-center space-y-8 animate-fadeIn">
                     <div className="bg-white rounded-2xl shadow-2xl p-12 max-w-3xl mx-auto border-4 border-blue-700"
@@ -228,56 +222,35 @@
                                   style={{ fontFamily: "'Crimson Text', serif" }}>
                         "{currentWisdom}"
                       </blockquote>
-                      <button
-                        onClick={getRandomWisdom}
-                        className="mt-6 px-8 py-4 bg-blue-600 text-white rounded-lg font-bold text-lg
-                                 hover:bg-blue-700 transition-all transform hover:scale-105 shadow-lg
-                                 flex items-center gap-2 mx-auto"
-                      >
-                        <Sparkles size={20} />
-                        Get New Wisdom
+                      <button onClick={getRandomWisdom}
+                        className="mt-6 px-8 py-4 bg-blue-600 text-white rounded-lg font-bold text-lg hover:bg-blue-700 transition-all transform hover:scale-105 shadow-lg flex items-center gap-2 mx-auto">
+                        <Sparkles size={20} />Get New Wisdom
                       </button>
                     </div>
-
                     <div className="bg-blue-900 bg-opacity-80 border-2 border-blue-500 rounded-lg p-6 max-w-2xl mx-auto">
                       <p className="text-blue-100 text-lg leading-relaxed">
                         <Heart size={20} className="inline mr-2" />
-                        Each piece of wisdom here comes from <em>Living Life Fully With Hope</em>, 
-                        a guide to cultivating hope and resilience in daily life.
+                        Each piece of wisdom here comes from <em>Living Life Fully With Hope</em>, a guide to cultivating hope and resilience in daily life.
                       </p>
                     </div>
                   </div>
                 )}
 
-                {/* BOOK TAB */}
                 {activeTab === 'book' && (
                   <div className="space-y-8 animate-fadeIn">
                     <div className="text-center mb-12">
                       <BookOpen size={48} className="mx-auto mb-4 text-blue-300" />
-                      <h2 className="text-3xl font-bold text-blue-100 mb-3">
-                        Wisdom from the Book
-                      </h2>
-                      <p className="text-blue-200 text-lg max-w-2xl mx-auto">
-                        Core principles and practices from <em>Living Life Fully With Hope</em>
-                      </p>
+                      <h2 className="text-3xl font-bold text-blue-100 mb-3">Wisdom from the Book</h2>
+                      <p className="text-blue-200 text-lg max-w-2xl mx-auto">Core principles and practices from <em>Living Life Fully With Hope</em></p>
                     </div>
-
                     {Object.entries(bookWisdom).map(([category, items]) => (
                       <div key={category} className="mb-12">
-                        <h3 className="text-2xl font-bold text-blue-200 mb-6 capitalize text-center">
-                          {category}
-                        </h3>
+                        <h3 className="text-2xl font-bold text-blue-200 mb-6 capitalize text-center">{category}</h3>
                         <div className="grid md:grid-cols-2 gap-6">
                           {items.map((item, idx) => (
-                            <div
-                              key={idx}
-                              className="bg-slate-800 rounded-lg p-6 border-2 border-blue-500 shadow-lg 
-                                       hover:shadow-xl transition-all hover:border-blue-400"
-                              style={{ background: 'linear-gradient(to bottom right, #1e293b 0%, #334155 100%)' }}
-                            >
-                              <p className="text-lg text-blue-100 leading-relaxed italic">
-                                "{item}"
-                              </p>
+                            <div key={idx} className="bg-slate-800 rounded-lg p-6 border-2 border-blue-500 shadow-lg hover:shadow-xl transition-all hover:border-blue-400"
+                                 style={{ background: 'linear-gradient(to bottom right, #1e293b 0%, #334155 100%)' }}>
+                              <p className="text-lg text-blue-100 leading-relaxed italic">"{item}"</p>
                             </div>
                           ))}
                         </div>
@@ -286,19 +259,13 @@
                   </div>
                 )}
 
-                {/* COMMUNITY TAB */}
                 {activeTab === 'community' && (
                   <div className="space-y-8 animate-fadeIn">
                     <div className="text-center mb-12">
                       <Users size={48} className="mx-auto mb-4 text-blue-300" />
-                      <h2 className="text-3xl font-bold text-blue-100 mb-3">
-                        Community Wisdom
-                      </h2>
-                      <p className="text-blue-200 text-lg">
-                        Insights shared by readers like you
-                      </p>
+                      <h2 className="text-3xl font-bold text-blue-100 mb-3">Community Wisdom</h2>
+                      <p className="text-blue-200 text-lg">Insights shared by readers like you</p>
                     </div>
-
                     {isLoading ? (
                       <div className="text-center py-12">
                         <div className="bg-slate-800 bg-opacity-90 border-2 border-blue-500 rounded-lg p-12 max-w-2xl mx-auto">
@@ -309,14 +276,9 @@
                       <div className="text-center py-12">
                         <div className="bg-slate-800 bg-opacity-90 border-2 border-blue-500 rounded-lg p-12 max-w-2xl mx-auto">
                           <Users size={64} className="mx-auto mb-6 text-blue-400 opacity-50" />
-                          <p className="text-blue-200 text-xl mb-6">
-                            No community wisdom has been shared yet. Be the first to contribute!
-                          </p>
-                          <button
-                            onClick={() => setActiveTab('contribute')}
-                            className="px-8 py-4 bg-blue-600 text-white rounded-lg font-bold text-lg
-                                     hover:bg-blue-700 transition-all transform hover:scale-105 shadow-lg"
-                          >
+                          <p className="text-blue-200 text-xl mb-6">No community wisdom has been shared yet. Be the first to contribute!</p>
+                          <button onClick={() => setActiveTab('contribute')}
+                            className="px-8 py-4 bg-blue-600 text-white rounded-lg font-bold text-lg hover:bg-blue-700 transition-all transform hover:scale-105 shadow-lg">
                             Share Your Wisdom
                           </button>
                         </div>
@@ -324,20 +286,12 @@
                     ) : (
                       <div className="grid md:grid-cols-2 gap-6">
                         {communityWisdom.map((wisdom, idx) => (
-                          <div
-                            key={idx}
-                            className="bg-slate-800 rounded-lg p-6 border-2 border-blue-500 shadow-lg 
-                                     hover:shadow-xl transition-all hover:border-blue-400"
-                            style={{ background: 'linear-gradient(to bottom right, #1e293b 0%, #334155 100%)' }}
-                          >
-                            <blockquote className="text-lg text-blue-100 leading-relaxed mb-4 italic">
-                              "{wisdom.text || wisdom.wisdom}"
-                            </blockquote>
+                          <div key={idx} className="bg-slate-800 rounded-lg p-6 border-2 border-blue-500 shadow-lg hover:shadow-xl transition-all hover:border-blue-400"
+                               style={{ background: 'linear-gradient(to bottom right, #1e293b 0%, #334155 100%)' }}>
+                            <blockquote className="text-lg text-blue-100 leading-relaxed mb-4 italic">"{wisdom.text || wisdom.wisdom}"</blockquote>
                             <div className="flex items-center justify-between text-sm">
                               <span className="text-blue-300 font-semibold">— {wisdom.author}</span>
-                              <span className="text-blue-400">
-                                {new Date(wisdom.date || wisdom.submittedAt).toLocaleDateString()}
-                              </span>
+                              <span className="text-blue-400">{new Date(wisdom.date || wisdom.submittedAt).toLocaleDateString()}</span>
                             </div>
                           </div>
                         ))}
@@ -346,109 +300,59 @@
                   </div>
                 )}
 
-                {/* CONTRIBUTE TAB */}
                 {activeTab === 'contribute' && (
                   <div className="space-y-8 animate-fadeIn max-w-2xl mx-auto">
                     <div className="text-center mb-12">
-                      <h2 className="text-3xl font-bold text-blue-100 mb-3">
-                        Share Your Wisdom
-                      </h2>
-                      <p className="text-blue-200 text-lg">
-                        Add your own axiom or aphorism to our growing collection
-                      </p>
+                      <h2 className="text-3xl font-bold text-blue-100 mb-3">Share Your Wisdom</h2>
+                      <p className="text-blue-200 text-lg">Add your own axiom or aphorism to our growing collection</p>
                     </div>
-
                     <div className="bg-white rounded-lg shadow-2xl p-8 border-4 border-blue-700"
                          style={{ background: 'linear-gradient(to bottom right, #f8fafc 0%, #e0f2fe 100%)' }}>
-                      
                       {submitError && (
                         <div className="mb-6 p-4 bg-red-100 border-2 border-red-400 rounded-lg">
                           <p className="text-red-700">{submitError}</p>
                         </div>
                       )}
-
                       <div className="space-y-6">
                         <div>
-                          <label className="block text-slate-900 font-semibold mb-2 text-lg">
-                            Your Wisdom
-                          </label>
-                          <textarea
-                            value={wisdomText}
-                            onChange={(e) => setWisdomText(e.target.value)}
+                          <label className="block text-slate-900 font-semibold mb-2 text-lg">Your Wisdom</label>
+                          <textarea value={wisdomText} onChange={(e) => setWisdomText(e.target.value)}
                             placeholder="Share an insight, principle, or lesson that guides your life..."
-                            className="w-full px-4 py-3 border-2 border-blue-400 rounded-lg focus:outline-none 
-                                     focus:border-blue-600 focus:ring-2 focus:ring-blue-300 text-slate-900 text-lg
-                                     bg-white resize-none"
-                            rows="6"
-                            required
-                          ></textarea>
+                            className="w-full px-4 py-3 border-2 border-blue-400 rounded-lg focus:outline-none focus:border-blue-600 focus:ring-2 focus:ring-blue-300 text-slate-900 text-lg bg-white resize-none"
+                            rows="6" required></textarea>
                         </div>
-
                         <div>
-                          <label className="block text-slate-900 font-semibold mb-2 text-lg">
-                            Your Name (Optional)
-                          </label>
-                          <input
-                            type="text"
-                            value={authorText}
-                            onChange={(e) => setAuthorText(e.target.value)}
+                          <label className="block text-slate-900 font-semibold mb-2 text-lg">Your Name (Optional)</label>
+                          <input type="text" value={authorText} onChange={(e) => setAuthorText(e.target.value)}
                             placeholder="How would you like to be credited?"
-                            className="w-full px-4 py-3 border-2 border-blue-400 rounded-lg focus:outline-none 
-                                     focus:border-blue-600 focus:ring-2 focus:ring-blue-300 text-slate-900 text-lg
-                                     bg-white"
-                          />
-                          <p className="text-slate-700 text-sm mt-2 italic">
-                            Leave blank to post as "Anonymous Reader"
-                          </p>
+                            className="w-full px-4 py-3 border-2 border-blue-400 rounded-lg focus:outline-none focus:border-blue-600 focus:ring-2 focus:ring-blue-300 text-slate-900 text-lg bg-white" />
+                          <p className="text-slate-700 text-sm mt-2 italic">Leave blank to post as "Anonymous Reader"</p>
                         </div>
-
-                        <button
-                          onClick={handleSubmit}
-                          disabled={isSubmitting || !wisdomText.trim()}
-                          className="w-full px-8 py-4 bg-blue-700 text-white rounded-lg font-bold text-lg
-                                   hover:bg-blue-800 transition-all transform hover:scale-105 shadow-lg
-                                   disabled:opacity-50 disabled:cursor-not-allowed disabled:transform-none"
-                        >
+                        <button onClick={handleSubmit} disabled={isSubmitting || !wisdomText.trim()}
+                          className="w-full px-8 py-4 bg-blue-700 text-white rounded-lg font-bold text-lg hover:bg-blue-800 transition-all transform hover:scale-105 shadow-lg disabled:opacity-50 disabled:cursor-not-allowed disabled:transform-none">
                           {isSubmitting ? 'Submitting...' : 'Submit for Review'}
                         </button>
                       </div>
                     </div>
-
                     <div className="bg-blue-900 bg-opacity-80 border-2 border-blue-500 rounded-lg p-6 text-blue-100">
                       <h3 className="font-bold text-lg mb-2">📖 About Submissions</h3>
-                      <p className="text-blue-200 leading-relaxed mb-3">
-                        All submissions are reviewed before appearing on the site to ensure they align with 
-                        the spirit of hope and wisdom that guides this community.
-                      </p>
-                      <p className="text-blue-200 leading-relaxed">
-                        Your insights help readers support each other on their journey. 
-                        Please share authentically and respectfully.
-                      </p>
+                      <p className="text-blue-200 leading-relaxed mb-3">All submissions are reviewed before appearing on the site to ensure they align with the spirit of hope and wisdom that guides this community.</p>
+                      <p className="text-blue-200 leading-relaxed">Your insights help readers support each other on their journey. Please share authentically and respectfully.</p>
                     </div>
                   </div>
                 )}
-
               </main>
 
               <footer className="bg-slate-950 bg-opacity-95 text-blue-100 py-8 mt-20 border-t-2 border-blue-700">
                 <div className="max-w-6xl mx-auto px-6 text-center">
-                  <p className="text-lg mb-2">
-                    "The goal of life is not to live safely...it is to live fully."
-                  </p>
-                  <p className="text-blue-300 text-sm">
-                    Companion resource for readers of <em>Living Life Fully With Hope: Practices and Principles for Everyday Hope</em>
-                  </p>
-                  <p className="text-blue-400 text-sm mt-2">
-                    by Dr. Goodman, PhD, DMA
-                  </p>
+                  <p className="text-lg mb-2">"The goal of life is not to live safely...it is to live fully."</p>
+                  <p className="text-blue-300 text-sm">Companion resource for readers of <em>Living Life Fully With Hope: Practices and Principles for Everyday Hope</em></p>
+                  <p className="text-blue-400 text-sm mt-2">by Dr. Goodman, PhD, DMA</p>
                 </div>
               </footer>
 
               <style>{`
-                @keyframes fadeIn {
-                  from { opacity: 0; transform: translateY(20px); }
-                  to { opacity: 1; transform: translateY(0); }
-                }
+                @keyframes fadeIn { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
                 .animate-fadeIn { animation: fadeIn 0.6s ease-out; }
                 * { scroll-behavior: smooth; }
                 body { overflow-x: hidden; margin: 0; padding: 0; }
@@ -473,3 +377,6 @@
     </script>
 </body>
 </html>
+
+Paste that in, commit, and the site should be live within 30 seconds. Let me know what you see!Claude Fable 5 is currently unavailable.Learn more(opens in new tab)
+Sonnet 4.6 Low
