@@ -1,12 +1,10 @@
 [build]
+  publish = "NEW WEBSITE FOREVER"
   functions = "netlify/functions"
-
 [functions]
   node_bundler = "esbuild"
-
 [functions.daily-quotes]
   schedule = "0 16 * * *"
-
 [[headers]]
   for = "/community"
   [headers.values]
