@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "All we have to decide is what to do with the time that is given us.",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-06-18",
+      "inactive": false
+    },
+    {
+      "text": "Humility is not thinking less of yourself, it's thinking of yourself less.",
+      "author": "C.S. Lewis",
+      "date": "2026-06-18",
+      "inactive": false
+    },
+    {
+      "text": "It's not what happens to you, but how you react to it that matters.",
+      "author": "Epictetus",
+      "date": "2026-06-18",
+      "inactive": false
+    },
+    {
+      "text": "The only impossible journey is the one you never begin.",
+      "author": "Tony Robbins",
+      "date": "2026-06-18",
+      "inactive": false
+    },
+    {
+      "text": "Experience is what you get when you didn't get what you wanted.",
+      "author": "Randy Pausch",
+      "date": "2026-06-18",
+      "inactive": false
+    },
+    {
       "text": "Water is fluid, soft, and yielding. But water will wear away rock, which is rigid and cannot yield. As a rule, whatever is fluid, soft, and yielding will overcome whatever is rigid and hard.",
       "author": "Lao Tzu",
       "date": "2026-06-17",
@@ -412,42 +442,6 @@
       "author": "Aesop",
       "date": "2026-06-05",
       "inactive": false
-    },
-    {
-      "text": "A small act is worth a million thoughts.",
-      "author": "Ai Weiwei",
-      "date": "2026-06-05",
-      "inactive": false
-    },
-    {
-      "text": "Three things cannot be long hidden: the sun, the moon, and the truth.",
-      "author": "Buddha",
-      "date": "2026-06-04",
-      "inactive": false
-    },
-    {
-      "text": "The privilege of a lifetime is being who you are.",
-      "author": "Joseph Campbell",
-      "date": "2026-06-04",
-      "inactive": false
-    },
-    {
-      "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
-      "author": "Confucius",
-      "date": "2026-06-04",
-      "inactive": false
-    },
-    {
-      "text": "Better to get on the bike and fall then never to get on the bike at all.",
-      "author": "Dr Goodman",
-      "date": "2026-06-04",
-      "inactive": false
-    },
-    {
-      "text": "Humility is not thinking less of yourself, it's thinking of yourself less.",
-      "author": "C.S. Lewis",
-      "date": "2026-01-23",
-      "inactive": true
     },
     {
       "text": "The best way out is always through.",
@@ -954,13 +948,6 @@
       "deactivatedDate": "2026-04-22"
     },
     {
-      "text": "Experience is what you get when you didn't get what you wanted.",
-      "author": "Randy Pausch",
-      "date": "2026-04-13",
-      "inactive": true,
-      "deactivatedDate": "2026-04-22"
-    },
-    {
       "text": "You'll miss the best things if you keep your eyes shut.",
       "author": "Dr. Seuss",
       "date": "2026-04-13",
@@ -977,13 +964,6 @@
     {
       "text": "Try to be a rainbow in someone's cloud.",
       "author": "Maya Angelou",
-      "date": "2026-04-17",
-      "inactive": true,
-      "deactivatedDate": "2026-04-26"
-    },
-    {
-      "text": "It's not what happens to you, but how you react to it that matters.",
-      "author": "Epictetus",
       "date": "2026-04-17",
       "inactive": true,
       "deactivatedDate": "2026-04-26"
@@ -1176,13 +1156,6 @@
       "date": "2026-04-24",
       "inactive": true,
       "deactivatedDate": "2026-05-06"
-    },
-    {
-      "text": "The only impossible journey is the one you never begin.",
-      "author": "Tony Robbins",
-      "date": "2026-04-26",
-      "inactive": true,
-      "deactivatedDate": "2026-05-07"
     },
     {
       "text": "It is not our abilities that show what we truly are. It is our choices.",
@@ -1696,13 +1669,6 @@
       "date": "2026-05-15",
       "inactive": true,
       "communitySubmission": true,
-      "deactivatedDate": "2026-05-28"
-    },
-    {
-      "text": "All we have to decide is what to do with the time that is given us.",
-      "author": "J.R.R. Tolkien",
-      "date": "2026-05-15",
-      "inactive": true,
       "deactivatedDate": "2026-05-28"
     },
     {
@@ -2382,9 +2348,44 @@
       "date": "2026-06-03",
       "inactive": true,
       "deactivatedDate": "2026-06-17"
+    },
+    {
+      "text": "A small act is worth a million thoughts.",
+      "author": "Ai Weiwei",
+      "date": "2026-06-05",
+      "inactive": true,
+      "deactivatedDate": "2026-06-18"
+    },
+    {
+      "text": "Three things cannot be long hidden: the sun, the moon, and the truth.",
+      "author": "Buddha",
+      "date": "2026-06-04",
+      "inactive": true,
+      "deactivatedDate": "2026-06-18"
+    },
+    {
+      "text": "The privilege of a lifetime is being who you are.",
+      "author": "Joseph Campbell",
+      "date": "2026-06-04",
+      "inactive": true,
+      "deactivatedDate": "2026-06-18"
+    },
+    {
+      "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
+      "author": "Confucius",
+      "date": "2026-06-04",
+      "inactive": true,
+      "deactivatedDate": "2026-06-18"
+    },
+    {
+      "text": "Better to get on the bike and fall then never to get on the bike at all.",
+      "author": "Dr Goodman",
+      "date": "2026-06-04",
+      "inactive": true,
+      "deactivatedDate": "2026-06-18"
     }
   ],
-  "lastRotation": "2026-06-17",
+  "lastRotation": "2026-06-18",
   "totalQuotes": 349,
   "activeQuotes": 73,
   "inactiveQuotes": 276
