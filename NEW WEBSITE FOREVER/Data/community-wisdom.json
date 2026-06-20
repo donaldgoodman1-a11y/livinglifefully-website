@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Happiness can be found even in the darkest of times, if one only remembers to turn on the light.",
+      "author": "J.K. Rowling",
+      "date": "2026-06-20",
+      "inactive": false
+    },
+    {
+      "text": "Try a little harder to be a little better.",
+      "author": "Gordon B. Hinckley",
+      "date": "2026-06-20",
+      "inactive": false
+    },
+    {
+      "text": "We cannot do great things on this earth, only small things with great love.",
+      "author": "Mother Teresa",
+      "date": "2026-06-20",
+      "inactive": false
+    },
+    {
+      "text": "When it's over, I want to say: all my life I was a bride married to amazement.",
+      "author": "Mary Oliver",
+      "date": "2026-06-20",
+      "inactive": false
+    },
+    {
+      "text": "Luck is what happens when preparation meets opportunity.",
+      "author": "Seneca",
+      "date": "2026-06-20",
+      "inactive": false
+    },
+    {
       "text": "When we are no longer able to change a situation, we are challenged to change ourselves.",
       "author": "Viktor Frankl",
       "date": "2026-06-19",
@@ -414,36 +444,6 @@
       "inactive": false
     },
     {
-      "text": "The cave you fear to enter holds the treasure you seek.",
-      "author": "Joseph Campbell",
-      "date": "2026-06-07",
-      "inactive": false
-    },
-    {
-      "text": "Friendship is born at that moment when one person says to another: What! You too? I thought I was the only one.",
-      "author": "C.S. Lewis",
-      "date": "2026-06-06",
-      "inactive": false
-    },
-    {
-      "text": "Faith is taking the first step even when you don't see the whole staircase.",
-      "author": "Martin Luther King Jr.",
-      "date": "2026-06-06",
-      "inactive": false
-    },
-    {
-      "text": "Fantasy is hardly an escape from reality. It's a way of understanding it.",
-      "author": "Lloyd Alexander",
-      "date": "2026-06-06",
-      "inactive": false
-    },
-    {
-      "text": "Don't cry because it's over, smile because it happened.",
-      "author": "Dr. Seuss",
-      "date": "2026-06-06",
-      "inactive": false
-    },
-    {
       "text": "The best way out is always through.",
       "author": "Robert Frost",
       "date": "2026-01-18",
@@ -453,12 +453,6 @@
       "text": "Knowing your own darkness is the best method for dealing with the darknesses of other people.",
       "author": "Carl Jung",
       "date": "2026-01-11",
-      "inactive": true
-    },
-    {
-      "text": "When it's over, I want to say: all my life I was a bride married to amazement.",
-      "author": "Mary Oliver",
-      "date": "2026-01-09",
       "inactive": true
     },
     {
@@ -859,13 +853,6 @@
       "deactivatedDate": "2026-04-13"
     },
     {
-      "text": "Try a little harder to be a little better.",
-      "author": "Gordon B. Hinckley",
-      "date": "2026-04-06",
-      "inactive": true,
-      "deactivatedDate": "2026-04-14"
-    },
-    {
       "text": "The more that you read, the more things you will know. The more that you learn, the more places you'll go.",
       "author": "Dr. Seuss",
       "date": "2026-04-06",
@@ -1244,13 +1231,6 @@
       "deactivatedDate": "2026-05-12"
     },
     {
-      "text": "Luck is what happens when preparation meets opportunity.",
-      "author": "Seneca",
-      "date": "2026-04-30",
-      "inactive": true,
-      "deactivatedDate": "2026-05-12"
-    },
-    {
       "text": "If you have good thoughts they will shine out of your face like sunbeams and you will always look lovely.",
       "author": "Roald Dahl",
       "date": "2026-05-02",
@@ -1358,13 +1338,6 @@
     {
       "text": "The most effective way to change your behavior is to focus not on what you want to achieve, but on who you wish to become.",
       "author": "James Clear",
-      "date": "2026-05-07",
-      "inactive": true,
-      "deactivatedDate": "2026-05-18"
-    },
-    {
-      "text": "We cannot do great things on this earth, only small things with great love.",
-      "author": "Mother Teresa",
       "date": "2026-05-07",
       "inactive": true,
       "deactivatedDate": "2026-05-18"
@@ -1781,13 +1754,6 @@
     {
       "text": "Isn't it funny how day by day nothing changes, but when you look back, everything is different.",
       "author": "C.S. Lewis",
-      "date": "2026-05-20",
-      "inactive": true,
-      "deactivatedDate": "2026-06-02"
-    },
-    {
-      "text": "Happiness can be found even in the darkest of times, if one only remembers to turn on the light.",
-      "author": "J.K. Rowling",
       "date": "2026-05-20",
       "inactive": true,
       "deactivatedDate": "2026-06-02"
@@ -2385,9 +2351,44 @@
       "date": "2026-06-05",
       "inactive": true,
       "deactivatedDate": "2026-06-19"
+    },
+    {
+      "text": "The cave you fear to enter holds the treasure you seek.",
+      "author": "Joseph Campbell",
+      "date": "2026-06-07",
+      "inactive": true,
+      "deactivatedDate": "2026-06-20"
+    },
+    {
+      "text": "Friendship is born at that moment when one person says to another: What! You too? I thought I was the only one.",
+      "author": "C.S. Lewis",
+      "date": "2026-06-06",
+      "inactive": true,
+      "deactivatedDate": "2026-06-20"
+    },
+    {
+      "text": "Faith is taking the first step even when you don't see the whole staircase.",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-06-06",
+      "inactive": true,
+      "deactivatedDate": "2026-06-20"
+    },
+    {
+      "text": "Fantasy is hardly an escape from reality. It's a way of understanding it.",
+      "author": "Lloyd Alexander",
+      "date": "2026-06-06",
+      "inactive": true,
+      "deactivatedDate": "2026-06-20"
+    },
+    {
+      "text": "Don't cry because it's over, smile because it happened.",
+      "author": "Dr. Seuss",
+      "date": "2026-06-06",
+      "inactive": true,
+      "deactivatedDate": "2026-06-20"
     }
   ],
-  "lastRotation": "2026-06-19",
+  "lastRotation": "2026-06-20",
   "totalQuotes": 349,
   "activeQuotes": 73,
   "inactiveQuotes": 276
