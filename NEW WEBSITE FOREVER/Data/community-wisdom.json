@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "That which does not kill us makes us stronger.",
+      "author": "Friedrich Nietzsche",
+      "date": "2026-06-21",
+      "inactive": false
+    },
+    {
+      "text": "Never wound a snake; kill it.",
+      "author": "Harriet Tubman",
+      "date": "2026-06-21",
+      "inactive": false
+    },
+    {
+      "text": "If they merit redemption through Teshuva and Mitzvos, I will hasten the coming of the Moshiach.",
+      "author": "Sanhedrin",
+      "date": "2026-06-21",
+      "inactive": false
+    },
+    {
+      "text": "You don't have to see the whole staircase, just take the first step.",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-06-21",
+      "inactive": false
+    },
+    {
+      "text": "Good inspiration is based on good information.",
+      "author": "Russell M. Nelson",
+      "date": "2026-06-21",
+      "inactive": false
+    },
+    {
       "text": "Happiness can be found even in the darkest of times, if one only remembers to turn on the light.",
       "author": "J.K. Rowling",
       "date": "2026-06-20",
@@ -414,36 +444,6 @@
       "inactive": false
     },
     {
-      "text": "When we keep the commandments, the blessings come.",
-      "author": "Henry B. Eyring",
-      "date": "2026-06-08",
-      "inactive": false
-    },
-    {
-      "text": "The wound is the place where the Light enters you.",
-      "author": "Rumi",
-      "date": "2026-06-07",
-      "inactive": false
-    },
-    {
-      "text": "Kind words can be short and easy to speak, but their echoes are truly endless.",
-      "author": "Mother Teresa",
-      "date": "2026-06-07",
-      "inactive": false
-    },
-    {
-      "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-06-07",
-      "inactive": false
-    },
-    {
-      "text": "It's kind of fun to do the impossible.",
-      "author": "Walt Disney",
-      "date": "2026-06-07",
-      "inactive": false
-    },
-    {
       "text": "The best way out is always through.",
       "author": "Robert Frost",
       "date": "2026-01-18",
@@ -459,12 +459,6 @@
       "text": "The present moment is the only time over which we have dominion.",
       "author": "Thich Nhat Hanh",
       "date": "2026-01-06",
-      "inactive": true
-    },
-    {
-      "text": "You don't have to see the whole staircase, just take the first step.",
-      "author": "Martin Luther King Jr.",
-      "date": "2026-01-03",
       "inactive": true
     },
     {
@@ -902,13 +896,6 @@
       "deactivatedDate": "2026-04-21"
     },
     {
-      "text": "That which does not kill us makes us stronger.",
-      "author": "Friedrich Nietzsche",
-      "date": "2026-04-12",
-      "inactive": true,
-      "deactivatedDate": "2026-04-21"
-    },
-    {
       "text": "You do not rise to the level of your goals. You fall to the level of your systems.",
       "author": "James Clear",
       "date": "2026-04-13",
@@ -1280,13 +1267,6 @@
       "deactivatedDate": "2026-05-15"
     },
     {
-      "text": "If they merit redemption through Teshuva and Mitzvos, I will hasten the coming of the Moshiach.",
-      "author": "Sanhedrin",
-      "date": "2026-05-04",
-      "inactive": true,
-      "deactivatedDate": "2026-05-15"
-    },
-    {
       "text": "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.",
       "author": "Antoine de Saint-Exupéry",
       "date": "2026-05-04",
@@ -1495,22 +1475,8 @@
       "deactivatedDate": "2026-05-24"
     },
     {
-      "text": "Never wound a snake; kill it.",
-      "author": "Harriet Tubman",
-      "date": "2026-05-12",
-      "inactive": true,
-      "deactivatedDate": "2026-05-24"
-    },
-    {
       "text": "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
       "author": "Mother Teresa",
-      "date": "2026-05-13",
-      "inactive": true,
-      "deactivatedDate": "2026-05-25"
-    },
-    {
-      "text": "Good inspiration is based on good information.",
-      "author": "Russell M. Nelson",
       "date": "2026-05-13",
       "inactive": true,
       "deactivatedDate": "2026-05-25"
@@ -2386,9 +2352,44 @@
       "date": "2026-06-06",
       "inactive": true,
       "deactivatedDate": "2026-06-20"
+    },
+    {
+      "text": "When we keep the commandments, the blessings come.",
+      "author": "Henry B. Eyring",
+      "date": "2026-06-08",
+      "inactive": true,
+      "deactivatedDate": "2026-06-21"
+    },
+    {
+      "text": "The wound is the place where the Light enters you.",
+      "author": "Rumi",
+      "date": "2026-06-07",
+      "inactive": true,
+      "deactivatedDate": "2026-06-21"
+    },
+    {
+      "text": "Kind words can be short and easy to speak, but their echoes are truly endless.",
+      "author": "Mother Teresa",
+      "date": "2026-06-07",
+      "inactive": true,
+      "deactivatedDate": "2026-06-21"
+    },
+    {
+      "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-06-07",
+      "inactive": true,
+      "deactivatedDate": "2026-06-21"
+    },
+    {
+      "text": "It's kind of fun to do the impossible.",
+      "author": "Walt Disney",
+      "date": "2026-06-07",
+      "inactive": true,
+      "deactivatedDate": "2026-06-21"
     }
   ],
-  "lastRotation": "2026-06-20",
+  "lastRotation": "2026-06-21",
   "totalQuotes": 349,
   "activeQuotes": 73,
   "inactiveQuotes": 276
