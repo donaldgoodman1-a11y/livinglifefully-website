@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-06-23",
+      "inactive": false
+    },
+    {
+      "text": "The least of things with a meaning is worth more in life than the greatest of things without it.",
+      "author": "Carl Jung",
+      "date": "2026-06-23",
+      "inactive": false
+    },
+    {
+      "text": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+      "author": "Albert Einstein",
+      "date": "2026-06-23",
+      "inactive": false
+    },
+    {
+      "text": "A hero is someone who has given his or her life to something bigger than oneself.",
+      "author": "Joseph Campbell",
+      "date": "2026-06-23",
+      "inactive": false
+    },
+    {
+      "text": "Draw a crazy picture, Write a nutty poem, Sing a mumble-gumble song, Whistle through your comb.",
+      "author": "Shel Silverstein",
+      "date": "2026-06-23",
+      "inactive": false
+    },
+    {
       "text": "The secret of staying young is to live honestly, eat slowly, and lie about your age.",
       "author": "Lucille Ball",
       "date": "2026-06-22",
@@ -413,36 +443,6 @@
       "inactive": false
     },
     {
-      "text": "Knowing yourself is the beginning of all wisdom.",
-      "author": "Aristotle",
-      "date": "2026-06-09",
-      "inactive": false
-    },
-    {
-      "text": "A cheerful heart is good medicine.",
-      "author": "King Solomon",
-      "date": "2026-06-09",
-      "inactive": false
-    },
-    {
-      "text": "We choose to be in control or choose to surrender.",
-      "author": "Ryan Holiday",
-      "date": "2026-06-09",
-      "inactive": false
-    },
-    {
-      "text": "We may encounter many defeats but we must not be defeated.",
-      "author": "Maya Angelou",
-      "date": "2026-06-09",
-      "inactive": false
-    },
-    {
-      "text": "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.",
-      "author": "Rumi",
-      "date": "2026-06-09",
-      "inactive": false
-    },
-    {
       "text": "The best way out is always through.",
       "author": "Robert Frost",
       "date": "2026-01-18",
@@ -482,12 +482,6 @@
       "text": "Those who don't believe in magic will never find it.",
       "author": "Roald Dahl",
       "date": "2025-12-23",
-      "inactive": true
-    },
-    {
-      "text": "Draw a crazy picture, Write a nutty poem, Sing a mumble-gumble song, Whistle through your comb.",
-      "author": "Shel Silverstein",
-      "date": "2025-12-22",
       "inactive": true
     },
     {
@@ -725,20 +719,6 @@
       "date": "2026-03-24",
       "inactive": true,
       "deactivatedDate": "2026-04-02"
-    },
-    {
-      "text": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
-      "author": "Albert Einstein",
-      "date": "2026-03-26",
-      "inactive": true,
-      "deactivatedDate": "2026-04-03"
-    },
-    {
-      "text": "A hero is someone who has given his or her life to something bigger than oneself.",
-      "author": "Joseph Campbell",
-      "date": "2026-03-26",
-      "inactive": true,
-      "deactivatedDate": "2026-04-03"
     },
     {
       "text": "We suffer more often in imagination than in reality.",
@@ -1393,13 +1373,6 @@
       "deactivatedDate": "2026-05-23"
     },
     {
-      "text": "The least of things with a meaning is worth more in life than the greatest of things without it.",
-      "author": "Carl Jung",
-      "date": "2026-05-12",
-      "inactive": true,
-      "deactivatedDate": "2026-05-23"
-    },
-    {
       "text": "“Loneliness, is not the absence of people around us, but the inability to express what truly matters within us",
       "author": "Carl Jung",
       "date": "2026-05-12",
@@ -1797,13 +1770,6 @@
     {
       "text": "Each child brings his own blessing into the world.",
       "author": "Talmud",
-      "date": "2026-05-23",
-      "inactive": true,
-      "deactivatedDate": "2026-06-05"
-    },
-    {
-      "text": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
-      "author": "Eleanor Roosevelt",
       "date": "2026-05-23",
       "inactive": true,
       "deactivatedDate": "2026-06-05"
@@ -2387,9 +2353,44 @@
       "date": "2026-06-08",
       "inactive": true,
       "deactivatedDate": "2026-06-22"
+    },
+    {
+      "text": "Knowing yourself is the beginning of all wisdom.",
+      "author": "Aristotle",
+      "date": "2026-06-09",
+      "inactive": true,
+      "deactivatedDate": "2026-06-23"
+    },
+    {
+      "text": "A cheerful heart is good medicine.",
+      "author": "King Solomon",
+      "date": "2026-06-09",
+      "inactive": true,
+      "deactivatedDate": "2026-06-23"
+    },
+    {
+      "text": "We choose to be in control or choose to surrender.",
+      "author": "Ryan Holiday",
+      "date": "2026-06-09",
+      "inactive": true,
+      "deactivatedDate": "2026-06-23"
+    },
+    {
+      "text": "We may encounter many defeats but we must not be defeated.",
+      "author": "Maya Angelou",
+      "date": "2026-06-09",
+      "inactive": true,
+      "deactivatedDate": "2026-06-23"
+    },
+    {
+      "text": "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.",
+      "author": "Rumi",
+      "date": "2026-06-09",
+      "inactive": true,
+      "deactivatedDate": "2026-06-23"
     }
   ],
-  "lastRotation": "2026-06-22",
+  "lastRotation": "2026-06-23",
   "totalQuotes": 349,
   "activeQuotes": 73,
   "inactiveQuotes": 276
