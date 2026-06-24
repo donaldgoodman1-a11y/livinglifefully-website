@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Some day you will be old enough to start reading fairy tales again.",
+      "author": "C.S. Lewis",
+      "date": "2026-06-24",
+      "inactive": false
+    },
+    {
+      "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+      "author": "Zig Ziglar",
+      "date": "2026-06-24",
+      "inactive": false
+    },
+    {
+      "text": "There is some good in this world, and it's worth fighting for.",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-06-24",
+      "inactive": false
+    },
+    {
+      "text": "Don’t make a project out of yourself. \nMove outside yourself.",
+      "author": "Dr Goodman",
+      "date": "2026-06-24",
+      "inactive": false
+    },
+    {
+      "text": "Instructions for living a life: Pay attention. Be astonished. Tell about it.",
+      "author": "Mary Oliver",
+      "date": "2026-06-24",
+      "inactive": false
+    },
+    {
       "text": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
       "author": "Eleanor Roosevelt",
       "date": "2026-06-23",
@@ -412,37 +442,6 @@
       "inactive": false
     },
     {
-      "text": "Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!",
-      "author": "Dr. Seuss",
-      "date": "2026-06-10",
-      "inactive": false
-    },
-    {
-      "text": "However late you think you are, however many chances you think you have missed, you have not traveled beyond the reach of divine love.",
-      "author": "Jeffrey R. Holland",
-      "date": "2026-06-10",
-      "inactive": false
-    },
-    {
-      "text": "Sometimes the questions are complicated and the answers are simple.",
-      "author": "Dr. Seuss",
-      "date": "2026-06-10",
-      "inactive": false
-    },
-    {
-      "text": "When we make our fantasies our reality they often become our nightmares.",
-      "author": "Dr Goodman",
-      "date": "2026-06-10",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.",
-      "author": "Brené Brown",
-      "date": "2026-06-10",
-      "inactive": false
-    },
-    {
       "text": "The best way out is always through.",
       "author": "Robert Frost",
       "date": "2026-01-18",
@@ -791,13 +790,6 @@
       "deactivatedDate": "2026-04-10"
     },
     {
-      "text": "Some day you will be old enough to start reading fairy tales again.",
-      "author": "C.S. Lewis",
-      "date": "2026-04-03",
-      "inactive": true,
-      "deactivatedDate": "2026-04-11"
-    },
-    {
       "text": "A single sunbeam is enough to drive away many shadows.",
       "author": "St. Francis of Assisi",
       "date": "2026-04-02",
@@ -1022,13 +1014,6 @@
       "deactivatedDate": "2026-05-03"
     },
     {
-      "text": "Instructions for living a life: Pay attention. Be astonished. Tell about it.",
-      "author": "Mary Oliver",
-      "date": "2026-04-22",
-      "inactive": true,
-      "deactivatedDate": "2026-05-03"
-    },
-    {
       "text": "Integrity is doing the right thing even when no one is watching.",
       "author": "C.S. Lewis",
       "date": "2026-04-23",
@@ -1162,13 +1147,6 @@
       "deactivatedDate": "2026-05-11"
     },
     {
-      "text": "Don’t make a project out of yourself. \nMove outside yourself.",
-      "author": "Dr Goodman",
-      "date": "2026-05-01",
-      "inactive": true,
-      "deactivatedDate": "2026-05-12"
-    },
-    {
       "text": "If you have good thoughts they will shine out of your face like sunbeams and you will always look lovely.",
       "author": "Roald Dahl",
       "date": "2026-05-02",
@@ -1283,13 +1261,6 @@
     {
       "text": "Intelligence plus character—that is the goal of true education.",
       "author": "Martin Luther King Jr.",
-      "date": "2026-05-08",
-      "inactive": true,
-      "deactivatedDate": "2026-05-19"
-    },
-    {
-      "text": "There is some good in this world, and it's worth fighting for.",
-      "author": "J.R.R. Tolkien",
       "date": "2026-05-08",
       "inactive": true,
       "deactivatedDate": "2026-05-19"
@@ -1699,13 +1670,6 @@
     {
       "text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest.",
       "author": "Jesus Christ",
-      "date": "2026-05-21",
-      "inactive": true,
-      "deactivatedDate": "2026-06-03"
-    },
-    {
-      "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
-      "author": "Zig Ziglar",
       "date": "2026-05-21",
       "inactive": true,
       "deactivatedDate": "2026-06-03"
@@ -2388,9 +2352,45 @@
       "date": "2026-06-09",
       "inactive": true,
       "deactivatedDate": "2026-06-23"
+    },
+    {
+      "text": "Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!",
+      "author": "Dr. Seuss",
+      "date": "2026-06-10",
+      "inactive": true,
+      "deactivatedDate": "2026-06-24"
+    },
+    {
+      "text": "However late you think you are, however many chances you think you have missed, you have not traveled beyond the reach of divine love.",
+      "author": "Jeffrey R. Holland",
+      "date": "2026-06-10",
+      "inactive": true,
+      "deactivatedDate": "2026-06-24"
+    },
+    {
+      "text": "Sometimes the questions are complicated and the answers are simple.",
+      "author": "Dr. Seuss",
+      "date": "2026-06-10",
+      "inactive": true,
+      "deactivatedDate": "2026-06-24"
+    },
+    {
+      "text": "When we make our fantasies our reality they often become our nightmares.",
+      "author": "Dr Goodman",
+      "date": "2026-06-10",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-06-24"
+    },
+    {
+      "text": "Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.",
+      "author": "Brené Brown",
+      "date": "2026-06-10",
+      "inactive": true,
+      "deactivatedDate": "2026-06-24"
     }
   ],
-  "lastRotation": "2026-06-23",
+  "lastRotation": "2026-06-24",
   "totalQuotes": 349,
   "activeQuotes": 73,
   "inactiveQuotes": 276
