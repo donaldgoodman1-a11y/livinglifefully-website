@@ -1,6 +1,37 @@
 {
   "quotes": [
     {
+      "text": "Your work is to discover your work and then with all your heart to give yourself to it.",
+      "author": "Buddha",
+      "date": "2026-06-27",
+      "inactive": false
+    },
+    {
+      "text": "I wish it need not have happened in my time, said Frodo. So do I, said Gandalf, and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-06-27",
+      "inactive": false
+    },
+    {
+      "text": "We suffer more often in imagination than in reality.",
+      "author": "Seneca",
+      "date": "2026-06-27",
+      "inactive": false
+    },
+    {
+      "text": "A single sunbeam is enough to drive away many shadows.",
+      "author": "St. Francis of Assisi",
+      "date": "2026-06-27",
+      "inactive": false
+    },
+    {
+      "text": "Wherever you are… Be there. \nThis saying has been said in different ways, but this particular way has my personal touch on it. \nI had a plack made  for each one of my kids so that they know how important it is to be focused and in the moment.",
+      "author": "Steve LeBaron",
+      "date": "2026-06-27",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
       "text": "We do not need magic to transform our world. We carry all the power we need inside ourselves already.",
       "author": "J.K. Rowling",
       "date": "2026-06-26",
@@ -411,36 +442,6 @@
       "inactive": false
     },
     {
-      "text": "I'm a success today because I had a friend who believed in me and I didn't have the heart to let him down.",
-      "author": "Abraham Lincoln",
-      "date": "2026-06-13",
-      "inactive": false
-    },
-    {
-      "text": "Believe you can and you're halfway there.",
-      "author": "Theodore Roosevelt",
-      "date": "2026-06-13",
-      "inactive": false
-    },
-    {
-      "text": "Either write something worth reading or do something worth writing.",
-      "author": "Benjamin Franklin",
-      "date": "2026-06-13",
-      "inactive": false
-    },
-    {
-      "text": "Faith in Jesus Christ is the first principle of the gospel for a reason.",
-      "author": "Henry B. Eyring",
-      "date": "2026-06-13",
-      "inactive": false
-    },
-    {
-      "text": "For every minute you are angry you lose sixty seconds of happiness.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-06-12",
-      "inactive": false
-    },
-    {
       "text": "The best way out is always through.",
       "author": "Robert Frost",
       "date": "2026-01-18",
@@ -706,13 +707,6 @@
       "deactivatedDate": "2026-04-02"
     },
     {
-      "text": "We suffer more often in imagination than in reality.",
-      "author": "Seneca",
-      "date": "2026-03-28",
-      "inactive": true,
-      "deactivatedDate": "2026-04-05"
-    },
-    {
       "text": "I learned that courage was not the absence of fear, but the triumph over it.",
       "author": "Nelson Mandela",
       "date": "2026-03-27",
@@ -774,13 +768,6 @@
       "date": "2026-04-01",
       "inactive": true,
       "deactivatedDate": "2026-04-10"
-    },
-    {
-      "text": "A single sunbeam is enough to drive away many shadows.",
-      "author": "St. Francis of Assisi",
-      "date": "2026-04-02",
-      "inactive": true,
-      "deactivatedDate": "2026-04-11"
     },
     {
       "text": "I have learned that if one advances confidently in the direction of his dreams, he will meet with a success unexpected in common hours.",
@@ -951,14 +938,6 @@
     {
       "text": "Remember: The serenity prayer: God grant me the serenity to accept the things I cannot \nchange; courage to change the things I can; and wisdom to know the difference. Living \none day at a time; enjoying one moment at a time; accepting hardships as the pathway to \npeace; taking, as He did, this sinful world as it is, not as I would have it; trusting that He \nwill make all things right If I surrender to His Will; that I may be reasonably happy in \nthis life and supremely happy with Him forever in the next. Amen",
       "author": "Reinhold Niebuhr",
-      "date": "2026-04-20",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-04-30"
-    },
-    {
-      "text": "Wherever you are… Be there. \nThis saying has been said in different ways, but this particular way has my personal touch on it. \nI had a plack made  for each one of my kids so that they know how important it is to be focused and in the moment.",
-      "author": "Steve LeBaron",
       "date": "2026-04-20",
       "inactive": true,
       "communitySubmission": true,
@@ -1556,13 +1535,6 @@
       "deactivatedDate": "2026-06-01"
     },
     {
-      "text": "I wish it need not have happened in my time, said Frodo. So do I, said Gandalf, and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.",
-      "author": "J.R.R. Tolkien",
-      "date": "2026-05-19",
-      "inactive": true,
-      "deactivatedDate": "2026-06-01"
-    },
-    {
       "text": "The issue for us is trusting God enough to trust also His timing.",
       "author": "Neal A. Maxwell",
       "date": "2026-05-19",
@@ -1735,13 +1707,6 @@
     {
       "text": "Life's most persistent and urgent question is, 'What are you doing for others?'",
       "author": "Martin Luther King Jr.",
-      "date": "2026-05-25",
-      "inactive": true,
-      "deactivatedDate": "2026-06-07"
-    },
-    {
-      "text": "Your work is to discover your work and then with all your heart to give yourself to it.",
-      "author": "Buddha",
       "date": "2026-05-25",
       "inactive": true,
       "deactivatedDate": "2026-06-07"
@@ -2389,9 +2354,44 @@
       "inactive": true,
       "communitySubmission": true,
       "deactivatedDate": "2026-06-26"
+    },
+    {
+      "text": "I'm a success today because I had a friend who believed in me and I didn't have the heart to let him down.",
+      "author": "Abraham Lincoln",
+      "date": "2026-06-13",
+      "inactive": true,
+      "deactivatedDate": "2026-06-27"
+    },
+    {
+      "text": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt",
+      "date": "2026-06-13",
+      "inactive": true,
+      "deactivatedDate": "2026-06-27"
+    },
+    {
+      "text": "Either write something worth reading or do something worth writing.",
+      "author": "Benjamin Franklin",
+      "date": "2026-06-13",
+      "inactive": true,
+      "deactivatedDate": "2026-06-27"
+    },
+    {
+      "text": "Faith in Jesus Christ is the first principle of the gospel for a reason.",
+      "author": "Henry B. Eyring",
+      "date": "2026-06-13",
+      "inactive": true,
+      "deactivatedDate": "2026-06-27"
+    },
+    {
+      "text": "For every minute you are angry you lose sixty seconds of happiness.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-06-12",
+      "inactive": true,
+      "deactivatedDate": "2026-06-27"
     }
   ],
-  "lastRotation": "2026-06-26",
+  "lastRotation": "2026-06-27",
   "totalQuotes": 349,
   "activeQuotes": 73,
   "inactiveQuotes": 276
