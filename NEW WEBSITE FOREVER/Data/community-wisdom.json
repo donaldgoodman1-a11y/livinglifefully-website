@@ -1,6 +1,37 @@
 {
   "quotes": [
     {
+      "text": "When we long for life without difficulties, remember that oaks grow strong in contrary winds and diamonds are made under pressure.",
+      "author": "Peter Marshall",
+      "date": "2026-06-28",
+      "inactive": false
+    },
+    {
+      "text": "The purpose of our lives is to be happy.",
+      "author": "Dalai Lama",
+      "date": "2026-06-28",
+      "inactive": false
+    },
+    {
+      "text": "Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.",
+      "author": "Carl Jung",
+      "date": "2026-06-28",
+      "inactive": false
+    },
+    {
+      "text": "Write it on your heart that every day is the best day in the year.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-06-28",
+      "inactive": false
+    },
+    {
+      "text": "Although the world is full of suffering, it is full also of the overcoming of it.",
+      "author": "Helen Keller",
+      "date": "2026-06-28",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
       "text": "There can be no deep disappointment where there is not deep love.",
       "author": "Martin Luther King",
       "date": "2026-06-28",
@@ -417,38 +448,6 @@
       "inactive": false
     },
     {
-      "text": "The power of love and kindness can overcome any challenge or hardship.\nThe Lubavitcher Rebbe",
-      "author": "The Lubavitcher Rebbe",
-      "date": "2026-06-14",
-      "inactive": false
-    },
-    {
-      "text": "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
-      "author": "Benjamin Franklin",
-      "date": "2026-06-14",
-      "inactive": false
-    },
-    {
-      "text": "The secret of staying young is to live honestly, eat slowly, and lie about your age.",
-      "author": "Lucille Ball",
-      "date": "2026-06-14",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "Love loves to love love.",
-      "author": "James Joyce “Ulysses”",
-      "date": "2026-06-14",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "When you're screwing up and nobody says anything to you anymore, that means they've given up on you.",
-      "author": "Randy Pausch",
-      "date": "2026-06-13",
-      "inactive": false
-    },
-    {
       "text": "The best way out is always through.",
       "author": "Robert Frost",
       "date": "2026-01-18",
@@ -572,13 +571,6 @@
       "date": "2026-03-03",
       "inactive": true,
       "deactivatedDate": "2026-03-11"
-    },
-    {
-      "text": "Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.",
-      "author": "Carl Jung",
-      "date": "2026-03-05",
-      "inactive": true,
-      "deactivatedDate": "2026-03-12"
     },
     {
       "text": "And above all, watch with glittering eyes the whole world around you because the greatest secrets are always hidden in the most unlikely places.",
@@ -761,13 +753,6 @@
       "date": "2026-03-31",
       "inactive": true,
       "deactivatedDate": "2026-04-09"
-    },
-    {
-      "text": "When we long for life without difficulties, remember that oaks grow strong in contrary winds and diamonds are made under pressure.",
-      "author": "Peter Marshall",
-      "date": "2026-04-02",
-      "inactive": true,
-      "deactivatedDate": "2026-04-10"
     },
     {
       "text": "And we know that all things work together for good to them that love God.",
@@ -1312,14 +1297,6 @@
       "deactivatedDate": "2026-05-24"
     },
     {
-      "text": "Although the world is full of suffering, it is full also of the overcoming of it.",
-      "author": "Helen Keller",
-      "date": "2026-05-12",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-05-24"
-    },
-    {
       "text": "No man is crushed by misfortune unless he has first been deceived by prosperity.\n-Seneca",
       "author": "Seneca",
       "date": "2026-05-12",
@@ -1423,13 +1400,6 @@
       "deactivatedDate": "2026-05-28"
     },
     {
-      "text": "The purpose of our lives is to be happy.",
-      "author": "Dalai Lama",
-      "date": "2026-05-15",
-      "inactive": true,
-      "deactivatedDate": "2026-05-28"
-    },
-    {
       "text": "We can press forward with steadfastness in Christ.",
       "author": "David A. Bednar",
       "date": "2026-05-15",
@@ -1475,13 +1445,6 @@
       "text": "Listen to the mustn'ts, child. Listen to the don'ts. Listen to the shouldn'ts, the impossibles, the won'ts. Then listen close to me... Anything can happen, child. Anything can be.",
       "author": "Shel Silverstein",
       "date": "2026-05-18",
-      "inactive": true,
-      "deactivatedDate": "2026-05-30"
-    },
-    {
-      "text": "Write it on your heart that every day is the best day in the year.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-05-17",
       "inactive": true,
       "deactivatedDate": "2026-05-30"
     },
@@ -2396,9 +2359,46 @@
       "date": "2026-06-12",
       "inactive": true,
       "deactivatedDate": "2026-06-27"
+    },
+    {
+      "text": "The power of love and kindness can overcome any challenge or hardship.\nThe Lubavitcher Rebbe",
+      "author": "The Lubavitcher Rebbe",
+      "date": "2026-06-14",
+      "inactive": true,
+      "deactivatedDate": "2026-06-28"
+    },
+    {
+      "text": "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
+      "author": "Benjamin Franklin",
+      "date": "2026-06-14",
+      "inactive": true,
+      "deactivatedDate": "2026-06-28"
+    },
+    {
+      "text": "The secret of staying young is to live honestly, eat slowly, and lie about your age.",
+      "author": "Lucille Ball",
+      "date": "2026-06-14",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-06-28"
+    },
+    {
+      "text": "Love loves to love love.",
+      "author": "James Joyce “Ulysses”",
+      "date": "2026-06-14",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-06-28"
+    },
+    {
+      "text": "When you're screwing up and nobody says anything to you anymore, that means they've given up on you.",
+      "author": "Randy Pausch",
+      "date": "2026-06-13",
+      "inactive": true,
+      "deactivatedDate": "2026-06-28"
     }
   ],
-  "lastRotation": "2026-06-27",
+  "lastRotation": "2026-06-28",
   "totalQuotes": 350,
   "activeQuotes": 74,
   "inactiveQuotes": 276
