@@ -1,6 +1,13 @@
 {
   "quotes": [
     {
+      "text": "There can be no deep disappointment where there is not deep love.",
+      "author": "Martin Luther King",
+      "date": "2026-06-28",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
       "text": "Your work is to discover your work and then with all your heart to give yourself to it.",
       "author": "Buddha",
       "date": "2026-06-27",
@@ -2392,7 +2399,7 @@
     }
   ],
   "lastRotation": "2026-06-27",
-  "totalQuotes": 349,
-  "activeQuotes": 73,
+  "totalQuotes": 350,
+  "activeQuotes": 74,
   "inactiveQuotes": 276
 }
