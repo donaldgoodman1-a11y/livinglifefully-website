@@ -1,13 +1,5 @@
 {
-  "pending": [
-    {
-      "id": "1782619508359",
-      "wisdom": "There can be no deep disappointment where there is not deep love.",
-      "author": "Martin Luther King",
-      "date": "2026-06-28",
-      "submittedAt": "2026-06-28T04:05:08.361Z"
-    }
-  ],
-  "approvedCount": 37,
+  "pending": [],
+  "approvedCount": 38,
   "rejectedCount": 3
 }
