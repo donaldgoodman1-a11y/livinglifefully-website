@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Those who don't believe in magic will never find it.",
+      "author": "Roald Dahl",
+      "date": "2026-06-29",
+      "inactive": false
+    },
+    {
+      "text": "It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.",
+      "author": "Seneca",
+      "date": "2026-06-29",
+      "inactive": false
+    },
+    {
+      "text": "The more that you read, the more things you will know. The more that you learn, the more places you'll go.",
+      "author": "Dr. Seuss",
+      "date": "2026-06-29",
+      "inactive": false
+    },
+    {
+      "text": "We can ignore reality, but we cannot ignore the consequences of ignoring reality.",
+      "author": "Ayn Rand",
+      "date": "2026-06-29",
+      "inactive": false
+    },
+    {
+      "text": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you.",
+      "author": "Jesus Christ",
+      "date": "2026-06-29",
+      "inactive": false
+    },
+    {
       "text": "When we long for life without difficulties, remember that oaks grow strong in contrary winds and diamonds are made under pressure.",
       "author": "Peter Marshall",
       "date": "2026-06-28",
@@ -418,36 +448,6 @@
       "inactive": false
     },
     {
-      "text": "You're off to great places! Today is your day! Your mountain is waiting, so get on your way!",
-      "author": "Dr. Seuss",
-      "date": "2026-06-15",
-      "inactive": false
-    },
-    {
-      "text": "Accept the things to which fate binds you, and love the people with whom fate brings you together.",
-      "author": "Marcus Aurelius",
-      "date": "2026-06-15",
-      "inactive": false
-    },
-    {
-      "text": "All our dreams can come true, if we have the courage to pursue them.",
-      "author": "Walt Disney",
-      "date": "2026-06-14",
-      "inactive": false
-    },
-    {
-      "text": "The most glorious moments in your life are not the so-called days of success, but rather those days when out of dejection and despair you feel rise in you a challenge to life.",
-      "author": "Gustave Flaubert",
-      "date": "2026-06-14",
-      "inactive": false
-    },
-    {
-      "text": "Wherever you go, go with all your heart.",
-      "author": "Confucius",
-      "date": "2026-06-14",
-      "inactive": false
-    },
-    {
       "text": "The best way out is always through.",
       "author": "Robert Frost",
       "date": "2026-01-18",
@@ -475,12 +475,6 @@
       "text": "We delight in the beauty of the butterfly, but rarely admit the changes it has gone through to achieve that beauty.",
       "author": "Maya Angelou",
       "date": "2025-12-29",
-      "inactive": true
-    },
-    {
-      "text": "Those who don't believe in magic will never find it.",
-      "author": "Roald Dahl",
-      "date": "2025-12-23",
       "inactive": true
     },
     {
@@ -529,13 +523,6 @@
       "date": "2026-02-16",
       "inactive": true,
       "deactivatedDate": "2026-02-23"
-    },
-    {
-      "text": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you.",
-      "author": "Jesus Christ",
-      "date": "2026-02-19",
-      "inactive": true,
-      "deactivatedDate": "2026-02-26"
     },
     {
       "text": "Energy and persistence conquer all things.",
@@ -776,13 +763,6 @@
       "deactivatedDate": "2026-04-13"
     },
     {
-      "text": "The more that you read, the more things you will know. The more that you learn, the more places you'll go.",
-      "author": "Dr. Seuss",
-      "date": "2026-04-06",
-      "inactive": true,
-      "deactivatedDate": "2026-04-14"
-    },
-    {
       "text": "Imagination is more important than knowledge.",
       "author": "Albert Einstein",
       "date": "2026-04-07",
@@ -872,13 +852,6 @@
       "text": "Not all of us can do great things. But we can do small things with great love.",
       "author": "Mother Teresa",
       "date": "2026-04-19",
-      "inactive": true,
-      "deactivatedDate": "2026-04-28"
-    },
-    {
-      "text": "We can ignore reality, but we cannot ignore the consequences of ignoring reality.",
-      "author": "Ayn Rand",
-      "date": "2026-04-18",
       "inactive": true,
       "deactivatedDate": "2026-04-28"
     },
@@ -2008,13 +1981,6 @@
       "deactivatedDate": "2026-06-17"
     },
     {
-      "text": "It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.",
-      "author": "Seneca",
-      "date": "2026-06-03",
-      "inactive": true,
-      "deactivatedDate": "2026-06-17"
-    },
-    {
       "text": "A small act is worth a million thoughts.",
       "author": "Ai Weiwei",
       "date": "2026-06-05",
@@ -2396,9 +2362,44 @@
       "date": "2026-06-13",
       "inactive": true,
       "deactivatedDate": "2026-06-28"
+    },
+    {
+      "text": "You're off to great places! Today is your day! Your mountain is waiting, so get on your way!",
+      "author": "Dr. Seuss",
+      "date": "2026-06-15",
+      "inactive": true,
+      "deactivatedDate": "2026-06-29"
+    },
+    {
+      "text": "Accept the things to which fate binds you, and love the people with whom fate brings you together.",
+      "author": "Marcus Aurelius",
+      "date": "2026-06-15",
+      "inactive": true,
+      "deactivatedDate": "2026-06-29"
+    },
+    {
+      "text": "All our dreams can come true, if we have the courage to pursue them.",
+      "author": "Walt Disney",
+      "date": "2026-06-14",
+      "inactive": true,
+      "deactivatedDate": "2026-06-29"
+    },
+    {
+      "text": "The most glorious moments in your life are not the so-called days of success, but rather those days when out of dejection and despair you feel rise in you a challenge to life.",
+      "author": "Gustave Flaubert",
+      "date": "2026-06-14",
+      "inactive": true,
+      "deactivatedDate": "2026-06-29"
+    },
+    {
+      "text": "Wherever you go, go with all your heart.",
+      "author": "Confucius",
+      "date": "2026-06-14",
+      "inactive": true,
+      "deactivatedDate": "2026-06-29"
     }
   ],
-  "lastRotation": "2026-06-28",
+  "lastRotation": "2026-06-29",
   "totalQuotes": 350,
   "activeQuotes": 74,
   "inactiveQuotes": 276
