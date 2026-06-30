@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Courage is not simply one of the virtues, but the form of every virtue at the testing point.",
+      "author": "C.S. Lewis",
+      "date": "2026-06-30",
+      "inactive": false
+    },
+    {
+      "text": "Because a thing seems difficult for you, do not think it impossible for anyone to accomplish.",
+      "author": "Marcus Aurelius",
+      "date": "2026-06-30",
+      "inactive": false
+    },
+    {
+      "text": "Live in the sunshine, swim the sea, drink the wild air.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-06-30",
+      "inactive": false
+    },
+    {
+      "text": "A person's a person, no matter how small.",
+      "author": "Dr. Seuss",
+      "date": "2026-06-30",
+      "inactive": false
+    },
+    {
+      "text": "We can press forward with steadfastness in Christ.",
+      "author": "David A. Bednar",
+      "date": "2026-06-30",
+      "inactive": false
+    },
+    {
       "text": "Those who don't believe in magic will never find it.",
       "author": "Roald Dahl",
       "date": "2026-06-29",
@@ -418,36 +448,6 @@
       "inactive": false
     },
     {
-      "text": "What you see and what you hear depends a great deal on where you are standing. It also depends on what sort of person you are.",
-      "author": "C.S. Lewis",
-      "date": "2026-06-16",
-      "inactive": false
-    },
-    {
-      "text": "The best preparation for tomorrow is doing your best today.",
-      "author": "H. Jackson Brown Jr.",
-      "date": "2026-06-16",
-      "inactive": false
-    },
-    {
-      "text": "The brick walls are there for a reason. They're not there to keep us out. The brick walls are there to give us a chance to show how badly we want something.",
-      "author": "Randy Pausch",
-      "date": "2026-06-15",
-      "inactive": false
-    },
-    {
-      "text": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
-      "author": "Marcus Aurelius",
-      "date": "2026-06-15",
-      "inactive": false
-    },
-    {
-      "text": "Courage is not simply one of the virtues, but the form of every virtue at the testing point.",
-      "author": "C.S. Lewis",
-      "date": "2026-06-15",
-      "inactive": false
-    },
-    {
       "text": "The best way out is always through.",
       "author": "Robert Frost",
       "date": "2026-01-18",
@@ -656,20 +656,6 @@
       "date": "2026-03-20",
       "inactive": true,
       "deactivatedDate": "2026-03-28"
-    },
-    {
-      "text": "Because a thing seems difficult for you, do not think it impossible for anyone to accomplish.",
-      "author": "Marcus Aurelius",
-      "date": "2026-03-20",
-      "inactive": true,
-      "deactivatedDate": "2026-03-29"
-    },
-    {
-      "text": "Live in the sunshine, swim the sea, drink the wild air.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-03-22",
-      "inactive": true,
-      "deactivatedDate": "2026-03-31"
     },
     {
       "text": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
@@ -1322,13 +1308,6 @@
       "deactivatedDate": "2026-05-26"
     },
     {
-      "text": "A person's a person, no matter how small.",
-      "author": "Dr. Seuss",
-      "date": "2026-05-15",
-      "inactive": true,
-      "deactivatedDate": "2026-05-27"
-    },
-    {
       "text": "There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living.",
       "author": "Nelson Mandela",
       "date": "2026-05-15",
@@ -1370,13 +1349,6 @@
       "date": "2026-05-15",
       "inactive": true,
       "communitySubmission": true,
-      "deactivatedDate": "2026-05-28"
-    },
-    {
-      "text": "We can press forward with steadfastness in Christ.",
-      "author": "David A. Bednar",
-      "date": "2026-05-15",
-      "inactive": true,
       "deactivatedDate": "2026-05-28"
     },
     {
@@ -2397,9 +2369,37 @@
       "date": "2026-06-14",
       "inactive": true,
       "deactivatedDate": "2026-06-29"
+    },
+    {
+      "text": "What you see and what you hear depends a great deal on where you are standing. It also depends on what sort of person you are.",
+      "author": "C.S. Lewis",
+      "date": "2026-06-16",
+      "inactive": true,
+      "deactivatedDate": "2026-06-30"
+    },
+    {
+      "text": "The best preparation for tomorrow is doing your best today.",
+      "author": "H. Jackson Brown Jr.",
+      "date": "2026-06-16",
+      "inactive": true,
+      "deactivatedDate": "2026-06-30"
+    },
+    {
+      "text": "The brick walls are there for a reason. They're not there to keep us out. The brick walls are there to give us a chance to show how badly we want something.",
+      "author": "Randy Pausch",
+      "date": "2026-06-15",
+      "inactive": true,
+      "deactivatedDate": "2026-06-30"
+    },
+    {
+      "text": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
+      "author": "Marcus Aurelius",
+      "date": "2026-06-15",
+      "inactive": true,
+      "deactivatedDate": "2026-06-30"
     }
   ],
-  "lastRotation": "2026-06-29",
+  "lastRotation": "2026-06-30",
   "totalQuotes": 350,
   "activeQuotes": 74,
   "inactiveQuotes": 276
