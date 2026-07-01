@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "The brick walls are there for a reason. They're not there to keep us out. The brick walls are there to give us a chance to show how badly we want something.",
+      "author": "Randy Pausch",
+      "date": "2026-07-01",
+      "inactive": false
+    },
+    {
+      "text": "Every great dream begins with a dreamer.",
+      "author": "Harriet Tubman",
+      "date": "2026-07-01",
+      "inactive": false
+    },
+    {
+      "text": "The impediment to action advances action. What stands in the way becomes the way.",
+      "author": "Marcus Aurelius",
+      "date": "2026-07-01",
+      "inactive": false
+    },
+    {
+      "text": "“If I die before my dog, please show him my dead body. dogs can process death, but I would hate for him to think I abandoned him”.",
+      "author": "Unknown",
+      "date": "2026-07-01",
+      "inactive": false
+    },
+    {
+      "text": "Not all of us can do great things. But we can do small things with great love.",
+      "author": "Mother Teresa",
+      "date": "2026-07-01",
+      "inactive": false
+    },
+    {
       "text": "Courage is not simply one of the virtues, but the form of every virtue at the testing point.",
       "author": "C.S. Lewis",
       "date": "2026-06-30",
@@ -418,36 +448,6 @@
       "inactive": false
     },
     {
-      "text": "The happiness of your life depends upon the quality of your thoughts.",
-      "author": "Marcus Aurelius",
-      "date": "2026-06-17",
-      "inactive": false
-    },
-    {
-      "text": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
-      "author": "Buddha",
-      "date": "2026-06-17",
-      "inactive": false
-    },
-    {
-      "text": "let GO",
-      "author": "Anonymous Reader",
-      "date": "2026-06-16",
-      "inactive": false
-    },
-    {
-      "text": "Focus on the moment, not the monsters that may or may not be up ahead.",
-      "author": "Ryan Holiday",
-      "date": "2026-06-16",
-      "inactive": false
-    },
-    {
-      "text": "Nearly all men can stand adversity, but if you want to test a man's character, give him power.",
-      "author": "Abraham Lincoln",
-      "date": "2026-06-16",
-      "inactive": false
-    },
-    {
       "text": "The best way out is always through.",
       "author": "Robert Frost",
       "date": "2026-01-18",
@@ -651,13 +651,6 @@
       "deactivatedDate": "2026-03-28"
     },
     {
-      "text": "The impediment to action advances action. What stands in the way becomes the way.",
-      "author": "Marcus Aurelius",
-      "date": "2026-03-20",
-      "inactive": true,
-      "deactivatedDate": "2026-03-28"
-    },
-    {
       "text": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
       "author": "Maya Angelou",
       "date": "2026-03-22",
@@ -833,13 +826,6 @@
       "inactive": true,
       "communitySubmission": true,
       "deactivatedDate": "2026-04-27"
-    },
-    {
-      "text": "Not all of us can do great things. But we can do small things with great love.",
-      "author": "Mother Teresa",
-      "date": "2026-04-19",
-      "inactive": true,
-      "deactivatedDate": "2026-04-28"
     },
     {
       "text": "It always seems impossible until it's done.",
@@ -1117,13 +1103,6 @@
       "date": "2026-05-05",
       "inactive": true,
       "deactivatedDate": "2026-05-16"
-    },
-    {
-      "text": "Every great dream begins with a dreamer.",
-      "author": "Harriet Tubman",
-      "date": "2026-05-06",
-      "inactive": true,
-      "deactivatedDate": "2026-05-17"
     },
     {
       "text": "Don't you quit. You keep walking. You keep trying. There is help and happiness ahead.",
@@ -1452,13 +1431,6 @@
     {
       "text": "The issue for us is trusting God enough to trust also His timing.",
       "author": "Neal A. Maxwell",
-      "date": "2026-05-19",
-      "inactive": true,
-      "deactivatedDate": "2026-06-01"
-    },
-    {
-      "text": "“If I die before my dog, please show him my dead body. dogs can process death, but I would hate for him to think I abandoned him”.",
-      "author": "Unknown",
       "date": "2026-05-19",
       "inactive": true,
       "deactivatedDate": "2026-06-01"
@@ -2385,21 +2357,49 @@
       "deactivatedDate": "2026-06-30"
     },
     {
-      "text": "The brick walls are there for a reason. They're not there to keep us out. The brick walls are there to give us a chance to show how badly we want something.",
-      "author": "Randy Pausch",
-      "date": "2026-06-15",
-      "inactive": true,
-      "deactivatedDate": "2026-06-30"
-    },
-    {
       "text": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
       "author": "Marcus Aurelius",
       "date": "2026-06-15",
       "inactive": true,
       "deactivatedDate": "2026-06-30"
+    },
+    {
+      "text": "The happiness of your life depends upon the quality of your thoughts.",
+      "author": "Marcus Aurelius",
+      "date": "2026-06-17",
+      "inactive": true,
+      "deactivatedDate": "2026-07-01"
+    },
+    {
+      "text": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+      "author": "Buddha",
+      "date": "2026-06-17",
+      "inactive": true,
+      "deactivatedDate": "2026-07-01"
+    },
+    {
+      "text": "let GO",
+      "author": "Anonymous Reader",
+      "date": "2026-06-16",
+      "inactive": true,
+      "deactivatedDate": "2026-07-01"
+    },
+    {
+      "text": "Focus on the moment, not the monsters that may or may not be up ahead.",
+      "author": "Ryan Holiday",
+      "date": "2026-06-16",
+      "inactive": true,
+      "deactivatedDate": "2026-07-01"
+    },
+    {
+      "text": "Nearly all men can stand adversity, but if you want to test a man's character, give him power.",
+      "author": "Abraham Lincoln",
+      "date": "2026-06-16",
+      "inactive": true,
+      "deactivatedDate": "2026-07-01"
     }
   ],
-  "lastRotation": "2026-06-30",
+  "lastRotation": "2026-07-01",
   "totalQuotes": 350,
   "activeQuotes": 74,
   "inactiveQuotes": 276
