@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Why fit in when you were born to stand out?",
+      "author": "Dr. Seuss",
+      "date": "2026-07-02",
+      "inactive": false
+    },
+    {
+      "text": "We read to know we are not alone.",
+      "author": "C.S. Lewis",
+      "date": "2026-07-02",
+      "inactive": false
+    },
+    {
+      "text": "To pay attention, this is our endless and proper work.",
+      "author": "Mary Oliver",
+      "date": "2026-07-02",
+      "inactive": false
+    },
+    {
+      "text": "You don't have to be perfect to be loved.",
+      "author": "Russell M. Nelson",
+      "date": "2026-07-02",
+      "inactive": false
+    },
+    {
+      "text": "Those who have a 'why' to live, can bear with almost any 'how'.",
+      "author": "Viktor Frankl",
+      "date": "2026-07-02",
+      "inactive": false
+    },
+    {
       "text": "The brick walls are there for a reason. They're not there to keep us out. The brick walls are there to give us a chance to show how badly we want something.",
       "author": "Randy Pausch",
       "date": "2026-07-01",
@@ -415,36 +445,6 @@
       "text": "It's not what happens to you, but how you react to it that matters.",
       "author": "Epictetus",
       "date": "2026-06-18",
-      "inactive": false
-    },
-    {
-      "text": "The only impossible journey is the one you never begin.",
-      "author": "Tony Robbins",
-      "date": "2026-06-18",
-      "inactive": false
-    },
-    {
-      "text": "Experience is what you get when you didn't get what you wanted.",
-      "author": "Randy Pausch",
-      "date": "2026-06-18",
-      "inactive": false
-    },
-    {
-      "text": "Water is fluid, soft, and yielding. But water will wear away rock, which is rigid and cannot yield. As a rule, whatever is fluid, soft, and yielding will overcome whatever is rigid and hard.",
-      "author": "Lao Tzu",
-      "date": "2026-06-17",
-      "inactive": false
-    },
-    {
-      "text": "Be who God meant you to be and you will set the world on fire.",
-      "author": "St. Catherine of Siena",
-      "date": "2026-06-17",
-      "inactive": false
-    },
-    {
-      "text": "You can never get a cup of tea large enough or a book long enough to suit me.",
-      "author": "C.S. Lewis",
-      "date": "2026-06-17",
       "inactive": false
     },
     {
@@ -963,13 +963,6 @@
       "date": "2026-04-25",
       "inactive": true,
       "deactivatedDate": "2026-05-07"
-    },
-    {
-      "text": "Those who have a 'why' to live, can bear with almost any 'how'.",
-      "author": "Viktor Frankl",
-      "date": "2026-04-27",
-      "inactive": true,
-      "deactivatedDate": "2026-05-08"
     },
     {
       "text": "The mind is everything. What you think you become.",
@@ -1493,13 +1486,6 @@
       "deactivatedDate": "2026-06-04"
     },
     {
-      "text": "Why fit in when you were born to stand out?",
-      "author": "Dr. Seuss",
-      "date": "2026-05-22",
-      "inactive": true,
-      "deactivatedDate": "2026-06-04"
-    },
-    {
       "text": "Even the smallest person can change the course of the future.",
       "author": "J.R.R. Tolkien",
       "date": "2026-05-22",
@@ -1890,20 +1876,6 @@
       "deactivatedDate": "2026-06-16"
     },
     {
-      "text": "To pay attention, this is our endless and proper work.",
-      "author": "Mary Oliver",
-      "date": "2026-06-02",
-      "inactive": true,
-      "deactivatedDate": "2026-06-16"
-    },
-    {
-      "text": "You don't have to be perfect to be loved.",
-      "author": "Russell M. Nelson",
-      "date": "2026-06-04",
-      "inactive": true,
-      "deactivatedDate": "2026-06-17"
-    },
-    {
       "text": "The impediment to action advances action. What stands in the way becomes the way.",
       "author": "Ryan Holiday",
       "date": "2026-06-03",
@@ -2082,13 +2054,6 @@
     {
       "text": "When I do good, I feel good. When I do bad, I feel bad. That's my religion.",
       "author": "Abraham Lincoln",
-      "date": "2026-06-08",
-      "inactive": true,
-      "deactivatedDate": "2026-06-22"
-    },
-    {
-      "text": "We read to know we are not alone.",
-      "author": "C.S. Lewis",
       "date": "2026-06-08",
       "inactive": true,
       "deactivatedDate": "2026-06-22"
@@ -2397,9 +2362,44 @@
       "date": "2026-06-16",
       "inactive": true,
       "deactivatedDate": "2026-07-01"
+    },
+    {
+      "text": "The only impossible journey is the one you never begin.",
+      "author": "Tony Robbins",
+      "date": "2026-06-18",
+      "inactive": true,
+      "deactivatedDate": "2026-07-02"
+    },
+    {
+      "text": "Experience is what you get when you didn't get what you wanted.",
+      "author": "Randy Pausch",
+      "date": "2026-06-18",
+      "inactive": true,
+      "deactivatedDate": "2026-07-02"
+    },
+    {
+      "text": "Water is fluid, soft, and yielding. But water will wear away rock, which is rigid and cannot yield. As a rule, whatever is fluid, soft, and yielding will overcome whatever is rigid and hard.",
+      "author": "Lao Tzu",
+      "date": "2026-06-17",
+      "inactive": true,
+      "deactivatedDate": "2026-07-02"
+    },
+    {
+      "text": "Be who God meant you to be and you will set the world on fire.",
+      "author": "St. Catherine of Siena",
+      "date": "2026-06-17",
+      "inactive": true,
+      "deactivatedDate": "2026-07-02"
+    },
+    {
+      "text": "You can never get a cup of tea large enough or a book long enough to suit me.",
+      "author": "C.S. Lewis",
+      "date": "2026-06-17",
+      "inactive": true,
+      "deactivatedDate": "2026-07-02"
     }
   ],
-  "lastRotation": "2026-07-01",
+  "lastRotation": "2026-07-02",
   "totalQuotes": 350,
   "activeQuotes": 74,
   "inactiveQuotes": 276
