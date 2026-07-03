@@ -1,6 +1,38 @@
 {
   "quotes": [
     {
+      "text": "Breathing in, I calm body and mind. Breathing out, I smile.",
+      "author": "Thich Nhat Hanh",
+      "date": "2026-07-03",
+      "inactive": false
+    },
+    {
+      "text": "He who doesn’t see God everywhere isn’t capable of seeing Him anywhere.\nKotzker Rebbe",
+      "author": "Kotzker Rebbe",
+      "date": "2026-07-03",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "The meeting of two personalities is like the contact of two chemical substances: if there is any reaction, both are transformed.",
+      "author": "Carl Jung",
+      "date": "2026-07-03",
+      "inactive": false
+    },
+    {
+      "text": "Hugh B. Brown wrote: We ask for strength and God gives us difficulties, which makes us \nstrong. We pray for wisdom and God sends us problems, the solution of which develops \nwisdom. We plead for prosperity and God gives us brain and brawn to work. We plead \nfor courage and God gives us dangers to overcome. We ask for favors and God gives us \nopportunities. This is the answer.”",
+      "author": "Hugh B Brown",
+      "date": "2026-07-03",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "The mind is everything. What you think you become.",
+      "author": "Buddha",
+      "date": "2026-07-03",
+      "inactive": false
+    },
+    {
       "text": "Why fit in when you were born to stand out?",
       "author": "Dr. Seuss",
       "date": "2026-07-02",
@@ -415,36 +447,6 @@
       "text": "What we insistently desire, over time, is what we will eventually become.",
       "author": "Neal A. Maxwell",
       "date": "2026-06-19",
-      "inactive": false
-    },
-    {
-      "text": "It is better to light a candle than curse the darkness.",
-      "author": "Eleanor Roosevelt",
-      "date": "2026-06-19",
-      "inactive": false
-    },
-    {
-      "text": "Freedom is never given; it is won.",
-      "author": "A. Philip Randolph",
-      "date": "2026-06-19",
-      "inactive": false
-    },
-    {
-      "text": "All we have to decide is what to do with the time that is given us.",
-      "author": "J.R.R. Tolkien",
-      "date": "2026-06-18",
-      "inactive": false
-    },
-    {
-      "text": "Humility is not thinking less of yourself, it's thinking of yourself less.",
-      "author": "C.S. Lewis",
-      "date": "2026-06-18",
-      "inactive": false
-    },
-    {
-      "text": "It's not what happens to you, but how you react to it that matters.",
-      "author": "Epictetus",
-      "date": "2026-06-18",
       "inactive": false
     },
     {
@@ -965,13 +967,6 @@
       "deactivatedDate": "2026-05-07"
     },
     {
-      "text": "The mind is everything. What you think you become.",
-      "author": "Buddha",
-      "date": "2026-04-27",
-      "inactive": true,
-      "deactivatedDate": "2026-05-08"
-    },
-    {
       "text": "If you're going through hell, keep going.",
       "author": "Winston Churchill",
       "date": "2026-04-27",
@@ -1112,13 +1107,6 @@
       "deactivatedDate": "2026-05-18"
     },
     {
-      "text": "The meeting of two personalities is like the contact of two chemical substances: if there is any reaction, both are transformed.",
-      "author": "Carl Jung",
-      "date": "2026-05-07",
-      "inactive": true,
-      "deactivatedDate": "2026-05-18"
-    },
-    {
       "text": "Intelligence plus character—that is the goal of true education.",
       "author": "Martin Luther King Jr.",
       "date": "2026-05-08",
@@ -1212,14 +1200,6 @@
       "deactivatedDate": "2026-05-23"
     },
     {
-      "text": "Hugh B. Brown wrote: We ask for strength and God gives us difficulties, which makes us \nstrong. We pray for wisdom and God sends us problems, the solution of which develops \nwisdom. We plead for prosperity and God gives us brain and brawn to work. We plead \nfor courage and God gives us dangers to overcome. We ask for favors and God gives us \nopportunities. This is the answer.”",
-      "author": "Hugh B Brown",
-      "date": "2026-05-11",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-05-23"
-    },
-    {
       "text": "There are moments when tribulations occur in our lives, and we cannot avoid them. But they are there for some reason … Only when we have overcome them do we understand why they were there.",
       "author": "Paulo Coelho",
       "date": "2026-05-12",
@@ -1256,13 +1236,6 @@
       "inactive": true,
       "communitySubmission": true,
       "deactivatedDate": "2026-05-25"
-    },
-    {
-      "text": "Breathing in, I calm body and mind. Breathing out, I smile.",
-      "author": "Thich Nhat Hanh",
-      "date": "2026-05-14",
-      "inactive": true,
-      "deactivatedDate": "2026-05-26"
     },
     {
       "text": "Faith does not eliminate questions. But faith knows where to take them.",
@@ -1525,14 +1498,6 @@
       "author": "Talmud",
       "date": "2026-05-23",
       "inactive": true,
-      "deactivatedDate": "2026-06-05"
-    },
-    {
-      "text": "He who doesn’t see God everywhere isn’t capable of seeing Him anywhere.\nKotzker Rebbe",
-      "author": "Kotzker Rebbe",
-      "date": "2026-05-22",
-      "inactive": true,
-      "communitySubmission": true,
       "deactivatedDate": "2026-06-05"
     },
     {
@@ -2397,9 +2362,44 @@
       "date": "2026-06-17",
       "inactive": true,
       "deactivatedDate": "2026-07-02"
+    },
+    {
+      "text": "It is better to light a candle than curse the darkness.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-06-19",
+      "inactive": true,
+      "deactivatedDate": "2026-07-03"
+    },
+    {
+      "text": "Freedom is never given; it is won.",
+      "author": "A. Philip Randolph",
+      "date": "2026-06-19",
+      "inactive": true,
+      "deactivatedDate": "2026-07-03"
+    },
+    {
+      "text": "All we have to decide is what to do with the time that is given us.",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-06-18",
+      "inactive": true,
+      "deactivatedDate": "2026-07-03"
+    },
+    {
+      "text": "Humility is not thinking less of yourself, it's thinking of yourself less.",
+      "author": "C.S. Lewis",
+      "date": "2026-06-18",
+      "inactive": true,
+      "deactivatedDate": "2026-07-03"
+    },
+    {
+      "text": "It's not what happens to you, but how you react to it that matters.",
+      "author": "Epictetus",
+      "date": "2026-06-18",
+      "inactive": true,
+      "deactivatedDate": "2026-07-03"
     }
   ],
-  "lastRotation": "2026-07-02",
+  "lastRotation": "2026-07-03",
   "totalQuotes": 350,
   "activeQuotes": 74,
   "inactiveQuotes": 276
