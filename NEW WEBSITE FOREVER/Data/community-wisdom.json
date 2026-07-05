@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "I had reasoned this out in my mind, there was one of two things I had a right to, liberty or death; if I could not have one, I would have the other.",
+      "author": "Harriet Tubman",
+      "date": "2026-07-05",
+      "inactive": false
+    },
+    {
+      "text": "The weak can never forgive. Forgiveness is the attribute of the strong.",
+      "author": "Mahatma Gandhi",
+      "date": "2026-07-05",
+      "inactive": false
+    },
+    {
+      "text": "Each child brings his own blessing into the world.",
+      "author": "Talmud",
+      "date": "2026-07-05",
+      "inactive": false
+    },
+    {
+      "text": "I would unite with anybody to do right and with nobody to do wrong.",
+      "author": "Frederick Douglass",
+      "date": "2026-07-05",
+      "inactive": false
+    },
+    {
+      "text": "He who has a why to live can bear almost any how.",
+      "author": "Friedrich Nietzsche",
+      "date": "2026-07-05",
+      "inactive": false
+    },
+    {
       "text": "Peace comes from within. Do not seek it without.",
       "author": "Buddha",
       "date": "2026-07-04",
@@ -417,36 +447,6 @@
       "text": "If they merit redemption through Teshuva and Mitzvos, I will hasten the coming of the Moshiach.",
       "author": "Sanhedrin",
       "date": "2026-06-21",
-      "inactive": false
-    },
-    {
-      "text": "You don't have to see the whole staircase, just take the first step.",
-      "author": "Martin Luther King Jr.",
-      "date": "2026-06-21",
-      "inactive": false
-    },
-    {
-      "text": "Good inspiration is based on good information.",
-      "author": "Russell M. Nelson",
-      "date": "2026-06-21",
-      "inactive": false
-    },
-    {
-      "text": "Happiness can be found even in the darkest of times, if one only remembers to turn on the light.",
-      "author": "J.K. Rowling",
-      "date": "2026-06-20",
-      "inactive": false
-    },
-    {
-      "text": "Try a little harder to be a little better.",
-      "author": "Gordon B. Hinckley",
-      "date": "2026-06-20",
-      "inactive": false
-    },
-    {
-      "text": "We cannot do great things on this earth, only small things with great love.",
-      "author": "Mother Teresa",
-      "date": "2026-06-20",
       "inactive": false
     },
     {
@@ -1473,20 +1473,6 @@
       "deactivatedDate": "2026-06-04"
     },
     {
-      "text": "He who has a why to live can bear almost any how.",
-      "author": "Friedrich Nietzsche",
-      "date": "2026-05-23",
-      "inactive": true,
-      "deactivatedDate": "2026-06-05"
-    },
-    {
-      "text": "Each child brings his own blessing into the world.",
-      "author": "Talmud",
-      "date": "2026-05-23",
-      "inactive": true,
-      "deactivatedDate": "2026-06-05"
-    },
-    {
       "text": "The future belongs to those who believe in the beauty of their dreams.",
       "author": "Eleanor Roosevelt",
       "date": "2026-05-24",
@@ -1593,25 +1579,11 @@
       "deactivatedDate": "2026-06-09"
     },
     {
-      "text": "I would unite with anybody to do right and with nobody to do wrong.",
-      "author": "Frederick Douglass",
-      "date": "2026-05-26",
-      "inactive": true,
-      "deactivatedDate": "2026-06-09"
-    },
-    {
       "text": "The best way to predict your future is to create it.",
       "author": "Abraham Lincoln",
       "date": "2026-05-26",
       "inactive": true,
       "deactivatedDate": "2026-06-09"
-    },
-    {
-      "text": "I had reasoned this out in my mind, there was one of two things I had a right to, liberty or death; if I could not have one, I would have the other.",
-      "author": "Harriet Tubman",
-      "date": "2026-05-28",
-      "inactive": true,
-      "deactivatedDate": "2026-06-10"
     },
     {
       "text": "Peace begins with a smile.",
@@ -2081,13 +2053,6 @@
       "deactivatedDate": "2026-06-25"
     },
     {
-      "text": "The weak can never forgive. Forgiveness is the attribute of the strong.",
-      "author": "Mahatma Gandhi",
-      "date": "2026-06-11",
-      "inactive": true,
-      "deactivatedDate": "2026-06-25"
-    },
-    {
       "text": "Life is either a daring adventure or nothing at all.",
       "author": "Helen Keller",
       "date": "2026-06-11",
@@ -2397,9 +2362,44 @@
       "date": "2026-06-19",
       "inactive": true,
       "deactivatedDate": "2026-07-04"
+    },
+    {
+      "text": "You don't have to see the whole staircase, just take the first step.",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-06-21",
+      "inactive": true,
+      "deactivatedDate": "2026-07-05"
+    },
+    {
+      "text": "Good inspiration is based on good information.",
+      "author": "Russell M. Nelson",
+      "date": "2026-06-21",
+      "inactive": true,
+      "deactivatedDate": "2026-07-05"
+    },
+    {
+      "text": "Happiness can be found even in the darkest of times, if one only remembers to turn on the light.",
+      "author": "J.K. Rowling",
+      "date": "2026-06-20",
+      "inactive": true,
+      "deactivatedDate": "2026-07-05"
+    },
+    {
+      "text": "Try a little harder to be a little better.",
+      "author": "Gordon B. Hinckley",
+      "date": "2026-06-20",
+      "inactive": true,
+      "deactivatedDate": "2026-07-05"
+    },
+    {
+      "text": "We cannot do great things on this earth, only small things with great love.",
+      "author": "Mother Teresa",
+      "date": "2026-06-20",
+      "inactive": true,
+      "deactivatedDate": "2026-07-05"
     }
   ],
-  "lastRotation": "2026-07-04",
+  "lastRotation": "2026-07-05",
   "totalQuotes": 350,
   "activeQuotes": 74,
   "inactiveQuotes": 276
