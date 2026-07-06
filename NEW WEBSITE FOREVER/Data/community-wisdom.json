@@ -1,6 +1,37 @@
 {
   "quotes": [
     {
+      "text": "It always helps to have people we love beside us when we have to do difficult things in life.",
+      "author": "Fred Rogers",
+      "date": "2026-07-06",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "Fear thou not; for I am with thee: be not dismayed; for I am thy God.",
+      "author": "Isaiah",
+      "date": "2026-07-06",
+      "inactive": false
+    },
+    {
+      "text": "The gathering of Israel is the most important thing taking place on earth today.",
+      "author": "Russell M. Nelson",
+      "date": "2026-07-06",
+      "inactive": false
+    },
+    {
+      "text": "Courage doesn't always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.'",
+      "author": "Mary Anne Radmacher",
+      "date": "2026-07-06",
+      "inactive": false
+    },
+    {
+      "text": "Quick to observe means quick to act.",
+      "author": "David A. Bednar",
+      "date": "2026-07-06",
+      "inactive": false
+    },
+    {
       "text": "I had reasoned this out in my mind, there was one of two things I had a right to, liberty or death; if I could not have one, I would have the other.",
       "author": "Harriet Tubman",
       "date": "2026-07-05",
@@ -420,36 +451,6 @@
       "inactive": false
     },
     {
-      "text": "With the new day comes new strength and new thoughts.",
-      "author": "Eleanor Roosevelt",
-      "date": "2026-06-22",
-      "inactive": false
-    },
-    {
-      "text": "Where the head goes, the body follows. Perception precedes action.",
-      "author": "Ryan Holiday",
-      "date": "2026-06-22",
-      "inactive": false
-    },
-    {
-      "text": "That which does not kill us makes us stronger.",
-      "author": "Friedrich Nietzsche",
-      "date": "2026-06-21",
-      "inactive": false
-    },
-    {
-      "text": "Never wound a snake; kill it.",
-      "author": "Harriet Tubman",
-      "date": "2026-06-21",
-      "inactive": false
-    },
-    {
-      "text": "If they merit redemption through Teshuva and Mitzvos, I will hasten the coming of the Moshiach.",
-      "author": "Sanhedrin",
-      "date": "2026-06-21",
-      "inactive": false
-    },
-    {
       "text": "The best way out is always through.",
       "author": "Robert Frost",
       "date": "2026-01-18",
@@ -702,13 +703,6 @@
       "deactivatedDate": "2026-04-07"
     },
     {
-      "text": "Quick to observe means quick to act.",
-      "author": "David A. Bednar",
-      "date": "2026-03-31",
-      "inactive": true,
-      "deactivatedDate": "2026-04-08"
-    },
-    {
       "text": "You miss 100% of the shots you don't take.",
       "author": "Wayne Gretzky",
       "date": "2026-03-31",
@@ -798,13 +792,6 @@
       "date": "2026-04-14",
       "inactive": true,
       "deactivatedDate": "2026-04-23"
-    },
-    {
-      "text": "The gathering of Israel is the most important thing taking place on earth today.",
-      "author": "Russell M. Nelson",
-      "date": "2026-04-17",
-      "inactive": true,
-      "deactivatedDate": "2026-04-26"
     },
     {
       "text": "To be happy takes daily practice and daily gratitude.",
@@ -1223,14 +1210,6 @@
       "deactivatedDate": "2026-05-25"
     },
     {
-      "text": "It always helps to have people we love beside us when we have to do difficult things in life.",
-      "author": "Fred Rogers",
-      "date": "2026-05-12",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-05-25"
-    },
-    {
       "text": "Faith does not eliminate questions. But faith knows where to take them.",
       "author": "Elisabeth Elliot",
       "date": "2026-05-14",
@@ -1299,13 +1278,6 @@
     {
       "text": "It does not matter how slowly you go as long as you do not stop.",
       "author": "Confucius",
-      "date": "2026-05-16",
-      "inactive": true,
-      "deactivatedDate": "2026-05-29"
-    },
-    {
-      "text": "Fear thou not; for I am with thee: be not dismayed; for I am thy God.",
-      "author": "Isaiah",
       "date": "2026-05-16",
       "inactive": true,
       "deactivatedDate": "2026-05-29"
@@ -1661,13 +1633,6 @@
       "date": "2026-05-31",
       "inactive": true,
       "communitySubmission": true,
-      "deactivatedDate": "2026-06-13"
-    },
-    {
-      "text": "Courage doesn't always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.'",
-      "author": "Mary Anne Radmacher",
-      "date": "2026-05-31",
-      "inactive": true,
       "deactivatedDate": "2026-06-13"
     },
     {
@@ -2397,9 +2362,44 @@
       "date": "2026-06-20",
       "inactive": true,
       "deactivatedDate": "2026-07-05"
+    },
+    {
+      "text": "With the new day comes new strength and new thoughts.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-06-22",
+      "inactive": true,
+      "deactivatedDate": "2026-07-06"
+    },
+    {
+      "text": "Where the head goes, the body follows. Perception precedes action.",
+      "author": "Ryan Holiday",
+      "date": "2026-06-22",
+      "inactive": true,
+      "deactivatedDate": "2026-07-06"
+    },
+    {
+      "text": "That which does not kill us makes us stronger.",
+      "author": "Friedrich Nietzsche",
+      "date": "2026-06-21",
+      "inactive": true,
+      "deactivatedDate": "2026-07-06"
+    },
+    {
+      "text": "Never wound a snake; kill it.",
+      "author": "Harriet Tubman",
+      "date": "2026-06-21",
+      "inactive": true,
+      "deactivatedDate": "2026-07-06"
+    },
+    {
+      "text": "If they merit redemption through Teshuva and Mitzvos, I will hasten the coming of the Moshiach.",
+      "author": "Sanhedrin",
+      "date": "2026-06-21",
+      "inactive": true,
+      "deactivatedDate": "2026-07-06"
     }
   ],
-  "lastRotation": "2026-07-05",
+  "lastRotation": "2026-07-06",
   "totalQuotes": 350,
   "activeQuotes": 74,
   "inactiveQuotes": 276
