@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Rock bottom became the solid foundation on which I rebuilt my life.",
+      "author": "J.K. Rowling",
+      "date": "2026-07-07",
+      "inactive": false
+    },
+    {
+      "text": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
+      "author": "Dr. Seuss",
+      "date": "2026-07-07",
+      "inactive": false
+    },
+    {
+      "text": "The Lord compensates the faithful for every loss.",
+      "author": "Russell M. Nelson",
+      "date": "2026-07-07",
+      "inactive": false
+    },
+    {
+      "text": "What would life be if we had no courage to attempt anything?",
+      "author": "Vincent Van Gogh",
+      "date": "2026-07-07",
+      "inactive": false
+    },
+    {
+      "text": "Life is to be enjoyed, not endured.",
+      "author": "Gordon B. Hinckley",
+      "date": "2026-07-07",
+      "inactive": false
+    },
+    {
       "text": "It always helps to have people we love beside us when we have to do difficult things in life.",
       "author": "Fred Rogers",
       "date": "2026-07-06",
@@ -421,36 +451,6 @@
       "inactive": false
     },
     {
-      "text": "A hero is someone who has given his or her life to something bigger than oneself.",
-      "author": "Joseph Campbell",
-      "date": "2026-06-23",
-      "inactive": false
-    },
-    {
-      "text": "Draw a crazy picture, Write a nutty poem, Sing a mumble-gumble song, Whistle through your comb.",
-      "author": "Shel Silverstein",
-      "date": "2026-06-23",
-      "inactive": false
-    },
-    {
-      "text": "The secret of staying young is to live honestly, eat slowly, and lie about your age.",
-      "author": "Lucille Ball",
-      "date": "2026-06-22",
-      "inactive": false
-    },
-    {
-      "text": "Choose faith over fear, and doubt not.",
-      "author": "David A. Bednar",
-      "date": "2026-06-22",
-      "inactive": false
-    },
-    {
-      "text": "The difference between winning and losing is most often not quitting.",
-      "author": "Walt Disney",
-      "date": "2026-06-22",
-      "inactive": false
-    },
-    {
       "text": "The best way out is always through.",
       "author": "Robert Frost",
       "date": "2026-01-18",
@@ -466,12 +466,6 @@
       "text": "The present moment is the only time over which we have dominion.",
       "author": "Thich Nhat Hanh",
       "date": "2026-01-06",
-      "inactive": true
-    },
-    {
-      "text": "The Lord compensates the faithful for every loss.",
-      "author": "Russell M. Nelson",
-      "date": "2026-01-02",
       "inactive": true
     },
     {
@@ -724,13 +718,6 @@
       "deactivatedDate": "2026-04-13"
     },
     {
-      "text": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
-      "author": "Dr. Seuss",
-      "date": "2026-04-04",
-      "inactive": true,
-      "deactivatedDate": "2026-04-13"
-    },
-    {
       "text": "Imagination is more important than knowledge.",
       "author": "Albert Einstein",
       "date": "2026-04-07",
@@ -764,13 +751,6 @@
       "date": "2026-04-11",
       "inactive": true,
       "deactivatedDate": "2026-04-20"
-    },
-    {
-      "text": "What would life be if we had no courage to attempt anything?",
-      "author": "Vincent Van Gogh",
-      "date": "2026-04-12",
-      "inactive": true,
-      "deactivatedDate": "2026-04-21"
     },
     {
       "text": "You do not rise to the level of your goals. You fall to the level of your systems.",
@@ -1059,13 +1039,6 @@
       "deactivatedDate": "2026-05-16"
     },
     {
-      "text": "Rock bottom became the solid foundation on which I rebuilt my life.",
-      "author": "J.K. Rowling",
-      "date": "2026-05-05",
-      "inactive": true,
-      "deactivatedDate": "2026-05-16"
-    },
-    {
       "text": "Follow your bliss and the universe will open doors where there were only walls.",
       "author": "Joseph Campbell",
       "date": "2026-05-05",
@@ -1278,13 +1251,6 @@
     {
       "text": "It does not matter how slowly you go as long as you do not stop.",
       "author": "Confucius",
-      "date": "2026-05-16",
-      "inactive": true,
-      "deactivatedDate": "2026-05-29"
-    },
-    {
-      "text": "Life is to be enjoyed, not endured.",
-      "author": "Gordon B. Hinckley",
       "date": "2026-05-16",
       "inactive": true,
       "deactivatedDate": "2026-05-29"
@@ -2397,9 +2363,44 @@
       "date": "2026-06-21",
       "inactive": true,
       "deactivatedDate": "2026-07-06"
+    },
+    {
+      "text": "A hero is someone who has given his or her life to something bigger than oneself.",
+      "author": "Joseph Campbell",
+      "date": "2026-06-23",
+      "inactive": true,
+      "deactivatedDate": "2026-07-07"
+    },
+    {
+      "text": "Draw a crazy picture, Write a nutty poem, Sing a mumble-gumble song, Whistle through your comb.",
+      "author": "Shel Silverstein",
+      "date": "2026-06-23",
+      "inactive": true,
+      "deactivatedDate": "2026-07-07"
+    },
+    {
+      "text": "The secret of staying young is to live honestly, eat slowly, and lie about your age.",
+      "author": "Lucille Ball",
+      "date": "2026-06-22",
+      "inactive": true,
+      "deactivatedDate": "2026-07-07"
+    },
+    {
+      "text": "Choose faith over fear, and doubt not.",
+      "author": "David A. Bednar",
+      "date": "2026-06-22",
+      "inactive": true,
+      "deactivatedDate": "2026-07-07"
+    },
+    {
+      "text": "The difference between winning and losing is most often not quitting.",
+      "author": "Walt Disney",
+      "date": "2026-06-22",
+      "inactive": true,
+      "deactivatedDate": "2026-07-07"
     }
   ],
-  "lastRotation": "2026-07-06",
+  "lastRotation": "2026-07-07",
   "totalQuotes": 350,
   "activeQuotes": 74,
   "inactiveQuotes": 276
