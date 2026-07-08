@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Habits are the compound interest of self-improvement.",
+      "author": "James Clear",
+      "date": "2026-07-08",
+      "inactive": false
+    },
+    {
+      "text": "Trust in the Lord with all thine heart; and lean not unto thine own understanding.",
+      "author": "King Solomon",
+      "date": "2026-07-08",
+      "inactive": false
+    },
+    {
+      "text": "Don't gobblefunk around with words.",
+      "author": "Roald Dahl",
+      "date": "2026-07-08",
+      "inactive": false
+    },
+    {
+      "text": "We delight in the beauty of the butterfly, but rarely admit the changes it has gone through to achieve that beauty.",
+      "author": "Maya Angelou",
+      "date": "2026-07-08",
+      "inactive": false
+    },
+    {
+      "text": "Happiness depends upon ourselves.",
+      "author": "Aristotle",
+      "date": "2026-07-08",
+      "inactive": false
+    },
+    {
       "text": "Rock bottom became the solid foundation on which I rebuilt my life.",
       "author": "J.K. Rowling",
       "date": "2026-07-07",
@@ -421,36 +451,6 @@
       "inactive": false
     },
     {
-      "text": "Don’t make a project out of yourself. \nMove outside yourself.",
-      "author": "Dr Goodman",
-      "date": "2026-06-24",
-      "inactive": false
-    },
-    {
-      "text": "Instructions for living a life: Pay attention. Be astonished. Tell about it.",
-      "author": "Mary Oliver",
-      "date": "2026-06-24",
-      "inactive": false
-    },
-    {
-      "text": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
-      "author": "Eleanor Roosevelt",
-      "date": "2026-06-23",
-      "inactive": false
-    },
-    {
-      "text": "The least of things with a meaning is worth more in life than the greatest of things without it.",
-      "author": "Carl Jung",
-      "date": "2026-06-23",
-      "inactive": false
-    },
-    {
-      "text": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
-      "author": "Albert Einstein",
-      "date": "2026-06-23",
-      "inactive": false
-    },
-    {
       "text": "The best way out is always through.",
       "author": "Robert Frost",
       "date": "2026-01-18",
@@ -466,12 +466,6 @@
       "text": "The present moment is the only time over which we have dominion.",
       "author": "Thich Nhat Hanh",
       "date": "2026-01-06",
-      "inactive": true
-    },
-    {
-      "text": "We delight in the beauty of the butterfly, but rarely admit the changes it has gone through to achieve that beauty.",
-      "author": "Maya Angelou",
-      "date": "2025-12-29",
       "inactive": true
     },
     {
@@ -727,13 +721,6 @@
     {
       "text": "Remember that sometimes not getting what you want is a wonderful stroke of luck.",
       "author": "Dalai Lama",
-      "date": "2026-04-08",
-      "inactive": true,
-      "deactivatedDate": "2026-04-16"
-    },
-    {
-      "text": "Happiness depends upon ourselves.",
-      "author": "Aristotle",
       "date": "2026-04-08",
       "inactive": true,
       "deactivatedDate": "2026-04-16"
@@ -1025,13 +1012,6 @@
       "deactivatedDate": "2026-05-15"
     },
     {
-      "text": "Don't gobblefunk around with words.",
-      "author": "Roald Dahl",
-      "date": "2026-05-03",
-      "inactive": true,
-      "deactivatedDate": "2026-05-15"
-    },
-    {
       "text": "Do what you can, with what you have, where you are.",
       "author": "Theodore Roosevelt",
       "date": "2026-05-05",
@@ -1143,13 +1123,6 @@
       "date": "2026-05-12",
       "inactive": true,
       "communitySubmission": true,
-      "deactivatedDate": "2026-05-23"
-    },
-    {
-      "text": "Habits are the compound interest of self-improvement.",
-      "author": "James Clear",
-      "date": "2026-05-11",
-      "inactive": true,
       "deactivatedDate": "2026-05-23"
     },
     {
@@ -1683,13 +1656,6 @@
     {
       "text": "We must be willing to let go of the life we planned so as to have the life that is waiting for us.",
       "author": "Joseph Campbell",
-      "date": "2026-06-01",
-      "inactive": true,
-      "deactivatedDate": "2026-06-15"
-    },
-    {
-      "text": "Trust in the Lord with all thine heart; and lean not unto thine own understanding.",
-      "author": "King Solomon",
       "date": "2026-06-01",
       "inactive": true,
       "deactivatedDate": "2026-06-15"
@@ -2398,9 +2364,44 @@
       "date": "2026-06-22",
       "inactive": true,
       "deactivatedDate": "2026-07-07"
+    },
+    {
+      "text": "Don’t make a project out of yourself. \nMove outside yourself.",
+      "author": "Dr Goodman",
+      "date": "2026-06-24",
+      "inactive": true,
+      "deactivatedDate": "2026-07-08"
+    },
+    {
+      "text": "Instructions for living a life: Pay attention. Be astonished. Tell about it.",
+      "author": "Mary Oliver",
+      "date": "2026-06-24",
+      "inactive": true,
+      "deactivatedDate": "2026-07-08"
+    },
+    {
+      "text": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-06-23",
+      "inactive": true,
+      "deactivatedDate": "2026-07-08"
+    },
+    {
+      "text": "The least of things with a meaning is worth more in life than the greatest of things without it.",
+      "author": "Carl Jung",
+      "date": "2026-06-23",
+      "inactive": true,
+      "deactivatedDate": "2026-07-08"
+    },
+    {
+      "text": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+      "author": "Albert Einstein",
+      "date": "2026-06-23",
+      "inactive": true,
+      "deactivatedDate": "2026-07-08"
     }
   ],
-  "lastRotation": "2026-07-07",
+  "lastRotation": "2026-07-08",
   "totalQuotes": 350,
   "activeQuotes": 74,
   "inactiveQuotes": 276
