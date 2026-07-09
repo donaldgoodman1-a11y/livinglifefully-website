@@ -1,6 +1,37 @@
 {
   "quotes": [
     {
+      "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-07-09",
+      "inactive": false
+    },
+    {
+      "text": "Just Let Go!",
+      "author": "Anonymous Reader",
+      "date": "2026-07-09",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "Today you are you, that is truer than true. There is no one alive who is youer than you.",
+      "author": "Dr. Seuss",
+      "date": "2026-07-09",
+      "inactive": false
+    },
+    {
+      "text": "No one can make you feel inferior without your consent.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-07-09",
+      "inactive": false
+    },
+    {
+      "text": "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
+      "author": "Mother Teresa",
+      "date": "2026-07-09",
+      "inactive": false
+    },
+    {
       "text": "Habits are the compound interest of self-improvement.",
       "author": "James Clear",
       "date": "2026-07-08",
@@ -421,36 +452,6 @@
       "inactive": false
     },
     {
-      "text": "Let yourself be silently drawn by the strange pull of what you really love. It will not lead you astray.",
-      "author": "Rumi",
-      "date": "2026-06-25",
-      "inactive": false
-    },
-    {
-      "text": "Waste no more time arguing about what a good man should be. Be one.",
-      "author": "Marcus Aurelius",
-      "date": "2026-06-25",
-      "inactive": false
-    },
-    {
-      "text": "Some day you will be old enough to start reading fairy tales again.",
-      "author": "C.S. Lewis",
-      "date": "2026-06-24",
-      "inactive": false
-    },
-    {
-      "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
-      "author": "Zig Ziglar",
-      "date": "2026-06-24",
-      "inactive": false
-    },
-    {
-      "text": "There is some good in this world, and it's worth fighting for.",
-      "author": "J.R.R. Tolkien",
-      "date": "2026-06-24",
-      "inactive": false
-    },
-    {
       "text": "The best way out is always through.",
       "author": "Robert Frost",
       "date": "2026-01-18",
@@ -530,13 +531,6 @@
       "deactivatedDate": "2026-03-05"
     },
     {
-      "text": "Today you are you, that is truer than true. There is no one alive who is youer than you.",
-      "author": "Dr. Seuss",
-      "date": "2026-02-27",
-      "inactive": true,
-      "deactivatedDate": "2026-03-06"
-    },
-    {
       "text": "Wise men speak because they have something to say; fools because they have to say something.",
       "author": "Plato",
       "date": "2026-03-02",
@@ -570,13 +564,6 @@
       "date": "2026-03-06",
       "inactive": true,
       "deactivatedDate": "2026-03-14"
-    },
-    {
-      "text": "No one can make you feel inferior without your consent.",
-      "author": "Eleanor Roosevelt",
-      "date": "2026-03-09",
-      "inactive": true,
-      "deactivatedDate": "2026-03-17"
     },
     {
       "text": "You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes.",
@@ -762,14 +749,6 @@
     },
     {
       "text": "To be happy takes daily practice and daily gratitude.",
-      "author": "Anonymous Reader",
-      "date": "2026-04-17",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-04-27"
-    },
-    {
-      "text": "Just Let Go!",
       "author": "Anonymous Reader",
       "date": "2026-04-17",
       "inactive": true,
@@ -1139,13 +1118,6 @@
       "date": "2026-05-12",
       "inactive": true,
       "deactivatedDate": "2026-05-24"
-    },
-    {
-      "text": "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
-      "author": "Mother Teresa",
-      "date": "2026-05-13",
-      "inactive": true,
-      "deactivatedDate": "2026-05-25"
     },
     {
       "text": "There is something you must remember. You are braver than you believe, stronger than you seem, and smarter than you think. But the most important thing is, even if we’re apart, I’ll always be with you.",
@@ -1964,13 +1936,6 @@
       "deactivatedDate": "2026-06-25"
     },
     {
-      "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
-      "author": "Martin Luther King Jr.",
-      "date": "2026-06-12",
-      "inactive": true,
-      "deactivatedDate": "2026-06-26"
-    },
-    {
       "text": "You can't use up creativity. The more you use, the more you have.",
       "author": "Maya Angelou",
       "date": "2026-06-12",
@@ -2399,9 +2364,44 @@
       "date": "2026-06-23",
       "inactive": true,
       "deactivatedDate": "2026-07-08"
+    },
+    {
+      "text": "Let yourself be silently drawn by the strange pull of what you really love. It will not lead you astray.",
+      "author": "Rumi",
+      "date": "2026-06-25",
+      "inactive": true,
+      "deactivatedDate": "2026-07-09"
+    },
+    {
+      "text": "Waste no more time arguing about what a good man should be. Be one.",
+      "author": "Marcus Aurelius",
+      "date": "2026-06-25",
+      "inactive": true,
+      "deactivatedDate": "2026-07-09"
+    },
+    {
+      "text": "Some day you will be old enough to start reading fairy tales again.",
+      "author": "C.S. Lewis",
+      "date": "2026-06-24",
+      "inactive": true,
+      "deactivatedDate": "2026-07-09"
+    },
+    {
+      "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+      "author": "Zig Ziglar",
+      "date": "2026-06-24",
+      "inactive": true,
+      "deactivatedDate": "2026-07-09"
+    },
+    {
+      "text": "There is some good in this world, and it's worth fighting for.",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-06-24",
+      "inactive": true,
+      "deactivatedDate": "2026-07-09"
     }
   ],
-  "lastRotation": "2026-07-08",
+  "lastRotation": "2026-07-09",
   "totalQuotes": 350,
   "activeQuotes": 74,
   "inactiveQuotes": 276
