@@ -1,6 +1,37 @@
 {
   "quotes": [
     {
+      "text": "Energy and persistence conquer all things.",
+      "author": "Benjamin Franklin",
+      "date": "2026-07-10",
+      "inactive": false
+    },
+    {
+      "text": "Be kind whenever possible. It is always possible.",
+      "author": "Dalai Lama",
+      "date": "2026-07-10",
+      "inactive": false
+    },
+    {
+      "text": "The secret of staying young is to live honestly, eat slowly, and lie about your age.",
+      "author": "Lucille Ball",
+      "date": "2026-07-10",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "We cannot change the cards we are dealt, just how we play the hand.",
+      "author": "Randy Pausch",
+      "date": "2026-07-10",
+      "inactive": false
+    },
+    {
+      "text": "You'll miss the best things if you keep your eyes shut.",
+      "author": "Dr. Seuss",
+      "date": "2026-07-10",
+      "inactive": false
+    },
+    {
       "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
       "author": "Martin Luther King Jr.",
       "date": "2026-07-09",
@@ -422,36 +453,6 @@
       "inactive": false
     },
     {
-      "text": "I am not what happened to me, I am what I choose to become.",
-      "author": "Carl Jung",
-      "date": "2026-06-26",
-      "inactive": false
-    },
-    {
-      "text": "If you are a dreamer, come in.",
-      "author": "Shel Silverstein",
-      "date": "2026-06-26",
-      "inactive": false
-    },
-    {
-      "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
-      "author": "Confucius",
-      "date": "2026-06-25",
-      "inactive": false
-    },
-    {
-      "text": "Try to be a rainbow in someone's cloud.",
-      "author": "Maya Angelou",
-      "date": "2026-06-25",
-      "inactive": false
-    },
-    {
-      "text": "Real change takes time. What matters most is that you start.",
-      "author": "Russell M. Nelson",
-      "date": "2026-06-25",
-      "inactive": false
-    },
-    {
       "text": "The best way out is always through.",
       "author": "Robert Frost",
       "date": "2026-01-18",
@@ -508,20 +509,6 @@
       "date": "2026-02-15",
       "inactive": true,
       "deactivatedDate": "2026-02-22"
-    },
-    {
-      "text": "We cannot change the cards we are dealt, just how we play the hand.",
-      "author": "Randy Pausch",
-      "date": "2026-02-16",
-      "inactive": true,
-      "deactivatedDate": "2026-02-23"
-    },
-    {
-      "text": "Energy and persistence conquer all things.",
-      "author": "Benjamin Franklin",
-      "date": "2026-02-20",
-      "inactive": true,
-      "deactivatedDate": "2026-02-27"
     },
     {
       "text": "To love at all is to be vulnerable.",
@@ -734,13 +721,6 @@
       "deactivatedDate": "2026-04-22"
     },
     {
-      "text": "You'll miss the best things if you keep your eyes shut.",
-      "author": "Dr. Seuss",
-      "date": "2026-04-13",
-      "inactive": true,
-      "deactivatedDate": "2026-04-22"
-    },
-    {
       "text": "Someone I loved once gave me a box full of darkness. It took me years to understand that this too, was a gift.",
       "author": "Mary Oliver",
       "date": "2026-04-14",
@@ -807,13 +787,6 @@
       "inactive": true,
       "communitySubmission": true,
       "deactivatedDate": "2026-04-30"
-    },
-    {
-      "text": "Be kind whenever possible. It is always possible.",
-      "author": "Dalai Lama",
-      "date": "2026-04-20",
-      "inactive": true,
-      "deactivatedDate": "2026-05-01"
     },
     {
       "text": "Because you are alive, everything is possible.",
@@ -2014,14 +1987,6 @@
       "deactivatedDate": "2026-06-28"
     },
     {
-      "text": "The secret of staying young is to live honestly, eat slowly, and lie about your age.",
-      "author": "Lucille Ball",
-      "date": "2026-06-14",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-06-28"
-    },
-    {
       "text": "Love loves to love love.",
       "author": "James Joyce “Ulysses”",
       "date": "2026-06-14",
@@ -2310,13 +2275,6 @@
       "deactivatedDate": "2026-07-07"
     },
     {
-      "text": "The secret of staying young is to live honestly, eat slowly, and lie about your age.",
-      "author": "Lucille Ball",
-      "date": "2026-06-22",
-      "inactive": true,
-      "deactivatedDate": "2026-07-07"
-    },
-    {
       "text": "Choose faith over fear, and doubt not.",
       "author": "David A. Bednar",
       "date": "2026-06-22",
@@ -2399,10 +2357,45 @@
       "date": "2026-06-24",
       "inactive": true,
       "deactivatedDate": "2026-07-09"
+    },
+    {
+      "text": "I am not what happened to me, I am what I choose to become.",
+      "author": "Carl Jung",
+      "date": "2026-06-26",
+      "inactive": true,
+      "deactivatedDate": "2026-07-10"
+    },
+    {
+      "text": "If you are a dreamer, come in.",
+      "author": "Shel Silverstein",
+      "date": "2026-06-26",
+      "inactive": true,
+      "deactivatedDate": "2026-07-10"
+    },
+    {
+      "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
+      "author": "Confucius",
+      "date": "2026-06-25",
+      "inactive": true,
+      "deactivatedDate": "2026-07-10"
+    },
+    {
+      "text": "Try to be a rainbow in someone's cloud.",
+      "author": "Maya Angelou",
+      "date": "2026-06-25",
+      "inactive": true,
+      "deactivatedDate": "2026-07-10"
+    },
+    {
+      "text": "Real change takes time. What matters most is that you start.",
+      "author": "Russell M. Nelson",
+      "date": "2026-06-25",
+      "inactive": true,
+      "deactivatedDate": "2026-07-10"
     }
   ],
-  "lastRotation": "2026-07-09",
-  "totalQuotes": 350,
+  "lastRotation": "2026-07-10",
+  "totalQuotes": 349,
   "activeQuotes": 74,
-  "inactiveQuotes": 276
+  "inactiveQuotes": 275
 }
