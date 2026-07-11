@@ -1,6 +1,37 @@
 {
   "quotes": [
     {
+      "text": "I grew up like a neglected weed, ignorant of liberty, having no experience of it.",
+      "author": "Harriet Tubman",
+      "date": "2026-07-11",
+      "inactive": false
+    },
+    {
+      "text": "Focus on the moment, not the monsters that may or may not be up ahead.",
+      "author": "Ryan Holiday",
+      "date": "2026-07-11",
+      "inactive": false
+    },
+    {
+      "text": "Life is either a daring adventure or nothing at all.",
+      "author": "Helen Keller",
+      "date": "2026-07-11",
+      "inactive": false
+    },
+    {
+      "text": "Weeping may endure for a night, but joy cometh in the morning.",
+      "author": "King David",
+      "date": "2026-07-11",
+      "inactive": false
+    },
+    {
+      "text": "I believe in the goodness of a free society. And I believe that society can remain good only as long as we are willing to fight for it — and to fight against whatever imperfections may exist.",
+      "author": "Jackie Robinson",
+      "date": "2026-07-11",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
       "text": "Energy and persistence conquer all things.",
       "author": "Benjamin Franklin",
       "date": "2026-07-10",
@@ -422,37 +453,6 @@
       "inactive": false
     },
     {
-      "text": "A single sunbeam is enough to drive away many shadows.",
-      "author": "St. Francis of Assisi",
-      "date": "2026-06-27",
-      "inactive": false
-    },
-    {
-      "text": "Wherever you are… Be there. \nThis saying has been said in different ways, but this particular way has my personal touch on it. \nI had a plack made  for each one of my kids so that they know how important it is to be focused and in the moment.",
-      "author": "Steve LeBaron",
-      "date": "2026-06-27",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "We do not need magic to transform our world. We carry all the power we need inside ourselves already.",
-      "author": "J.K. Rowling",
-      "date": "2026-06-26",
-      "inactive": false
-    },
-    {
-      "text": "Act as if what you do makes a difference. It does.",
-      "author": "William James",
-      "date": "2026-06-26",
-      "inactive": false
-    },
-    {
-      "text": "Be the change that you wish to see in the world.",
-      "author": "Mahatma Gandhi",
-      "date": "2026-06-26",
-      "inactive": false
-    },
-    {
       "text": "The best way out is always through.",
       "author": "Robert Frost",
       "date": "2026-01-18",
@@ -544,13 +544,6 @@
       "date": "2026-03-05",
       "inactive": true,
       "deactivatedDate": "2026-03-13"
-    },
-    {
-      "text": "I grew up like a neglected weed, ignorant of liberty, having no experience of it.",
-      "author": "Harriet Tubman",
-      "date": "2026-03-06",
-      "inactive": true,
-      "deactivatedDate": "2026-03-14"
     },
     {
       "text": "You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes.",
@@ -1548,14 +1541,6 @@
       "deactivatedDate": "2026-06-14"
     },
     {
-      "text": "I believe in the goodness of a free society. And I believe that society can remain good only as long as we are willing to fight for it — and to fight against whatever imperfections may exist.",
-      "author": "Jackie Robinson",
-      "date": "2026-05-31",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-06-14"
-    },
-    {
       "text": "Get up every day and try a little harder than the day before.",
       "author": "Emeril Lagassi",
       "date": "2026-05-31",
@@ -1609,13 +1594,6 @@
       "text": "The secret to so many artists living so long is that every painting is a new adventure. So, you see, they're always looking ahead to something new and exciting.",
       "author": "Norman Rockwell",
       "date": "2026-06-03",
-      "inactive": true,
-      "deactivatedDate": "2026-06-16"
-    },
-    {
-      "text": "Weeping may endure for a night, but joy cometh in the morning.",
-      "author": "King David",
-      "date": "2026-06-02",
       "inactive": true,
       "deactivatedDate": "2026-06-16"
     },
@@ -1895,13 +1873,6 @@
       "deactivatedDate": "2026-06-25"
     },
     {
-      "text": "Life is either a daring adventure or nothing at all.",
-      "author": "Helen Keller",
-      "date": "2026-06-11",
-      "inactive": true,
-      "deactivatedDate": "2026-06-25"
-    },
-    {
       "text": "Well done is better than well said.",
       "author": "Benjamin Franklin",
       "date": "2026-06-11",
@@ -2067,13 +2038,6 @@
     {
       "text": "let GO",
       "author": "Anonymous Reader",
-      "date": "2026-06-16",
-      "inactive": true,
-      "deactivatedDate": "2026-07-01"
-    },
-    {
-      "text": "Focus on the moment, not the monsters that may or may not be up ahead.",
-      "author": "Ryan Holiday",
       "date": "2026-06-16",
       "inactive": true,
       "deactivatedDate": "2026-07-01"
@@ -2392,9 +2356,45 @@
       "date": "2026-06-25",
       "inactive": true,
       "deactivatedDate": "2026-07-10"
+    },
+    {
+      "text": "A single sunbeam is enough to drive away many shadows.",
+      "author": "St. Francis of Assisi",
+      "date": "2026-06-27",
+      "inactive": true,
+      "deactivatedDate": "2026-07-11"
+    },
+    {
+      "text": "Wherever you are… Be there. \nThis saying has been said in different ways, but this particular way has my personal touch on it. \nI had a plack made  for each one of my kids so that they know how important it is to be focused and in the moment.",
+      "author": "Steve LeBaron",
+      "date": "2026-06-27",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-07-11"
+    },
+    {
+      "text": "We do not need magic to transform our world. We carry all the power we need inside ourselves already.",
+      "author": "J.K. Rowling",
+      "date": "2026-06-26",
+      "inactive": true,
+      "deactivatedDate": "2026-07-11"
+    },
+    {
+      "text": "Act as if what you do makes a difference. It does.",
+      "author": "William James",
+      "date": "2026-06-26",
+      "inactive": true,
+      "deactivatedDate": "2026-07-11"
+    },
+    {
+      "text": "Be the change that you wish to see in the world.",
+      "author": "Mahatma Gandhi",
+      "date": "2026-06-26",
+      "inactive": true,
+      "deactivatedDate": "2026-07-11"
     }
   ],
-  "lastRotation": "2026-07-10",
+  "lastRotation": "2026-07-11",
   "totalQuotes": 349,
   "activeQuotes": 74,
   "inactiveQuotes": 275
