@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "A winner is a dreamer who never gives up.",
+      "author": "Nelson Mandela",
+      "date": "2026-07-12",
+      "inactive": false
+    },
+    {
+      "text": "The power of love and kindness can overcome any challenge or hardship.\nThe Lubavitcher Rebbe",
+      "author": "The Lubavitcher Rebbe",
+      "date": "2026-07-12",
+      "inactive": false
+    },
+    {
+      "text": "Luck is what happens when preparation meets opportunity.",
+      "author": "Seneca",
+      "date": "2026-07-12",
+      "inactive": false
+    },
+    {
+      "text": "Remember that sometimes not getting what you want is a wonderful stroke of luck.",
+      "author": "Dalai Lama",
+      "date": "2026-07-12",
+      "inactive": false
+    },
+    {
+      "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-07-12",
+      "inactive": false
+    },
+    {
       "text": "I grew up like a neglected weed, ignorant of liberty, having no experience of it.",
       "author": "Harriet Tubman",
       "date": "2026-07-11",
@@ -421,38 +451,6 @@
       "inactive": false
     },
     {
-      "text": "Although the world is full of suffering, it is full also of the overcoming of it.",
-      "author": "Helen Keller",
-      "date": "2026-06-28",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "There can be no deep disappointment where there is not deep love.",
-      "author": "Martin Luther King",
-      "date": "2026-06-28",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "Your work is to discover your work and then with all your heart to give yourself to it.",
-      "author": "Buddha",
-      "date": "2026-06-27",
-      "inactive": false
-    },
-    {
-      "text": "I wish it need not have happened in my time, said Frodo. So do I, said Gandalf, and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.",
-      "author": "J.R.R. Tolkien",
-      "date": "2026-06-27",
-      "inactive": false
-    },
-    {
-      "text": "We suffer more often in imagination than in reality.",
-      "author": "Seneca",
-      "date": "2026-06-27",
-      "inactive": false
-    },
-    {
       "text": "The best way out is always through.",
       "author": "Robert Frost",
       "date": "2026-01-18",
@@ -468,12 +466,6 @@
       "text": "The present moment is the only time over which we have dominion.",
       "author": "Thich Nhat Hanh",
       "date": "2026-01-06",
-      "inactive": true
-    },
-    {
-      "text": "A winner is a dreamer who never gives up.",
-      "author": "Nelson Mandela",
-      "date": "2025-12-19",
       "inactive": true
     },
     {
@@ -686,13 +678,6 @@
       "deactivatedDate": "2026-04-15"
     },
     {
-      "text": "Remember that sometimes not getting what you want is a wonderful stroke of luck.",
-      "author": "Dalai Lama",
-      "date": "2026-04-08",
-      "inactive": true,
-      "deactivatedDate": "2026-04-16"
-    },
-    {
       "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
       "author": "Aristotle",
       "date": "2026-04-10",
@@ -746,13 +731,6 @@
     {
       "text": "Humanity must seek what is NOT simple and obvious using the simple and obvious.",
       "author": "Musonius Rufus",
-      "date": "2026-04-19",
-      "inactive": true,
-      "deactivatedDate": "2026-04-29"
-    },
-    {
-      "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
-      "author": "Ralph Waldo Emerson",
       "date": "2026-04-19",
       "inactive": true,
       "deactivatedDate": "2026-04-29"
@@ -1944,13 +1922,6 @@
       "deactivatedDate": "2026-06-27"
     },
     {
-      "text": "The power of love and kindness can overcome any challenge or hardship.\nThe Lubavitcher Rebbe",
-      "author": "The Lubavitcher Rebbe",
-      "date": "2026-06-14",
-      "inactive": true,
-      "deactivatedDate": "2026-06-28"
-    },
-    {
       "text": "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
       "author": "Benjamin Franklin",
       "date": "2026-06-14",
@@ -2122,13 +2093,6 @@
     {
       "text": "When it's over, I want to say: all my life I was a bride married to amazement.",
       "author": "Mary Oliver",
-      "date": "2026-06-20",
-      "inactive": true,
-      "deactivatedDate": "2026-07-04"
-    },
-    {
-      "text": "Luck is what happens when preparation meets opportunity.",
-      "author": "Seneca",
       "date": "2026-06-20",
       "inactive": true,
       "deactivatedDate": "2026-07-04"
@@ -2392,9 +2356,46 @@
       "date": "2026-06-26",
       "inactive": true,
       "deactivatedDate": "2026-07-11"
+    },
+    {
+      "text": "Although the world is full of suffering, it is full also of the overcoming of it.",
+      "author": "Helen Keller",
+      "date": "2026-06-28",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-07-12"
+    },
+    {
+      "text": "There can be no deep disappointment where there is not deep love.",
+      "author": "Martin Luther King",
+      "date": "2026-06-28",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-07-12"
+    },
+    {
+      "text": "Your work is to discover your work and then with all your heart to give yourself to it.",
+      "author": "Buddha",
+      "date": "2026-06-27",
+      "inactive": true,
+      "deactivatedDate": "2026-07-12"
+    },
+    {
+      "text": "I wish it need not have happened in my time, said Frodo. So do I, said Gandalf, and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-06-27",
+      "inactive": true,
+      "deactivatedDate": "2026-07-12"
+    },
+    {
+      "text": "We suffer more often in imagination than in reality.",
+      "author": "Seneca",
+      "date": "2026-06-27",
+      "inactive": true,
+      "deactivatedDate": "2026-07-12"
     }
   ],
-  "lastRotation": "2026-07-11",
+  "lastRotation": "2026-07-12",
   "totalQuotes": 349,
   "activeQuotes": 74,
   "inactiveQuotes": 275
