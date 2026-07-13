@@ -124,6 +124,9 @@
     <p style="color:#bfdbfe;font-size:0.95rem;line-height:1.7;max-width:600px;margin:0 auto;">
         This site is the companion resource to these two books — guides to cultivating hope, resilience, and meaning in everyday life.
     </p>
+    <p style="color:#fbbf24;font-size:0.95rem;font-weight:600;max-width:600px;margin:1rem auto 0;">
+        PLEASE FEEL FREE TO CONTRIBUTE YOUR OWN LIFE PRINCIPLES UNDER THE CONTRIBUTE TAB
+    </p>
 </div>
 
 <nav>
@@ -249,128 +252,4 @@ const bookWisdom = {
         "Expectations are the root of our heartache. — Shakespeare",
         "Without hard work, nothing grows but weeds. — Gordon B Hinckley",
         "Shortcuts lead to long delays. — Mike Rowe's father",
-        "Holding on to anger is like taking poison and expecting the other person to die. — Buddha"
-    ],
-    path: [
-        "The goal of life is not to live safely...it is to live fully. — Dr Mark McDonald",
-        "Attitude, to me, is more important than facts. It will make or break a company... a church... a home. — Charles Swindoll",
-        "Life is 10% what happens to me and 90% how I react to it.",
-        "We are in charge of our attitudes.",
-        "May hope guide your way."
-    ]
-};
-
-const allWisdom = Object.values(bookWisdom).flat();
-
-function switchTab(name) {
-    document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
-    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
-    document.getElementById('tab-' + name).classList.add('active');
-    event.currentTarget.classList.add('active');
-    if (name === 'community') loadCommunity();
-}
-
-function showRandomWisdom() {
-    const q = allWisdom[Math.floor(Math.random() * allWisdom.length)];
-    document.getElementById('wisdom-display').textContent = '\u201c' + q + '\u201d';
-}
-
-// Build book content
-(function buildBook() {
-    const container = document.getElementById('book-content');
-    for (const [cat, items] of Object.entries(bookWisdom)) {
-        const section = document.createElement('div');
-        section.style.marginBottom = '3rem';
-        section.innerHTML = '<h3 class="category-title">' + cat.charAt(0).toUpperCase() + cat.slice(1) + '</h3>';
-        const grid = document.createElement('div');
-        grid.className = 'card-grid';
-        items.forEach(item => {
-            const card = document.createElement('div');
-            card.className = 'wisdom-item';
-            card.innerHTML = '<p>\u201c' + item + '\u201d</p>';
-            grid.appendChild(card);
-        });
-        section.appendChild(grid);
-        container.appendChild(section);
-    }
-})();
-
-// Community wisdom
-let communityLoaded = false;
-function loadCommunity() {
-    if (communityLoaded) return;
-    communityLoaded = true;
-    fetch('/data/community-wisdom.json')
-        .then(r => r.json())
-        .then(data => {
-            let quotes = Array.isArray(data) ? data : data.approved || (data.quotes ? data.quotes.filter(q => !q.inactive) : []);
-            quotes = quotes.sort((a, b) => new Date(b.date || b.submittedAt) - new Date(a.date || a.submittedAt));
-            const container = document.getElementById('community-content');
-            if (quotes.length === 0) {
-                container.innerHTML = '<div class="community-empty"><div class="empty-box"><p>No community wisdom yet. Be the first to contribute!</p><button class="btn-primary" onclick="switchTabDirect(\'contribute\')">Share Your Wisdom</button></div></div>';
-            } else {
-                const grid = document.createElement('div');
-                grid.className = 'card-grid';
-                quotes.forEach(w => {
-                    const card = document.createElement('div');
-                    card.className = 'wisdom-item';
-                    const dateStr = w.date || w.submittedAt ? new Date(w.date || w.submittedAt).toLocaleDateString() : '';
-                    card.innerHTML = '<blockquote class="community-item"><span style="font-style:italic;color:#bfdbfe;">\u201c' + (w.text || w.wisdom || '') + '\u201d</span></blockquote><div class="community-meta"><span class="author">\u2014 ' + (w.author || 'Anonymous') + '</span><span class="date">' + dateStr + '</span></div>';
-                    grid.appendChild(card);
-                });
-                container.innerHTML = '';
-                container.appendChild(grid);
-            }
-        })
-        .catch(() => {
-            document.getElementById('community-content').innerHTML = '<div class="community-empty"><div class="empty-box"><p>Could not load community wisdom. Please try again later.</p></div></div>';
-        });
-}
-
-function switchTabDirect(name) {
-    document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
-    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
-    document.getElementById('tab-' + name).classList.add('active');
-    document.querySelectorAll('.tab-btn')[3].classList.add('active');
-}
-
-async function submitWisdom() {
-    const wisdom = document.getElementById('wisdom-input').value.trim();
-    const author = document.getElementById('author-input').value.trim();
-    const errorBox = document.getElementById('submit-error');
-    const btn = document.getElementById('submit-btn');
-    if (!wisdom) return;
-    errorBox.style.display = 'none';
-    btn.disabled = true;
-    btn.textContent = 'Submitting...';
-    try {
-        const res = await fetch('/.netlify/functions/submit-comment', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ wisdom, author })
-        });
-        if (!res.ok) {
-            const d = await res.json().catch(() => ({}));
-            errorBox.textContent = d.error || 'Submission failed. Please try again.';
-            errorBox.style.display = 'block';
-            btn.disabled = false;
-            btn.textContent = 'Submit for Review';
-        } else {
-            window.location.href = '/thank-you.html';
-        }
-    } catch {
-        errorBox.textContent = 'Network error — please try again.';
-        errorBox.style.display = 'block';
-        btn.disabled = false;
-        btn.textContent = 'Submit for Review';
-    }
-}
-
-if (window.netlifyIdentity) {
-    window.netlifyIdentity.on("init", user => {
-        if (!user) { window.netlifyIdentity.on("login", () => { document.location.href = "/admin/"; }); }
-    });
-}
-</script>
-</body>
-</html>
+        "Holding on to anger is like tak 
