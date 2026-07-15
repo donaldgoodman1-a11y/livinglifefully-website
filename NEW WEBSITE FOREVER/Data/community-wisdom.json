@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "You have power over your mind - not outside events. Realize this, and you will find strength.",
+      "author": "Marcus Aurelius",
+      "date": "2026-07-15",
+      "inactive": false
+    },
+    {
+      "text": "If you accomplish something good with hard work, the labor passes quickly, but the good endures; if you do something shameful in pursuit of pleasure, the pleasure passes quickly, but the shame endures.",
+      "author": "Musonius Rufus",
+      "date": "2026-07-15",
+      "inactive": false
+    },
+    {
+      "text": "A little nonsense now and then is relished by the wisest men.",
+      "author": "Roald Dahl",
+      "date": "2026-07-15",
+      "inactive": false
+    },
+    {
+      "text": "We do not need magic to transform our world. We carry all the power we need inside ourselves already.",
+      "author": "J.K. Rowling",
+      "date": "2026-07-15",
+      "inactive": false
+    },
+    {
+      "text": "The more that you read, the more things you will know. The more that you learn, the more places you'll go.",
+      "author": "Dr. Seuss",
+      "date": "2026-07-15",
+      "inactive": false
+    },
+    {
       "text": "Tell me, what is it you plan to do with your one wild and precious life?",
       "author": "Mary Oliver",
       "date": "2026-07-14",
@@ -418,36 +448,6 @@
       "text": "“If I die before my dog, please show him my dead body. dogs can process death, but I would hate for him to think I abandoned him”.",
       "author": "Unknown",
       "date": "2026-07-01",
-      "inactive": false
-    },
-    {
-      "text": "Not all of us can do great things. But we can do small things with great love.",
-      "author": "Mother Teresa",
-      "date": "2026-07-01",
-      "inactive": false
-    },
-    {
-      "text": "Courage is not simply one of the virtues, but the form of every virtue at the testing point.",
-      "author": "C.S. Lewis",
-      "date": "2026-06-30",
-      "inactive": false
-    },
-    {
-      "text": "Because a thing seems difficult for you, do not think it impossible for anyone to accomplish.",
-      "author": "Marcus Aurelius",
-      "date": "2026-06-30",
-      "inactive": false
-    },
-    {
-      "text": "Live in the sunshine, swim the sea, drink the wild air.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-06-30",
-      "inactive": false
-    },
-    {
-      "text": "A person's a person, no matter how small.",
-      "author": "Dr. Seuss",
-      "date": "2026-06-30",
       "inactive": false
     },
     {
@@ -1215,13 +1215,6 @@
       "deactivatedDate": "2026-06-02"
     },
     {
-      "text": "If you accomplish something good with hard work, the labor passes quickly, but the good endures; if you do something shameful in pursuit of pleasure, the pleasure passes quickly, but the shame endures.",
-      "author": "Musonius Rufus",
-      "date": "2026-05-22",
-      "inactive": true,
-      "deactivatedDate": "2026-06-03"
-    },
-    {
       "text": "You are never too old to set another goal or to dream a new dream.",
       "author": "C.S. Lewis",
       "date": "2026-05-21",
@@ -1392,13 +1385,6 @@
       "deactivatedDate": "2026-06-11"
     },
     {
-      "text": "A little nonsense now and then is relished by the wisest men.",
-      "author": "Roald Dahl",
-      "date": "2026-05-29",
-      "inactive": true,
-      "deactivatedDate": "2026-06-11"
-    },
-    {
       "text": "There is a place where the sidewalk ends and before the street begins.",
       "author": "Shel Silverstein",
       "date": "2026-05-28",
@@ -1487,13 +1473,6 @@
     {
       "text": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.",
       "author": "J.K. Rowling",
-      "date": "2026-05-31",
-      "inactive": true,
-      "deactivatedDate": "2026-06-14"
-    },
-    {
-      "text": "You have power over your mind - not outside events. Realize this, and you will find strength.",
-      "author": "Marcus Aurelius",
       "date": "2026-05-31",
       "inactive": true,
       "deactivatedDate": "2026-06-14"
@@ -2267,13 +2246,6 @@
       "deactivatedDate": "2026-07-11"
     },
     {
-      "text": "We do not need magic to transform our world. We carry all the power we need inside ourselves already.",
-      "author": "J.K. Rowling",
-      "date": "2026-06-26",
-      "inactive": true,
-      "deactivatedDate": "2026-07-11"
-    },
-    {
       "text": "Act as if what you do makes a difference. It does.",
       "author": "William James",
       "date": "2026-06-26",
@@ -2381,21 +2353,49 @@
       "deactivatedDate": "2026-07-14"
     },
     {
-      "text": "The more that you read, the more things you will know. The more that you learn, the more places you'll go.",
-      "author": "Dr. Seuss",
-      "date": "2026-06-29",
-      "inactive": true,
-      "deactivatedDate": "2026-07-14"
-    },
-    {
       "text": "We can ignore reality, but we cannot ignore the consequences of ignoring reality.",
       "author": "Ayn Rand",
       "date": "2026-06-29",
       "inactive": true,
       "deactivatedDate": "2026-07-14"
+    },
+    {
+      "text": "Not all of us can do great things. But we can do small things with great love.",
+      "author": "Mother Teresa",
+      "date": "2026-07-01",
+      "inactive": true,
+      "deactivatedDate": "2026-07-15"
+    },
+    {
+      "text": "Courage is not simply one of the virtues, but the form of every virtue at the testing point.",
+      "author": "C.S. Lewis",
+      "date": "2026-06-30",
+      "inactive": true,
+      "deactivatedDate": "2026-07-15"
+    },
+    {
+      "text": "Because a thing seems difficult for you, do not think it impossible for anyone to accomplish.",
+      "author": "Marcus Aurelius",
+      "date": "2026-06-30",
+      "inactive": true,
+      "deactivatedDate": "2026-07-15"
+    },
+    {
+      "text": "Live in the sunshine, swim the sea, drink the wild air.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-06-30",
+      "inactive": true,
+      "deactivatedDate": "2026-07-15"
+    },
+    {
+      "text": "A person's a person, no matter how small.",
+      "author": "Dr. Seuss",
+      "date": "2026-06-30",
+      "inactive": true,
+      "deactivatedDate": "2026-07-15"
     }
   ],
-  "lastRotation": "2026-07-14",
+  "lastRotation": "2026-07-15",
   "totalQuotes": 349,
   "activeQuotes": 74,
   "inactiveQuotes": 275
