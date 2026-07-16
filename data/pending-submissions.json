@@ -1,13 +1,6 @@
 {
   "pending": [
     {
-      "id": "1784237690912",
-      "wisdom": "Sometimes things make more sense the second time around. People change, you change and the universe changes, if we keep ourselves confined to first chances only, we will truly miss out on some of the most beautiful things in life.",
-      "author": "Rania Naim",
-      "date": "2026-07-16",
-      "submittedAt": "2026-07-16T21:34:50.921Z"
-    },
-    {
       "id": "1784237871813",
       "wisdom": "Success lies in one’s ability to learn from mistakes.",
       "author": "Dr Prem Jagaysi",
@@ -15,6 +8,6 @@
       "submittedAt": "2026-07-16T21:37:51.813Z"
     }
   ],
-  "approvedCount": 39,
+  "approvedCount": 40,
   "rejectedCount": 3
 }
