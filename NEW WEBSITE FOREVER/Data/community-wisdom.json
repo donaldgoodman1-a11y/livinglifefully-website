@@ -1,6 +1,13 @@
 {
   "quotes": [
     {
+      "text": "Take forgiveness slowly. Don’t blame yourself for being slow. Peace will come.",
+      "author": "Yoko Ono",
+      "date": "2026-07-16",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
       "text": "Some day you will be old enough to start reading fairy tales again.",
       "author": "C.S. Lewis",
       "date": "2026-07-16",
@@ -2396,7 +2403,7 @@
     }
   ],
   "lastRotation": "2026-07-16",
-  "totalQuotes": 349,
-  "activeQuotes": 74,
+  "totalQuotes": 350,
+  "activeQuotes": 75,
   "inactiveQuotes": 275
 }
