@@ -1,5 +1,13 @@
 {
-  "pending": [],
+  "pending": [
+    {
+      "id": "1784232616028",
+      "wisdom": "Take forgiveness slowly. Don’t blame yourself for being slow. Peace will come.",
+      "author": "Yoko Ono",
+      "date": "2026-07-16",
+      "submittedAt": "2026-07-16T20:10:16.029Z"
+    }
+  ],
   "approvedCount": 38,
   "rejectedCount": 3
 }
