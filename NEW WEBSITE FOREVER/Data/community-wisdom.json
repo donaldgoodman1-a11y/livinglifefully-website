@@ -1,6 +1,13 @@
 {
   "quotes": [
     {
+      "text": "Success lies in one’s ability to learn from mistakes.",
+      "author": "Dr Prem Jagaysi",
+      "date": "2026-07-16",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
       "text": "Sometimes things make more sense the second time around. People change, you change and the universe changes, if we keep ourselves confined to first chances only, we will truly miss out on some of the most beautiful things in life.",
       "author": "Rania Naim",
       "date": "2026-07-16",
@@ -2410,7 +2417,7 @@
     }
   ],
   "lastRotation": "2026-07-16",
-  "totalQuotes": 351,
-  "activeQuotes": 76,
+  "totalQuotes": 352,
+  "activeQuotes": 77,
   "inactiveQuotes": 275
 }
