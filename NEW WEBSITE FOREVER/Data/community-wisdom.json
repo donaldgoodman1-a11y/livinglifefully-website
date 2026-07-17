@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Tell me to what you pay attention and I will tell you who you are.",
+      "author": "José Ortega y Gasset",
+      "date": "2026-07-17",
+      "inactive": false
+    },
+    {
+      "text": "Success is liking yourself, liking what you do, and liking how you do it.",
+      "author": "Maya Angelou",
+      "date": "2026-07-17",
+      "inactive": false
+    },
+    {
+      "text": "Water is fluid, soft, and yielding. But water will wear away rock, which is rigid and cannot yield. As a rule, whatever is fluid, soft, and yielding will overcome whatever is rigid and hard.",
+      "author": "Lao Tzu",
+      "date": "2026-07-17",
+      "inactive": false
+    },
+    {
+      "text": "Intelligence plus character—that is the goal of true education.",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-07-17",
+      "inactive": false
+    },
+    {
+      "text": "With the new day comes new strength and new thoughts.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-07-17",
+      "inactive": false
+    },
+    {
       "text": "Success lies in one’s ability to learn from mistakes.",
       "author": "Dr Prem Jagaysi",
       "date": "2026-07-16",
@@ -440,36 +470,6 @@
       "date": "2026-07-03",
       "inactive": false,
       "communitySubmission": true
-    },
-    {
-      "text": "The mind is everything. What you think you become.",
-      "author": "Buddha",
-      "date": "2026-07-03",
-      "inactive": false
-    },
-    {
-      "text": "Why fit in when you were born to stand out?",
-      "author": "Dr. Seuss",
-      "date": "2026-07-02",
-      "inactive": false
-    },
-    {
-      "text": "We read to know we are not alone.",
-      "author": "C.S. Lewis",
-      "date": "2026-07-02",
-      "inactive": false
-    },
-    {
-      "text": "To pay attention, this is our endless and proper work.",
-      "author": "Mary Oliver",
-      "date": "2026-07-02",
-      "inactive": false
-    },
-    {
-      "text": "You don't have to be perfect to be loved.",
-      "author": "Russell M. Nelson",
-      "date": "2026-07-02",
-      "inactive": false
     },
     {
       "text": "The best way out is always through.",
@@ -961,13 +961,6 @@
       "date": "2026-05-07",
       "inactive": true,
       "deactivatedDate": "2026-05-18"
-    },
-    {
-      "text": "Intelligence plus character—that is the goal of true education.",
-      "author": "Martin Luther King Jr.",
-      "date": "2026-05-08",
-      "inactive": true,
-      "deactivatedDate": "2026-05-19"
     },
     {
       "text": "It does not do to dwell on dreams and forget to live.",
@@ -1534,13 +1527,6 @@
       "deactivatedDate": "2026-06-17"
     },
     {
-      "text": "Success is liking yourself, liking what you do, and liking how you do it.",
-      "author": "Maya Angelou",
-      "date": "2026-06-03",
-      "inactive": true,
-      "deactivatedDate": "2026-06-17"
-    },
-    {
       "text": "Lift where you stand.",
       "author": "Dieter F. Uchtdorf",
       "date": "2026-06-03",
@@ -1809,13 +1795,6 @@
       "deactivatedDate": "2026-06-26"
     },
     {
-      "text": "Tell me to what you pay attention and I will tell you who you are.",
-      "author": "José Ortega y Gasset",
-      "date": "2026-06-12",
-      "inactive": true,
-      "deactivatedDate": "2026-06-26"
-    },
-    {
       "text": "Greater the persons' stature, the more one has to make sure to humble themselves.\nRashi, Berachos 34b",
       "author": "Rashi, Berachos 34b",
       "date": "2026-06-11",
@@ -1951,13 +1930,6 @@
       "deactivatedDate": "2026-07-02"
     },
     {
-      "text": "Water is fluid, soft, and yielding. But water will wear away rock, which is rigid and cannot yield. As a rule, whatever is fluid, soft, and yielding will overcome whatever is rigid and hard.",
-      "author": "Lao Tzu",
-      "date": "2026-06-17",
-      "inactive": true,
-      "deactivatedDate": "2026-07-02"
-    },
-    {
       "text": "Be who God meant you to be and you will set the world on fire.",
       "author": "St. Catherine of Siena",
       "date": "2026-06-17",
@@ -2061,13 +2033,6 @@
       "date": "2026-06-20",
       "inactive": true,
       "deactivatedDate": "2026-07-05"
-    },
-    {
-      "text": "With the new day comes new strength and new thoughts.",
-      "author": "Eleanor Roosevelt",
-      "date": "2026-06-22",
-      "inactive": true,
-      "deactivatedDate": "2026-07-06"
     },
     {
       "text": "Where the head goes, the body follows. Perception precedes action.",
@@ -2414,9 +2379,44 @@
       "date": "2026-07-01",
       "inactive": true,
       "deactivatedDate": "2026-07-16"
+    },
+    {
+      "text": "The mind is everything. What you think you become.",
+      "author": "Buddha",
+      "date": "2026-07-03",
+      "inactive": true,
+      "deactivatedDate": "2026-07-17"
+    },
+    {
+      "text": "Why fit in when you were born to stand out?",
+      "author": "Dr. Seuss",
+      "date": "2026-07-02",
+      "inactive": true,
+      "deactivatedDate": "2026-07-17"
+    },
+    {
+      "text": "We read to know we are not alone.",
+      "author": "C.S. Lewis",
+      "date": "2026-07-02",
+      "inactive": true,
+      "deactivatedDate": "2026-07-17"
+    },
+    {
+      "text": "To pay attention, this is our endless and proper work.",
+      "author": "Mary Oliver",
+      "date": "2026-07-02",
+      "inactive": true,
+      "deactivatedDate": "2026-07-17"
+    },
+    {
+      "text": "You don't have to be perfect to be loved.",
+      "author": "Russell M. Nelson",
+      "date": "2026-07-02",
+      "inactive": true,
+      "deactivatedDate": "2026-07-17"
     }
   ],
-  "lastRotation": "2026-07-16",
+  "lastRotation": "2026-07-17",
   "totalQuotes": 352,
   "activeQuotes": 77,
   "inactiveQuotes": 275
