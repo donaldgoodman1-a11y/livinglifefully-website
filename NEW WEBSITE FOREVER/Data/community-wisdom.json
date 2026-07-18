@@ -1,6 +1,38 @@
 {
   "quotes": [
     {
+      "text": "You're off to great places! Today is your day! Your mountain is waiting, so get on your way!",
+      "author": "Dr. Seuss",
+      "date": "2026-07-18",
+      "inactive": false
+    },
+    {
+      "text": "Sometimes the future changes quickly and completely, and we’re left with only the choice of what to do next. We can choose to be afraid of it. Just stand there trembling, not moving, assuming the worst that can happen. Or we step forward into the unknown, and assume it will be brilliant.\nDr. Cristina Yang (Sandra Oh) in “Grey’s Anatomy”",
+      "author": "Anonymous Reader",
+      "date": "2026-07-18",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "There are moments when tribulations occur in our lives, and we cannot avoid them. But they are there for some reason … Only when we have overcome them do we understand why they were there.",
+      "author": "Paulo Coelho",
+      "date": "2026-07-18",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "Joy comes not in riches, or in things, but in relationships.",
+      "author": "Russell M. Nelson",
+      "date": "2026-07-18",
+      "inactive": false
+    },
+    {
+      "text": "I can't die but once.",
+      "author": "Harriet Tubman",
+      "date": "2026-07-18",
+      "inactive": false
+    },
+    {
       "text": "Tell me to what you pay attention and I will tell you who you are.",
       "author": "José Ortega y Gasset",
       "date": "2026-07-17",
@@ -440,38 +472,6 @@
       "inactive": false
     },
     {
-      "text": "I learned that courage was not the absence of fear, but the triumph over it.",
-      "author": "Nelson Mandela",
-      "date": "2026-07-04",
-      "inactive": false
-    },
-    {
-      "text": "Breathing in, I calm body and mind. Breathing out, I smile.",
-      "author": "Thich Nhat Hanh",
-      "date": "2026-07-03",
-      "inactive": false
-    },
-    {
-      "text": "He who doesn’t see God everywhere isn’t capable of seeing Him anywhere.\nKotzker Rebbe",
-      "author": "Kotzker Rebbe",
-      "date": "2026-07-03",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "The meeting of two personalities is like the contact of two chemical substances: if there is any reaction, both are transformed.",
-      "author": "Carl Jung",
-      "date": "2026-07-03",
-      "inactive": false
-    },
-    {
-      "text": "Hugh B. Brown wrote: We ask for strength and God gives us difficulties, which makes us \nstrong. We pray for wisdom and God sends us problems, the solution of which develops \nwisdom. We plead for prosperity and God gives us brain and brawn to work. We plead \nfor courage and God gives us dangers to overcome. We ask for favors and God gives us \nopportunities. This is the answer.”",
-      "author": "Hugh B Brown",
-      "date": "2026-07-03",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
       "text": "The best way out is always through.",
       "author": "Robert Frost",
       "date": "2026-01-18",
@@ -615,13 +615,6 @@
       "deactivatedDate": "2026-03-27"
     },
     {
-      "text": "I can't die but once.",
-      "author": "Harriet Tubman",
-      "date": "2026-03-20",
-      "inactive": true,
-      "deactivatedDate": "2026-03-28"
-    },
-    {
       "text": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
       "author": "Maya Angelou",
       "date": "2026-03-22",
@@ -660,13 +653,6 @@
       "text": "The Lord loves effort.",
       "author": "Russell M. Nelson",
       "date": "2026-03-30",
-      "inactive": true,
-      "deactivatedDate": "2026-04-07"
-    },
-    {
-      "text": "Joy comes not in riches, or in things, but in relationships.",
-      "author": "Russell M. Nelson",
-      "date": "2026-03-29",
       "inactive": true,
       "deactivatedDate": "2026-04-07"
     },
@@ -1028,14 +1014,6 @@
       "deactivatedDate": "2026-05-23"
     },
     {
-      "text": "There are moments when tribulations occur in our lives, and we cannot avoid them. But they are there for some reason … Only when we have overcome them do we understand why they were there.",
-      "author": "Paulo Coelho",
-      "date": "2026-05-12",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-05-24"
-    },
-    {
       "text": "No man is crushed by misfortune unless he has first been deceived by prosperity.\n-Seneca",
       "author": "Seneca",
       "date": "2026-05-12",
@@ -1332,14 +1310,6 @@
       "author": "Baal Shem Tov",
       "date": "2026-05-26",
       "inactive": true,
-      "deactivatedDate": "2026-06-08"
-    },
-    {
-      "text": "Sometimes the future changes quickly and completely, and we’re left with only the choice of what to do next. We can choose to be afraid of it. Just stand there trembling, not moving, assuming the worst that can happen. Or we step forward into the unknown, and assume it will be brilliant.\nDr. Cristina Yang (Sandra Oh) in “Grey’s Anatomy”",
-      "author": "Anonymous Reader",
-      "date": "2026-05-25",
-      "inactive": true,
-      "communitySubmission": true,
       "deactivatedDate": "2026-06-08"
     },
     {
@@ -1851,13 +1821,6 @@
       "date": "2026-06-13",
       "inactive": true,
       "deactivatedDate": "2026-06-28"
-    },
-    {
-      "text": "You're off to great places! Today is your day! Your mountain is waiting, so get on your way!",
-      "author": "Dr. Seuss",
-      "date": "2026-06-15",
-      "inactive": true,
-      "deactivatedDate": "2026-06-29"
     },
     {
       "text": "Accept the things to which fate binds you, and love the people with whom fate brings you together.",
@@ -2414,9 +2377,46 @@
       "date": "2026-07-02",
       "inactive": true,
       "deactivatedDate": "2026-07-17"
+    },
+    {
+      "text": "I learned that courage was not the absence of fear, but the triumph over it.",
+      "author": "Nelson Mandela",
+      "date": "2026-07-04",
+      "inactive": true,
+      "deactivatedDate": "2026-07-18"
+    },
+    {
+      "text": "Breathing in, I calm body and mind. Breathing out, I smile.",
+      "author": "Thich Nhat Hanh",
+      "date": "2026-07-03",
+      "inactive": true,
+      "deactivatedDate": "2026-07-18"
+    },
+    {
+      "text": "He who doesn’t see God everywhere isn’t capable of seeing Him anywhere.\nKotzker Rebbe",
+      "author": "Kotzker Rebbe",
+      "date": "2026-07-03",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-07-18"
+    },
+    {
+      "text": "The meeting of two personalities is like the contact of two chemical substances: if there is any reaction, both are transformed.",
+      "author": "Carl Jung",
+      "date": "2026-07-03",
+      "inactive": true,
+      "deactivatedDate": "2026-07-18"
+    },
+    {
+      "text": "Hugh B. Brown wrote: We ask for strength and God gives us difficulties, which makes us \nstrong. We pray for wisdom and God sends us problems, the solution of which develops \nwisdom. We plead for prosperity and God gives us brain and brawn to work. We plead \nfor courage and God gives us dangers to overcome. We ask for favors and God gives us \nopportunities. This is the answer.”",
+      "author": "Hugh B Brown",
+      "date": "2026-07-03",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-07-18"
     }
   ],
-  "lastRotation": "2026-07-17",
+  "lastRotation": "2026-07-18",
   "totalQuotes": 352,
   "activeQuotes": 77,
   "inactiveQuotes": 275
