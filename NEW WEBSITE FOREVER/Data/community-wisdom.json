@@ -1,6 +1,37 @@
 {
   "quotes": [
     {
+      "text": "It's not what happens to you, but how you react to it that matters.",
+      "author": "Epictetus",
+      "date": "2026-07-19",
+      "inactive": false
+    },
+    {
+      "text": "It is better to light a candle than curse the darkness.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-07-19",
+      "inactive": false
+    },
+    {
+      "text": "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.",
+      "author": "Rumi",
+      "date": "2026-07-19",
+      "inactive": false
+    },
+    {
+      "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+      "author": "Winston Churchill",
+      "date": "2026-07-19",
+      "inactive": false
+    },
+    {
+      "text": "Although the world is full of suffering, it is full also of the overcoming of it.",
+      "author": "Helen Keller",
+      "date": "2026-07-19",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
       "text": "Science is not only compatible with spirituality; it is a profound source of spirituality.",
       "author": "Carl Sagan",
       "date": "2026-07-19",
@@ -456,36 +487,6 @@
       "inactive": false
     },
     {
-      "text": "He who has a why to live can bear almost any how.",
-      "author": "Friedrich Nietzsche",
-      "date": "2026-07-05",
-      "inactive": false
-    },
-    {
-      "text": "Peace comes from within. Do not seek it without.",
-      "author": "Buddha",
-      "date": "2026-07-04",
-      "inactive": false
-    },
-    {
-      "text": "Wherever you go, go with all your heart.",
-      "author": "Confucius",
-      "date": "2026-07-04",
-      "inactive": false
-    },
-    {
-      "text": "Friendship is born at that moment when one person says to another: What! You too? I thought I was the only one.",
-      "author": "C.S. Lewis",
-      "date": "2026-07-04",
-      "inactive": false
-    },
-    {
-      "text": "I can do all things through Christ which strengtheneth me.",
-      "author": "Paul the Apostle",
-      "date": "2026-07-04",
-      "inactive": false
-    },
-    {
       "text": "The best way out is always through.",
       "author": "Robert Frost",
       "date": "2026-01-18",
@@ -508,13 +509,6 @@
       "author": "Vincent Van Gogh",
       "date": "2025-12-13",
       "inactive": true
-    },
-    {
-      "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
-      "author": "Winston Churchill",
-      "date": "2026-02-08",
-      "inactive": true,
-      "deactivatedDate": "2026-02-12"
     },
     {
       "text": "The time is always right to do what is right.",
@@ -1701,13 +1695,6 @@
       "deactivatedDate": "2026-06-23"
     },
     {
-      "text": "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.",
-      "author": "Rumi",
-      "date": "2026-06-09",
-      "inactive": true,
-      "deactivatedDate": "2026-06-23"
-    },
-    {
       "text": "Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!",
       "author": "Dr. Seuss",
       "date": "2026-06-10",
@@ -1921,13 +1908,6 @@
       "deactivatedDate": "2026-07-02"
     },
     {
-      "text": "It is better to light a candle than curse the darkness.",
-      "author": "Eleanor Roosevelt",
-      "date": "2026-06-19",
-      "inactive": true,
-      "deactivatedDate": "2026-07-03"
-    },
-    {
       "text": "Freedom is never given; it is won.",
       "author": "A. Philip Randolph",
       "date": "2026-06-19",
@@ -1944,13 +1924,6 @@
     {
       "text": "Humility is not thinking less of yourself, it's thinking of yourself less.",
       "author": "C.S. Lewis",
-      "date": "2026-06-18",
-      "inactive": true,
-      "deactivatedDate": "2026-07-03"
-    },
-    {
-      "text": "It's not what happens to you, but how you react to it that matters.",
-      "author": "Epictetus",
       "date": "2026-06-18",
       "inactive": true,
       "deactivatedDate": "2026-07-03"
@@ -2188,14 +2161,6 @@
       "deactivatedDate": "2026-07-11"
     },
     {
-      "text": "Although the world is full of suffering, it is full also of the overcoming of it.",
-      "author": "Helen Keller",
-      "date": "2026-06-28",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-07-12"
-    },
-    {
       "text": "There can be no deep disappointment where there is not deep love.",
       "author": "Martin Luther King",
       "date": "2026-06-28",
@@ -2428,9 +2393,44 @@
       "inactive": true,
       "communitySubmission": true,
       "deactivatedDate": "2026-07-18"
+    },
+    {
+      "text": "He who has a why to live can bear almost any how.",
+      "author": "Friedrich Nietzsche",
+      "date": "2026-07-05",
+      "inactive": true,
+      "deactivatedDate": "2026-07-19"
+    },
+    {
+      "text": "Peace comes from within. Do not seek it without.",
+      "author": "Buddha",
+      "date": "2026-07-04",
+      "inactive": true,
+      "deactivatedDate": "2026-07-19"
+    },
+    {
+      "text": "Wherever you go, go with all your heart.",
+      "author": "Confucius",
+      "date": "2026-07-04",
+      "inactive": true,
+      "deactivatedDate": "2026-07-19"
+    },
+    {
+      "text": "Friendship is born at that moment when one person says to another: What! You too? I thought I was the only one.",
+      "author": "C.S. Lewis",
+      "date": "2026-07-04",
+      "inactive": true,
+      "deactivatedDate": "2026-07-19"
+    },
+    {
+      "text": "I can do all things through Christ which strengtheneth me.",
+      "author": "Paul the Apostle",
+      "date": "2026-07-04",
+      "inactive": true,
+      "deactivatedDate": "2026-07-19"
     }
   ],
-  "lastRotation": "2026-07-18",
+  "lastRotation": "2026-07-19",
   "totalQuotes": 354,
   "activeQuotes": 79,
   "inactiveQuotes": 275
