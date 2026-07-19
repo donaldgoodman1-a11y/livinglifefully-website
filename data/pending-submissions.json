@@ -1,13 +1,6 @@
 {
   "pending": [
     {
-      "id": "1784427196175",
-      "wisdom": "An artist never works under ideal conditions. If they existed, his work wouldn’t exist, for the artist doesn’t live in a vacuum. Some sort of pressure must exist.",
-      "author": "Andre Tarkovsky",
-      "date": "2026-07-19",
-      "submittedAt": "2026-07-19T02:13:16.177Z"
-    },
-    {
       "id": "1784427305275",
       "wisdom": "Science is not only compatible with spirituality; it is a profound source of spirituality.",
       "author": "Carl Sagan",
@@ -15,6 +8,6 @@
       "submittedAt": "2026-07-19T02:15:05.275Z"
     }
   ],
-  "approvedCount": 41,
+  "approvedCount": 42,
   "rejectedCount": 3
 }
