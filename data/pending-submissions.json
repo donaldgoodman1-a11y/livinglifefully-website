@@ -1,13 +1,5 @@
 {
-  "pending": [
-    {
-      "id": "1784427305275",
-      "wisdom": "Science is not only compatible with spirituality; it is a profound source of spirituality.",
-      "author": "Carl Sagan",
-      "date": "2026-07-19",
-      "submittedAt": "2026-07-19T02:15:05.275Z"
-    }
-  ],
-  "approvedCount": 42,
+  "pending": [],
+  "approvedCount": 43,
   "rejectedCount": 3
 }
