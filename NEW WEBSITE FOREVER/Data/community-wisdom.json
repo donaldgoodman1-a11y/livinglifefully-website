@@ -1,6 +1,13 @@
 {
   "quotes": [
     {
+      "text": "An artist never works under ideal conditions. If they existed, his work wouldn’t exist, for the artist doesn’t live in a vacuum. Some sort of pressure must exist.",
+      "author": "Andre Tarkovsky",
+      "date": "2026-07-19",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
       "text": "You're off to great places! Today is your day! Your mountain is waiting, so get on your way!",
       "author": "Dr. Seuss",
       "date": "2026-07-18",
@@ -2417,7 +2424,7 @@
     }
   ],
   "lastRotation": "2026-07-18",
-  "totalQuotes": 352,
-  "activeQuotes": 77,
+  "totalQuotes": 353,
+  "activeQuotes": 78,
   "inactiveQuotes": 275
 }
