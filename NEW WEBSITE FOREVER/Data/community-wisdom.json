@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "The cave you fear to enter holds the treasure you seek.",
+      "author": "Joseph Campbell",
+      "date": "2026-07-20",
+      "inactive": false
+    },
+    {
+      "text": "You can never get a cup of tea large enough or a book long enough to suit me.",
+      "author": "C.S. Lewis",
+      "date": "2026-07-20",
+      "inactive": false
+    },
+    {
+      "text": "Faith is taking the first step even when you don't see the whole staircase.",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-07-20",
+      "inactive": false
+    },
+    {
+      "text": "Be the change that you wish to see in the world.",
+      "author": "Mahatma Gandhi",
+      "date": "2026-07-20",
+      "inactive": false
+    },
+    {
+      "text": "All we have to decide is what to do with the time that is given us.",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-07-20",
+      "inactive": false
+    },
+    {
       "text": "It's not what happens to you, but how you react to it that matters.",
       "author": "Epictetus",
       "date": "2026-07-19",
@@ -454,36 +484,6 @@
       "text": "Courage doesn't always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.'",
       "author": "Mary Anne Radmacher",
       "date": "2026-07-06",
-      "inactive": false
-    },
-    {
-      "text": "Quick to observe means quick to act.",
-      "author": "David A. Bednar",
-      "date": "2026-07-06",
-      "inactive": false
-    },
-    {
-      "text": "I had reasoned this out in my mind, there was one of two things I had a right to, liberty or death; if I could not have one, I would have the other.",
-      "author": "Harriet Tubman",
-      "date": "2026-07-05",
-      "inactive": false
-    },
-    {
-      "text": "The weak can never forgive. Forgiveness is the attribute of the strong.",
-      "author": "Mahatma Gandhi",
-      "date": "2026-07-05",
-      "inactive": false
-    },
-    {
-      "text": "Each child brings his own blessing into the world.",
-      "author": "Talmud",
-      "date": "2026-07-05",
-      "inactive": false
-    },
-    {
-      "text": "I would unite with anybody to do right and with nobody to do wrong.",
-      "author": "Frederick Douglass",
-      "date": "2026-07-05",
       "inactive": false
     },
     {
@@ -1575,20 +1575,6 @@
       "deactivatedDate": "2026-06-19"
     },
     {
-      "text": "The cave you fear to enter holds the treasure you seek.",
-      "author": "Joseph Campbell",
-      "date": "2026-06-07",
-      "inactive": true,
-      "deactivatedDate": "2026-06-20"
-    },
-    {
-      "text": "Faith is taking the first step even when you don't see the whole staircase.",
-      "author": "Martin Luther King Jr.",
-      "date": "2026-06-06",
-      "inactive": true,
-      "deactivatedDate": "2026-06-20"
-    },
-    {
       "text": "Fantasy is hardly an escape from reality. It's a way of understanding it.",
       "author": "Lloyd Alexander",
       "date": "2026-06-06",
@@ -1901,23 +1887,9 @@
       "deactivatedDate": "2026-07-02"
     },
     {
-      "text": "You can never get a cup of tea large enough or a book long enough to suit me.",
-      "author": "C.S. Lewis",
-      "date": "2026-06-17",
-      "inactive": true,
-      "deactivatedDate": "2026-07-02"
-    },
-    {
       "text": "Freedom is never given; it is won.",
       "author": "A. Philip Randolph",
       "date": "2026-06-19",
-      "inactive": true,
-      "deactivatedDate": "2026-07-03"
-    },
-    {
-      "text": "All we have to decide is what to do with the time that is given us.",
-      "author": "J.R.R. Tolkien",
-      "date": "2026-06-18",
       "inactive": true,
       "deactivatedDate": "2026-07-03"
     },
@@ -2149,13 +2121,6 @@
     {
       "text": "Act as if what you do makes a difference. It does.",
       "author": "William James",
-      "date": "2026-06-26",
-      "inactive": true,
-      "deactivatedDate": "2026-07-11"
-    },
-    {
-      "text": "Be the change that you wish to see in the world.",
-      "author": "Mahatma Gandhi",
       "date": "2026-06-26",
       "inactive": true,
       "deactivatedDate": "2026-07-11"
@@ -2428,9 +2393,44 @@
       "date": "2026-07-04",
       "inactive": true,
       "deactivatedDate": "2026-07-19"
+    },
+    {
+      "text": "Quick to observe means quick to act.",
+      "author": "David A. Bednar",
+      "date": "2026-07-06",
+      "inactive": true,
+      "deactivatedDate": "2026-07-20"
+    },
+    {
+      "text": "I had reasoned this out in my mind, there was one of two things I had a right to, liberty or death; if I could not have one, I would have the other.",
+      "author": "Harriet Tubman",
+      "date": "2026-07-05",
+      "inactive": true,
+      "deactivatedDate": "2026-07-20"
+    },
+    {
+      "text": "The weak can never forgive. Forgiveness is the attribute of the strong.",
+      "author": "Mahatma Gandhi",
+      "date": "2026-07-05",
+      "inactive": true,
+      "deactivatedDate": "2026-07-20"
+    },
+    {
+      "text": "Each child brings his own blessing into the world.",
+      "author": "Talmud",
+      "date": "2026-07-05",
+      "inactive": true,
+      "deactivatedDate": "2026-07-20"
+    },
+    {
+      "text": "I would unite with anybody to do right and with nobody to do wrong.",
+      "author": "Frederick Douglass",
+      "date": "2026-07-05",
+      "inactive": true,
+      "deactivatedDate": "2026-07-20"
     }
   ],
-  "lastRotation": "2026-07-19",
+  "lastRotation": "2026-07-20",
   "totalQuotes": 354,
   "activeQuotes": 79,
   "inactiveQuotes": 275
