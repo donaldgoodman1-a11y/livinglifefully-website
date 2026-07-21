@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "No act of kindness, no matter how small, is ever wasted.",
+      "author": "Aesop",
+      "date": "2026-07-21",
+      "inactive": false
+    },
+    {
+      "text": "The most effective way to change your behavior is to focus not on what you want to achieve, but on who you wish to become.",
+      "author": "James Clear",
+      "date": "2026-07-21",
+      "inactive": false
+    },
+    {
+      "text": "I feel that there is nothing more truly artistic than to love people.",
+      "author": "Vincent Van Gogh",
+      "date": "2026-07-21",
+      "inactive": false
+    },
+    {
+      "text": "To pay attention, this is our endless and proper work.",
+      "author": "Mary Oliver",
+      "date": "2026-07-21",
+      "inactive": false
+    },
+    {
+      "text": "Prayer is not asking. Prayer is putting oneself in the hands of God.",
+      "author": "Mother Teresa",
+      "date": "2026-07-21",
+      "inactive": false
+    },
+    {
       "text": "The cave you fear to enter holds the treasure you seek.",
       "author": "Joseph Campbell",
       "date": "2026-07-20",
@@ -453,37 +483,6 @@
       "text": "What would life be if we had no courage to attempt anything?",
       "author": "Vincent Van Gogh",
       "date": "2026-07-07",
-      "inactive": false
-    },
-    {
-      "text": "Life is to be enjoyed, not endured.",
-      "author": "Gordon B. Hinckley",
-      "date": "2026-07-07",
-      "inactive": false
-    },
-    {
-      "text": "It always helps to have people we love beside us when we have to do difficult things in life.",
-      "author": "Fred Rogers",
-      "date": "2026-07-06",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "Fear thou not; for I am with thee: be not dismayed; for I am thy God.",
-      "author": "Isaiah",
-      "date": "2026-07-06",
-      "inactive": false
-    },
-    {
-      "text": "The gathering of Israel is the most important thing taking place on earth today.",
-      "author": "Russell M. Nelson",
-      "date": "2026-07-06",
-      "inactive": false
-    },
-    {
-      "text": "Courage doesn't always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.'",
-      "author": "Mary Anne Radmacher",
-      "date": "2026-07-06",
       "inactive": false
     },
     {
@@ -950,13 +949,6 @@
       "deactivatedDate": "2026-05-17"
     },
     {
-      "text": "The most effective way to change your behavior is to focus not on what you want to achieve, but on who you wish to become.",
-      "author": "James Clear",
-      "date": "2026-05-07",
-      "inactive": true,
-      "deactivatedDate": "2026-05-18"
-    },
-    {
       "text": "It does not do to dwell on dreams and forget to live.",
       "author": "J.K. Rowling",
       "date": "2026-05-09",
@@ -1251,13 +1243,6 @@
       "deactivatedDate": "2026-06-06"
     },
     {
-      "text": "Prayer is not asking. Prayer is putting oneself in the hands of God.",
-      "author": "Mother Teresa",
-      "date": "2026-05-24",
-      "inactive": true,
-      "deactivatedDate": "2026-06-06"
-    },
-    {
       "text": "For I know the thoughts that I think toward you, saith the Lord, thoughts of peace, and not of evil.",
       "author": "Jeremiah",
       "date": "2026-05-24",
@@ -1289,13 +1274,6 @@
       "text": "Life's most persistent and urgent question is, 'What are you doing for others?'",
       "author": "Martin Luther King Jr.",
       "date": "2026-05-25",
-      "inactive": true,
-      "deactivatedDate": "2026-06-07"
-    },
-    {
-      "text": "I feel that there is nothing more truly artistic than to love people.",
-      "author": "Vincent Van Gogh",
-      "date": "2026-05-24",
       "inactive": true,
       "deactivatedDate": "2026-06-07"
     },
@@ -1563,13 +1541,6 @@
     {
       "text": "There are far, far better things ahead than any we leave behind.",
       "author": "C.S. Lewis",
-      "date": "2026-06-05",
-      "inactive": true,
-      "deactivatedDate": "2026-06-19"
-    },
-    {
-      "text": "No act of kindness, no matter how small, is ever wasted.",
-      "author": "Aesop",
       "date": "2026-06-05",
       "inactive": true,
       "deactivatedDate": "2026-06-19"
@@ -2309,13 +2280,6 @@
       "deactivatedDate": "2026-07-17"
     },
     {
-      "text": "To pay attention, this is our endless and proper work.",
-      "author": "Mary Oliver",
-      "date": "2026-07-02",
-      "inactive": true,
-      "deactivatedDate": "2026-07-17"
-    },
-    {
       "text": "You don't have to be perfect to be loved.",
       "author": "Russell M. Nelson",
       "date": "2026-07-02",
@@ -2428,9 +2392,45 @@
       "date": "2026-07-05",
       "inactive": true,
       "deactivatedDate": "2026-07-20"
+    },
+    {
+      "text": "Life is to be enjoyed, not endured.",
+      "author": "Gordon B. Hinckley",
+      "date": "2026-07-07",
+      "inactive": true,
+      "deactivatedDate": "2026-07-21"
+    },
+    {
+      "text": "It always helps to have people we love beside us when we have to do difficult things in life.",
+      "author": "Fred Rogers",
+      "date": "2026-07-06",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-07-21"
+    },
+    {
+      "text": "Fear thou not; for I am with thee: be not dismayed; for I am thy God.",
+      "author": "Isaiah",
+      "date": "2026-07-06",
+      "inactive": true,
+      "deactivatedDate": "2026-07-21"
+    },
+    {
+      "text": "The gathering of Israel is the most important thing taking place on earth today.",
+      "author": "Russell M. Nelson",
+      "date": "2026-07-06",
+      "inactive": true,
+      "deactivatedDate": "2026-07-21"
+    },
+    {
+      "text": "Courage doesn't always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.'",
+      "author": "Mary Anne Radmacher",
+      "date": "2026-07-06",
+      "inactive": true,
+      "deactivatedDate": "2026-07-21"
     }
   ],
-  "lastRotation": "2026-07-20",
+  "lastRotation": "2026-07-21",
   "totalQuotes": 354,
   "activeQuotes": 79,
   "inactiveQuotes": 275
