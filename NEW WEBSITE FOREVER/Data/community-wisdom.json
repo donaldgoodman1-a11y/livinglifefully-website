@@ -1,6 +1,39 @@
 {
   "quotes": [
     {
+      "text": "Because you are alive, everything is possible.",
+      "author": "Thich Nhat Hanh",
+      "date": "2026-07-22",
+      "inactive": false
+    },
+    {
+      "text": "When we keep the commandments, the blessings come.",
+      "author": "Henry B. Eyring",
+      "date": "2026-07-22",
+      "inactive": false
+    },
+    {
+      "text": "Don’t make a project out of yourself. Get out of yourself and help someone else.",
+      "author": "Anonymous Reader",
+      "date": "2026-07-22",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "When we make our fantasies our reality they often become our nightmares.",
+      "author": "Dr Goodman",
+      "date": "2026-07-22",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "The proper function of man is to live, not to exist. I shall not waste my days in trying to \nprolong them. I shall use my time…",
+      "author": "Jack London",
+      "date": "2026-07-22",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
       "text": "No act of kindness, no matter how small, is ever wasted.",
       "author": "Aesop",
       "date": "2026-07-21",
@@ -456,36 +489,6 @@
       "inactive": false
     },
     {
-      "text": "Happiness depends upon ourselves.",
-      "author": "Aristotle",
-      "date": "2026-07-08",
-      "inactive": false
-    },
-    {
-      "text": "Rock bottom became the solid foundation on which I rebuilt my life.",
-      "author": "J.K. Rowling",
-      "date": "2026-07-07",
-      "inactive": false
-    },
-    {
-      "text": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
-      "author": "Dr. Seuss",
-      "date": "2026-07-07",
-      "inactive": false
-    },
-    {
-      "text": "The Lord compensates the faithful for every loss.",
-      "author": "Russell M. Nelson",
-      "date": "2026-07-07",
-      "inactive": false
-    },
-    {
-      "text": "What would life be if we had no courage to attempt anything?",
-      "author": "Vincent Van Gogh",
-      "date": "2026-07-07",
-      "inactive": false
-    },
-    {
       "text": "The best way out is always through.",
       "author": "Robert Frost",
       "date": "2026-01-18",
@@ -774,13 +777,6 @@
       "deactivatedDate": "2026-04-30"
     },
     {
-      "text": "Because you are alive, everything is possible.",
-      "author": "Thich Nhat Hanh",
-      "date": "2026-04-20",
-      "inactive": true,
-      "deactivatedDate": "2026-05-01"
-    },
-    {
       "text": "Without a struggle, there can be no progress.",
       "author": "Frederick Douglass",
       "date": "2026-04-21",
@@ -1033,14 +1029,6 @@
       "author": "Elisabeth Elliot",
       "date": "2026-05-14",
       "inactive": true,
-      "deactivatedDate": "2026-05-26"
-    },
-    {
-      "text": "Don’t make a project out of yourself. Get out of yourself and help someone else.",
-      "author": "Anonymous Reader",
-      "date": "2026-05-13",
-      "inactive": true,
-      "communitySubmission": true,
       "deactivatedDate": "2026-05-26"
     },
     {
@@ -1376,14 +1364,6 @@
       "deactivatedDate": "2026-06-12"
     },
     {
-      "text": "The proper function of man is to live, not to exist. I shall not waste my days in trying to \nprolong them. I shall use my time…",
-      "author": "Jack London",
-      "date": "2026-05-31",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-06-13"
-    },
-    {
       "text": "Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world.",
       "author": "Desmond Tutu",
       "date": "2026-05-31",
@@ -1560,13 +1540,6 @@
       "deactivatedDate": "2026-06-20"
     },
     {
-      "text": "When we keep the commandments, the blessings come.",
-      "author": "Henry B. Eyring",
-      "date": "2026-06-08",
-      "inactive": true,
-      "deactivatedDate": "2026-06-21"
-    },
-    {
       "text": "The wound is the place where the Light enters you.",
       "author": "Rumi",
       "date": "2026-06-07",
@@ -1670,14 +1643,6 @@
       "author": "Dr. Seuss",
       "date": "2026-06-10",
       "inactive": true,
-      "deactivatedDate": "2026-06-24"
-    },
-    {
-      "text": "When we make our fantasies our reality they often become our nightmares.",
-      "author": "Dr Goodman",
-      "date": "2026-06-10",
-      "inactive": true,
-      "communitySubmission": true,
       "deactivatedDate": "2026-06-24"
     },
     {
@@ -2428,9 +2393,44 @@
       "date": "2026-07-06",
       "inactive": true,
       "deactivatedDate": "2026-07-21"
+    },
+    {
+      "text": "Happiness depends upon ourselves.",
+      "author": "Aristotle",
+      "date": "2026-07-08",
+      "inactive": true,
+      "deactivatedDate": "2026-07-22"
+    },
+    {
+      "text": "Rock bottom became the solid foundation on which I rebuilt my life.",
+      "author": "J.K. Rowling",
+      "date": "2026-07-07",
+      "inactive": true,
+      "deactivatedDate": "2026-07-22"
+    },
+    {
+      "text": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
+      "author": "Dr. Seuss",
+      "date": "2026-07-07",
+      "inactive": true,
+      "deactivatedDate": "2026-07-22"
+    },
+    {
+      "text": "The Lord compensates the faithful for every loss.",
+      "author": "Russell M. Nelson",
+      "date": "2026-07-07",
+      "inactive": true,
+      "deactivatedDate": "2026-07-22"
+    },
+    {
+      "text": "What would life be if we had no courage to attempt anything?",
+      "author": "Vincent Van Gogh",
+      "date": "2026-07-07",
+      "inactive": true,
+      "deactivatedDate": "2026-07-22"
     }
   ],
-  "lastRotation": "2026-07-21",
+  "lastRotation": "2026-07-22",
   "totalQuotes": 354,
   "activeQuotes": 79,
   "inactiveQuotes": 275
