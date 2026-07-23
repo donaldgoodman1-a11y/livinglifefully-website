@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Everything can be taken from a man but one thing: the last of the human freedoms—to choose one's attitude in any given set of circumstances.",
+      "author": "Viktor Frankl",
+      "date": "2026-07-23",
+      "inactive": false
+    },
+    {
+      "text": "Draw a crazy picture, Write a nutty poem, Sing a mumble-gumble song, Whistle through your comb.",
+      "author": "Shel Silverstein",
+      "date": "2026-07-23",
+      "inactive": false
+    },
+    {
+      "text": "It is during our darkest moments that we must focus to see the light.",
+      "author": "Aristotle",
+      "date": "2026-07-23",
+      "inactive": false
+    },
+    {
+      "text": "The secret to so many artists living so long is that every painting is a new adventure. So, you see, they're always looking ahead to something new and exciting.",
+      "author": "Norman Rockwell",
+      "date": "2026-07-23",
+      "inactive": false
+    },
+    {
+      "text": "He who has a why to live can bear almost any how.",
+      "author": "Friedrich Nietzsche",
+      "date": "2026-07-23",
+      "inactive": false
+    },
+    {
       "text": "Because you are alive, everything is possible.",
       "author": "Thich Nhat Hanh",
       "date": "2026-07-22",
@@ -459,36 +489,6 @@
       "inactive": false
     },
     {
-      "text": "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
-      "author": "Mother Teresa",
-      "date": "2026-07-09",
-      "inactive": false
-    },
-    {
-      "text": "Habits are the compound interest of self-improvement.",
-      "author": "James Clear",
-      "date": "2026-07-08",
-      "inactive": false
-    },
-    {
-      "text": "Trust in the Lord with all thine heart; and lean not unto thine own understanding.",
-      "author": "King Solomon",
-      "date": "2026-07-08",
-      "inactive": false
-    },
-    {
-      "text": "Don't gobblefunk around with words.",
-      "author": "Roald Dahl",
-      "date": "2026-07-08",
-      "inactive": false
-    },
-    {
-      "text": "We delight in the beauty of the butterfly, but rarely admit the changes it has gone through to achieve that beauty.",
-      "author": "Maya Angelou",
-      "date": "2026-07-08",
-      "inactive": false
-    },
-    {
       "text": "The best way out is always through.",
       "author": "Robert Frost",
       "date": "2026-01-18",
@@ -602,13 +602,6 @@
       "date": "2026-03-17",
       "inactive": true,
       "deactivatedDate": "2026-03-25"
-    },
-    {
-      "text": "Everything can be taken from a man but one thing: the last of the human freedoms—to choose one's attitude in any given set of circumstances.",
-      "author": "Viktor Frankl",
-      "date": "2026-03-18",
-      "inactive": true,
-      "deactivatedDate": "2026-03-26"
     },
     {
       "text": "We must accept finite disappointment, but never lose infinite hope.",
@@ -864,13 +857,6 @@
       "text": "You either walk inside your story and own it or you stand outside your story and hustle for your worthiness.",
       "author": "Brené Brown",
       "date": "2026-04-30",
-      "inactive": true,
-      "deactivatedDate": "2026-05-11"
-    },
-    {
-      "text": "It is during our darkest moments that we must focus to see the light.",
-      "author": "Aristotle",
-      "date": "2026-04-29",
       "inactive": true,
       "deactivatedDate": "2026-05-11"
     },
@@ -1435,13 +1421,6 @@
       "deactivatedDate": "2026-06-15"
     },
     {
-      "text": "The secret to so many artists living so long is that every painting is a new adventure. So, you see, they're always looking ahead to something new and exciting.",
-      "author": "Norman Rockwell",
-      "date": "2026-06-03",
-      "inactive": true,
-      "deactivatedDate": "2026-06-16"
-    },
-    {
       "text": "An investment in knowledge pays the best interest.",
       "author": "Benjamin Franklin",
       "date": "2026-06-02",
@@ -1928,13 +1907,6 @@
       "deactivatedDate": "2026-07-07"
     },
     {
-      "text": "Draw a crazy picture, Write a nutty poem, Sing a mumble-gumble song, Whistle through your comb.",
-      "author": "Shel Silverstein",
-      "date": "2026-06-23",
-      "inactive": true,
-      "deactivatedDate": "2026-07-07"
-    },
-    {
       "text": "Choose faith over fear, and doubt not.",
       "author": "David A. Bednar",
       "date": "2026-06-22",
@@ -2289,13 +2261,6 @@
       "deactivatedDate": "2026-07-18"
     },
     {
-      "text": "He who has a why to live can bear almost any how.",
-      "author": "Friedrich Nietzsche",
-      "date": "2026-07-05",
-      "inactive": true,
-      "deactivatedDate": "2026-07-19"
-    },
-    {
       "text": "Peace comes from within. Do not seek it without.",
       "author": "Buddha",
       "date": "2026-07-04",
@@ -2428,9 +2393,44 @@
       "date": "2026-07-07",
       "inactive": true,
       "deactivatedDate": "2026-07-22"
+    },
+    {
+      "text": "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
+      "author": "Mother Teresa",
+      "date": "2026-07-09",
+      "inactive": true,
+      "deactivatedDate": "2026-07-23"
+    },
+    {
+      "text": "Habits are the compound interest of self-improvement.",
+      "author": "James Clear",
+      "date": "2026-07-08",
+      "inactive": true,
+      "deactivatedDate": "2026-07-23"
+    },
+    {
+      "text": "Trust in the Lord with all thine heart; and lean not unto thine own understanding.",
+      "author": "King Solomon",
+      "date": "2026-07-08",
+      "inactive": true,
+      "deactivatedDate": "2026-07-23"
+    },
+    {
+      "text": "Don't gobblefunk around with words.",
+      "author": "Roald Dahl",
+      "date": "2026-07-08",
+      "inactive": true,
+      "deactivatedDate": "2026-07-23"
+    },
+    {
+      "text": "We delight in the beauty of the butterfly, but rarely admit the changes it has gone through to achieve that beauty.",
+      "author": "Maya Angelou",
+      "date": "2026-07-08",
+      "inactive": true,
+      "deactivatedDate": "2026-07-23"
     }
   ],
-  "lastRotation": "2026-07-22",
+  "lastRotation": "2026-07-23",
   "totalQuotes": 354,
   "activeQuotes": 79,
   "inactiveQuotes": 275
