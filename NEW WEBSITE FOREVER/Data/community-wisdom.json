@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "If you judge people, you have no time to love them.",
+      "author": "Mother Teresa",
+      "date": "2026-07-24",
+      "inactive": false
+    },
+    {
+      "text": "I wish it need not have happened in my time, said Frodo. So do I, said Gandalf, and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-07-24",
+      "inactive": false
+    },
+    {
+      "text": "Why fit in when you were born to stand out?",
+      "author": "Dr. Seuss",
+      "date": "2026-07-24",
+      "inactive": false
+    },
+    {
+      "text": "Well done is better than well said.",
+      "author": "Benjamin Franklin",
+      "date": "2026-07-24",
+      "inactive": false
+    },
+    {
+      "text": "The happiness of your life depends upon the quality of your thoughts.",
+      "author": "Marcus Aurelius",
+      "date": "2026-07-24",
+      "inactive": false
+    },
+    {
       "text": "Everything can be taken from a man but one thing: the last of the human freedoms—to choose one's attitude in any given set of circumstances.",
       "author": "Viktor Frankl",
       "date": "2026-07-23",
@@ -455,37 +485,6 @@
       "text": "We cannot change the cards we are dealt, just how we play the hand.",
       "author": "Randy Pausch",
       "date": "2026-07-10",
-      "inactive": false
-    },
-    {
-      "text": "You'll miss the best things if you keep your eyes shut.",
-      "author": "Dr. Seuss",
-      "date": "2026-07-10",
-      "inactive": false
-    },
-    {
-      "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
-      "author": "Martin Luther King Jr.",
-      "date": "2026-07-09",
-      "inactive": false
-    },
-    {
-      "text": "Just Let Go!",
-      "author": "Anonymous Reader",
-      "date": "2026-07-09",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "Today you are you, that is truer than true. There is no one alive who is youer than you.",
-      "author": "Dr. Seuss",
-      "date": "2026-07-09",
-      "inactive": false
-    },
-    {
-      "text": "No one can make you feel inferior without your consent.",
-      "author": "Eleanor Roosevelt",
-      "date": "2026-07-09",
       "inactive": false
     },
     {
@@ -1238,13 +1237,6 @@
       "deactivatedDate": "2026-06-06"
     },
     {
-      "text": "If you judge people, you have no time to love them.",
-      "author": "Mother Teresa",
-      "date": "2026-05-25",
-      "inactive": true,
-      "deactivatedDate": "2026-06-07"
-    },
-    {
       "text": "Life's most persistent and urgent question is, 'What are you doing for others?'",
       "author": "Martin Luther King Jr.",
       "date": "2026-05-25",
@@ -1646,13 +1638,6 @@
       "deactivatedDate": "2026-06-25"
     },
     {
-      "text": "Well done is better than well said.",
-      "author": "Benjamin Franklin",
-      "date": "2026-06-11",
-      "inactive": true,
-      "deactivatedDate": "2026-06-25"
-    },
-    {
       "text": "You can't use up creativity. The more you use, the more you have.",
       "author": "Maya Angelou",
       "date": "2026-06-12",
@@ -1758,13 +1743,6 @@
       "date": "2026-06-15",
       "inactive": true,
       "deactivatedDate": "2026-06-30"
-    },
-    {
-      "text": "The happiness of your life depends upon the quality of your thoughts.",
-      "author": "Marcus Aurelius",
-      "date": "2026-06-17",
-      "inactive": true,
-      "deactivatedDate": "2026-07-01"
     },
     {
       "text": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
@@ -2049,13 +2027,6 @@
       "deactivatedDate": "2026-07-12"
     },
     {
-      "text": "I wish it need not have happened in my time, said Frodo. So do I, said Gandalf, and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.",
-      "author": "J.R.R. Tolkien",
-      "date": "2026-06-27",
-      "inactive": true,
-      "deactivatedDate": "2026-07-12"
-    },
-    {
       "text": "We suffer more often in imagination than in reality.",
       "author": "Seneca",
       "date": "2026-06-27",
@@ -2199,13 +2170,6 @@
       "text": "The mind is everything. What you think you become.",
       "author": "Buddha",
       "date": "2026-07-03",
-      "inactive": true,
-      "deactivatedDate": "2026-07-17"
-    },
-    {
-      "text": "Why fit in when you were born to stand out?",
-      "author": "Dr. Seuss",
-      "date": "2026-07-02",
       "inactive": true,
       "deactivatedDate": "2026-07-17"
     },
@@ -2428,9 +2392,45 @@
       "date": "2026-07-08",
       "inactive": true,
       "deactivatedDate": "2026-07-23"
+    },
+    {
+      "text": "You'll miss the best things if you keep your eyes shut.",
+      "author": "Dr. Seuss",
+      "date": "2026-07-10",
+      "inactive": true,
+      "deactivatedDate": "2026-07-24"
+    },
+    {
+      "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-07-09",
+      "inactive": true,
+      "deactivatedDate": "2026-07-24"
+    },
+    {
+      "text": "Just Let Go!",
+      "author": "Anonymous Reader",
+      "date": "2026-07-09",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-07-24"
+    },
+    {
+      "text": "Today you are you, that is truer than true. There is no one alive who is youer than you.",
+      "author": "Dr. Seuss",
+      "date": "2026-07-09",
+      "inactive": true,
+      "deactivatedDate": "2026-07-24"
+    },
+    {
+      "text": "No one can make you feel inferior without your consent.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-07-09",
+      "inactive": true,
+      "deactivatedDate": "2026-07-24"
     }
   ],
-  "lastRotation": "2026-07-23",
+  "lastRotation": "2026-07-24",
   "totalQuotes": 354,
   "activeQuotes": 79,
   "inactiveQuotes": 275
