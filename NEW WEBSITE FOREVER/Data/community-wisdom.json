@@ -1,6 +1,37 @@
 {
   "quotes": [
     {
+      "text": "The beginning is the most important part of the work.",
+      "author": "Plato",
+      "date": "2026-07-25",
+      "inactive": false
+    },
+    {
+      "text": "The best antidote I know for worry is work.",
+      "author": "Gordon B. Hinckley",
+      "date": "2026-07-25",
+      "inactive": false
+    },
+    {
+      "text": "Don't you quit. You keep walking. You keep trying. There is help and happiness ahead.",
+      "author": "Jeffrey R. Holland",
+      "date": "2026-07-25",
+      "inactive": false
+    },
+    {
+      "text": "Gratitude is the healthiest of all human emotions.",
+      "author": "Zig Ziglar",
+      "date": "2026-07-25",
+      "inactive": false
+    },
+    {
+      "text": "As life brings moments that feel too heavy to bear, place your trust in Christ. The burden may remain, but through the Atonement, it no longer rests on you alone.",
+      "author": "Natalie LeBaron",
+      "date": "2026-07-25",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
       "text": "If you judge people, you have no time to love them.",
       "author": "Mother Teresa",
       "date": "2026-07-24",
@@ -456,38 +487,6 @@
       "inactive": false
     },
     {
-      "text": "I believe in the goodness of a free society. And I believe that society can remain good only as long as we are willing to fight for it — and to fight against whatever imperfections may exist.",
-      "author": "Jackie Robinson",
-      "date": "2026-07-11",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "Energy and persistence conquer all things.",
-      "author": "Benjamin Franklin",
-      "date": "2026-07-10",
-      "inactive": false
-    },
-    {
-      "text": "Be kind whenever possible. It is always possible.",
-      "author": "Dalai Lama",
-      "date": "2026-07-10",
-      "inactive": false
-    },
-    {
-      "text": "The secret of staying young is to live honestly, eat slowly, and lie about your age.",
-      "author": "Lucille Ball",
-      "date": "2026-07-10",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "We cannot change the cards we are dealt, just how we play the hand.",
-      "author": "Randy Pausch",
-      "date": "2026-07-10",
-      "inactive": false
-    },
-    {
       "text": "The best way out is always through.",
       "author": "Robert Frost",
       "date": "2026-01-18",
@@ -515,13 +514,6 @@
       "text": "The time is always right to do what is right.",
       "author": "Martin Luther King Jr.",
       "date": "2026-02-10",
-      "inactive": true,
-      "deactivatedDate": "2026-02-12"
-    },
-    {
-      "text": "The best antidote I know for worry is work.",
-      "author": "Gordon B. Hinckley",
-      "date": "2026-02-11",
       "inactive": true,
       "deactivatedDate": "2026-02-12"
     },
@@ -730,14 +722,6 @@
       "deactivatedDate": "2026-04-28"
     },
     {
-      "text": "As life brings moments that feel too heavy to bear, place your trust in Christ. The burden may remain, but through the Atonement, it no longer rests on you alone.",
-      "author": "Natalie LeBaron",
-      "date": "2026-04-20",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-04-29"
-    },
-    {
       "text": "Humanity must seek what is NOT simple and obvious using the simple and obvious.",
       "author": "Musonius Rufus",
       "date": "2026-04-19",
@@ -809,13 +793,6 @@
       "date": "2026-04-23",
       "inactive": true,
       "deactivatedDate": "2026-05-05"
-    },
-    {
-      "text": "Gratitude is the healthiest of all human emotions.",
-      "author": "Zig Ziglar",
-      "date": "2026-04-25",
-      "inactive": true,
-      "deactivatedDate": "2026-05-06"
     },
     {
       "text": "It is not our abilities that show what we truly are. It is our choices.",
@@ -921,13 +898,6 @@
       "date": "2026-05-05",
       "inactive": true,
       "deactivatedDate": "2026-05-16"
-    },
-    {
-      "text": "Don't you quit. You keep walking. You keep trying. There is help and happiness ahead.",
-      "author": "Jeffrey R. Holland",
-      "date": "2026-05-06",
-      "inactive": true,
-      "deactivatedDate": "2026-05-17"
     },
     {
       "text": "It does not do to dwell on dreams and forget to live.",
@@ -1263,13 +1233,6 @@
       "date": "2026-05-26",
       "inactive": true,
       "deactivatedDate": "2026-06-08"
-    },
-    {
-      "text": "The beginning is the most important part of the work.",
-      "author": "Plato",
-      "date": "2026-05-27",
-      "inactive": true,
-      "deactivatedDate": "2026-06-09"
     },
     {
       "text": "Getting old is like climbing a mountain; you get a little out of breath, but the view is much better.",
@@ -2428,9 +2391,46 @@
       "date": "2026-07-09",
       "inactive": true,
       "deactivatedDate": "2026-07-24"
+    },
+    {
+      "text": "I believe in the goodness of a free society. And I believe that society can remain good only as long as we are willing to fight for it — and to fight against whatever imperfections may exist.",
+      "author": "Jackie Robinson",
+      "date": "2026-07-11",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-07-25"
+    },
+    {
+      "text": "Energy and persistence conquer all things.",
+      "author": "Benjamin Franklin",
+      "date": "2026-07-10",
+      "inactive": true,
+      "deactivatedDate": "2026-07-25"
+    },
+    {
+      "text": "Be kind whenever possible. It is always possible.",
+      "author": "Dalai Lama",
+      "date": "2026-07-10",
+      "inactive": true,
+      "deactivatedDate": "2026-07-25"
+    },
+    {
+      "text": "The secret of staying young is to live honestly, eat slowly, and lie about your age.",
+      "author": "Lucille Ball",
+      "date": "2026-07-10",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-07-25"
+    },
+    {
+      "text": "We cannot change the cards we are dealt, just how we play the hand.",
+      "author": "Randy Pausch",
+      "date": "2026-07-10",
+      "inactive": true,
+      "deactivatedDate": "2026-07-25"
     }
   ],
-  "lastRotation": "2026-07-24",
+  "lastRotation": "2026-07-25",
   "totalQuotes": 354,
   "activeQuotes": 79,
   "inactiveQuotes": 275
