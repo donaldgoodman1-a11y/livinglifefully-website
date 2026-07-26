@@ -1,6 +1,37 @@
 {
   "quotes": [
     {
+      "text": "Follow your bliss and the universe will open doors where there were only walls.",
+      "author": "Joseph Campbell",
+      "date": "2026-07-26",
+      "inactive": false
+    },
+    {
+      "text": "Wise men speak because they have something to say; fools because they have to say something.",
+      "author": "Plato",
+      "date": "2026-07-26",
+      "inactive": false
+    },
+    {
+      "text": "Even miracles take a little time.",
+      "author": "Fairy Godmother, Cinderella",
+      "date": "2026-07-26",
+      "inactive": false
+    },
+    {
+      "text": "Hardships often prepare ordinary people for an extraordinary destiny.",
+      "author": "C.S. Lewis",
+      "date": "2026-07-26",
+      "inactive": false
+    },
+    {
+      "text": "There can be no deep disappointment where there is not deep love.",
+      "author": "Martin Luther King",
+      "date": "2026-07-26",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
       "text": "The beginning is the most important part of the work.",
       "author": "Plato",
       "date": "2026-07-25",
@@ -457,36 +488,6 @@
       "inactive": false
     },
     {
-      "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-07-12",
-      "inactive": false
-    },
-    {
-      "text": "I grew up like a neglected weed, ignorant of liberty, having no experience of it.",
-      "author": "Harriet Tubman",
-      "date": "2026-07-11",
-      "inactive": false
-    },
-    {
-      "text": "Focus on the moment, not the monsters that may or may not be up ahead.",
-      "author": "Ryan Holiday",
-      "date": "2026-07-11",
-      "inactive": false
-    },
-    {
-      "text": "Life is either a daring adventure or nothing at all.",
-      "author": "Helen Keller",
-      "date": "2026-07-11",
-      "inactive": false
-    },
-    {
-      "text": "Weeping may endure for a night, but joy cometh in the morning.",
-      "author": "King David",
-      "date": "2026-07-11",
-      "inactive": false
-    },
-    {
       "text": "The best way out is always through.",
       "author": "Robert Frost",
       "date": "2026-01-18",
@@ -532,13 +533,6 @@
       "deactivatedDate": "2026-03-05"
     },
     {
-      "text": "Wise men speak because they have something to say; fools because they have to say something.",
-      "author": "Plato",
-      "date": "2026-03-02",
-      "inactive": true,
-      "deactivatedDate": "2026-03-10"
-    },
-    {
       "text": "Courage starts with showing up and letting ourselves be seen.",
       "author": "Brené Brown",
       "date": "2026-03-03",
@@ -572,13 +566,6 @@
       "date": "2026-03-13",
       "inactive": true,
       "deactivatedDate": "2026-03-21"
-    },
-    {
-      "text": "Even miracles take a little time.",
-      "author": "Fairy Godmother, Cinderella",
-      "date": "2026-03-15",
-      "inactive": true,
-      "deactivatedDate": "2026-03-23"
     },
     {
       "text": "In the end, it's not the years in your life that count. It's the life in your years.",
@@ -628,13 +615,6 @@
       "date": "2026-03-24",
       "inactive": true,
       "deactivatedDate": "2026-04-02"
-    },
-    {
-      "text": "Hardships often prepare ordinary people for an extraordinary destiny.",
-      "author": "C.S. Lewis",
-      "date": "2026-03-29",
-      "inactive": true,
-      "deactivatedDate": "2026-04-06"
     },
     {
       "text": "Decisions determine destiny.",
@@ -888,13 +868,6 @@
     {
       "text": "Do what you can, with what you have, where you are.",
       "author": "Theodore Roosevelt",
-      "date": "2026-05-05",
-      "inactive": true,
-      "deactivatedDate": "2026-05-16"
-    },
-    {
-      "text": "Follow your bliss and the universe will open doors where there were only walls.",
-      "author": "Joseph Campbell",
       "date": "2026-05-05",
       "inactive": true,
       "deactivatedDate": "2026-05-16"
@@ -1975,14 +1948,6 @@
       "deactivatedDate": "2026-07-11"
     },
     {
-      "text": "There can be no deep disappointment where there is not deep love.",
-      "author": "Martin Luther King",
-      "date": "2026-06-28",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-07-12"
-    },
-    {
       "text": "Your work is to discover your work and then with all your heart to give yourself to it.",
       "author": "Buddha",
       "date": "2026-06-27",
@@ -2428,9 +2393,44 @@
       "date": "2026-07-10",
       "inactive": true,
       "deactivatedDate": "2026-07-25"
+    },
+    {
+      "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-07-12",
+      "inactive": true,
+      "deactivatedDate": "2026-07-26"
+    },
+    {
+      "text": "I grew up like a neglected weed, ignorant of liberty, having no experience of it.",
+      "author": "Harriet Tubman",
+      "date": "2026-07-11",
+      "inactive": true,
+      "deactivatedDate": "2026-07-26"
+    },
+    {
+      "text": "Focus on the moment, not the monsters that may or may not be up ahead.",
+      "author": "Ryan Holiday",
+      "date": "2026-07-11",
+      "inactive": true,
+      "deactivatedDate": "2026-07-26"
+    },
+    {
+      "text": "Life is either a daring adventure or nothing at all.",
+      "author": "Helen Keller",
+      "date": "2026-07-11",
+      "inactive": true,
+      "deactivatedDate": "2026-07-26"
+    },
+    {
+      "text": "Weeping may endure for a night, but joy cometh in the morning.",
+      "author": "King David",
+      "date": "2026-07-11",
+      "inactive": true,
+      "deactivatedDate": "2026-07-26"
     }
   ],
-  "lastRotation": "2026-07-25",
+  "lastRotation": "2026-07-26",
   "totalQuotes": 354,
   "activeQuotes": 79,
   "inactiveQuotes": 275
