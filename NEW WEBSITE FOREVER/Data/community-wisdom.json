@@ -1,6 +1,38 @@
 {
   "quotes": [
     {
+      "text": "Be kind whenever possible. It is always possible.",
+      "author": "Dalai Lama",
+      "date": "2026-07-27",
+      "inactive": false
+    },
+    {
+      "text": "Life is to be enjoyed, not endured.",
+      "author": "Gordon B. Hinckley",
+      "date": "2026-07-27",
+      "inactive": false
+    },
+    {
+      "text": "That which does not kill us makes us stronger.",
+      "author": "Friedrich Nietzsche",
+      "date": "2026-07-27",
+      "inactive": false
+    },
+    {
+      "text": "Press your lips together, and don’t be in a hurry to answer.",
+      "author": "The Talmud: Avodah Zarah 35 a",
+      "date": "2026-07-27",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "Just Let Go!",
+      "author": "Anonymous Reader",
+      "date": "2026-07-27",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
       "text": "Follow your bliss and the universe will open doors where there were only walls.",
       "author": "Joseph Campbell",
       "date": "2026-07-26",
@@ -455,36 +487,6 @@
       "text": "What we think, we become.",
       "author": "Dalai Lama",
       "date": "2026-07-13",
-      "inactive": false
-    },
-    {
-      "text": "I alone cannot change the world, but I can cast a stone across the waters to create many ripples.",
-      "author": "Mother Teresa",
-      "date": "2026-07-13",
-      "inactive": false
-    },
-    {
-      "text": "A winner is a dreamer who never gives up.",
-      "author": "Nelson Mandela",
-      "date": "2026-07-12",
-      "inactive": false
-    },
-    {
-      "text": "The power of love and kindness can overcome any challenge or hardship.\nThe Lubavitcher Rebbe",
-      "author": "The Lubavitcher Rebbe",
-      "date": "2026-07-12",
-      "inactive": false
-    },
-    {
-      "text": "Luck is what happens when preparation meets opportunity.",
-      "author": "Seneca",
-      "date": "2026-07-12",
-      "inactive": false
-    },
-    {
-      "text": "Remember that sometimes not getting what you want is a wonderful stroke of luck.",
-      "author": "Dalai Lama",
-      "date": "2026-07-12",
       "inactive": false
     },
     {
@@ -1475,14 +1477,6 @@
       "deactivatedDate": "2026-06-21"
     },
     {
-      "text": "Press your lips together, and don’t be in a hurry to answer.",
-      "author": "The Talmud: Avodah Zarah 35 a",
-      "date": "2026-06-09",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-06-22"
-    },
-    {
       "text": "Thousands of candles can be lighted from a single candle. Happiness never decreases by being shared.",
       "author": "Buddha",
       "date": "2026-06-08",
@@ -1789,13 +1783,6 @@
       "text": "Where the head goes, the body follows. Perception precedes action.",
       "author": "Ryan Holiday",
       "date": "2026-06-22",
-      "inactive": true,
-      "deactivatedDate": "2026-07-06"
-    },
-    {
-      "text": "That which does not kill us makes us stronger.",
-      "author": "Friedrich Nietzsche",
-      "date": "2026-06-21",
       "inactive": true,
       "deactivatedDate": "2026-07-06"
     },
@@ -2216,13 +2203,6 @@
       "deactivatedDate": "2026-07-20"
     },
     {
-      "text": "Life is to be enjoyed, not endured.",
-      "author": "Gordon B. Hinckley",
-      "date": "2026-07-07",
-      "inactive": true,
-      "deactivatedDate": "2026-07-21"
-    },
-    {
       "text": "It always helps to have people we love beside us when we have to do difficult things in life.",
       "author": "Fred Rogers",
       "date": "2026-07-06",
@@ -2336,14 +2316,6 @@
       "deactivatedDate": "2026-07-24"
     },
     {
-      "text": "Just Let Go!",
-      "author": "Anonymous Reader",
-      "date": "2026-07-09",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-07-24"
-    },
-    {
       "text": "Today you are you, that is truer than true. There is no one alive who is youer than you.",
       "author": "Dr. Seuss",
       "date": "2026-07-09",
@@ -2368,13 +2340,6 @@
     {
       "text": "Energy and persistence conquer all things.",
       "author": "Benjamin Franklin",
-      "date": "2026-07-10",
-      "inactive": true,
-      "deactivatedDate": "2026-07-25"
-    },
-    {
-      "text": "Be kind whenever possible. It is always possible.",
-      "author": "Dalai Lama",
       "date": "2026-07-10",
       "inactive": true,
       "deactivatedDate": "2026-07-25"
@@ -2428,9 +2393,44 @@
       "date": "2026-07-11",
       "inactive": true,
       "deactivatedDate": "2026-07-26"
+    },
+    {
+      "text": "I alone cannot change the world, but I can cast a stone across the waters to create many ripples.",
+      "author": "Mother Teresa",
+      "date": "2026-07-13",
+      "inactive": true,
+      "deactivatedDate": "2026-07-27"
+    },
+    {
+      "text": "A winner is a dreamer who never gives up.",
+      "author": "Nelson Mandela",
+      "date": "2026-07-12",
+      "inactive": true,
+      "deactivatedDate": "2026-07-27"
+    },
+    {
+      "text": "The power of love and kindness can overcome any challenge or hardship.\nThe Lubavitcher Rebbe",
+      "author": "The Lubavitcher Rebbe",
+      "date": "2026-07-12",
+      "inactive": true,
+      "deactivatedDate": "2026-07-27"
+    },
+    {
+      "text": "Luck is what happens when preparation meets opportunity.",
+      "author": "Seneca",
+      "date": "2026-07-12",
+      "inactive": true,
+      "deactivatedDate": "2026-07-27"
+    },
+    {
+      "text": "Remember that sometimes not getting what you want is a wonderful stroke of luck.",
+      "author": "Dalai Lama",
+      "date": "2026-07-12",
+      "inactive": true,
+      "deactivatedDate": "2026-07-27"
     }
   ],
-  "lastRotation": "2026-07-26",
+  "lastRotation": "2026-07-27",
   "totalQuotes": 354,
   "activeQuotes": 79,
   "inactiveQuotes": 275
