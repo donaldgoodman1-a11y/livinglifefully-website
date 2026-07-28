@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "It is only with the heart that one can see rightly; what is essential is invisible to the eye.",
+      "author": "Antoine de Saint-Exupéry",
+      "date": "2026-07-28",
+      "inactive": false
+    },
+    {
+      "text": "The best preparation for tomorrow is doing your best today.",
+      "author": "H. Jackson Brown Jr.",
+      "date": "2026-07-28",
+      "inactive": false
+    },
+    {
+      "text": "And we know that all things work together for good to them that love God.",
+      "author": "Paul the Apostle",
+      "date": "2026-07-28",
+      "inactive": false
+    },
+    {
+      "text": "Courage starts with showing up and letting ourselves be seen.",
+      "author": "Brené Brown",
+      "date": "2026-07-28",
+      "inactive": false
+    },
+    {
+      "text": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt",
+      "date": "2026-07-28",
+      "inactive": false
+    },
+    {
       "text": "Be kind whenever possible. It is always possible.",
       "author": "Dalai Lama",
       "date": "2026-07-27",
@@ -460,36 +490,6 @@
       "inactive": false
     },
     {
-      "text": "What you see and what you hear depends a great deal on where you are standing. It also depends on what sort of person you are.",
-      "author": "C.S. Lewis",
-      "date": "2026-07-14",
-      "inactive": false
-    },
-    {
-      "text": "Try a little harder to be a little better.",
-      "author": "Gordon B. Hinckley",
-      "date": "2026-07-13",
-      "inactive": false
-    },
-    {
-      "text": "Be still, and know that I am God.",
-      "author": "King David",
-      "date": "2026-07-13",
-      "inactive": false
-    },
-    {
-      "text": "You must do the things you think you cannot do.",
-      "author": "Eleanor Roosevelt",
-      "date": "2026-07-13",
-      "inactive": false
-    },
-    {
-      "text": "What we think, we become.",
-      "author": "Dalai Lama",
-      "date": "2026-07-13",
-      "inactive": false
-    },
-    {
       "text": "The best way out is always through.",
       "author": "Robert Frost",
       "date": "2026-01-18",
@@ -533,13 +533,6 @@
       "date": "2026-02-25",
       "inactive": true,
       "deactivatedDate": "2026-03-05"
-    },
-    {
-      "text": "Courage starts with showing up and letting ourselves be seen.",
-      "author": "Brené Brown",
-      "date": "2026-03-03",
-      "inactive": true,
-      "deactivatedDate": "2026-03-11"
     },
     {
       "text": "And above all, watch with glittering eyes the whole world around you because the greatest secrets are always hidden in the most unlikely places.",
@@ -612,13 +605,6 @@
       "deactivatedDate": "2026-04-01"
     },
     {
-      "text": "It is only with the heart that one can see rightly; what is essential is invisible to the eye.",
-      "author": "Antoine de Saint-Exupéry",
-      "date": "2026-03-24",
-      "inactive": true,
-      "deactivatedDate": "2026-04-02"
-    },
-    {
       "text": "Decisions determine destiny.",
       "author": "Thomas S. Monson",
       "date": "2026-03-28",
@@ -638,13 +624,6 @@
       "date": "2026-03-31",
       "inactive": true,
       "deactivatedDate": "2026-04-09"
-    },
-    {
-      "text": "And we know that all things work together for good to them that love God.",
-      "author": "Paul the Apostle",
-      "date": "2026-04-01",
-      "inactive": true,
-      "deactivatedDate": "2026-04-10"
     },
     {
       "text": "I have learned that if one advances confidently in the direction of his dreams, he will meet with a success unexpected in common hours.",
@@ -1597,13 +1576,6 @@
       "deactivatedDate": "2026-06-27"
     },
     {
-      "text": "Believe you can and you're halfway there.",
-      "author": "Theodore Roosevelt",
-      "date": "2026-06-13",
-      "inactive": true,
-      "deactivatedDate": "2026-06-27"
-    },
-    {
       "text": "Faith in Jesus Christ is the first principle of the gospel for a reason.",
       "author": "Henry B. Eyring",
       "date": "2026-06-13",
@@ -1659,13 +1631,6 @@
       "date": "2026-06-14",
       "inactive": true,
       "deactivatedDate": "2026-06-29"
-    },
-    {
-      "text": "The best preparation for tomorrow is doing your best today.",
-      "author": "H. Jackson Brown Jr.",
-      "date": "2026-06-16",
-      "inactive": true,
-      "deactivatedDate": "2026-06-30"
     },
     {
       "text": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
@@ -2428,9 +2393,44 @@
       "date": "2026-07-12",
       "inactive": true,
       "deactivatedDate": "2026-07-27"
+    },
+    {
+      "text": "What you see and what you hear depends a great deal on where you are standing. It also depends on what sort of person you are.",
+      "author": "C.S. Lewis",
+      "date": "2026-07-14",
+      "inactive": true,
+      "deactivatedDate": "2026-07-28"
+    },
+    {
+      "text": "Try a little harder to be a little better.",
+      "author": "Gordon B. Hinckley",
+      "date": "2026-07-13",
+      "inactive": true,
+      "deactivatedDate": "2026-07-28"
+    },
+    {
+      "text": "Be still, and know that I am God.",
+      "author": "King David",
+      "date": "2026-07-13",
+      "inactive": true,
+      "deactivatedDate": "2026-07-28"
+    },
+    {
+      "text": "You must do the things you think you cannot do.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-07-13",
+      "inactive": true,
+      "deactivatedDate": "2026-07-28"
+    },
+    {
+      "text": "What we think, we become.",
+      "author": "Dalai Lama",
+      "date": "2026-07-13",
+      "inactive": true,
+      "deactivatedDate": "2026-07-28"
     }
   ],
-  "lastRotation": "2026-07-27",
+  "lastRotation": "2026-07-28",
   "totalQuotes": 354,
   "activeQuotes": 79,
   "inactiveQuotes": 275
