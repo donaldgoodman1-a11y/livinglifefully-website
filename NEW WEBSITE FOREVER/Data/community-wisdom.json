@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "First say to yourself what you would be; and then do what you have to do.",
+      "author": "Epictetus",
+      "date": "2026-07-29",
+      "inactive": false
+    },
+    {
+      "text": "I have learned that if one advances confidently in the direction of his dreams, he will meet with a success unexpected in common hours.",
+      "author": "Henry David Thoreau",
+      "date": "2026-07-29",
+      "inactive": false
+    },
+    {
+      "text": "Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.",
+      "author": "Viktor Frankl",
+      "date": "2026-07-29",
+      "inactive": false
+    },
+    {
+      "text": "Dwell on the beauty of life. Watch the stars, and see yourself running with them.",
+      "author": "Marcus Aurelius",
+      "date": "2026-07-29",
+      "inactive": false
+    },
+    {
+      "text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
+      "author": "Helen Keller",
+      "date": "2026-07-29",
+      "inactive": false
+    },
+    {
       "text": "It is only with the heart that one can see rightly; what is essential is invisible to the eye.",
       "author": "Antoine de Saint-Exupéry",
       "date": "2026-07-28",
@@ -460,36 +490,6 @@
       "inactive": false
     },
     {
-      "text": "The more that you read, the more things you will know. The more that you learn, the more places you'll go.",
-      "author": "Dr. Seuss",
-      "date": "2026-07-15",
-      "inactive": false
-    },
-    {
-      "text": "Tell me, what is it you plan to do with your one wild and precious life?",
-      "author": "Mary Oliver",
-      "date": "2026-07-14",
-      "inactive": false
-    },
-    {
-      "text": "Either write something worth reading or do something worth writing.",
-      "author": "Benjamin Franklin",
-      "date": "2026-07-14",
-      "inactive": false
-    },
-    {
-      "text": "We are to become even as He is.",
-      "author": "David A. Bednar",
-      "date": "2026-07-14",
-      "inactive": false
-    },
-    {
-      "text": "Try to be a rainbow in someone's cloud.",
-      "author": "Maya Angelou",
-      "date": "2026-07-14",
-      "inactive": false
-    },
-    {
       "text": "The best way out is always through.",
       "author": "Robert Frost",
       "date": "2026-01-18",
@@ -556,13 +556,6 @@
       "deactivatedDate": "2026-03-20"
     },
     {
-      "text": "Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.",
-      "author": "Viktor Frankl",
-      "date": "2026-03-13",
-      "inactive": true,
-      "deactivatedDate": "2026-03-21"
-    },
-    {
       "text": "In the end, it's not the years in your life that count. It's the life in your years.",
       "author": "Abraham Lincoln",
       "date": "2026-03-17",
@@ -624,13 +617,6 @@
       "date": "2026-03-31",
       "inactive": true,
       "deactivatedDate": "2026-04-09"
-    },
-    {
-      "text": "I have learned that if one advances confidently in the direction of his dreams, he will meet with a success unexpected in common hours.",
-      "author": "Henry David Thoreau",
-      "date": "2026-04-05",
-      "inactive": true,
-      "deactivatedDate": "2026-04-13"
     },
     {
       "text": "Imagination is more important than knowledge.",
@@ -1013,13 +999,6 @@
       "deactivatedDate": "2026-05-30"
     },
     {
-      "text": "First say to yourself what you would be; and then do what you have to do.",
-      "author": "Epictetus",
-      "date": "2026-05-17",
-      "inactive": true,
-      "deactivatedDate": "2026-05-30"
-    },
-    {
       "text": "Go confidently in the direction of your dreams. Live the life you have imagined.",
       "author": "Henry David Thoreau",
       "date": "2026-05-18",
@@ -1064,13 +1043,6 @@
     {
       "text": "Isn't it funny how day by day nothing changes, but when you look back, everything is different.",
       "author": "C.S. Lewis",
-      "date": "2026-05-20",
-      "inactive": true,
-      "deactivatedDate": "2026-06-02"
-    },
-    {
-      "text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
-      "author": "Helen Keller",
       "date": "2026-05-20",
       "inactive": true,
       "deactivatedDate": "2026-06-02"
@@ -1229,13 +1201,6 @@
       "date": "2026-05-28",
       "inactive": true,
       "deactivatedDate": "2026-06-11"
-    },
-    {
-      "text": "Dwell on the beauty of life. Watch the stars, and see yourself running with them.",
-      "author": "Marcus Aurelius",
-      "date": "2026-05-30",
-      "inactive": true,
-      "deactivatedDate": "2026-06-12"
     },
     {
       "text": "Be kind, for everyone you meet is fighting a hard battle.",
@@ -2428,9 +2393,44 @@
       "date": "2026-07-13",
       "inactive": true,
       "deactivatedDate": "2026-07-28"
+    },
+    {
+      "text": "The more that you read, the more things you will know. The more that you learn, the more places you'll go.",
+      "author": "Dr. Seuss",
+      "date": "2026-07-15",
+      "inactive": true,
+      "deactivatedDate": "2026-07-29"
+    },
+    {
+      "text": "Tell me, what is it you plan to do with your one wild and precious life?",
+      "author": "Mary Oliver",
+      "date": "2026-07-14",
+      "inactive": true,
+      "deactivatedDate": "2026-07-29"
+    },
+    {
+      "text": "Either write something worth reading or do something worth writing.",
+      "author": "Benjamin Franklin",
+      "date": "2026-07-14",
+      "inactive": true,
+      "deactivatedDate": "2026-07-29"
+    },
+    {
+      "text": "We are to become even as He is.",
+      "author": "David A. Bednar",
+      "date": "2026-07-14",
+      "inactive": true,
+      "deactivatedDate": "2026-07-29"
+    },
+    {
+      "text": "Try to be a rainbow in someone's cloud.",
+      "author": "Maya Angelou",
+      "date": "2026-07-14",
+      "inactive": true,
+      "deactivatedDate": "2026-07-29"
     }
   ],
-  "lastRotation": "2026-07-28",
+  "lastRotation": "2026-07-29",
   "totalQuotes": 354,
   "activeQuotes": 79,
   "inactiveQuotes": 275
