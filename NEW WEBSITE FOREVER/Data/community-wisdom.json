@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "I grew up like a neglected weed, ignorant of liberty, having no experience of it.",
+      "author": "Harriet Tubman",
+      "date": "2026-07-31",
+      "inactive": false
+    },
+    {
+      "text": "For I know the thoughts that I think toward you, saith the Lord, thoughts of peace, and not of evil.",
+      "author": "Jeremiah",
+      "date": "2026-07-31",
+      "inactive": false
+    },
+    {
+      "text": "A cheerful heart is good medicine.",
+      "author": "King Solomon",
+      "date": "2026-07-31",
+      "inactive": false
+    },
+    {
+      "text": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+      "author": "Albert Einstein",
+      "date": "2026-07-31",
+      "inactive": false
+    },
+    {
+      "text": "We must be willing to let go of the life we planned so as to have the life that is waiting for us.",
+      "author": "Joseph Campbell",
+      "date": "2026-07-31",
+      "inactive": false
+    },
+    {
       "text": "The only person you are destined to become is the person you decide to be.",
       "author": "Ralph Waldo Emerson",
       "date": "2026-07-30",
@@ -457,37 +487,6 @@
       "date": "2026-07-16",
       "inactive": false,
       "communitySubmission": true
-    },
-    {
-      "text": "Take forgiveness slowly. Don’t blame yourself for being slow. Peace will come.",
-      "author": "Yoko Ono",
-      "date": "2026-07-16",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "Some day you will be old enough to start reading fairy tales again.",
-      "author": "C.S. Lewis",
-      "date": "2026-07-16",
-      "inactive": false
-    },
-    {
-      "text": "The Lord is my shepherd; I shall not want.",
-      "author": "King David",
-      "date": "2026-07-16",
-      "inactive": false
-    },
-    {
-      "text": "Unless someone like you cares a whole awful lot, nothing is going to get better. It's not.",
-      "author": "Dr. Seuss",
-      "date": "2026-07-16",
-      "inactive": false
-    },
-    {
-      "text": "Experience is what you get when you didn't get what you wanted.",
-      "author": "Randy Pausch",
-      "date": "2026-07-16",
-      "inactive": false
     },
     {
       "text": "Knowing your own darkness is the best method for dealing with the darknesses of other people.",
@@ -1085,13 +1084,6 @@
       "deactivatedDate": "2026-06-06"
     },
     {
-      "text": "For I know the thoughts that I think toward you, saith the Lord, thoughts of peace, and not of evil.",
-      "author": "Jeremiah",
-      "date": "2026-05-24",
-      "inactive": true,
-      "deactivatedDate": "2026-06-06"
-    },
-    {
       "text": "It's not about how to achieve your dreams, it's about how to lead your life. If you lead your life the right way, the karma will take care of itself.",
       "author": "Randy Pausch",
       "date": "2026-05-24",
@@ -1254,13 +1246,6 @@
       "deactivatedDate": "2026-06-15"
     },
     {
-      "text": "We must be willing to let go of the life we planned so as to have the life that is waiting for us.",
-      "author": "Joseph Campbell",
-      "date": "2026-06-01",
-      "inactive": true,
-      "deactivatedDate": "2026-06-15"
-    },
-    {
       "text": "An investment in knowledge pays the best interest.",
       "author": "Benjamin Franklin",
       "date": "2026-06-02",
@@ -1410,13 +1395,6 @@
     {
       "text": "Knowing yourself is the beginning of all wisdom.",
       "author": "Aristotle",
-      "date": "2026-06-09",
-      "inactive": true,
-      "deactivatedDate": "2026-06-23"
-    },
-    {
-      "text": "A cheerful heart is good medicine.",
-      "author": "King Solomon",
       "date": "2026-06-09",
       "inactive": true,
       "deactivatedDate": "2026-06-23"
@@ -1741,13 +1719,6 @@
     {
       "text": "The least of things with a meaning is worth more in life than the greatest of things without it.",
       "author": "Carl Jung",
-      "date": "2026-06-23",
-      "inactive": true,
-      "deactivatedDate": "2026-07-08"
-    },
-    {
-      "text": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
-      "author": "Albert Einstein",
       "date": "2026-06-23",
       "inactive": true,
       "deactivatedDate": "2026-07-08"
@@ -2263,13 +2234,6 @@
       "deactivatedDate": "2026-07-26"
     },
     {
-      "text": "I grew up like a neglected weed, ignorant of liberty, having no experience of it.",
-      "author": "Harriet Tubman",
-      "date": "2026-07-11",
-      "inactive": true,
-      "deactivatedDate": "2026-07-26"
-    },
-    {
       "text": "Focus on the moment, not the monsters that may or may not be up ahead.",
       "author": "Ryan Holiday",
       "date": "2026-07-11",
@@ -2429,9 +2393,45 @@
       "date": "2026-07-15",
       "inactive": true,
       "deactivatedDate": "2026-07-30"
+    },
+    {
+      "text": "Take forgiveness slowly. Don’t blame yourself for being slow. Peace will come.",
+      "author": "Yoko Ono",
+      "date": "2026-07-16",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-07-31"
+    },
+    {
+      "text": "Some day you will be old enough to start reading fairy tales again.",
+      "author": "C.S. Lewis",
+      "date": "2026-07-16",
+      "inactive": true,
+      "deactivatedDate": "2026-07-31"
+    },
+    {
+      "text": "The Lord is my shepherd; I shall not want.",
+      "author": "King David",
+      "date": "2026-07-16",
+      "inactive": true,
+      "deactivatedDate": "2026-07-31"
+    },
+    {
+      "text": "Unless someone like you cares a whole awful lot, nothing is going to get better. It's not.",
+      "author": "Dr. Seuss",
+      "date": "2026-07-16",
+      "inactive": true,
+      "deactivatedDate": "2026-07-31"
+    },
+    {
+      "text": "Experience is what you get when you didn't get what you wanted.",
+      "author": "Randy Pausch",
+      "date": "2026-07-16",
+      "inactive": true,
+      "deactivatedDate": "2026-07-31"
     }
   ],
-  "lastRotation": "2026-07-30",
+  "lastRotation": "2026-07-31",
   "totalQuotes": 354,
   "activeQuotes": 79,
   "inactiveQuotes": 275
