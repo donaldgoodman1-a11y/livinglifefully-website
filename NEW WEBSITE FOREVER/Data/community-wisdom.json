@@ -1,6 +1,37 @@
 {
   "quotes": [
     {
+      "text": "The secret of staying young is to live honestly, eat slowly, and lie about your age.",
+      "author": "Lucille Ball",
+      "date": "2026-08-02",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "The mind is everything. What you think you become.",
+      "author": "Buddha",
+      "date": "2026-08-02",
+      "inactive": false
+    },
+    {
+      "text": "We read to know we are not alone.",
+      "author": "C.S. Lewis",
+      "date": "2026-08-02",
+      "inactive": false
+    },
+    {
+      "text": "It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.",
+      "author": "Seneca",
+      "date": "2026-08-02",
+      "inactive": false
+    },
+    {
+      "text": "Wherever you go, go with all your heart.",
+      "author": "Confucius",
+      "date": "2026-08-02",
+      "inactive": false
+    },
+    {
       "text": "Great things are done by a series of small things brought together.",
       "author": "Vincent Van Gogh",
       "date": "2026-08-01",
@@ -454,37 +485,6 @@
       "date": "2026-07-18",
       "inactive": false,
       "communitySubmission": true
-    },
-    {
-      "text": "There are moments when tribulations occur in our lives, and we cannot avoid them. But they are there for some reason … Only when we have overcome them do we understand why they were there.",
-      "author": "Paulo Coelho",
-      "date": "2026-07-18",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "Joy comes not in riches, or in things, but in relationships.",
-      "author": "Russell M. Nelson",
-      "date": "2026-07-18",
-      "inactive": false
-    },
-    {
-      "text": "I can't die but once.",
-      "author": "Harriet Tubman",
-      "date": "2026-07-18",
-      "inactive": false
-    },
-    {
-      "text": "Tell me to what you pay attention and I will tell you who you are.",
-      "author": "José Ortega y Gasset",
-      "date": "2026-07-17",
-      "inactive": false
-    },
-    {
-      "text": "Success is liking yourself, liking what you do, and liking how you do it.",
-      "author": "Maya Angelou",
-      "date": "2026-07-17",
-      "inactive": false
     },
     {
       "text": "Knowing your own darkness is the best method for dealing with the darknesses of other people.",
@@ -1837,13 +1837,6 @@
       "deactivatedDate": "2026-07-14"
     },
     {
-      "text": "It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.",
-      "author": "Seneca",
-      "date": "2026-06-29",
-      "inactive": true,
-      "deactivatedDate": "2026-07-14"
-    },
-    {
       "text": "We can ignore reality, but we cannot ignore the consequences of ignoring reality.",
       "author": "Ayn Rand",
       "date": "2026-06-29",
@@ -1921,20 +1914,6 @@
       "deactivatedDate": "2026-07-16"
     },
     {
-      "text": "The mind is everything. What you think you become.",
-      "author": "Buddha",
-      "date": "2026-07-03",
-      "inactive": true,
-      "deactivatedDate": "2026-07-17"
-    },
-    {
-      "text": "We read to know we are not alone.",
-      "author": "C.S. Lewis",
-      "date": "2026-07-02",
-      "inactive": true,
-      "deactivatedDate": "2026-07-17"
-    },
-    {
       "text": "You don't have to be perfect to be loved.",
       "author": "Russell M. Nelson",
       "date": "2026-07-02",
@@ -1981,13 +1960,6 @@
     {
       "text": "Peace comes from within. Do not seek it without.",
       "author": "Buddha",
-      "date": "2026-07-04",
-      "inactive": true,
-      "deactivatedDate": "2026-07-19"
-    },
-    {
-      "text": "Wherever you go, go with all your heart.",
-      "author": "Confucius",
       "date": "2026-07-04",
       "inactive": true,
       "deactivatedDate": "2026-07-19"
@@ -2181,14 +2153,6 @@
       "author": "Benjamin Franklin",
       "date": "2026-07-10",
       "inactive": true,
-      "deactivatedDate": "2026-07-25"
-    },
-    {
-      "text": "The secret of staying young is to live honestly, eat slowly, and lie about your age.",
-      "author": "Lucille Ball",
-      "date": "2026-07-10",
-      "inactive": true,
-      "communitySubmission": true,
       "deactivatedDate": "2026-07-25"
     },
     {
@@ -2431,9 +2395,45 @@
       "inactive": true,
       "communitySubmission": true,
       "deactivatedDate": "2026-08-01"
+    },
+    {
+      "text": "There are moments when tribulations occur in our lives, and we cannot avoid them. But they are there for some reason … Only when we have overcome them do we understand why they were there.",
+      "author": "Paulo Coelho",
+      "date": "2026-07-18",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-08-02"
+    },
+    {
+      "text": "Joy comes not in riches, or in things, but in relationships.",
+      "author": "Russell M. Nelson",
+      "date": "2026-07-18",
+      "inactive": true,
+      "deactivatedDate": "2026-08-02"
+    },
+    {
+      "text": "I can't die but once.",
+      "author": "Harriet Tubman",
+      "date": "2026-07-18",
+      "inactive": true,
+      "deactivatedDate": "2026-08-02"
+    },
+    {
+      "text": "Tell me to what you pay attention and I will tell you who you are.",
+      "author": "José Ortega y Gasset",
+      "date": "2026-07-17",
+      "inactive": true,
+      "deactivatedDate": "2026-08-02"
+    },
+    {
+      "text": "Success is liking yourself, liking what you do, and liking how you do it.",
+      "author": "Maya Angelou",
+      "date": "2026-07-17",
+      "inactive": true,
+      "deactivatedDate": "2026-08-02"
     }
   ],
-  "lastRotation": "2026-08-01",
+  "lastRotation": "2026-08-02",
   "totalQuotes": 354,
   "activeQuotes": 79,
   "inactiveQuotes": 275
