@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "If you have good thoughts they will shine out of your face like sunbeams and you will always look lovely.",
+      "author": "Roald Dahl",
+      "date": "2026-08-03",
+      "inactive": false
+    },
+    {
+      "text": "Accept the things to which fate binds you, and love the people with whom fate brings you together.",
+      "author": "Marcus Aurelius",
+      "date": "2026-08-03",
+      "inactive": false
+    },
+    {
+      "text": "Fantasy is hardly an escape from reality. It's a way of understanding it.",
+      "author": "Lloyd Alexander",
+      "date": "2026-08-03",
+      "inactive": false
+    },
+    {
+      "text": "I am seeking, I am striving, I am in it with all my heart.",
+      "author": "Vincent Van Gogh",
+      "date": "2026-08-03",
+      "inactive": false
+    },
+    {
+      "text": "You either walk inside your story and own it or you stand outside your story and hustle for your worthiness.",
+      "author": "Brené Brown",
+      "date": "2026-08-03",
+      "inactive": false
+    },
+    {
       "text": "The secret of staying young is to live honestly, eat slowly, and lie about your age.",
       "author": "Lucille Ball",
       "date": "2026-08-02",
@@ -453,40 +483,6 @@
       "inactive": false
     },
     {
-      "text": "Although the world is full of suffering, it is full also of the overcoming of it.",
-      "author": "Helen Keller",
-      "date": "2026-07-19",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "Science is not only compatible with spirituality; it is a profound source of spirituality.",
-      "author": "Carl Sagan",
-      "date": "2026-07-19",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "An artist never works under ideal conditions. If they existed, his work wouldn’t exist, for the artist doesn’t live in a vacuum. Some sort of pressure must exist.",
-      "author": "Andre Tarkovsky",
-      "date": "2026-07-19",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "You're off to great places! Today is your day! Your mountain is waiting, so get on your way!",
-      "author": "Dr. Seuss",
-      "date": "2026-07-18",
-      "inactive": false
-    },
-    {
-      "text": "Sometimes the future changes quickly and completely, and we’re left with only the choice of what to do next. We can choose to be afraid of it. Just stand there trembling, not moving, assuming the worst that can happen. Or we step forward into the unknown, and assume it will be brilliant.\nDr. Cristina Yang (Sandra Oh) in “Grey’s Anatomy”",
-      "author": "Anonymous Reader",
-      "date": "2026-07-18",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
       "text": "Knowing your own darkness is the best method for dealing with the darknesses of other people.",
       "author": "Carl Jung",
       "date": "2026-01-11",
@@ -726,20 +722,6 @@
       "date": "2026-04-30",
       "inactive": true,
       "deactivatedDate": "2026-05-11"
-    },
-    {
-      "text": "You either walk inside your story and own it or you stand outside your story and hustle for your worthiness.",
-      "author": "Brené Brown",
-      "date": "2026-04-30",
-      "inactive": true,
-      "deactivatedDate": "2026-05-11"
-    },
-    {
-      "text": "If you have good thoughts they will shine out of your face like sunbeams and you will always look lovely.",
-      "author": "Roald Dahl",
-      "date": "2026-05-02",
-      "inactive": true,
-      "deactivatedDate": "2026-05-13"
     },
     {
       "text": "Whatever you are, be a good one.",
@@ -1302,13 +1284,6 @@
       "deactivatedDate": "2026-06-19"
     },
     {
-      "text": "Fantasy is hardly an escape from reality. It's a way of understanding it.",
-      "author": "Lloyd Alexander",
-      "date": "2026-06-06",
-      "inactive": true,
-      "deactivatedDate": "2026-06-20"
-    },
-    {
       "text": "Don't cry because it's over, smile because it happened.",
       "author": "Dr. Seuss",
       "date": "2026-06-06",
@@ -1493,13 +1468,6 @@
       "deactivatedDate": "2026-06-28"
     },
     {
-      "text": "Accept the things to which fate binds you, and love the people with whom fate brings you together.",
-      "author": "Marcus Aurelius",
-      "date": "2026-06-15",
-      "inactive": true,
-      "deactivatedDate": "2026-06-29"
-    },
-    {
       "text": "All our dreams can come true, if we have the courage to pursue them.",
       "author": "Walt Disney",
       "date": "2026-06-14",
@@ -1579,13 +1547,6 @@
     {
       "text": "When we are no longer able to change a situation, we are challenged to change ourselves.",
       "author": "Viktor Frankl",
-      "date": "2026-06-19",
-      "inactive": true,
-      "deactivatedDate": "2026-07-04"
-    },
-    {
-      "text": "I am seeking, I am striving, I am in it with all my heart.",
-      "author": "Vincent Van Gogh",
       "date": "2026-06-19",
       "inactive": true,
       "deactivatedDate": "2026-07-04"
@@ -2431,9 +2392,48 @@
       "date": "2026-07-17",
       "inactive": true,
       "deactivatedDate": "2026-08-02"
+    },
+    {
+      "text": "Although the world is full of suffering, it is full also of the overcoming of it.",
+      "author": "Helen Keller",
+      "date": "2026-07-19",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-08-03"
+    },
+    {
+      "text": "Science is not only compatible with spirituality; it is a profound source of spirituality.",
+      "author": "Carl Sagan",
+      "date": "2026-07-19",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-08-03"
+    },
+    {
+      "text": "An artist never works under ideal conditions. If they existed, his work wouldn’t exist, for the artist doesn’t live in a vacuum. Some sort of pressure must exist.",
+      "author": "Andre Tarkovsky",
+      "date": "2026-07-19",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-08-03"
+    },
+    {
+      "text": "You're off to great places! Today is your day! Your mountain is waiting, so get on your way!",
+      "author": "Dr. Seuss",
+      "date": "2026-07-18",
+      "inactive": true,
+      "deactivatedDate": "2026-08-03"
+    },
+    {
+      "text": "Sometimes the future changes quickly and completely, and we’re left with only the choice of what to do next. We can choose to be afraid of it. Just stand there trembling, not moving, assuming the worst that can happen. Or we step forward into the unknown, and assume it will be brilliant.\nDr. Cristina Yang (Sandra Oh) in “Grey’s Anatomy”",
+      "author": "Anonymous Reader",
+      "date": "2026-07-18",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-08-03"
     }
   ],
-  "lastRotation": "2026-08-02",
+  "lastRotation": "2026-08-03",
   "totalQuotes": 354,
   "activeQuotes": 79,
   "inactiveQuotes": 275
