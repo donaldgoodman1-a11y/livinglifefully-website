@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes.",
+      "author": "A.A. Milne",
+      "date": "2026-08-04",
+      "inactive": false
+    },
+    {
+      "text": "The impediment to action advances action. What stands in the way becomes the way.",
+      "author": "Ryan Holiday",
+      "date": "2026-08-04",
+      "inactive": false
+    },
+    {
+      "text": "It's kind of fun to do the impossible.",
+      "author": "Walt Disney",
+      "date": "2026-08-04",
+      "inactive": false
+    },
+    {
+      "text": "Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.",
+      "author": "Brené Brown",
+      "date": "2026-08-04",
+      "inactive": false
+    },
+    {
+      "text": "Let us not pray to be sheltered from dangers but to be fearless when facing them.",
+      "author": "Rabindranath Tagore",
+      "date": "2026-08-04",
+      "inactive": false
+    },
+    {
       "text": "If you have good thoughts they will shine out of your face like sunbeams and you will always look lovely.",
       "author": "Roald Dahl",
       "date": "2026-08-03",
@@ -453,36 +483,6 @@
       "inactive": false
     },
     {
-      "text": "All we have to decide is what to do with the time that is given us.",
-      "author": "J.R.R. Tolkien",
-      "date": "2026-07-20",
-      "inactive": false
-    },
-    {
-      "text": "It's not what happens to you, but how you react to it that matters.",
-      "author": "Epictetus",
-      "date": "2026-07-19",
-      "inactive": false
-    },
-    {
-      "text": "It is better to light a candle than curse the darkness.",
-      "author": "Eleanor Roosevelt",
-      "date": "2026-07-19",
-      "inactive": false
-    },
-    {
-      "text": "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.",
-      "author": "Rumi",
-      "date": "2026-07-19",
-      "inactive": false
-    },
-    {
-      "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
-      "author": "Winston Churchill",
-      "date": "2026-07-19",
-      "inactive": false
-    },
-    {
       "text": "Knowing your own darkness is the best method for dealing with the darknesses of other people.",
       "author": "Carl Jung",
       "date": "2026-01-11",
@@ -522,13 +522,6 @@
       "date": "2026-03-05",
       "inactive": true,
       "deactivatedDate": "2026-03-13"
-    },
-    {
-      "text": "You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes.",
-      "author": "A.A. Milne",
-      "date": "2026-03-12",
-      "inactive": true,
-      "deactivatedDate": "2026-03-20"
     },
     {
       "text": "In the end, it's not the years in your life that count. It's the life in your years.",
@@ -1017,13 +1010,6 @@
       "deactivatedDate": "2026-06-04"
     },
     {
-      "text": "Let us not pray to be sheltered from dangers but to be fearless when facing them.",
-      "author": "Rabindranath Tagore",
-      "date": "2026-05-22",
-      "inactive": true,
-      "deactivatedDate": "2026-06-04"
-    },
-    {
       "text": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
       "author": "Ralph Waldo Emerson",
       "date": "2026-05-22",
@@ -1214,13 +1200,6 @@
       "deactivatedDate": "2026-06-16"
     },
     {
-      "text": "The impediment to action advances action. What stands in the way becomes the way.",
-      "author": "Ryan Holiday",
-      "date": "2026-06-03",
-      "inactive": true,
-      "deactivatedDate": "2026-06-17"
-    },
-    {
       "text": "Lift where you stand.",
       "author": "Dieter F. Uchtdorf",
       "date": "2026-06-03",
@@ -1312,13 +1291,6 @@
       "deactivatedDate": "2026-06-21"
     },
     {
-      "text": "It's kind of fun to do the impossible.",
-      "author": "Walt Disney",
-      "date": "2026-06-07",
-      "inactive": true,
-      "deactivatedDate": "2026-06-21"
-    },
-    {
       "text": "Thousands of candles can be lighted from a single candle. Happiness never decreases by being shared.",
       "author": "Buddha",
       "date": "2026-06-08",
@@ -1377,13 +1349,6 @@
     {
       "text": "Sometimes the questions are complicated and the answers are simple.",
       "author": "Dr. Seuss",
-      "date": "2026-06-10",
-      "inactive": true,
-      "deactivatedDate": "2026-06-24"
-    },
-    {
-      "text": "Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.",
-      "author": "Brené Brown",
       "date": "2026-06-10",
       "inactive": true,
       "deactivatedDate": "2026-06-24"
@@ -2431,9 +2396,44 @@
       "inactive": true,
       "communitySubmission": true,
       "deactivatedDate": "2026-08-03"
+    },
+    {
+      "text": "All we have to decide is what to do with the time that is given us.",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-07-20",
+      "inactive": true,
+      "deactivatedDate": "2026-08-04"
+    },
+    {
+      "text": "It's not what happens to you, but how you react to it that matters.",
+      "author": "Epictetus",
+      "date": "2026-07-19",
+      "inactive": true,
+      "deactivatedDate": "2026-08-04"
+    },
+    {
+      "text": "It is better to light a candle than curse the darkness.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-07-19",
+      "inactive": true,
+      "deactivatedDate": "2026-08-04"
+    },
+    {
+      "text": "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.",
+      "author": "Rumi",
+      "date": "2026-07-19",
+      "inactive": true,
+      "deactivatedDate": "2026-08-04"
+    },
+    {
+      "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+      "author": "Winston Churchill",
+      "date": "2026-07-19",
+      "inactive": true,
+      "deactivatedDate": "2026-08-04"
     }
   ],
-  "lastRotation": "2026-08-03",
+  "lastRotation": "2026-08-04",
   "totalQuotes": 354,
   "activeQuotes": 79,
   "inactiveQuotes": 275
