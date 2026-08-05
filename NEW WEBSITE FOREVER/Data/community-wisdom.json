@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "A little nonsense now and then is relished by the wisest men.",
+      "author": "Roald Dahl",
+      "date": "2026-08-05",
+      "inactive": false
+    },
+    {
+      "text": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+      "author": "Maya Angelou",
+      "date": "2026-08-05",
+      "inactive": false
+    },
+    {
+      "text": "Three things cannot be long hidden: the sun, the moon, and the truth.",
+      "author": "Buddha",
+      "date": "2026-08-05",
+      "inactive": false
+    },
+    {
+      "text": "Without a struggle, there can be no progress.",
+      "author": "Frederick Douglass",
+      "date": "2026-08-05",
+      "inactive": false
+    },
+    {
+      "text": "Tell me, what is it you plan to do with your one wild and precious life?",
+      "author": "Mary Oliver",
+      "date": "2026-08-05",
+      "inactive": false
+    },
+    {
       "text": "You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes.",
       "author": "A.A. Milne",
       "date": "2026-08-04",
@@ -453,36 +483,6 @@
       "inactive": false
     },
     {
-      "text": "Prayer is not asking. Prayer is putting oneself in the hands of God.",
-      "author": "Mother Teresa",
-      "date": "2026-07-21",
-      "inactive": false
-    },
-    {
-      "text": "The cave you fear to enter holds the treasure you seek.",
-      "author": "Joseph Campbell",
-      "date": "2026-07-20",
-      "inactive": false
-    },
-    {
-      "text": "You can never get a cup of tea large enough or a book long enough to suit me.",
-      "author": "C.S. Lewis",
-      "date": "2026-07-20",
-      "inactive": false
-    },
-    {
-      "text": "Faith is taking the first step even when you don't see the whole staircase.",
-      "author": "Martin Luther King Jr.",
-      "date": "2026-07-20",
-      "inactive": false
-    },
-    {
-      "text": "Be the change that you wish to see in the world.",
-      "author": "Mahatma Gandhi",
-      "date": "2026-07-20",
-      "inactive": false
-    },
-    {
       "text": "Knowing your own darkness is the best method for dealing with the darknesses of other people.",
       "author": "Carl Jung",
       "date": "2026-01-11",
@@ -536,13 +536,6 @@
       "date": "2026-03-17",
       "inactive": true,
       "deactivatedDate": "2026-03-25"
-    },
-    {
-      "text": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
-      "author": "Maya Angelou",
-      "date": "2026-03-22",
-      "inactive": true,
-      "deactivatedDate": "2026-03-31"
     },
     {
       "text": "Owning our story and loving ourselves through that process is the bravest thing that we'll ever do.",
@@ -652,13 +645,6 @@
       "inactive": true,
       "communitySubmission": true,
       "deactivatedDate": "2026-04-30"
-    },
-    {
-      "text": "Without a struggle, there can be no progress.",
-      "author": "Frederick Douglass",
-      "date": "2026-04-21",
-      "inactive": true,
-      "deactivatedDate": "2026-05-02"
     },
     {
       "text": "A goal without a plan is just a wish.",
@@ -1210,13 +1196,6 @@
       "text": "A small act is worth a million thoughts.",
       "author": "Ai Weiwei",
       "date": "2026-06-05",
-      "inactive": true,
-      "deactivatedDate": "2026-06-18"
-    },
-    {
-      "text": "Three things cannot be long hidden: the sun, the moon, and the truth.",
-      "author": "Buddha",
-      "date": "2026-06-04",
       "inactive": true,
       "deactivatedDate": "2026-06-18"
     },
@@ -2187,13 +2166,6 @@
       "deactivatedDate": "2026-07-29"
     },
     {
-      "text": "Tell me, what is it you plan to do with your one wild and precious life?",
-      "author": "Mary Oliver",
-      "date": "2026-07-14",
-      "inactive": true,
-      "deactivatedDate": "2026-07-29"
-    },
-    {
       "text": "Either write something worth reading or do something worth writing.",
       "author": "Benjamin Franklin",
       "date": "2026-07-14",
@@ -2231,13 +2203,6 @@
     {
       "text": "If you accomplish something good with hard work, the labor passes quickly, but the good endures; if you do something shameful in pursuit of pleasure, the pleasure passes quickly, but the shame endures.",
       "author": "Musonius Rufus",
-      "date": "2026-07-15",
-      "inactive": true,
-      "deactivatedDate": "2026-07-30"
-    },
-    {
-      "text": "A little nonsense now and then is relished by the wisest men.",
-      "author": "Roald Dahl",
       "date": "2026-07-15",
       "inactive": true,
       "deactivatedDate": "2026-07-30"
@@ -2431,9 +2396,44 @@
       "date": "2026-07-19",
       "inactive": true,
       "deactivatedDate": "2026-08-04"
+    },
+    {
+      "text": "Prayer is not asking. Prayer is putting oneself in the hands of God.",
+      "author": "Mother Teresa",
+      "date": "2026-07-21",
+      "inactive": true,
+      "deactivatedDate": "2026-08-05"
+    },
+    {
+      "text": "The cave you fear to enter holds the treasure you seek.",
+      "author": "Joseph Campbell",
+      "date": "2026-07-20",
+      "inactive": true,
+      "deactivatedDate": "2026-08-05"
+    },
+    {
+      "text": "You can never get a cup of tea large enough or a book long enough to suit me.",
+      "author": "C.S. Lewis",
+      "date": "2026-07-20",
+      "inactive": true,
+      "deactivatedDate": "2026-08-05"
+    },
+    {
+      "text": "Faith is taking the first step even when you don't see the whole staircase.",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-07-20",
+      "inactive": true,
+      "deactivatedDate": "2026-08-05"
+    },
+    {
+      "text": "Be the change that you wish to see in the world.",
+      "author": "Mahatma Gandhi",
+      "date": "2026-07-20",
+      "inactive": true,
+      "deactivatedDate": "2026-08-05"
     }
   ],
-  "lastRotation": "2026-08-04",
+  "lastRotation": "2026-08-05",
   "totalQuotes": 354,
   "activeQuotes": 79,
   "inactiveQuotes": 275
