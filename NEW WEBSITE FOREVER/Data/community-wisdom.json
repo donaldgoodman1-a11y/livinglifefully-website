@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "In the end, it's not the years in your life that count. It's the life in your years.",
+      "author": "Abraham Lincoln",
+      "date": "2026-08-07",
+      "inactive": false
+    },
+    {
+      "text": "Hope is being able to see that there is light despite all of the darkness.",
+      "author": "Desmond Tutu",
+      "date": "2026-08-07",
+      "inactive": false
+    },
+    {
+      "text": "Prayer is not asking. Prayer is putting oneself in the hands of God.",
+      "author": "Mother Teresa",
+      "date": "2026-08-07",
+      "inactive": false
+    },
+    {
+      "text": "Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world.",
+      "author": "Desmond Tutu",
+      "date": "2026-08-07",
+      "inactive": false
+    },
+    {
+      "text": "The weak can never forgive. Forgiveness is the attribute of the strong.",
+      "author": "Mahatma Gandhi",
+      "date": "2026-08-07",
+      "inactive": false
+    },
+    {
       "text": "The gathering of Israel is the most important thing taking place on earth today.",
       "author": "Russell M. Nelson",
       "date": "2026-08-06",
@@ -451,38 +481,6 @@
       "inactive": false
     },
     {
-      "text": "He who has a why to live can bear almost any how.",
-      "author": "Friedrich Nietzsche",
-      "date": "2026-07-23",
-      "inactive": false
-    },
-    {
-      "text": "Because you are alive, everything is possible.",
-      "author": "Thich Nhat Hanh",
-      "date": "2026-07-22",
-      "inactive": false
-    },
-    {
-      "text": "When we keep the commandments, the blessings come.",
-      "author": "Henry B. Eyring",
-      "date": "2026-07-22",
-      "inactive": false
-    },
-    {
-      "text": "Don’t make a project out of yourself. Get out of yourself and help someone else.",
-      "author": "Anonymous Reader",
-      "date": "2026-07-22",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "When we make our fantasies our reality they often become our nightmares.",
-      "author": "Dr Goodman",
-      "date": "2026-07-22",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
       "text": "Knowing your own darkness is the best method for dealing with the darknesses of other people.",
       "author": "Carl Jung",
       "date": "2026-01-11",
@@ -522,13 +520,6 @@
       "date": "2026-03-05",
       "inactive": true,
       "deactivatedDate": "2026-03-13"
-    },
-    {
-      "text": "In the end, it's not the years in your life that count. It's the life in your years.",
-      "author": "Abraham Lincoln",
-      "date": "2026-03-17",
-      "inactive": true,
-      "deactivatedDate": "2026-03-25"
     },
     {
       "text": "Owning our story and loving ourselves through that process is the bravest thing that we'll ever do.",
@@ -1093,13 +1084,6 @@
       "deactivatedDate": "2026-06-12"
     },
     {
-      "text": "Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world.",
-      "author": "Desmond Tutu",
-      "date": "2026-05-31",
-      "inactive": true,
-      "deactivatedDate": "2026-06-13"
-    },
-    {
       "text": "Attitude is a little thing that makes a big difference.",
       "author": "Winston Churchill",
       "date": "2026-05-30",
@@ -1139,13 +1123,6 @@
       "text": "If you can dream it, you can do it.",
       "author": "Walt Disney",
       "date": "2026-06-02",
-      "inactive": true,
-      "deactivatedDate": "2026-06-15"
-    },
-    {
-      "text": "Hope is being able to see that there is light despite all of the darkness.",
-      "author": "Desmond Tutu",
-      "date": "2026-06-01",
       "inactive": true,
       "deactivatedDate": "2026-06-15"
     },
@@ -1869,13 +1846,6 @@
       "deactivatedDate": "2026-07-20"
     },
     {
-      "text": "The weak can never forgive. Forgiveness is the attribute of the strong.",
-      "author": "Mahatma Gandhi",
-      "date": "2026-07-05",
-      "inactive": true,
-      "deactivatedDate": "2026-07-20"
-    },
-    {
       "text": "Each child brings his own blessing into the world.",
       "author": "Talmud",
       "date": "2026-07-05",
@@ -2362,13 +2332,6 @@
       "deactivatedDate": "2026-08-04"
     },
     {
-      "text": "Prayer is not asking. Prayer is putting oneself in the hands of God.",
-      "author": "Mother Teresa",
-      "date": "2026-07-21",
-      "inactive": true,
-      "deactivatedDate": "2026-08-05"
-    },
-    {
       "text": "The cave you fear to enter holds the treasure you seek.",
       "author": "Joseph Campbell",
       "date": "2026-07-20",
@@ -2431,9 +2394,46 @@
       "date": "2026-07-21",
       "inactive": true,
       "deactivatedDate": "2026-08-06"
+    },
+    {
+      "text": "He who has a why to live can bear almost any how.",
+      "author": "Friedrich Nietzsche",
+      "date": "2026-07-23",
+      "inactive": true,
+      "deactivatedDate": "2026-08-07"
+    },
+    {
+      "text": "Because you are alive, everything is possible.",
+      "author": "Thich Nhat Hanh",
+      "date": "2026-07-22",
+      "inactive": true,
+      "deactivatedDate": "2026-08-07"
+    },
+    {
+      "text": "When we keep the commandments, the blessings come.",
+      "author": "Henry B. Eyring",
+      "date": "2026-07-22",
+      "inactive": true,
+      "deactivatedDate": "2026-08-07"
+    },
+    {
+      "text": "Don’t make a project out of yourself. Get out of yourself and help someone else.",
+      "author": "Anonymous Reader",
+      "date": "2026-07-22",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-08-07"
+    },
+    {
+      "text": "When we make our fantasies our reality they often become our nightmares.",
+      "author": "Dr Goodman",
+      "date": "2026-07-22",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-08-07"
     }
   ],
-  "lastRotation": "2026-08-06",
+  "lastRotation": "2026-08-07",
   "totalQuotes": 354,
   "activeQuotes": 79,
   "inactiveQuotes": 275
