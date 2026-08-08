@@ -1,6 +1,37 @@
 {
   "quotes": [
     {
+      "text": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-08-08",
+      "inactive": false
+    },
+    {
+      "text": "In the middle of difficulty lies opportunity.",
+      "author": "Albert Einstein",
+      "date": "2026-08-08",
+      "inactive": false
+    },
+    {
+      "text": "Creativity is the power to reject the past, to change the status quo, and to seek new potential.",
+      "author": "Ai Weiwei",
+      "date": "2026-08-08",
+      "inactive": false
+    },
+    {
+      "text": "Get up every day and try a little harder than the day before.",
+      "author": "Emeril Lagassi",
+      "date": "2026-08-08",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "The best way to predict your future is to create it.",
+      "author": "Abraham Lincoln",
+      "date": "2026-08-08",
+      "inactive": false
+    },
+    {
       "text": "In the end, it's not the years in your life that count. It's the life in your years.",
       "author": "Abraham Lincoln",
       "date": "2026-08-07",
@@ -448,36 +479,6 @@
       "text": "Well done is better than well said.",
       "author": "Benjamin Franklin",
       "date": "2026-07-24",
-      "inactive": false
-    },
-    {
-      "text": "The happiness of your life depends upon the quality of your thoughts.",
-      "author": "Marcus Aurelius",
-      "date": "2026-07-24",
-      "inactive": false
-    },
-    {
-      "text": "Everything can be taken from a man but one thing: the last of the human freedoms—to choose one's attitude in any given set of circumstances.",
-      "author": "Viktor Frankl",
-      "date": "2026-07-23",
-      "inactive": false
-    },
-    {
-      "text": "Draw a crazy picture, Write a nutty poem, Sing a mumble-gumble song, Whistle through your comb.",
-      "author": "Shel Silverstein",
-      "date": "2026-07-23",
-      "inactive": false
-    },
-    {
-      "text": "It is during our darkest moments that we must focus to see the light.",
-      "author": "Aristotle",
-      "date": "2026-07-23",
-      "inactive": false
-    },
-    {
-      "text": "The secret to so many artists living so long is that every painting is a new adventure. So, you see, they're always looking ahead to something new and exciting.",
-      "author": "Norman Rockwell",
-      "date": "2026-07-23",
       "inactive": false
     },
     {
@@ -972,13 +973,6 @@
       "deactivatedDate": "2026-06-04"
     },
     {
-      "text": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-05-22",
-      "inactive": true,
-      "deactivatedDate": "2026-06-04"
-    },
-    {
       "text": "The future belongs to those who believe in the beauty of their dreams.",
       "author": "Eleanor Roosevelt",
       "date": "2026-05-24",
@@ -1035,25 +1029,11 @@
       "deactivatedDate": "2026-06-09"
     },
     {
-      "text": "The best way to predict your future is to create it.",
-      "author": "Abraham Lincoln",
-      "date": "2026-05-26",
-      "inactive": true,
-      "deactivatedDate": "2026-06-09"
-    },
-    {
       "text": "Peace begins with a smile.",
       "author": "Mother Teresa",
       "date": "2026-05-28",
       "inactive": true,
       "deactivatedDate": "2026-06-10"
-    },
-    {
-      "text": "Creativity is the power to reject the past, to change the status quo, and to seek new potential.",
-      "author": "Ai Weiwei",
-      "date": "2026-05-29",
-      "inactive": true,
-      "deactivatedDate": "2026-06-11"
     },
     {
       "text": "There is a place where the sidewalk ends and before the street begins.",
@@ -1096,21 +1076,6 @@
       "date": "2026-05-30",
       "inactive": true,
       "deactivatedDate": "2026-06-13"
-    },
-    {
-      "text": "In the middle of difficulty lies opportunity.",
-      "author": "Albert Einstein",
-      "date": "2026-06-01",
-      "inactive": true,
-      "deactivatedDate": "2026-06-14"
-    },
-    {
-      "text": "Get up every day and try a little harder than the day before.",
-      "author": "Emeril Lagassi",
-      "date": "2026-05-31",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-06-14"
     },
     {
       "text": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.",
@@ -2431,9 +2396,44 @@
       "inactive": true,
       "communitySubmission": true,
       "deactivatedDate": "2026-08-07"
+    },
+    {
+      "text": "The happiness of your life depends upon the quality of your thoughts.",
+      "author": "Marcus Aurelius",
+      "date": "2026-07-24",
+      "inactive": true,
+      "deactivatedDate": "2026-08-08"
+    },
+    {
+      "text": "Everything can be taken from a man but one thing: the last of the human freedoms—to choose one's attitude in any given set of circumstances.",
+      "author": "Viktor Frankl",
+      "date": "2026-07-23",
+      "inactive": true,
+      "deactivatedDate": "2026-08-08"
+    },
+    {
+      "text": "Draw a crazy picture, Write a nutty poem, Sing a mumble-gumble song, Whistle through your comb.",
+      "author": "Shel Silverstein",
+      "date": "2026-07-23",
+      "inactive": true,
+      "deactivatedDate": "2026-08-08"
+    },
+    {
+      "text": "It is during our darkest moments that we must focus to see the light.",
+      "author": "Aristotle",
+      "date": "2026-07-23",
+      "inactive": true,
+      "deactivatedDate": "2026-08-08"
+    },
+    {
+      "text": "The secret to so many artists living so long is that every painting is a new adventure. So, you see, they're always looking ahead to something new and exciting.",
+      "author": "Norman Rockwell",
+      "date": "2026-07-23",
+      "inactive": true,
+      "deactivatedDate": "2026-08-08"
     }
   ],
-  "lastRotation": "2026-08-07",
+  "lastRotation": "2026-08-08",
   "totalQuotes": 354,
   "activeQuotes": 79,
   "inactiveQuotes": 275
