@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Experience is what you get when you didn't get what you wanted.",
+      "author": "Randy Pausch",
+      "date": "2026-08-10",
+      "inactive": false
+    },
+    {
+      "text": "A small act is worth a million thoughts.",
+      "author": "Ai Weiwei",
+      "date": "2026-08-10",
+      "inactive": false
+    },
+    {
+      "text": "The way to get started is to quit talking and begin doing.",
+      "author": "Walt Disney",
+      "date": "2026-08-10",
+      "inactive": false
+    },
+    {
+      "text": "It is not our abilities that show what we truly are. It is our choices.",
+      "author": "J.K. Rowling",
+      "date": "2026-08-10",
+      "inactive": false
+    },
+    {
+      "text": "The gospel is a message of hope and salvation for all.",
+      "author": "Henry B. Eyring",
+      "date": "2026-08-10",
+      "inactive": false
+    },
+    {
       "text": "An artist never works under ideal conditions. If they existed, his work wouldn’t exist, for the artist doesn’t live in a vacuum. Some sort of pressure must exist.",
       "author": "Andre Tarkovsky",
       "date": "2026-08-09",
@@ -451,37 +481,6 @@
       "inactive": false
     },
     {
-      "text": "There can be no deep disappointment where there is not deep love.",
-      "author": "Martin Luther King",
-      "date": "2026-07-26",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "The beginning is the most important part of the work.",
-      "author": "Plato",
-      "date": "2026-07-25",
-      "inactive": false
-    },
-    {
-      "text": "The best antidote I know for worry is work.",
-      "author": "Gordon B. Hinckley",
-      "date": "2026-07-25",
-      "inactive": false
-    },
-    {
-      "text": "Don't you quit. You keep walking. You keep trying. There is help and happiness ahead.",
-      "author": "Jeffrey R. Holland",
-      "date": "2026-07-25",
-      "inactive": false
-    },
-    {
-      "text": "Gratitude is the healthiest of all human emotions.",
-      "author": "Zig Ziglar",
-      "date": "2026-07-25",
-      "inactive": false
-    },
-    {
       "text": "The time is always right to do what is right.",
       "author": "Martin Luther King Jr.",
       "date": "2026-02-10",
@@ -645,13 +644,6 @@
       "date": "2026-04-24",
       "inactive": true,
       "deactivatedDate": "2026-05-05"
-    },
-    {
-      "text": "It is not our abilities that show what we truly are. It is our choices.",
-      "author": "J.K. Rowling",
-      "date": "2026-04-26",
-      "inactive": true,
-      "deactivatedDate": "2026-05-07"
     },
     {
       "text": "It is easier to build strong children than to repair broken men.",
@@ -1093,13 +1085,6 @@
       "deactivatedDate": "2026-06-17"
     },
     {
-      "text": "A small act is worth a million thoughts.",
-      "author": "Ai Weiwei",
-      "date": "2026-06-05",
-      "inactive": true,
-      "deactivatedDate": "2026-06-18"
-    },
-    {
       "text": "The privilege of a lifetime is being who you are.",
       "author": "Joseph Campbell",
       "date": "2026-06-04",
@@ -1177,13 +1162,6 @@
       "deactivatedDate": "2026-06-22"
     },
     {
-      "text": "The gospel is a message of hope and salvation for all.",
-      "author": "Henry B. Eyring",
-      "date": "2026-06-08",
-      "inactive": true,
-      "deactivatedDate": "2026-06-22"
-    },
-    {
       "text": "When I do good, I feel good. When I do bad, I feel bad. That's my religion.",
       "author": "Abraham Lincoln",
       "date": "2026-06-08",
@@ -1231,13 +1209,6 @@
       "date": "2026-06-10",
       "inactive": true,
       "deactivatedDate": "2026-06-24"
-    },
-    {
-      "text": "The way to get started is to quit talking and begin doing.",
-      "author": "Walt Disney",
-      "date": "2026-06-11",
-      "inactive": true,
-      "deactivatedDate": "2026-06-25"
     },
     {
       "text": "Never let a problem to be solved become more important than a person to be loved.",
@@ -2116,13 +2087,6 @@
       "deactivatedDate": "2026-07-31"
     },
     {
-      "text": "Experience is what you get when you didn't get what you wanted.",
-      "author": "Randy Pausch",
-      "date": "2026-07-16",
-      "inactive": true,
-      "deactivatedDate": "2026-07-31"
-    },
-    {
       "text": "Water is fluid, soft, and yielding. But water will wear away rock, which is rigid and cannot yield. As a rule, whatever is fluid, soft, and yielding will overcome whatever is rigid and hard.",
       "author": "Lao Tzu",
       "date": "2026-07-17",
@@ -2432,9 +2396,45 @@
       "date": "2026-07-24",
       "inactive": true,
       "deactivatedDate": "2026-08-09"
+    },
+    {
+      "text": "There can be no deep disappointment where there is not deep love.",
+      "author": "Martin Luther King",
+      "date": "2026-07-26",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-08-10"
+    },
+    {
+      "text": "The beginning is the most important part of the work.",
+      "author": "Plato",
+      "date": "2026-07-25",
+      "inactive": true,
+      "deactivatedDate": "2026-08-10"
+    },
+    {
+      "text": "The best antidote I know for worry is work.",
+      "author": "Gordon B. Hinckley",
+      "date": "2026-07-25",
+      "inactive": true,
+      "deactivatedDate": "2026-08-10"
+    },
+    {
+      "text": "Don't you quit. You keep walking. You keep trying. There is help and happiness ahead.",
+      "author": "Jeffrey R. Holland",
+      "date": "2026-07-25",
+      "inactive": true,
+      "deactivatedDate": "2026-08-10"
+    },
+    {
+      "text": "Gratitude is the healthiest of all human emotions.",
+      "author": "Zig Ziglar",
+      "date": "2026-07-25",
+      "inactive": true,
+      "deactivatedDate": "2026-08-10"
     }
   ],
-  "lastRotation": "2026-08-09",
+  "lastRotation": "2026-08-10",
   "totalQuotes": 354,
   "activeQuotes": 79,
   "inactiveQuotes": 275
