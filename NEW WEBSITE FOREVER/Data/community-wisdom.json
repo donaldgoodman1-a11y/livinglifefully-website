@@ -1,6 +1,37 @@
 {
   "quotes": [
     {
+      "text": "Science is not only compatible with spirituality; it is a profound source of spirituality.",
+      "author": "Carl Sagan",
+      "date": "2026-08-11",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "Life is either a daring adventure or nothing at all.",
+      "author": "Helen Keller",
+      "date": "2026-08-11",
+      "inactive": false
+    },
+    {
+      "text": "We can ignore reality, but we cannot ignore the consequences of ignoring reality.",
+      "author": "Ayn Rand",
+      "date": "2026-08-11",
+      "inactive": false
+    },
+    {
+      "text": "You're off to great places! Today is your day! Your mountain is waiting, so get on your way!",
+      "author": "Dr. Seuss",
+      "date": "2026-08-11",
+      "inactive": false
+    },
+    {
+      "text": "In a gentle way, you can shake the world.",
+      "author": "Mahatma Gandhi",
+      "date": "2026-08-11",
+      "inactive": false
+    },
+    {
       "text": "Experience is what you get when you didn't get what you wanted.",
       "author": "Randy Pausch",
       "date": "2026-08-10",
@@ -450,37 +481,6 @@
       "communitySubmission": true
     },
     {
-      "text": "Just Let Go!",
-      "author": "Anonymous Reader",
-      "date": "2026-07-27",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "Follow your bliss and the universe will open doors where there were only walls.",
-      "author": "Joseph Campbell",
-      "date": "2026-07-26",
-      "inactive": false
-    },
-    {
-      "text": "Wise men speak because they have something to say; fools because they have to say something.",
-      "author": "Plato",
-      "date": "2026-07-26",
-      "inactive": false
-    },
-    {
-      "text": "Even miracles take a little time.",
-      "author": "Fairy Godmother, Cinderella",
-      "date": "2026-07-26",
-      "inactive": false
-    },
-    {
-      "text": "Hardships often prepare ordinary people for an extraordinary destiny.",
-      "author": "C.S. Lewis",
-      "date": "2026-07-26",
-      "inactive": false
-    },
-    {
       "text": "The time is always right to do what is right.",
       "author": "Martin Luther King Jr.",
       "date": "2026-02-10",
@@ -507,13 +507,6 @@
       "date": "2026-03-04",
       "inactive": true,
       "deactivatedDate": "2026-03-12"
-    },
-    {
-      "text": "In a gentle way, you can shake the world.",
-      "author": "Mahatma Gandhi",
-      "date": "2026-03-05",
-      "inactive": true,
-      "deactivatedDate": "2026-03-13"
     },
     {
       "text": "Owning our story and loving ourselves through that process is the bravest thing that we'll ever do.",
@@ -1599,13 +1592,6 @@
       "deactivatedDate": "2026-07-14"
     },
     {
-      "text": "We can ignore reality, but we cannot ignore the consequences of ignoring reality.",
-      "author": "Ayn Rand",
-      "date": "2026-06-29",
-      "inactive": true,
-      "deactivatedDate": "2026-07-14"
-    },
-    {
       "text": "Not all of us can do great things. But we can do small things with great love.",
       "author": "Mother Teresa",
       "date": "2026-07-01",
@@ -1918,13 +1904,6 @@
       "deactivatedDate": "2026-07-26"
     },
     {
-      "text": "Life is either a daring adventure or nothing at all.",
-      "author": "Helen Keller",
-      "date": "2026-07-11",
-      "inactive": true,
-      "deactivatedDate": "2026-07-26"
-    },
-    {
       "text": "Weeping may endure for a night, but joy cometh in the morning.",
       "author": "King David",
       "date": "2026-07-11",
@@ -2165,21 +2144,6 @@
       "date": "2026-07-19",
       "inactive": true,
       "communitySubmission": true,
-      "deactivatedDate": "2026-08-03"
-    },
-    {
-      "text": "Science is not only compatible with spirituality; it is a profound source of spirituality.",
-      "author": "Carl Sagan",
-      "date": "2026-07-19",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-08-03"
-    },
-    {
-      "text": "You're off to great places! Today is your day! Your mountain is waiting, so get on your way!",
-      "author": "Dr. Seuss",
-      "date": "2026-07-18",
-      "inactive": true,
       "deactivatedDate": "2026-08-03"
     },
     {
@@ -2432,9 +2396,45 @@
       "date": "2026-07-25",
       "inactive": true,
       "deactivatedDate": "2026-08-10"
+    },
+    {
+      "text": "Just Let Go!",
+      "author": "Anonymous Reader",
+      "date": "2026-07-27",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-08-11"
+    },
+    {
+      "text": "Follow your bliss and the universe will open doors where there were only walls.",
+      "author": "Joseph Campbell",
+      "date": "2026-07-26",
+      "inactive": true,
+      "deactivatedDate": "2026-08-11"
+    },
+    {
+      "text": "Wise men speak because they have something to say; fools because they have to say something.",
+      "author": "Plato",
+      "date": "2026-07-26",
+      "inactive": true,
+      "deactivatedDate": "2026-08-11"
+    },
+    {
+      "text": "Even miracles take a little time.",
+      "author": "Fairy Godmother, Cinderella",
+      "date": "2026-07-26",
+      "inactive": true,
+      "deactivatedDate": "2026-08-11"
+    },
+    {
+      "text": "Hardships often prepare ordinary people for an extraordinary destiny.",
+      "author": "C.S. Lewis",
+      "date": "2026-07-26",
+      "inactive": true,
+      "deactivatedDate": "2026-08-11"
     }
   ],
-  "lastRotation": "2026-08-10",
+  "lastRotation": "2026-08-11",
   "totalQuotes": 354,
   "activeQuotes": 79,
   "inactiveQuotes": 275
