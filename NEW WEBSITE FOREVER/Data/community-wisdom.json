@@ -1,6 +1,37 @@
 {
   "quotes": [
     {
+      "text": "You must do the things you think you cannot do.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-08-12",
+      "inactive": false
+    },
+    {
+      "text": "Do what you can, with what you have, where you are.",
+      "author": "Theodore Roosevelt",
+      "date": "2026-08-12",
+      "inactive": false
+    },
+    {
+      "text": "Every action you take is a vote for the type of person you wish to become.",
+      "author": "James Clear",
+      "date": "2026-08-12",
+      "inactive": false
+    },
+    {
+      "text": "I can do all things through Christ which strengtheneth me.",
+      "author": "Paul the Apostle",
+      "date": "2026-08-12",
+      "inactive": false
+    },
+    {
+      "text": "Greater the persons' stature, the more one has to make sure to humble themselves.\nRashi, Berachos 34b",
+      "author": "Rashi, Berachos 34b",
+      "date": "2026-08-12",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
       "text": "Science is not only compatible with spirituality; it is a profound source of spirituality.",
       "author": "Carl Sagan",
       "date": "2026-08-11",
@@ -450,37 +481,6 @@
       "inactive": false
     },
     {
-      "text": "Believe you can and you're halfway there.",
-      "author": "Theodore Roosevelt",
-      "date": "2026-07-28",
-      "inactive": false
-    },
-    {
-      "text": "Be kind whenever possible. It is always possible.",
-      "author": "Dalai Lama",
-      "date": "2026-07-27",
-      "inactive": false
-    },
-    {
-      "text": "Life is to be enjoyed, not endured.",
-      "author": "Gordon B. Hinckley",
-      "date": "2026-07-27",
-      "inactive": false
-    },
-    {
-      "text": "That which does not kill us makes us stronger.",
-      "author": "Friedrich Nietzsche",
-      "date": "2026-07-27",
-      "inactive": false
-    },
-    {
-      "text": "Press your lips together, and don’t be in a hurry to answer.",
-      "author": "The Talmud: Avodah Zarah 35 a",
-      "date": "2026-07-27",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
       "text": "The time is always right to do what is right.",
       "author": "Martin Luther King Jr.",
       "date": "2026-02-10",
@@ -693,13 +693,6 @@
       "date": "2026-05-04",
       "inactive": true,
       "deactivatedDate": "2026-05-15"
-    },
-    {
-      "text": "Do what you can, with what you have, where you are.",
-      "author": "Theodore Roosevelt",
-      "date": "2026-05-05",
-      "inactive": true,
-      "deactivatedDate": "2026-05-16"
     },
     {
       "text": "It does not do to dwell on dreams and forget to live.",
@@ -1001,13 +994,6 @@
       "deactivatedDate": "2026-06-11"
     },
     {
-      "text": "Every action you take is a vote for the type of person you wish to become.",
-      "author": "James Clear",
-      "date": "2026-05-28",
-      "inactive": true,
-      "deactivatedDate": "2026-06-11"
-    },
-    {
       "text": "Be kind, for everyone you meet is fighting a hard battle.",
       "author": "Plato",
       "date": "2026-05-30",
@@ -1222,14 +1208,6 @@
       "author": "James Clear",
       "date": "2026-06-12",
       "inactive": true,
-      "deactivatedDate": "2026-06-26"
-    },
-    {
-      "text": "Greater the persons' stature, the more one has to make sure to humble themselves.\nRashi, Berachos 34b",
-      "author": "Rashi, Berachos 34b",
-      "date": "2026-06-11",
-      "inactive": true,
-      "communitySubmission": true,
       "deactivatedDate": "2026-06-26"
     },
     {
@@ -1720,13 +1698,6 @@
       "deactivatedDate": "2026-07-19"
     },
     {
-      "text": "I can do all things through Christ which strengtheneth me.",
-      "author": "Paul the Apostle",
-      "date": "2026-07-04",
-      "inactive": true,
-      "deactivatedDate": "2026-07-19"
-    },
-    {
       "text": "Quick to observe means quick to act.",
       "author": "David A. Bednar",
       "date": "2026-07-06",
@@ -1962,13 +1933,6 @@
     {
       "text": "Be still, and know that I am God.",
       "author": "King David",
-      "date": "2026-07-13",
-      "inactive": true,
-      "deactivatedDate": "2026-07-28"
-    },
-    {
-      "text": "You must do the things you think you cannot do.",
-      "author": "Eleanor Roosevelt",
       "date": "2026-07-13",
       "inactive": true,
       "deactivatedDate": "2026-07-28"
@@ -2432,9 +2396,45 @@
       "date": "2026-07-26",
       "inactive": true,
       "deactivatedDate": "2026-08-11"
+    },
+    {
+      "text": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt",
+      "date": "2026-07-28",
+      "inactive": true,
+      "deactivatedDate": "2026-08-12"
+    },
+    {
+      "text": "Be kind whenever possible. It is always possible.",
+      "author": "Dalai Lama",
+      "date": "2026-07-27",
+      "inactive": true,
+      "deactivatedDate": "2026-08-12"
+    },
+    {
+      "text": "Life is to be enjoyed, not endured.",
+      "author": "Gordon B. Hinckley",
+      "date": "2026-07-27",
+      "inactive": true,
+      "deactivatedDate": "2026-08-12"
+    },
+    {
+      "text": "That which does not kill us makes us stronger.",
+      "author": "Friedrich Nietzsche",
+      "date": "2026-07-27",
+      "inactive": true,
+      "deactivatedDate": "2026-08-12"
+    },
+    {
+      "text": "Press your lips together, and don’t be in a hurry to answer.",
+      "author": "The Talmud: Avodah Zarah 35 a",
+      "date": "2026-07-27",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-08-12"
     }
   ],
-  "lastRotation": "2026-08-11",
+  "lastRotation": "2026-08-12",
   "totalQuotes": 354,
   "activeQuotes": 79,
   "inactiveQuotes": 275
