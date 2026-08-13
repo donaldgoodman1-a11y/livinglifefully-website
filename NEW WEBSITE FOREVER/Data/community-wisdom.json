@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "What you see and what you hear depends a great deal on where you are standing. It also depends on what sort of person you are.",
+      "author": "C.S. Lewis",
+      "date": "2026-08-13",
+      "inactive": false
+    },
+    {
+      "text": "The enabling power of the Atonement strengthens us.",
+      "author": "David A. Bednar",
+      "date": "2026-08-13",
+      "inactive": false
+    },
+    {
+      "text": "Draw a crazy picture, Write a nutty poem, Sing a mumble-gumble song, Whistle through your comb.",
+      "author": "Shel Silverstein",
+      "date": "2026-08-13",
+      "inactive": false
+    },
+    {
+      "text": "It's not about how to achieve your dreams, it's about how to lead your life. If you lead your life the right way, the karma will take care of itself.",
+      "author": "Randy Pausch",
+      "date": "2026-08-13",
+      "inactive": false
+    },
+    {
+      "text": "The Lord loves effort.",
+      "author": "Russell M. Nelson",
+      "date": "2026-08-13",
+      "inactive": false
+    },
+    {
       "text": "You must do the things you think you cannot do.",
       "author": "Eleanor Roosevelt",
       "date": "2026-08-12",
@@ -451,36 +481,6 @@
       "inactive": false
     },
     {
-      "text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
-      "author": "Helen Keller",
-      "date": "2026-07-29",
-      "inactive": false
-    },
-    {
-      "text": "It is only with the heart that one can see rightly; what is essential is invisible to the eye.",
-      "author": "Antoine de Saint-Exupéry",
-      "date": "2026-07-28",
-      "inactive": false
-    },
-    {
-      "text": "The best preparation for tomorrow is doing your best today.",
-      "author": "H. Jackson Brown Jr.",
-      "date": "2026-07-28",
-      "inactive": false
-    },
-    {
-      "text": "And we know that all things work together for good to them that love God.",
-      "author": "Paul the Apostle",
-      "date": "2026-07-28",
-      "inactive": false
-    },
-    {
-      "text": "Courage starts with showing up and letting ourselves be seen.",
-      "author": "Brené Brown",
-      "date": "2026-07-28",
-      "inactive": false
-    },
-    {
       "text": "The time is always right to do what is right.",
       "author": "Martin Luther King Jr.",
       "date": "2026-02-10",
@@ -521,13 +521,6 @@
       "date": "2026-03-28",
       "inactive": true,
       "deactivatedDate": "2026-04-06"
-    },
-    {
-      "text": "The Lord loves effort.",
-      "author": "Russell M. Nelson",
-      "date": "2026-03-30",
-      "inactive": true,
-      "deactivatedDate": "2026-04-07"
     },
     {
       "text": "You miss 100% of the shots you don't take.",
@@ -931,13 +924,6 @@
       "deactivatedDate": "2026-06-04"
     },
     {
-      "text": "It's not about how to achieve your dreams, it's about how to lead your life. If you lead your life the right way, the karma will take care of itself.",
-      "author": "Randy Pausch",
-      "date": "2026-05-24",
-      "inactive": true,
-      "deactivatedDate": "2026-06-06"
-    },
-    {
       "text": "Everything has beauty, but not everyone sees it.",
       "author": "Confucius",
       "date": "2026-05-23",
@@ -950,13 +936,6 @@
       "date": "2026-05-25",
       "inactive": true,
       "deactivatedDate": "2026-06-07"
-    },
-    {
-      "text": "The enabling power of the Atonement strengthens us.",
-      "author": "David A. Bednar",
-      "date": "2026-05-26",
-      "inactive": true,
-      "deactivatedDate": "2026-06-08"
     },
     {
       "text": "You don't have to be great to start, but you have to start to be great.",
@@ -1917,13 +1896,6 @@
       "deactivatedDate": "2026-07-27"
     },
     {
-      "text": "What you see and what you hear depends a great deal on where you are standing. It also depends on what sort of person you are.",
-      "author": "C.S. Lewis",
-      "date": "2026-07-14",
-      "inactive": true,
-      "deactivatedDate": "2026-07-28"
-    },
-    {
       "text": "Try a little harder to be a little better.",
       "author": "Gordon B. Hinckley",
       "date": "2026-07-13",
@@ -2269,13 +2241,6 @@
       "deactivatedDate": "2026-08-08"
     },
     {
-      "text": "Draw a crazy picture, Write a nutty poem, Sing a mumble-gumble song, Whistle through your comb.",
-      "author": "Shel Silverstein",
-      "date": "2026-07-23",
-      "inactive": true,
-      "deactivatedDate": "2026-08-08"
-    },
-    {
       "text": "It is during our darkest moments that we must focus to see the light.",
       "author": "Aristotle",
       "date": "2026-07-23",
@@ -2432,9 +2397,44 @@
       "inactive": true,
       "communitySubmission": true,
       "deactivatedDate": "2026-08-12"
+    },
+    {
+      "text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
+      "author": "Helen Keller",
+      "date": "2026-07-29",
+      "inactive": true,
+      "deactivatedDate": "2026-08-13"
+    },
+    {
+      "text": "It is only with the heart that one can see rightly; what is essential is invisible to the eye.",
+      "author": "Antoine de Saint-Exupéry",
+      "date": "2026-07-28",
+      "inactive": true,
+      "deactivatedDate": "2026-08-13"
+    },
+    {
+      "text": "The best preparation for tomorrow is doing your best today.",
+      "author": "H. Jackson Brown Jr.",
+      "date": "2026-07-28",
+      "inactive": true,
+      "deactivatedDate": "2026-08-13"
+    },
+    {
+      "text": "And we know that all things work together for good to them that love God.",
+      "author": "Paul the Apostle",
+      "date": "2026-07-28",
+      "inactive": true,
+      "deactivatedDate": "2026-08-13"
+    },
+    {
+      "text": "Courage starts with showing up and letting ourselves be seen.",
+      "author": "Brené Brown",
+      "date": "2026-07-28",
+      "inactive": true,
+      "deactivatedDate": "2026-08-13"
     }
   ],
-  "lastRotation": "2026-08-12",
+  "lastRotation": "2026-08-13",
   "totalQuotes": 354,
   "activeQuotes": 79,
   "inactiveQuotes": 275
