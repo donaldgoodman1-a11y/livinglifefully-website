@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "I wish it need not have happened in my time, said Frodo. So do I, said Gandalf, and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-08-14",
+      "inactive": false
+    },
+    {
+      "text": "If there is no struggle, there is no progress.",
+      "author": "Frederick Douglass",
+      "date": "2026-08-14",
+      "inactive": false
+    },
+    {
+      "text": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
+      "author": "Marcus Aurelius",
+      "date": "2026-08-14",
+      "inactive": false
+    },
+    {
+      "text": "Nearly all men can stand adversity, but if you want to test a man's character, give him power.",
+      "author": "Abraham Lincoln",
+      "date": "2026-08-14",
+      "inactive": false
+    },
+    {
+      "text": "The issue for us is trusting God enough to trust also His timing.",
+      "author": "Neal A. Maxwell",
+      "date": "2026-08-14",
+      "inactive": false
+    },
+    {
       "text": "What you see and what you hear depends a great deal on where you are standing. It also depends on what sort of person you are.",
       "author": "C.S. Lewis",
       "date": "2026-08-13",
@@ -451,36 +481,6 @@
       "inactive": false
     },
     {
-      "text": "Desire is the father of action.",
-      "author": "Dallin H. Oaks",
-      "date": "2026-07-30",
-      "inactive": false
-    },
-    {
-      "text": "First say to yourself what you would be; and then do what you have to do.",
-      "author": "Epictetus",
-      "date": "2026-07-29",
-      "inactive": false
-    },
-    {
-      "text": "I have learned that if one advances confidently in the direction of his dreams, he will meet with a success unexpected in common hours.",
-      "author": "Henry David Thoreau",
-      "date": "2026-07-29",
-      "inactive": false
-    },
-    {
-      "text": "Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.",
-      "author": "Viktor Frankl",
-      "date": "2026-07-29",
-      "inactive": false
-    },
-    {
-      "text": "Dwell on the beauty of life. Watch the stars, and see yourself running with them.",
-      "author": "Marcus Aurelius",
-      "date": "2026-07-29",
-      "inactive": false
-    },
-    {
       "text": "The time is always right to do what is right.",
       "author": "Martin Luther King Jr.",
       "date": "2026-02-10",
@@ -665,13 +665,6 @@
       "date": "2026-05-03",
       "inactive": true,
       "deactivatedDate": "2026-05-14"
-    },
-    {
-      "text": "If there is no struggle, there is no progress.",
-      "author": "Frederick Douglass",
-      "date": "2026-05-04",
-      "inactive": true,
-      "deactivatedDate": "2026-05-15"
     },
     {
       "text": "Faith is to believe what you do not see; the reward of this faith is to see what you believe.",
@@ -870,13 +863,6 @@
       "text": "Peace comes from within. Do not seek it without.",
       "author": "Thich Nhat Hanh",
       "date": "2026-05-20",
-      "inactive": true,
-      "deactivatedDate": "2026-06-01"
-    },
-    {
-      "text": "The issue for us is trusting God enough to trust also His timing.",
-      "author": "Neal A. Maxwell",
-      "date": "2026-05-19",
       "inactive": true,
       "deactivatedDate": "2026-06-01"
     },
@@ -1247,13 +1233,6 @@
       "deactivatedDate": "2026-06-29"
     },
     {
-      "text": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
-      "author": "Marcus Aurelius",
-      "date": "2026-06-15",
-      "inactive": true,
-      "deactivatedDate": "2026-06-30"
-    },
-    {
       "text": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
       "author": "Buddha",
       "date": "2026-06-17",
@@ -1263,13 +1242,6 @@
     {
       "text": "let GO",
       "author": "Anonymous Reader",
-      "date": "2026-06-16",
-      "inactive": true,
-      "deactivatedDate": "2026-07-01"
-    },
-    {
-      "text": "Nearly all men can stand adversity, but if you want to test a man's character, give him power.",
-      "author": "Abraham Lincoln",
       "date": "2026-06-16",
       "inactive": true,
       "deactivatedDate": "2026-07-01"
@@ -2270,13 +2242,6 @@
       "deactivatedDate": "2026-08-09"
     },
     {
-      "text": "I wish it need not have happened in my time, said Frodo. So do I, said Gandalf, and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.",
-      "author": "J.R.R. Tolkien",
-      "date": "2026-07-24",
-      "inactive": true,
-      "deactivatedDate": "2026-08-09"
-    },
-    {
       "text": "Why fit in when you were born to stand out?",
       "author": "Dr. Seuss",
       "date": "2026-07-24",
@@ -2432,9 +2397,44 @@
       "date": "2026-07-28",
       "inactive": true,
       "deactivatedDate": "2026-08-13"
+    },
+    {
+      "text": "Desire is the father of action.",
+      "author": "Dallin H. Oaks",
+      "date": "2026-07-30",
+      "inactive": true,
+      "deactivatedDate": "2026-08-14"
+    },
+    {
+      "text": "First say to yourself what you would be; and then do what you have to do.",
+      "author": "Epictetus",
+      "date": "2026-07-29",
+      "inactive": true,
+      "deactivatedDate": "2026-08-14"
+    },
+    {
+      "text": "I have learned that if one advances confidently in the direction of his dreams, he will meet with a success unexpected in common hours.",
+      "author": "Henry David Thoreau",
+      "date": "2026-07-29",
+      "inactive": true,
+      "deactivatedDate": "2026-08-14"
+    },
+    {
+      "text": "Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.",
+      "author": "Viktor Frankl",
+      "date": "2026-07-29",
+      "inactive": true,
+      "deactivatedDate": "2026-08-14"
+    },
+    {
+      "text": "Dwell on the beauty of life. Watch the stars, and see yourself running with them.",
+      "author": "Marcus Aurelius",
+      "date": "2026-07-29",
+      "inactive": true,
+      "deactivatedDate": "2026-08-14"
     }
   ],
-  "lastRotation": "2026-08-13",
+  "lastRotation": "2026-08-14",
   "totalQuotes": 354,
   "activeQuotes": 79,
   "inactiveQuotes": 275
