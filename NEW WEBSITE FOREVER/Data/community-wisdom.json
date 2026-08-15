@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Today you are you, that is truer than true. There is no one alive who is youer than you.",
+      "author": "Dr. Seuss",
+      "date": "2026-08-15",
+      "inactive": false
+    },
+    {
+      "text": "The most glorious moments in your life are not the so-called days of success, but rather those days when out of dejection and despair you feel rise in you a challenge to life.",
+      "author": "Gustave Flaubert",
+      "date": "2026-08-15",
+      "inactive": false
+    },
+    {
+      "text": "The spiritual gift of agency, the freedom to choose, is essential to our growth.",
+      "author": "Dallin H. Oaks",
+      "date": "2026-08-15",
+      "inactive": false
+    },
+    {
+      "text": "Owning our story and loving ourselves through that process is the bravest thing that we'll ever do.",
+      "author": "Brené Brown",
+      "date": "2026-08-15",
+      "inactive": false
+    },
+    {
+      "text": "To love at all is to be vulnerable.",
+      "author": "C.S. Lewis",
+      "date": "2026-08-15",
+      "inactive": false
+    },
+    {
       "text": "I wish it need not have happened in my time, said Frodo. So do I, said Gandalf, and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.",
       "author": "J.R.R. Tolkien",
       "date": "2026-08-14",
@@ -451,36 +481,6 @@
       "inactive": false
     },
     {
-      "text": "We must be willing to let go of the life we planned so as to have the life that is waiting for us.",
-      "author": "Joseph Campbell",
-      "date": "2026-07-31",
-      "inactive": false
-    },
-    {
-      "text": "The only person you are destined to become is the person you decide to be.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-07-30",
-      "inactive": false
-    },
-    {
-      "text": "Let us always meet each other with smile, for the smile is the beginning of love.",
-      "author": "Mother Teresa",
-      "date": "2026-07-30",
-      "inactive": false
-    },
-    {
-      "text": "The best way out is always through.",
-      "author": "Robert Frost",
-      "date": "2026-07-30",
-      "inactive": false
-    },
-    {
-      "text": "Walk as if you are kissing the Earth with your feet.",
-      "author": "Thich Nhat Hanh",
-      "date": "2026-07-30",
-      "inactive": false
-    },
-    {
       "text": "The time is always right to do what is right.",
       "author": "Martin Luther King Jr.",
       "date": "2026-02-10",
@@ -495,25 +495,11 @@
       "deactivatedDate": "2026-02-22"
     },
     {
-      "text": "To love at all is to be vulnerable.",
-      "author": "C.S. Lewis",
-      "date": "2026-02-25",
-      "inactive": true,
-      "deactivatedDate": "2026-03-05"
-    },
-    {
       "text": "And above all, watch with glittering eyes the whole world around you because the greatest secrets are always hidden in the most unlikely places.",
       "author": "Roald Dahl",
       "date": "2026-03-04",
       "inactive": true,
       "deactivatedDate": "2026-03-12"
-    },
-    {
-      "text": "Owning our story and loving ourselves through that process is the bravest thing that we'll ever do.",
-      "author": "Brené Brown",
-      "date": "2026-03-23",
-      "inactive": true,
-      "deactivatedDate": "2026-04-01"
     },
     {
       "text": "Decisions determine destiny.",
@@ -729,13 +715,6 @@
       "inactive": true,
       "communitySubmission": true,
       "deactivatedDate": "2026-05-22"
-    },
-    {
-      "text": "The spiritual gift of agency, the freedom to choose, is essential to our growth.",
-      "author": "Dallin H. Oaks",
-      "date": "2026-05-12",
-      "inactive": true,
-      "deactivatedDate": "2026-05-23"
     },
     {
       "text": "No man is crushed by misfortune unless he has first been deceived by prosperity.\n-Seneca",
@@ -1221,13 +1200,6 @@
     {
       "text": "All our dreams can come true, if we have the courage to pursue them.",
       "author": "Walt Disney",
-      "date": "2026-06-14",
-      "inactive": true,
-      "deactivatedDate": "2026-06-29"
-    },
-    {
-      "text": "The most glorious moments in your life are not the so-called days of success, but rather those days when out of dejection and despair you feel rise in you a challenge to life.",
-      "author": "Gustave Flaubert",
       "date": "2026-06-14",
       "inactive": true,
       "deactivatedDate": "2026-06-29"
@@ -1778,13 +1750,6 @@
     {
       "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
       "author": "Martin Luther King Jr.",
-      "date": "2026-07-09",
-      "inactive": true,
-      "deactivatedDate": "2026-07-24"
-    },
-    {
-      "text": "Today you are you, that is truer than true. There is no one alive who is youer than you.",
-      "author": "Dr. Seuss",
       "date": "2026-07-09",
       "inactive": true,
       "deactivatedDate": "2026-07-24"
@@ -2432,9 +2397,44 @@
       "date": "2026-07-29",
       "inactive": true,
       "deactivatedDate": "2026-08-14"
+    },
+    {
+      "text": "We must be willing to let go of the life we planned so as to have the life that is waiting for us.",
+      "author": "Joseph Campbell",
+      "date": "2026-07-31",
+      "inactive": true,
+      "deactivatedDate": "2026-08-15"
+    },
+    {
+      "text": "The only person you are destined to become is the person you decide to be.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-07-30",
+      "inactive": true,
+      "deactivatedDate": "2026-08-15"
+    },
+    {
+      "text": "Let us always meet each other with smile, for the smile is the beginning of love.",
+      "author": "Mother Teresa",
+      "date": "2026-07-30",
+      "inactive": true,
+      "deactivatedDate": "2026-08-15"
+    },
+    {
+      "text": "The best way out is always through.",
+      "author": "Robert Frost",
+      "date": "2026-07-30",
+      "inactive": true,
+      "deactivatedDate": "2026-08-15"
+    },
+    {
+      "text": "Walk as if you are kissing the Earth with your feet.",
+      "author": "Thich Nhat Hanh",
+      "date": "2026-07-30",
+      "inactive": true,
+      "deactivatedDate": "2026-08-15"
     }
   ],
-  "lastRotation": "2026-08-14",
+  "lastRotation": "2026-08-15",
   "totalQuotes": 354,
   "activeQuotes": 79,
   "inactiveQuotes": 275
