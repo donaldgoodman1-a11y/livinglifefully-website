@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Be who God meant you to be and you will set the world on fire.",
+      "author": "St. Catherine of Siena",
+      "date": "2026-08-16",
+      "inactive": false
+    },
+    {
+      "text": "Instructions for living a life: Pay attention. Be astonished. Tell about it.",
+      "author": "Mary Oliver",
+      "date": "2026-08-16",
+      "inactive": false
+    },
+    {
+      "text": "Don't you quit. You keep walking. You keep trying. There is help and happiness ahead.",
+      "author": "Jeffrey R. Holland",
+      "date": "2026-08-16",
+      "inactive": false
+    },
+    {
+      "text": "Waste no more time arguing about what a good man should be. Be one.",
+      "author": "Marcus Aurelius",
+      "date": "2026-08-16",
+      "inactive": false
+    },
+    {
+      "text": "When we are no longer able to change a situation, we are challenged to change ourselves.",
+      "author": "Viktor Frankl",
+      "date": "2026-08-16",
+      "inactive": false
+    },
+    {
       "text": "Today you are you, that is truer than true. There is no one alive who is youer than you.",
       "author": "Dr. Seuss",
       "date": "2026-08-15",
@@ -448,36 +478,6 @@
       "text": "We must accept finite disappointment, but never lose infinite hope.",
       "author": "Martin Luther King Jr.",
       "date": "2026-08-01",
-      "inactive": false
-    },
-    {
-      "text": "The present moment is the only time over which we have dominion.",
-      "author": "Thich Nhat Hanh",
-      "date": "2026-08-01",
-      "inactive": false
-    },
-    {
-      "text": "I grew up like a neglected weed, ignorant of liberty, having no experience of it.",
-      "author": "Harriet Tubman",
-      "date": "2026-07-31",
-      "inactive": false
-    },
-    {
-      "text": "For I know the thoughts that I think toward you, saith the Lord, thoughts of peace, and not of evil.",
-      "author": "Jeremiah",
-      "date": "2026-07-31",
-      "inactive": false
-    },
-    {
-      "text": "A cheerful heart is good medicine.",
-      "author": "King Solomon",
-      "date": "2026-07-31",
-      "inactive": false
-    },
-    {
-      "text": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
-      "author": "Albert Einstein",
-      "date": "2026-07-31",
       "inactive": false
     },
     {
@@ -1226,13 +1226,6 @@
       "deactivatedDate": "2026-07-02"
     },
     {
-      "text": "Be who God meant you to be and you will set the world on fire.",
-      "author": "St. Catherine of Siena",
-      "date": "2026-06-17",
-      "inactive": true,
-      "deactivatedDate": "2026-07-02"
-    },
-    {
       "text": "Freedom is never given; it is won.",
       "author": "A. Philip Randolph",
       "date": "2026-06-19",
@@ -1250,13 +1243,6 @@
       "text": "When it's over, I want to say: all my life I was a bride married to amazement.",
       "author": "Mary Oliver",
       "date": "2026-06-20",
-      "inactive": true,
-      "deactivatedDate": "2026-07-04"
-    },
-    {
-      "text": "When we are no longer able to change a situation, we are challenged to change ourselves.",
-      "author": "Viktor Frankl",
-      "date": "2026-06-19",
       "inactive": true,
       "deactivatedDate": "2026-07-04"
     },
@@ -1345,13 +1331,6 @@
       "deactivatedDate": "2026-07-08"
     },
     {
-      "text": "Instructions for living a life: Pay attention. Be astonished. Tell about it.",
-      "author": "Mary Oliver",
-      "date": "2026-06-24",
-      "inactive": true,
-      "deactivatedDate": "2026-07-08"
-    },
-    {
       "text": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
       "author": "Eleanor Roosevelt",
       "date": "2026-06-23",
@@ -1368,13 +1347,6 @@
     {
       "text": "Let yourself be silently drawn by the strange pull of what you really love. It will not lead you astray.",
       "author": "Rumi",
-      "date": "2026-06-25",
-      "inactive": true,
-      "deactivatedDate": "2026-07-09"
-    },
-    {
-      "text": "Waste no more time arguing about what a good man should be. Be one.",
-      "author": "Marcus Aurelius",
       "date": "2026-06-25",
       "inactive": true,
       "deactivatedDate": "2026-07-09"
@@ -2243,13 +2215,6 @@
       "deactivatedDate": "2026-08-10"
     },
     {
-      "text": "Don't you quit. You keep walking. You keep trying. There is help and happiness ahead.",
-      "author": "Jeffrey R. Holland",
-      "date": "2026-07-25",
-      "inactive": true,
-      "deactivatedDate": "2026-08-10"
-    },
-    {
       "text": "Gratitude is the healthiest of all human emotions.",
       "author": "Zig Ziglar",
       "date": "2026-07-25",
@@ -2432,9 +2397,44 @@
       "date": "2026-07-30",
       "inactive": true,
       "deactivatedDate": "2026-08-15"
+    },
+    {
+      "text": "The present moment is the only time over which we have dominion.",
+      "author": "Thich Nhat Hanh",
+      "date": "2026-08-01",
+      "inactive": true,
+      "deactivatedDate": "2026-08-16"
+    },
+    {
+      "text": "I grew up like a neglected weed, ignorant of liberty, having no experience of it.",
+      "author": "Harriet Tubman",
+      "date": "2026-07-31",
+      "inactive": true,
+      "deactivatedDate": "2026-08-16"
+    },
+    {
+      "text": "For I know the thoughts that I think toward you, saith the Lord, thoughts of peace, and not of evil.",
+      "author": "Jeremiah",
+      "date": "2026-07-31",
+      "inactive": true,
+      "deactivatedDate": "2026-08-16"
+    },
+    {
+      "text": "A cheerful heart is good medicine.",
+      "author": "King Solomon",
+      "date": "2026-07-31",
+      "inactive": true,
+      "deactivatedDate": "2026-08-16"
+    },
+    {
+      "text": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+      "author": "Albert Einstein",
+      "date": "2026-07-31",
+      "inactive": true,
+      "deactivatedDate": "2026-08-16"
     }
   ],
-  "lastRotation": "2026-08-15",
+  "lastRotation": "2026-08-16",
   "totalQuotes": 354,
   "activeQuotes": 79,
   "inactiveQuotes": 275
