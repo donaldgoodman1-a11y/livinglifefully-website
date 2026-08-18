@@ -1,6 +1,37 @@
 {
   "quotes": [
     {
+      "text": "Courage is not simply one of the virtues, but the form of every virtue at the testing point.",
+      "author": "C.S. Lewis",
+      "date": "2026-08-18",
+      "inactive": false
+    },
+    {
+      "text": "As life brings moments that feel too heavy to bear, place your trust in Christ. The burden may remain, but through the Atonement, it no longer rests on you alone.",
+      "author": "Natalie LeBaron",
+      "date": "2026-08-18",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "Because you are alive, everything is possible.",
+      "author": "Thich Nhat Hanh",
+      "date": "2026-08-18",
+      "inactive": false
+    },
+    {
+      "text": "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.",
+      "author": "Rumi",
+      "date": "2026-08-18",
+      "inactive": false
+    },
+    {
+      "text": "The past is behind, learn from it. The future is ahead, prepare for it. The present is here, live it.",
+      "author": "Thomas S. Monson",
+      "date": "2026-08-18",
+      "inactive": false
+    },
+    {
       "text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
       "author": "Helen Keller",
       "date": "2026-08-17",
@@ -450,37 +481,6 @@
       "inactive": false
     },
     {
-      "text": "You either walk inside your story and own it or you stand outside your story and hustle for your worthiness.",
-      "author": "Brené Brown",
-      "date": "2026-08-03",
-      "inactive": false
-    },
-    {
-      "text": "The secret of staying young is to live honestly, eat slowly, and lie about your age.",
-      "author": "Lucille Ball",
-      "date": "2026-08-02",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "The mind is everything. What you think you become.",
-      "author": "Buddha",
-      "date": "2026-08-02",
-      "inactive": false
-    },
-    {
-      "text": "We read to know we are not alone.",
-      "author": "C.S. Lewis",
-      "date": "2026-08-02",
-      "inactive": false
-    },
-    {
-      "text": "It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.",
-      "author": "Seneca",
-      "date": "2026-08-02",
-      "inactive": false
-    },
-    {
       "text": "The time is always right to do what is right.",
       "author": "Martin Luther King Jr.",
       "date": "2026-02-10",
@@ -738,13 +738,6 @@
       "date": "2026-05-14",
       "inactive": true,
       "deactivatedDate": "2026-05-27"
-    },
-    {
-      "text": "The past is behind, learn from it. The future is ahead, prepare for it. The present is here, live it.",
-      "author": "Thomas S. Monson",
-      "date": "2026-05-16",
-      "inactive": true,
-      "deactivatedDate": "2026-05-28"
     },
     {
       "text": "Patience is the companion of wisdom.",
@@ -1444,13 +1437,6 @@
       "deactivatedDate": "2026-07-15"
     },
     {
-      "text": "Courage is not simply one of the virtues, but the form of every virtue at the testing point.",
-      "author": "C.S. Lewis",
-      "date": "2026-06-30",
-      "inactive": true,
-      "deactivatedDate": "2026-07-15"
-    },
-    {
       "text": "Because a thing seems difficult for you, do not think it impossible for anyone to accomplish.",
       "author": "Marcus Aurelius",
       "date": "2026-06-30",
@@ -1993,13 +1979,6 @@
       "deactivatedDate": "2026-08-04"
     },
     {
-      "text": "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.",
-      "author": "Rumi",
-      "date": "2026-07-19",
-      "inactive": true,
-      "deactivatedDate": "2026-08-04"
-    },
-    {
       "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
       "author": "Winston Churchill",
       "date": "2026-07-19",
@@ -2078,13 +2057,6 @@
       "deactivatedDate": "2026-08-07"
     },
     {
-      "text": "Because you are alive, everything is possible.",
-      "author": "Thich Nhat Hanh",
-      "date": "2026-07-22",
-      "inactive": true,
-      "deactivatedDate": "2026-08-07"
-    },
-    {
       "text": "When we keep the commandments, the blessings come.",
       "author": "Henry B. Eyring",
       "date": "2026-07-22",
@@ -2134,14 +2106,6 @@
       "date": "2026-07-23",
       "inactive": true,
       "deactivatedDate": "2026-08-08"
-    },
-    {
-      "text": "As life brings moments that feel too heavy to bear, place your trust in Christ. The burden may remain, but through the Atonement, it no longer rests on you alone.",
-      "author": "Natalie LeBaron",
-      "date": "2026-07-25",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-08-09"
     },
     {
       "text": "If you judge people, you have no time to love them.",
@@ -2432,9 +2396,45 @@
       "date": "2026-08-01",
       "inactive": true,
       "deactivatedDate": "2026-08-17"
+    },
+    {
+      "text": "You either walk inside your story and own it or you stand outside your story and hustle for your worthiness.",
+      "author": "Brené Brown",
+      "date": "2026-08-03",
+      "inactive": true,
+      "deactivatedDate": "2026-08-18"
+    },
+    {
+      "text": "The secret of staying young is to live honestly, eat slowly, and lie about your age.",
+      "author": "Lucille Ball",
+      "date": "2026-08-02",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-08-18"
+    },
+    {
+      "text": "The mind is everything. What you think you become.",
+      "author": "Buddha",
+      "date": "2026-08-02",
+      "inactive": true,
+      "deactivatedDate": "2026-08-18"
+    },
+    {
+      "text": "We read to know we are not alone.",
+      "author": "C.S. Lewis",
+      "date": "2026-08-02",
+      "inactive": true,
+      "deactivatedDate": "2026-08-18"
+    },
+    {
+      "text": "It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.",
+      "author": "Seneca",
+      "date": "2026-08-02",
+      "inactive": true,
+      "deactivatedDate": "2026-08-18"
     }
   ],
-  "lastRotation": "2026-08-17",
+  "lastRotation": "2026-08-18",
   "totalQuotes": 354,
   "activeQuotes": 79,
   "inactiveQuotes": 275
