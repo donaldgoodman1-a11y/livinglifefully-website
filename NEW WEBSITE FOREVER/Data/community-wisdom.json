@@ -1,6 +1,37 @@
 {
   "quotes": [
     {
+      "text": "Kind words can be short and easy to speak, but their echoes are truly endless.",
+      "author": "Mother Teresa",
+      "date": "2026-08-19",
+      "inactive": false
+    },
+    {
+      "text": "You are never too old to set another goal or to dream a new dream.",
+      "author": "C.S. Lewis",
+      "date": "2026-08-19",
+      "inactive": false
+    },
+    {
+      "text": "Humanity must seek what is NOT simple and obvious using the simple and obvious.",
+      "author": "Musonius Rufus",
+      "date": "2026-08-19",
+      "inactive": false
+    },
+    {
+      "text": "Imagination is more important than knowledge.",
+      "author": "Albert Einstein",
+      "date": "2026-08-19",
+      "inactive": false
+    },
+    {
+      "text": "A successful marriage requires falling in love many times, always with the same person.",
+      "author": "Mignon McLaughlin",
+      "date": "2026-08-19",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
       "text": "Courage is not simply one of the virtues, but the form of every virtue at the testing point.",
       "author": "C.S. Lewis",
       "date": "2026-08-18",
@@ -451,36 +482,6 @@
       "inactive": false
     },
     {
-      "text": "Let us not pray to be sheltered from dangers but to be fearless when facing them.",
-      "author": "Rabindranath Tagore",
-      "date": "2026-08-04",
-      "inactive": false
-    },
-    {
-      "text": "If you have good thoughts they will shine out of your face like sunbeams and you will always look lovely.",
-      "author": "Roald Dahl",
-      "date": "2026-08-03",
-      "inactive": false
-    },
-    {
-      "text": "Accept the things to which fate binds you, and love the people with whom fate brings you together.",
-      "author": "Marcus Aurelius",
-      "date": "2026-08-03",
-      "inactive": false
-    },
-    {
-      "text": "Fantasy is hardly an escape from reality. It's a way of understanding it.",
-      "author": "Lloyd Alexander",
-      "date": "2026-08-03",
-      "inactive": false
-    },
-    {
-      "text": "I am seeking, I am striving, I am in it with all my heart.",
-      "author": "Vincent Van Gogh",
-      "date": "2026-08-03",
-      "inactive": false
-    },
-    {
       "text": "The time is always right to do what is right.",
       "author": "Martin Luther King Jr.",
       "date": "2026-02-10",
@@ -507,13 +508,6 @@
       "date": "2026-03-31",
       "inactive": true,
       "deactivatedDate": "2026-04-09"
-    },
-    {
-      "text": "Imagination is more important than knowledge.",
-      "author": "Albert Einstein",
-      "date": "2026-04-07",
-      "inactive": true,
-      "deactivatedDate": "2026-04-15"
     },
     {
       "text": "The quieter you become, the more you can hear.",
@@ -543,13 +537,6 @@
       "date": "2026-04-18",
       "inactive": true,
       "deactivatedDate": "2026-04-28"
-    },
-    {
-      "text": "Humanity must seek what is NOT simple and obvious using the simple and obvious.",
-      "author": "Musonius Rufus",
-      "date": "2026-04-19",
-      "inactive": true,
-      "deactivatedDate": "2026-04-29"
     },
     {
       "text": "You can't heal the people you love. You can't make choices for them. You can't rescue \nthem. You can promise that they won't journey alone. You can loan them your map. But \nthis trip is theirs. By Laura Jean Truman",
@@ -725,14 +712,6 @@
       "deactivatedDate": "2026-05-27"
     },
     {
-      "text": "A successful marriage requires falling in love many times, always with the same person.",
-      "author": "Mignon McLaughlin",
-      "date": "2026-05-14",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-05-27"
-    },
-    {
       "text": "There is no greater agony than bearing an untold story inside you.",
       "author": "Maya Angelou",
       "date": "2026-05-14",
@@ -830,13 +809,6 @@
       "date": "2026-05-20",
       "inactive": true,
       "deactivatedDate": "2026-06-02"
-    },
-    {
-      "text": "You are never too old to set another goal or to dream a new dream.",
-      "author": "C.S. Lewis",
-      "date": "2026-05-21",
-      "inactive": true,
-      "deactivatedDate": "2026-06-03"
     },
     {
       "text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest.",
@@ -1031,13 +1003,6 @@
     {
       "text": "The wound is the place where the Light enters you.",
       "author": "Rumi",
-      "date": "2026-06-07",
-      "inactive": true,
-      "deactivatedDate": "2026-06-21"
-    },
-    {
-      "text": "Kind words can be short and easy to speak, but their echoes are truly endless.",
-      "author": "Mother Teresa",
       "date": "2026-06-07",
       "inactive": true,
       "deactivatedDate": "2026-06-21"
@@ -2432,9 +2397,44 @@
       "date": "2026-08-02",
       "inactive": true,
       "deactivatedDate": "2026-08-18"
+    },
+    {
+      "text": "Let us not pray to be sheltered from dangers but to be fearless when facing them.",
+      "author": "Rabindranath Tagore",
+      "date": "2026-08-04",
+      "inactive": true,
+      "deactivatedDate": "2026-08-19"
+    },
+    {
+      "text": "If you have good thoughts they will shine out of your face like sunbeams and you will always look lovely.",
+      "author": "Roald Dahl",
+      "date": "2026-08-03",
+      "inactive": true,
+      "deactivatedDate": "2026-08-19"
+    },
+    {
+      "text": "Accept the things to which fate binds you, and love the people with whom fate brings you together.",
+      "author": "Marcus Aurelius",
+      "date": "2026-08-03",
+      "inactive": true,
+      "deactivatedDate": "2026-08-19"
+    },
+    {
+      "text": "Fantasy is hardly an escape from reality. It's a way of understanding it.",
+      "author": "Lloyd Alexander",
+      "date": "2026-08-03",
+      "inactive": true,
+      "deactivatedDate": "2026-08-19"
+    },
+    {
+      "text": "I am seeking, I am striving, I am in it with all my heart.",
+      "author": "Vincent Van Gogh",
+      "date": "2026-08-03",
+      "inactive": true,
+      "deactivatedDate": "2026-08-19"
     }
   ],
-  "lastRotation": "2026-08-18",
+  "lastRotation": "2026-08-19",
   "totalQuotes": 354,
   "activeQuotes": 79,
   "inactiveQuotes": 275
