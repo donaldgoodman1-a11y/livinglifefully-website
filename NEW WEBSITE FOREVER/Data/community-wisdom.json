@@ -1,6 +1,37 @@
 {
   "quotes": [
     {
+      "text": "Don’t make a project out of yourself. Get out of yourself and help someone else.",
+      "author": "Anonymous Reader",
+      "date": "2026-08-20",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "Thousands of candles can be lighted from a single candle. Happiness never decreases by being shared.",
+      "author": "Buddha",
+      "date": "2026-08-20",
+      "inactive": false
+    },
+    {
+      "text": "Life is to be enjoyed, not endured.",
+      "author": "Gordon B. Hinckley",
+      "date": "2026-08-20",
+      "inactive": false
+    },
+    {
+      "text": "First say to yourself what you would be; and then do what you have to do.",
+      "author": "Epictetus",
+      "date": "2026-08-20",
+      "inactive": false
+    },
+    {
+      "text": "A soft answer turneth away wrath.",
+      "author": "King Solomon",
+      "date": "2026-08-20",
+      "inactive": false
+    },
+    {
       "text": "Kind words can be short and easy to speak, but their echoes are truly endless.",
       "author": "Mother Teresa",
       "date": "2026-08-19",
@@ -449,36 +480,6 @@
       "text": "Without a struggle, there can be no progress.",
       "author": "Frederick Douglass",
       "date": "2026-08-05",
-      "inactive": false
-    },
-    {
-      "text": "Tell me, what is it you plan to do with your one wild and precious life?",
-      "author": "Mary Oliver",
-      "date": "2026-08-05",
-      "inactive": false
-    },
-    {
-      "text": "You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes.",
-      "author": "A.A. Milne",
-      "date": "2026-08-04",
-      "inactive": false
-    },
-    {
-      "text": "The impediment to action advances action. What stands in the way becomes the way.",
-      "author": "Ryan Holiday",
-      "date": "2026-08-04",
-      "inactive": false
-    },
-    {
-      "text": "It's kind of fun to do the impossible.",
-      "author": "Walt Disney",
-      "date": "2026-08-04",
-      "inactive": false
-    },
-    {
-      "text": "Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.",
-      "author": "Brené Brown",
-      "date": "2026-08-04",
       "inactive": false
     },
     {
@@ -980,13 +981,6 @@
       "deactivatedDate": "2026-06-19"
     },
     {
-      "text": "A soft answer turneth away wrath.",
-      "author": "King Solomon",
-      "date": "2026-06-05",
-      "inactive": true,
-      "deactivatedDate": "2026-06-19"
-    },
-    {
       "text": "There are far, far better things ahead than any we leave behind.",
       "author": "C.S. Lewis",
       "date": "2026-06-05",
@@ -1013,13 +1007,6 @@
       "date": "2026-06-07",
       "inactive": true,
       "deactivatedDate": "2026-06-21"
-    },
-    {
-      "text": "Thousands of candles can be lighted from a single candle. Happiness never decreases by being shared.",
-      "author": "Buddha",
-      "date": "2026-06-08",
-      "inactive": true,
-      "deactivatedDate": "2026-06-22"
     },
     {
       "text": "When I do good, I feel good. When I do bad, I feel bad. That's my religion.",
@@ -2029,14 +2016,6 @@
       "deactivatedDate": "2026-08-07"
     },
     {
-      "text": "Don’t make a project out of yourself. Get out of yourself and help someone else.",
-      "author": "Anonymous Reader",
-      "date": "2026-07-22",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-08-07"
-    },
-    {
       "text": "When we make our fantasies our reality they often become our nightmares.",
       "author": "Dr Goodman",
       "date": "2026-07-22",
@@ -2173,13 +2152,6 @@
       "deactivatedDate": "2026-08-12"
     },
     {
-      "text": "Life is to be enjoyed, not endured.",
-      "author": "Gordon B. Hinckley",
-      "date": "2026-07-27",
-      "inactive": true,
-      "deactivatedDate": "2026-08-12"
-    },
-    {
       "text": "That which does not kill us makes us stronger.",
       "author": "Friedrich Nietzsche",
       "date": "2026-07-27",
@@ -2226,13 +2198,6 @@
       "text": "Desire is the father of action.",
       "author": "Dallin H. Oaks",
       "date": "2026-07-30",
-      "inactive": true,
-      "deactivatedDate": "2026-08-14"
-    },
-    {
-      "text": "First say to yourself what you would be; and then do what you have to do.",
-      "author": "Epictetus",
-      "date": "2026-07-29",
       "inactive": true,
       "deactivatedDate": "2026-08-14"
     },
@@ -2432,9 +2397,44 @@
       "date": "2026-08-03",
       "inactive": true,
       "deactivatedDate": "2026-08-19"
+    },
+    {
+      "text": "Tell me, what is it you plan to do with your one wild and precious life?",
+      "author": "Mary Oliver",
+      "date": "2026-08-05",
+      "inactive": true,
+      "deactivatedDate": "2026-08-20"
+    },
+    {
+      "text": "You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes.",
+      "author": "A.A. Milne",
+      "date": "2026-08-04",
+      "inactive": true,
+      "deactivatedDate": "2026-08-20"
+    },
+    {
+      "text": "The impediment to action advances action. What stands in the way becomes the way.",
+      "author": "Ryan Holiday",
+      "date": "2026-08-04",
+      "inactive": true,
+      "deactivatedDate": "2026-08-20"
+    },
+    {
+      "text": "It's kind of fun to do the impossible.",
+      "author": "Walt Disney",
+      "date": "2026-08-04",
+      "inactive": true,
+      "deactivatedDate": "2026-08-20"
+    },
+    {
+      "text": "Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.",
+      "author": "Brené Brown",
+      "date": "2026-08-04",
+      "inactive": true,
+      "deactivatedDate": "2026-08-20"
     }
   ],
-  "lastRotation": "2026-08-19",
+  "lastRotation": "2026-08-20",
   "totalQuotes": 354,
   "activeQuotes": 79,
   "inactiveQuotes": 275
