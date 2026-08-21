@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Wise men speak because they have something to say; fools because they have to say something.",
+      "author": "Plato",
+      "date": "2026-08-21",
+      "inactive": false
+    },
+    {
+      "text": "What would life be if we had no courage to attempt anything?",
+      "author": "Vincent Van Gogh",
+      "date": "2026-08-21",
+      "inactive": false
+    },
+    {
+      "text": "Those who have a 'why' to live, can bear with almost any 'how'.",
+      "author": "Viktor Frankl",
+      "date": "2026-08-21",
+      "inactive": false
+    },
+    {
+      "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-08-21",
+      "inactive": false
+    },
+    {
+      "text": "Attitude is a little thing that makes a big difference.",
+      "author": "Winston Churchill",
+      "date": "2026-08-21",
+      "inactive": false
+    },
+    {
       "text": "Don’t make a project out of yourself. Get out of yourself and help someone else.",
       "author": "Anonymous Reader",
       "date": "2026-08-20",
@@ -453,36 +483,6 @@
       "inactive": false
     },
     {
-      "text": "When we long for life without difficulties, remember that oaks grow strong in contrary winds and diamonds are made under pressure.",
-      "author": "Peter Marshall",
-      "date": "2026-08-06",
-      "inactive": false
-    },
-    {
-      "text": "A little nonsense now and then is relished by the wisest men.",
-      "author": "Roald Dahl",
-      "date": "2026-08-05",
-      "inactive": false
-    },
-    {
-      "text": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
-      "author": "Maya Angelou",
-      "date": "2026-08-05",
-      "inactive": false
-    },
-    {
-      "text": "Three things cannot be long hidden: the sun, the moon, and the truth.",
-      "author": "Buddha",
-      "date": "2026-08-05",
-      "inactive": false
-    },
-    {
-      "text": "Without a struggle, there can be no progress.",
-      "author": "Frederick Douglass",
-      "date": "2026-08-05",
-      "inactive": false
-    },
-    {
       "text": "The time is always right to do what is right.",
       "author": "Martin Luther King Jr.",
       "date": "2026-02-10",
@@ -895,13 +895,6 @@
       "date": "2026-05-29",
       "inactive": true,
       "deactivatedDate": "2026-06-12"
-    },
-    {
-      "text": "Attitude is a little thing that makes a big difference.",
-      "author": "Winston Churchill",
-      "date": "2026-05-30",
-      "inactive": true,
-      "deactivatedDate": "2026-06-13"
     },
     {
       "text": "Nothing can dim the light which shines from within.",
@@ -1410,13 +1403,6 @@
       "deactivatedDate": "2026-07-15"
     },
     {
-      "text": "Those who have a 'why' to live, can bear with almost any 'how'.",
-      "author": "Viktor Frankl",
-      "date": "2026-07-02",
-      "inactive": true,
-      "deactivatedDate": "2026-07-16"
-    },
-    {
       "text": "The brick walls are there for a reason. They're not there to keep us out. The brick walls are there to give us a chance to show how badly we want something.",
       "author": "Randy Pausch",
       "date": "2026-07-01",
@@ -1581,13 +1567,6 @@
       "deactivatedDate": "2026-07-22"
     },
     {
-      "text": "What would life be if we had no courage to attempt anything?",
-      "author": "Vincent Van Gogh",
-      "date": "2026-07-07",
-      "inactive": true,
-      "deactivatedDate": "2026-07-22"
-    },
-    {
       "text": "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
       "author": "Mother Teresa",
       "date": "2026-07-09",
@@ -1626,13 +1605,6 @@
       "text": "You'll miss the best things if you keep your eyes shut.",
       "author": "Dr. Seuss",
       "date": "2026-07-10",
-      "inactive": true,
-      "deactivatedDate": "2026-07-24"
-    },
-    {
-      "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
-      "author": "Martin Luther King Jr.",
-      "date": "2026-07-09",
       "inactive": true,
       "deactivatedDate": "2026-07-24"
     },
@@ -2117,13 +2089,6 @@
       "deactivatedDate": "2026-08-11"
     },
     {
-      "text": "Wise men speak because they have something to say; fools because they have to say something.",
-      "author": "Plato",
-      "date": "2026-07-26",
-      "inactive": true,
-      "deactivatedDate": "2026-08-11"
-    },
-    {
       "text": "Even miracles take a little time.",
       "author": "Fairy Godmother, Cinderella",
       "date": "2026-07-26",
@@ -2432,9 +2397,44 @@
       "date": "2026-08-04",
       "inactive": true,
       "deactivatedDate": "2026-08-20"
+    },
+    {
+      "text": "When we long for life without difficulties, remember that oaks grow strong in contrary winds and diamonds are made under pressure.",
+      "author": "Peter Marshall",
+      "date": "2026-08-06",
+      "inactive": true,
+      "deactivatedDate": "2026-08-21"
+    },
+    {
+      "text": "A little nonsense now and then is relished by the wisest men.",
+      "author": "Roald Dahl",
+      "date": "2026-08-05",
+      "inactive": true,
+      "deactivatedDate": "2026-08-21"
+    },
+    {
+      "text": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+      "author": "Maya Angelou",
+      "date": "2026-08-05",
+      "inactive": true,
+      "deactivatedDate": "2026-08-21"
+    },
+    {
+      "text": "Three things cannot be long hidden: the sun, the moon, and the truth.",
+      "author": "Buddha",
+      "date": "2026-08-05",
+      "inactive": true,
+      "deactivatedDate": "2026-08-21"
+    },
+    {
+      "text": "Without a struggle, there can be no progress.",
+      "author": "Frederick Douglass",
+      "date": "2026-08-05",
+      "inactive": true,
+      "deactivatedDate": "2026-08-21"
     }
   ],
-  "lastRotation": "2026-08-20",
+  "lastRotation": "2026-08-21",
   "totalQuotes": 354,
   "activeQuotes": 79,
   "inactiveQuotes": 275
