@@ -1,6 +1,37 @@
 {
   "quotes": [
     {
+      "text": "You either walk inside your story and own it or you stand outside your story and hustle for your worthiness.",
+      "author": "Brené Brown",
+      "date": "2026-08-23",
+      "inactive": false
+    },
+    {
+      "text": "The secret of staying young is to live honestly, eat slowly, and lie about your age.",
+      "author": "Lucille Ball",
+      "date": "2026-08-23",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "The time is always right to do what is right.",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-08-23",
+      "inactive": false
+    },
+    {
+      "text": "For every minute you are angry you lose sixty seconds of happiness.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-08-23",
+      "inactive": false
+    },
+    {
+      "text": "The meeting of two personalities is like the contact of two chemical substances: if there is any reaction, both are transformed.",
+      "author": "Carl Jung",
+      "date": "2026-08-23",
+      "inactive": false
+    },
+    {
       "text": "The best way out is always through.",
       "author": "Robert Frost",
       "date": "2026-08-22",
@@ -450,43 +481,6 @@
       "date": "2026-08-08",
       "inactive": false,
       "communitySubmission": true
-    },
-    {
-      "text": "The best way to predict your future is to create it.",
-      "author": "Abraham Lincoln",
-      "date": "2026-08-08",
-      "inactive": false
-    },
-    {
-      "text": "In the end, it's not the years in your life that count. It's the life in your years.",
-      "author": "Abraham Lincoln",
-      "date": "2026-08-07",
-      "inactive": false
-    },
-    {
-      "text": "Hope is being able to see that there is light despite all of the darkness.",
-      "author": "Desmond Tutu",
-      "date": "2026-08-07",
-      "inactive": false
-    },
-    {
-      "text": "Prayer is not asking. Prayer is putting oneself in the hands of God.",
-      "author": "Mother Teresa",
-      "date": "2026-08-07",
-      "inactive": false
-    },
-    {
-      "text": "Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world.",
-      "author": "Desmond Tutu",
-      "date": "2026-08-07",
-      "inactive": false
-    },
-    {
-      "text": "The time is always right to do what is right.",
-      "author": "Martin Luther King Jr.",
-      "date": "2026-02-10",
-      "inactive": true,
-      "deactivatedDate": "2026-02-12"
     },
     {
       "text": "Keep your face to the sunshine and you cannot see a shadow.",
@@ -1064,13 +1058,6 @@
       "deactivatedDate": "2026-06-27"
     },
     {
-      "text": "For every minute you are angry you lose sixty seconds of happiness.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-06-12",
-      "inactive": true,
-      "deactivatedDate": "2026-06-27"
-    },
-    {
       "text": "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
       "author": "Benjamin Franklin",
       "date": "2026-06-14",
@@ -1428,13 +1415,6 @@
       "date": "2026-07-03",
       "inactive": true,
       "communitySubmission": true,
-      "deactivatedDate": "2026-07-18"
-    },
-    {
-      "text": "The meeting of two personalities is like the contact of two chemical substances: if there is any reaction, both are transformed.",
-      "author": "Carl Jung",
-      "date": "2026-07-03",
-      "inactive": true,
       "deactivatedDate": "2026-07-18"
     },
     {
@@ -2257,21 +2237,6 @@
       "deactivatedDate": "2026-08-17"
     },
     {
-      "text": "You either walk inside your story and own it or you stand outside your story and hustle for your worthiness.",
-      "author": "Brené Brown",
-      "date": "2026-08-03",
-      "inactive": true,
-      "deactivatedDate": "2026-08-18"
-    },
-    {
-      "text": "The secret of staying young is to live honestly, eat slowly, and lie about your age.",
-      "author": "Lucille Ball",
-      "date": "2026-08-02",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-08-18"
-    },
-    {
       "text": "The mind is everything. What you think you become.",
       "author": "Buddha",
       "date": "2026-08-02",
@@ -2432,9 +2397,44 @@
       "date": "2026-08-06",
       "inactive": true,
       "deactivatedDate": "2026-08-22"
+    },
+    {
+      "text": "The best way to predict your future is to create it.",
+      "author": "Abraham Lincoln",
+      "date": "2026-08-08",
+      "inactive": true,
+      "deactivatedDate": "2026-08-23"
+    },
+    {
+      "text": "In the end, it's not the years in your life that count. It's the life in your years.",
+      "author": "Abraham Lincoln",
+      "date": "2026-08-07",
+      "inactive": true,
+      "deactivatedDate": "2026-08-23"
+    },
+    {
+      "text": "Hope is being able to see that there is light despite all of the darkness.",
+      "author": "Desmond Tutu",
+      "date": "2026-08-07",
+      "inactive": true,
+      "deactivatedDate": "2026-08-23"
+    },
+    {
+      "text": "Prayer is not asking. Prayer is putting oneself in the hands of God.",
+      "author": "Mother Teresa",
+      "date": "2026-08-07",
+      "inactive": true,
+      "deactivatedDate": "2026-08-23"
+    },
+    {
+      "text": "Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world.",
+      "author": "Desmond Tutu",
+      "date": "2026-08-07",
+      "inactive": true,
+      "deactivatedDate": "2026-08-23"
     }
   ],
-  "lastRotation": "2026-08-22",
+  "lastRotation": "2026-08-23",
   "totalQuotes": 354,
   "activeQuotes": 79,
   "inactiveQuotes": 275
