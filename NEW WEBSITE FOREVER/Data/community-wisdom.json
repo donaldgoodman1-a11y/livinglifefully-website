@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Rock bottom became the solid foundation on which I rebuilt my life.",
+      "author": "J.K. Rowling",
+      "date": "2026-08-24",
+      "inactive": false
+    },
+    {
+      "text": "Raise your words, not voice. It is rain that grows flowers, not thunder.",
+      "author": "Rumi",
+      "date": "2026-08-24",
+      "inactive": false
+    },
+    {
+      "text": "People often say that motivation doesn't last. Well, neither does bathing—that's why we recommend it daily.",
+      "author": "Zig Ziglar",
+      "date": "2026-08-24",
+      "inactive": false
+    },
+    {
+      "text": "Remember that sometimes not getting what you want is a wonderful stroke of luck.",
+      "author": "Dalai Lama",
+      "date": "2026-08-24",
+      "inactive": false
+    },
+    {
+      "text": "Faith is to believe what you do not see; the reward of this faith is to see what you believe.",
+      "author": "St. Augustine",
+      "date": "2026-08-24",
+      "inactive": false
+    },
+    {
       "text": "You either walk inside your story and own it or you stand outside your story and hustle for your worthiness.",
       "author": "Brené Brown",
       "date": "2026-08-23",
@@ -452,37 +482,6 @@
       "inactive": false
     },
     {
-      "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
-      "author": "Aristotle",
-      "date": "2026-08-09",
-      "inactive": false
-    },
-    {
-      "text": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-08-08",
-      "inactive": false
-    },
-    {
-      "text": "In the middle of difficulty lies opportunity.",
-      "author": "Albert Einstein",
-      "date": "2026-08-08",
-      "inactive": false
-    },
-    {
-      "text": "Creativity is the power to reject the past, to change the status quo, and to seek new potential.",
-      "author": "Ai Weiwei",
-      "date": "2026-08-08",
-      "inactive": false
-    },
-    {
-      "text": "Get up every day and try a little harder than the day before.",
-      "author": "Emeril Lagassi",
-      "date": "2026-08-08",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
       "text": "Keep your face to the sunshine and you cannot see a shadow.",
       "author": "Helen Keller",
       "date": "2026-02-15",
@@ -606,13 +605,6 @@
       "deactivatedDate": "2026-05-14"
     },
     {
-      "text": "Faith is to believe what you do not see; the reward of this faith is to see what you believe.",
-      "author": "St. Augustine",
-      "date": "2026-05-04",
-      "inactive": true,
-      "deactivatedDate": "2026-05-15"
-    },
-    {
       "text": "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.",
       "author": "Antoine de Saint-Exupéry",
       "date": "2026-05-04",
@@ -622,13 +614,6 @@
     {
       "text": "It does not do to dwell on dreams and forget to live.",
       "author": "J.K. Rowling",
-      "date": "2026-05-09",
-      "inactive": true,
-      "deactivatedDate": "2026-05-20"
-    },
-    {
-      "text": "Raise your words, not voice. It is rain that grows flowers, not thunder.",
-      "author": "Rumi",
       "date": "2026-05-09",
       "inactive": true,
       "deactivatedDate": "2026-05-20"
@@ -731,13 +716,6 @@
       "text": "Listen to the mustn'ts, child. Listen to the don'ts. Listen to the shouldn'ts, the impossibles, the won'ts. Then listen close to me... Anything can happen, child. Anything can be.",
       "author": "Shel Silverstein",
       "date": "2026-05-18",
-      "inactive": true,
-      "deactivatedDate": "2026-05-30"
-    },
-    {
-      "text": "People often say that motivation doesn't last. Well, neither does bathing—that's why we recommend it daily.",
-      "author": "Zig Ziglar",
-      "date": "2026-05-17",
       "inactive": true,
       "deactivatedDate": "2026-05-30"
     },
@@ -1497,13 +1475,6 @@
       "deactivatedDate": "2026-07-22"
     },
     {
-      "text": "Rock bottom became the solid foundation on which I rebuilt my life.",
-      "author": "J.K. Rowling",
-      "date": "2026-07-07",
-      "inactive": true,
-      "deactivatedDate": "2026-07-22"
-    },
-    {
       "text": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
       "author": "Dr. Seuss",
       "date": "2026-07-07",
@@ -1626,13 +1597,6 @@
     {
       "text": "Luck is what happens when preparation meets opportunity.",
       "author": "Seneca",
-      "date": "2026-07-12",
-      "inactive": true,
-      "deactivatedDate": "2026-07-27"
-    },
-    {
-      "text": "Remember that sometimes not getting what you want is a wonderful stroke of luck.",
-      "author": "Dalai Lama",
       "date": "2026-07-12",
       "inactive": true,
       "deactivatedDate": "2026-07-27"
@@ -2432,9 +2396,45 @@
       "date": "2026-08-07",
       "inactive": true,
       "deactivatedDate": "2026-08-23"
+    },
+    {
+      "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+      "author": "Aristotle",
+      "date": "2026-08-09",
+      "inactive": true,
+      "deactivatedDate": "2026-08-24"
+    },
+    {
+      "text": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-08-08",
+      "inactive": true,
+      "deactivatedDate": "2026-08-24"
+    },
+    {
+      "text": "In the middle of difficulty lies opportunity.",
+      "author": "Albert Einstein",
+      "date": "2026-08-08",
+      "inactive": true,
+      "deactivatedDate": "2026-08-24"
+    },
+    {
+      "text": "Creativity is the power to reject the past, to change the status quo, and to seek new potential.",
+      "author": "Ai Weiwei",
+      "date": "2026-08-08",
+      "inactive": true,
+      "deactivatedDate": "2026-08-24"
+    },
+    {
+      "text": "Get up every day and try a little harder than the day before.",
+      "author": "Emeril Lagassi",
+      "date": "2026-08-08",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-08-24"
     }
   ],
-  "lastRotation": "2026-08-23",
+  "lastRotation": "2026-08-24",
   "totalQuotes": 354,
   "activeQuotes": 79,
   "inactiveQuotes": 275
