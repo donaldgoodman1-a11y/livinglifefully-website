@@ -1,6 +1,37 @@
 {
   "quotes": [
     {
+      "text": "Doubt your doubts before you doubt your faith.",
+      "author": "Dieter F. Uchtdorf",
+      "date": "2026-08-25",
+      "inactive": false
+    },
+    {
+      "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-08-25",
+      "inactive": false
+    },
+    {
+      "text": "And we know that all things work together for good to them that love God.",
+      "author": "Paul the Apostle",
+      "date": "2026-08-25",
+      "inactive": false
+    },
+    {
+      "text": "You can't heal the people you love. You can't make choices for them. You can't rescue \nthem. You can promise that they won't journey alone. You can loan them your map. But \nthis trip is theirs. By Laura Jean Truman",
+      "author": "Laura Jean Truman",
+      "date": "2026-08-25",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-08-25",
+      "inactive": false
+    },
+    {
       "text": "Rock bottom became the solid foundation on which I rebuilt my life.",
       "author": "J.K. Rowling",
       "date": "2026-08-24",
@@ -451,37 +482,6 @@
       "inactive": false
     },
     {
-      "text": "The gospel is a message of hope and salvation for all.",
-      "author": "Henry B. Eyring",
-      "date": "2026-08-10",
-      "inactive": false
-    },
-    {
-      "text": "An artist never works under ideal conditions. If they existed, his work wouldn’t exist, for the artist doesn’t live in a vacuum. Some sort of pressure must exist.",
-      "author": "Andre Tarkovsky",
-      "date": "2026-08-09",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "There is no innovation and creativity without failure. Period.",
-      "author": "Brené Brown",
-      "date": "2026-08-09",
-      "inactive": false
-    },
-    {
-      "text": "Knowing your own darkness is the best method for dealing with the darknesses of other people.",
-      "author": "Carl Jung",
-      "date": "2026-08-09",
-      "inactive": false
-    },
-    {
-      "text": "The future belongs to those who believe in the beauty of their dreams.",
-      "author": "Eleanor Roosevelt",
-      "date": "2026-08-09",
-      "inactive": false
-    },
-    {
       "text": "Keep your face to the sunshine and you cannot see a shadow.",
       "author": "Helen Keller",
       "date": "2026-02-15",
@@ -530,14 +530,6 @@
       "date": "2026-04-18",
       "inactive": true,
       "deactivatedDate": "2026-04-28"
-    },
-    {
-      "text": "You can't heal the people you love. You can't make choices for them. You can't rescue \nthem. You can promise that they won't journey alone. You can loan them your map. But \nthis trip is theirs. By Laura Jean Truman",
-      "author": "Laura Jean Truman",
-      "date": "2026-04-20",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-04-30"
     },
     {
       "text": "Grasshopper: if you want control you must let go of control",
@@ -729,13 +721,6 @@
     {
       "text": "Go confidently in the direction of your dreams. Live the life you have imagined.",
       "author": "Henry David Thoreau",
-      "date": "2026-05-18",
-      "inactive": true,
-      "deactivatedDate": "2026-05-31"
-    },
-    {
-      "text": "Doubt your doubts before you doubt your faith.",
-      "author": "Dieter F. Uchtdorf",
       "date": "2026-05-18",
       "inactive": true,
       "deactivatedDate": "2026-05-31"
@@ -1184,13 +1169,6 @@
       "deactivatedDate": "2026-07-07"
     },
     {
-      "text": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
-      "author": "Eleanor Roosevelt",
-      "date": "2026-06-23",
-      "inactive": true,
-      "deactivatedDate": "2026-07-08"
-    },
-    {
       "text": "The least of things with a meaning is worth more in life than the greatest of things without it.",
       "author": "Carl Jung",
       "date": "2026-06-23",
@@ -1551,13 +1529,6 @@
       "date": "2026-07-10",
       "inactive": true,
       "deactivatedDate": "2026-07-25"
-    },
-    {
-      "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-07-12",
-      "inactive": true,
-      "deactivatedDate": "2026-07-26"
     },
     {
       "text": "Focus on the moment, not the monsters that may or may not be up ahead.",
@@ -2061,13 +2032,6 @@
       "deactivatedDate": "2026-08-13"
     },
     {
-      "text": "And we know that all things work together for good to them that love God.",
-      "author": "Paul the Apostle",
-      "date": "2026-07-28",
-      "inactive": true,
-      "deactivatedDate": "2026-08-13"
-    },
-    {
       "text": "Courage starts with showing up and letting ourselves be seen.",
       "author": "Brené Brown",
       "date": "2026-07-28",
@@ -2432,9 +2396,45 @@
       "inactive": true,
       "communitySubmission": true,
       "deactivatedDate": "2026-08-24"
+    },
+    {
+      "text": "The gospel is a message of hope and salvation for all.",
+      "author": "Henry B. Eyring",
+      "date": "2026-08-10",
+      "inactive": true,
+      "deactivatedDate": "2026-08-25"
+    },
+    {
+      "text": "An artist never works under ideal conditions. If they existed, his work wouldn’t exist, for the artist doesn’t live in a vacuum. Some sort of pressure must exist.",
+      "author": "Andre Tarkovsky",
+      "date": "2026-08-09",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-08-25"
+    },
+    {
+      "text": "There is no innovation and creativity without failure. Period.",
+      "author": "Brené Brown",
+      "date": "2026-08-09",
+      "inactive": true,
+      "deactivatedDate": "2026-08-25"
+    },
+    {
+      "text": "Knowing your own darkness is the best method for dealing with the darknesses of other people.",
+      "author": "Carl Jung",
+      "date": "2026-08-09",
+      "inactive": true,
+      "deactivatedDate": "2026-08-25"
+    },
+    {
+      "text": "The future belongs to those who believe in the beauty of their dreams.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-08-09",
+      "inactive": true,
+      "deactivatedDate": "2026-08-25"
     }
   ],
-  "lastRotation": "2026-08-24",
+  "lastRotation": "2026-08-25",
   "totalQuotes": 354,
   "activeQuotes": 79,
   "inactiveQuotes": 275
