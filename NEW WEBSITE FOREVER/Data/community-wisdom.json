@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "The privilege of a lifetime is being who you are.",
+      "author": "Joseph Campbell",
+      "date": "2026-08-26",
+      "inactive": false
+    },
+    {
+      "text": "Joy comes not in riches, or in things, but in relationships.",
+      "author": "Russell M. Nelson",
+      "date": "2026-08-26",
+      "inactive": false
+    },
+    {
+      "text": "Be kind, for everyone you meet is fighting a hard battle.",
+      "author": "Plato",
+      "date": "2026-08-26",
+      "inactive": false
+    },
+    {
+      "text": "It's kind of fun to do the impossible.",
+      "author": "Walt Disney",
+      "date": "2026-08-26",
+      "inactive": false
+    },
+    {
+      "text": "An investment in knowledge pays the best interest.",
+      "author": "Benjamin Franklin",
+      "date": "2026-08-26",
+      "inactive": false
+    },
+    {
       "text": "Doubt your doubts before you doubt your faith.",
       "author": "Dieter F. Uchtdorf",
       "date": "2026-08-25",
@@ -452,36 +482,6 @@
       "inactive": false
     },
     {
-      "text": "In a gentle way, you can shake the world.",
-      "author": "Mahatma Gandhi",
-      "date": "2026-08-11",
-      "inactive": false
-    },
-    {
-      "text": "Experience is what you get when you didn't get what you wanted.",
-      "author": "Randy Pausch",
-      "date": "2026-08-10",
-      "inactive": false
-    },
-    {
-      "text": "A small act is worth a million thoughts.",
-      "author": "Ai Weiwei",
-      "date": "2026-08-10",
-      "inactive": false
-    },
-    {
-      "text": "The way to get started is to quit talking and begin doing.",
-      "author": "Walt Disney",
-      "date": "2026-08-10",
-      "inactive": false
-    },
-    {
-      "text": "It is not our abilities that show what we truly are. It is our choices.",
-      "author": "J.K. Rowling",
-      "date": "2026-08-10",
-      "inactive": false
-    },
-    {
       "text": "Keep your face to the sunshine and you cannot see a shadow.",
       "author": "Helen Keller",
       "date": "2026-02-15",
@@ -825,13 +825,6 @@
       "deactivatedDate": "2026-06-11"
     },
     {
-      "text": "Be kind, for everyone you meet is fighting a hard battle.",
-      "author": "Plato",
-      "date": "2026-05-30",
-      "inactive": true,
-      "deactivatedDate": "2026-06-12"
-    },
-    {
       "text": "You know you've reached middle age when you're cautioned to slow down by your doctor, instead of by the police.",
       "author": "Joan Rivers",
       "date": "2026-05-29",
@@ -867,13 +860,6 @@
       "deactivatedDate": "2026-06-15"
     },
     {
-      "text": "An investment in knowledge pays the best interest.",
-      "author": "Benjamin Franklin",
-      "date": "2026-06-02",
-      "inactive": true,
-      "deactivatedDate": "2026-06-16"
-    },
-    {
       "text": "The obstacle is the way.",
       "author": "Ryan Holiday",
       "date": "2026-06-02",
@@ -886,13 +872,6 @@
       "date": "2026-06-03",
       "inactive": true,
       "deactivatedDate": "2026-06-17"
-    },
-    {
-      "text": "The privilege of a lifetime is being who you are.",
-      "author": "Joseph Campbell",
-      "date": "2026-06-04",
-      "inactive": true,
-      "deactivatedDate": "2026-06-18"
     },
     {
       "text": "Better to get on the bike and fall then never to get on the bike at all.",
@@ -1724,13 +1703,6 @@
       "deactivatedDate": "2026-08-02"
     },
     {
-      "text": "Joy comes not in riches, or in things, but in relationships.",
-      "author": "Russell M. Nelson",
-      "date": "2026-07-18",
-      "inactive": true,
-      "deactivatedDate": "2026-08-02"
-    },
-    {
       "text": "I can't die but once.",
       "author": "Harriet Tubman",
       "date": "2026-07-18",
@@ -2242,13 +2214,6 @@
       "deactivatedDate": "2026-08-20"
     },
     {
-      "text": "It's kind of fun to do the impossible.",
-      "author": "Walt Disney",
-      "date": "2026-08-04",
-      "inactive": true,
-      "deactivatedDate": "2026-08-20"
-    },
-    {
       "text": "Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.",
       "author": "Brené Brown",
       "date": "2026-08-04",
@@ -2432,9 +2397,44 @@
       "date": "2026-08-09",
       "inactive": true,
       "deactivatedDate": "2026-08-25"
+    },
+    {
+      "text": "In a gentle way, you can shake the world.",
+      "author": "Mahatma Gandhi",
+      "date": "2026-08-11",
+      "inactive": true,
+      "deactivatedDate": "2026-08-26"
+    },
+    {
+      "text": "Experience is what you get when you didn't get what you wanted.",
+      "author": "Randy Pausch",
+      "date": "2026-08-10",
+      "inactive": true,
+      "deactivatedDate": "2026-08-26"
+    },
+    {
+      "text": "A small act is worth a million thoughts.",
+      "author": "Ai Weiwei",
+      "date": "2026-08-10",
+      "inactive": true,
+      "deactivatedDate": "2026-08-26"
+    },
+    {
+      "text": "The way to get started is to quit talking and begin doing.",
+      "author": "Walt Disney",
+      "date": "2026-08-10",
+      "inactive": true,
+      "deactivatedDate": "2026-08-26"
+    },
+    {
+      "text": "It is not our abilities that show what we truly are. It is our choices.",
+      "author": "J.K. Rowling",
+      "date": "2026-08-10",
+      "inactive": true,
+      "deactivatedDate": "2026-08-26"
     }
   ],
-  "lastRotation": "2026-08-25",
+  "lastRotation": "2026-08-26",
   "totalQuotes": 354,
   "activeQuotes": 79,
   "inactiveQuotes": 275
