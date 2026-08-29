@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "In the end, it's not the years in your life that count. It's the life in your years.",
+      "author": "Abraham Lincoln",
+      "date": "2026-08-29",
+      "inactive": false
+    },
+    {
+      "text": "Everything can be taken from a man but one thing: the last of the human freedoms—to choose one's attitude in any given set of circumstances.",
+      "author": "Viktor Frankl",
+      "date": "2026-08-29",
+      "inactive": false
+    },
+    {
+      "text": "A winner is a dreamer who never gives up.",
+      "author": "Nelson Mandela",
+      "date": "2026-08-29",
+      "inactive": false
+    },
+    {
+      "text": "With the new day comes new strength and new thoughts.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-08-29",
+      "inactive": false
+    },
+    {
+      "text": "Luck is what happens when preparation meets opportunity.",
+      "author": "Seneca",
+      "date": "2026-08-29",
+      "inactive": false
+    },
+    {
       "text": "When you're screwing up and nobody says anything to you anymore, that means they've given up on you.",
       "author": "Randy Pausch",
       "date": "2026-08-28",
@@ -447,36 +477,6 @@
       "text": "Nearly all men can stand adversity, but if you want to test a man's character, give him power.",
       "author": "Abraham Lincoln",
       "date": "2026-08-14",
-      "inactive": false
-    },
-    {
-      "text": "The issue for us is trusting God enough to trust also His timing.",
-      "author": "Neal A. Maxwell",
-      "date": "2026-08-14",
-      "inactive": false
-    },
-    {
-      "text": "What you see and what you hear depends a great deal on where you are standing. It also depends on what sort of person you are.",
-      "author": "C.S. Lewis",
-      "date": "2026-08-13",
-      "inactive": false
-    },
-    {
-      "text": "The enabling power of the Atonement strengthens us.",
-      "author": "David A. Bednar",
-      "date": "2026-08-13",
-      "inactive": false
-    },
-    {
-      "text": "Draw a crazy picture, Write a nutty poem, Sing a mumble-gumble song, Whistle through your comb.",
-      "author": "Shel Silverstein",
-      "date": "2026-08-13",
-      "inactive": false
-    },
-    {
-      "text": "It's not about how to achieve your dreams, it's about how to lead your life. If you lead your life the right way, the karma will take care of itself.",
-      "author": "Randy Pausch",
-      "date": "2026-08-13",
       "inactive": false
     },
     {
@@ -1480,22 +1480,8 @@
       "deactivatedDate": "2026-07-27"
     },
     {
-      "text": "A winner is a dreamer who never gives up.",
-      "author": "Nelson Mandela",
-      "date": "2026-07-12",
-      "inactive": true,
-      "deactivatedDate": "2026-07-27"
-    },
-    {
       "text": "The power of love and kindness can overcome any challenge or hardship.\nThe Lubavitcher Rebbe",
       "author": "The Lubavitcher Rebbe",
-      "date": "2026-07-12",
-      "inactive": true,
-      "deactivatedDate": "2026-07-27"
-    },
-    {
-      "text": "Luck is what happens when preparation meets opportunity.",
-      "author": "Seneca",
       "date": "2026-07-12",
       "inactive": true,
       "deactivatedDate": "2026-07-27"
@@ -1609,13 +1595,6 @@
     {
       "text": "Intelligence plus character—that is the goal of true education.",
       "author": "Martin Luther King Jr.",
-      "date": "2026-07-17",
-      "inactive": true,
-      "deactivatedDate": "2026-08-01"
-    },
-    {
-      "text": "With the new day comes new strength and new thoughts.",
-      "author": "Eleanor Roosevelt",
       "date": "2026-07-17",
       "inactive": true,
       "deactivatedDate": "2026-08-01"
@@ -1799,13 +1778,6 @@
       "text": "The happiness of your life depends upon the quality of your thoughts.",
       "author": "Marcus Aurelius",
       "date": "2026-07-24",
-      "inactive": true,
-      "deactivatedDate": "2026-08-08"
-    },
-    {
-      "text": "Everything can be taken from a man but one thing: the last of the human freedoms—to choose one's attitude in any given set of circumstances.",
-      "author": "Viktor Frankl",
-      "date": "2026-07-23",
       "inactive": true,
       "deactivatedDate": "2026-08-08"
     },
@@ -2234,13 +2206,6 @@
       "deactivatedDate": "2026-08-23"
     },
     {
-      "text": "In the end, it's not the years in your life that count. It's the life in your years.",
-      "author": "Abraham Lincoln",
-      "date": "2026-08-07",
-      "inactive": true,
-      "deactivatedDate": "2026-08-23"
-    },
-    {
       "text": "Hope is being able to see that there is light despite all of the darkness.",
       "author": "Desmond Tutu",
       "date": "2026-08-07",
@@ -2432,9 +2397,44 @@
       "date": "2026-08-12",
       "inactive": true,
       "deactivatedDate": "2026-08-28"
+    },
+    {
+      "text": "The issue for us is trusting God enough to trust also His timing.",
+      "author": "Neal A. Maxwell",
+      "date": "2026-08-14",
+      "inactive": true,
+      "deactivatedDate": "2026-08-29"
+    },
+    {
+      "text": "What you see and what you hear depends a great deal on where you are standing. It also depends on what sort of person you are.",
+      "author": "C.S. Lewis",
+      "date": "2026-08-13",
+      "inactive": true,
+      "deactivatedDate": "2026-08-29"
+    },
+    {
+      "text": "The enabling power of the Atonement strengthens us.",
+      "author": "David A. Bednar",
+      "date": "2026-08-13",
+      "inactive": true,
+      "deactivatedDate": "2026-08-29"
+    },
+    {
+      "text": "Draw a crazy picture, Write a nutty poem, Sing a mumble-gumble song, Whistle through your comb.",
+      "author": "Shel Silverstein",
+      "date": "2026-08-13",
+      "inactive": true,
+      "deactivatedDate": "2026-08-29"
+    },
+    {
+      "text": "It's not about how to achieve your dreams, it's about how to lead your life. If you lead your life the right way, the karma will take care of itself.",
+      "author": "Randy Pausch",
+      "date": "2026-08-13",
+      "inactive": true,
+      "deactivatedDate": "2026-08-29"
     }
   ],
-  "lastRotation": "2026-08-28",
+  "lastRotation": "2026-08-29",
   "totalQuotes": 354,
   "activeQuotes": 79,
   "inactiveQuotes": 275
