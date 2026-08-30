@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest.",
+      "author": "Jesus Christ",
+      "date": "2026-08-30",
+      "inactive": false
+    },
+    {
+      "text": "The future belongs to those who believe in the beauty of their dreams.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-08-30",
+      "inactive": false
+    },
+    {
+      "text": "Be kind whenever possible. It is always possible.",
+      "author": "Dalai Lama",
+      "date": "2026-08-30",
+      "inactive": false
+    },
+    {
+      "text": "All we have to decide is what to do with the time that is given us.",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-08-30",
+      "inactive": false
+    },
+    {
+      "text": "You'll miss the best things if you keep your eyes shut.",
+      "author": "Dr. Seuss",
+      "date": "2026-08-30",
+      "inactive": false
+    },
+    {
       "text": "In the end, it's not the years in your life that count. It's the life in your years.",
       "author": "Abraham Lincoln",
       "date": "2026-08-29",
@@ -450,36 +480,6 @@
       "inactive": false
     },
     {
-      "text": "To love at all is to be vulnerable.",
-      "author": "C.S. Lewis",
-      "date": "2026-08-15",
-      "inactive": false
-    },
-    {
-      "text": "I wish it need not have happened in my time, said Frodo. So do I, said Gandalf, and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.",
-      "author": "J.R.R. Tolkien",
-      "date": "2026-08-14",
-      "inactive": false
-    },
-    {
-      "text": "If there is no struggle, there is no progress.",
-      "author": "Frederick Douglass",
-      "date": "2026-08-14",
-      "inactive": false
-    },
-    {
-      "text": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
-      "author": "Marcus Aurelius",
-      "date": "2026-08-14",
-      "inactive": false
-    },
-    {
-      "text": "Nearly all men can stand adversity, but if you want to test a man's character, give him power.",
-      "author": "Abraham Lincoln",
-      "date": "2026-08-14",
-      "inactive": false
-    },
-    {
       "text": "Decisions determine destiny.",
       "author": "Thomas S. Monson",
       "date": "2026-03-28",
@@ -743,13 +743,6 @@
       "date": "2026-05-20",
       "inactive": true,
       "deactivatedDate": "2026-06-02"
-    },
-    {
-      "text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest.",
-      "author": "Jesus Christ",
-      "date": "2026-05-21",
-      "inactive": true,
-      "deactivatedDate": "2026-06-03"
     },
     {
       "text": "Life is like riding a bicycle: to keep your balance you must keep moving.",
@@ -1430,13 +1423,6 @@
       "deactivatedDate": "2026-07-23"
     },
     {
-      "text": "You'll miss the best things if you keep your eyes shut.",
-      "author": "Dr. Seuss",
-      "date": "2026-07-10",
-      "inactive": true,
-      "deactivatedDate": "2026-07-24"
-    },
-    {
       "text": "No one can make you feel inferior without your consent.",
       "author": "Eleanor Roosevelt",
       "date": "2026-07-09",
@@ -1661,13 +1647,6 @@
       "deactivatedDate": "2026-08-03"
     },
     {
-      "text": "All we have to decide is what to do with the time that is given us.",
-      "author": "J.R.R. Tolkien",
-      "date": "2026-07-20",
-      "inactive": true,
-      "deactivatedDate": "2026-08-04"
-    },
-    {
       "text": "It's not what happens to you, but how you react to it that matters.",
       "author": "Epictetus",
       "date": "2026-07-19",
@@ -1878,13 +1857,6 @@
       "text": "Believe you can and you're halfway there.",
       "author": "Theodore Roosevelt",
       "date": "2026-07-28",
-      "inactive": true,
-      "deactivatedDate": "2026-08-12"
-    },
-    {
-      "text": "Be kind whenever possible. It is always possible.",
-      "author": "Dalai Lama",
-      "date": "2026-07-27",
       "inactive": true,
       "deactivatedDate": "2026-08-12"
     },
@@ -2292,13 +2264,6 @@
       "deactivatedDate": "2026-08-25"
     },
     {
-      "text": "The future belongs to those who believe in the beauty of their dreams.",
-      "author": "Eleanor Roosevelt",
-      "date": "2026-08-09",
-      "inactive": true,
-      "deactivatedDate": "2026-08-25"
-    },
-    {
       "text": "In a gentle way, you can shake the world.",
       "author": "Mahatma Gandhi",
       "date": "2026-08-11",
@@ -2432,9 +2397,44 @@
       "date": "2026-08-13",
       "inactive": true,
       "deactivatedDate": "2026-08-29"
+    },
+    {
+      "text": "To love at all is to be vulnerable.",
+      "author": "C.S. Lewis",
+      "date": "2026-08-15",
+      "inactive": true,
+      "deactivatedDate": "2026-08-30"
+    },
+    {
+      "text": "I wish it need not have happened in my time, said Frodo. So do I, said Gandalf, and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-08-14",
+      "inactive": true,
+      "deactivatedDate": "2026-08-30"
+    },
+    {
+      "text": "If there is no struggle, there is no progress.",
+      "author": "Frederick Douglass",
+      "date": "2026-08-14",
+      "inactive": true,
+      "deactivatedDate": "2026-08-30"
+    },
+    {
+      "text": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
+      "author": "Marcus Aurelius",
+      "date": "2026-08-14",
+      "inactive": true,
+      "deactivatedDate": "2026-08-30"
+    },
+    {
+      "text": "Nearly all men can stand adversity, but if you want to test a man's character, give him power.",
+      "author": "Abraham Lincoln",
+      "date": "2026-08-14",
+      "inactive": true,
+      "deactivatedDate": "2026-08-30"
     }
   ],
-  "lastRotation": "2026-08-29",
+  "lastRotation": "2026-08-30",
   "totalQuotes": 354,
   "activeQuotes": 79,
   "inactiveQuotes": 275
