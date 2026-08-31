@@ -1,6 +1,37 @@
 {
   "quotes": [
     {
+      "text": "In a gentle way, you can shake the world.",
+      "author": "Mahatma Gandhi",
+      "date": "2026-08-31",
+      "inactive": false
+    },
+    {
+      "text": "Integrity is doing the right thing even when no one is watching.",
+      "author": "C.S. Lewis",
+      "date": "2026-08-31",
+      "inactive": false
+    },
+    {
+      "text": "Grasshopper: if you want control you must let go of control",
+      "author": "Kung fu",
+      "date": "2026-08-31",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "No matter what anyone says or does, my task is to be good.",
+      "author": "Marcus Aurelius",
+      "date": "2026-08-31",
+      "inactive": false
+    },
+    {
+      "text": "Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world.",
+      "author": "Desmond Tutu",
+      "date": "2026-08-31",
+      "inactive": false
+    },
+    {
       "text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest.",
       "author": "Jesus Christ",
       "date": "2026-08-30",
@@ -450,36 +481,6 @@
       "inactive": false
     },
     {
-      "text": "When we are no longer able to change a situation, we are challenged to change ourselves.",
-      "author": "Viktor Frankl",
-      "date": "2026-08-16",
-      "inactive": false
-    },
-    {
-      "text": "Today you are you, that is truer than true. There is no one alive who is youer than you.",
-      "author": "Dr. Seuss",
-      "date": "2026-08-15",
-      "inactive": false
-    },
-    {
-      "text": "The most glorious moments in your life are not the so-called days of success, but rather those days when out of dejection and despair you feel rise in you a challenge to life.",
-      "author": "Gustave Flaubert",
-      "date": "2026-08-15",
-      "inactive": false
-    },
-    {
-      "text": "The spiritual gift of agency, the freedom to choose, is essential to our growth.",
-      "author": "Dallin H. Oaks",
-      "date": "2026-08-15",
-      "inactive": false
-    },
-    {
-      "text": "Owning our story and loving ourselves through that process is the bravest thing that we'll ever do.",
-      "author": "Brené Brown",
-      "date": "2026-08-15",
-      "inactive": false
-    },
-    {
       "text": "Decisions determine destiny.",
       "author": "Thomas S. Monson",
       "date": "2026-03-28",
@@ -523,14 +524,6 @@
       "deactivatedDate": "2026-04-28"
     },
     {
-      "text": "Grasshopper: if you want control you must let go of control",
-      "author": "Kung fu",
-      "date": "2026-04-20",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-04-30"
-    },
-    {
       "text": "Remember: The serenity prayer: God grant me the serenity to accept the things I cannot \nchange; courage to change the things I can; and wisdom to know the difference. Living \none day at a time; enjoying one moment at a time; accepting hardships as the pathway to \npeace; taking, as He did, this sinful world as it is, not as I would have it; trusting that He \nwill make all things right If I surrender to His Will; that I may be reasonably happy in \nthis life and supremely happy with Him forever in the next. Amen",
       "author": "Reinhold Niebuhr",
       "date": "2026-04-20",
@@ -544,13 +537,6 @@
       "date": "2026-04-22",
       "inactive": true,
       "deactivatedDate": "2026-05-03"
-    },
-    {
-      "text": "Integrity is doing the right thing even when no one is watching.",
-      "author": "C.S. Lewis",
-      "date": "2026-04-23",
-      "inactive": true,
-      "deactivatedDate": "2026-05-04"
     },
     {
       "text": "Our prime purpose in this life is to help others. And if you can't help them, at least don't hurt them.",
@@ -692,13 +678,6 @@
       "text": "Listen to the mustn'ts, child. Listen to the don'ts. Listen to the shouldn'ts, the impossibles, the won'ts. Then listen close to me... Anything can happen, child. Anything can be.",
       "author": "Shel Silverstein",
       "date": "2026-05-18",
-      "inactive": true,
-      "deactivatedDate": "2026-05-30"
-    },
-    {
-      "text": "No matter what anyone says or does, my task is to be good.",
-      "author": "Marcus Aurelius",
-      "date": "2026-05-17",
       "inactive": true,
       "deactivatedDate": "2026-05-30"
     },
@@ -2192,13 +2171,6 @@
       "deactivatedDate": "2026-08-23"
     },
     {
-      "text": "Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world.",
-      "author": "Desmond Tutu",
-      "date": "2026-08-07",
-      "inactive": true,
-      "deactivatedDate": "2026-08-23"
-    },
-    {
       "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
       "author": "Aristotle",
       "date": "2026-08-09",
@@ -2262,13 +2234,6 @@
       "date": "2026-08-09",
       "inactive": true,
       "deactivatedDate": "2026-08-25"
-    },
-    {
-      "text": "In a gentle way, you can shake the world.",
-      "author": "Mahatma Gandhi",
-      "date": "2026-08-11",
-      "inactive": true,
-      "deactivatedDate": "2026-08-26"
     },
     {
       "text": "Experience is what you get when you didn't get what you wanted.",
@@ -2432,9 +2397,44 @@
       "date": "2026-08-14",
       "inactive": true,
       "deactivatedDate": "2026-08-30"
+    },
+    {
+      "text": "When we are no longer able to change a situation, we are challenged to change ourselves.",
+      "author": "Viktor Frankl",
+      "date": "2026-08-16",
+      "inactive": true,
+      "deactivatedDate": "2026-08-31"
+    },
+    {
+      "text": "Today you are you, that is truer than true. There is no one alive who is youer than you.",
+      "author": "Dr. Seuss",
+      "date": "2026-08-15",
+      "inactive": true,
+      "deactivatedDate": "2026-08-31"
+    },
+    {
+      "text": "The most glorious moments in your life are not the so-called days of success, but rather those days when out of dejection and despair you feel rise in you a challenge to life.",
+      "author": "Gustave Flaubert",
+      "date": "2026-08-15",
+      "inactive": true,
+      "deactivatedDate": "2026-08-31"
+    },
+    {
+      "text": "The spiritual gift of agency, the freedom to choose, is essential to our growth.",
+      "author": "Dallin H. Oaks",
+      "date": "2026-08-15",
+      "inactive": true,
+      "deactivatedDate": "2026-08-31"
+    },
+    {
+      "text": "Owning our story and loving ourselves through that process is the bravest thing that we'll ever do.",
+      "author": "Brené Brown",
+      "date": "2026-08-15",
+      "inactive": true,
+      "deactivatedDate": "2026-08-31"
     }
   ],
-  "lastRotation": "2026-08-30",
+  "lastRotation": "2026-08-31",
   "totalQuotes": 354,
   "activeQuotes": 79,
   "inactiveQuotes": 275
