@@ -1,13 +1,5 @@
 {
-  "pending": [
-    {
-      "id": "1788295747163",
-      "wisdom": "Never get so busy making a living that you forget to make a life.",
-      "author": "Dolly Parton",
-      "date": "2026-09-01",
-      "submittedAt": "2026-09-01T20:49:07.165Z"
-    }
-  ],
-  "approvedCount": 43,
+  "pending": [],
+  "approvedCount": 44,
   "rejectedCount": 3
 }
