@@ -1,6 +1,13 @@
 {
   "quotes": [
     {
+      "text": "Never get so busy making a living that you forget to make a life.",
+      "author": "Dolly Parton",
+      "date": "2026-09-01",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
       "text": "There is no innovation and creativity without failure. Period.",
       "author": "Brené Brown",
       "date": "2026-09-01",
@@ -2435,7 +2442,7 @@
     }
   ],
   "lastRotation": "2026-09-01",
-  "totalQuotes": 354,
-  "activeQuotes": 79,
+  "totalQuotes": 355,
+  "activeQuotes": 80,
   "inactiveQuotes": 275
 }
