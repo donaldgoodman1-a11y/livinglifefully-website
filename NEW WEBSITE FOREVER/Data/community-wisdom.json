@@ -1,6 +1,38 @@
 {
   "quotes": [
     {
+      "text": "Patience is the companion of wisdom.",
+      "author": "St. Augustine of Hippo",
+      "date": "2026-09-03",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "Sometimes things make more sense the second time around. People change, you change and the universe changes, if we keep ourselves confined to first chances only, we will truly miss out on some of the most beautiful things in life.",
+      "author": "Rania Naim",
+      "date": "2026-09-03",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "We must accept finite disappointment, but never lose infinite hope.",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-09-03",
+      "inactive": false
+    },
+    {
+      "text": "Well done is better than well said.",
+      "author": "Benjamin Franklin",
+      "date": "2026-09-03",
+      "inactive": false
+    },
+    {
+      "text": "Hold on. Hope on.",
+      "author": "Jeffrey R. Holland",
+      "date": "2026-09-03",
+      "inactive": false
+    },
+    {
       "text": "Never get so busy making a living that you forget to make a life.",
       "author": "Dolly Parton",
       "date": "2026-09-01",
@@ -458,36 +490,6 @@
       "inactive": false
     },
     {
-      "text": "The past is behind, learn from it. The future is ahead, prepare for it. The present is here, live it.",
-      "author": "Thomas S. Monson",
-      "date": "2026-08-18",
-      "inactive": false
-    },
-    {
-      "text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
-      "author": "Helen Keller",
-      "date": "2026-08-17",
-      "inactive": false
-    },
-    {
-      "text": "And above all, watch with glittering eyes the whole world around you because the greatest secrets are always hidden in the most unlikely places.",
-      "author": "Roald Dahl",
-      "date": "2026-08-17",
-      "inactive": false
-    },
-    {
-      "text": "You do not rise to the level of your goals. You fall to the level of your systems.",
-      "author": "James Clear",
-      "date": "2026-08-17",
-      "inactive": false
-    },
-    {
-      "text": "You can't use up creativity. The more you use, the more you have.",
-      "author": "Maya Angelou",
-      "date": "2026-08-17",
-      "inactive": false
-    },
-    {
       "text": "Decisions determine destiny.",
       "author": "Thomas S. Monson",
       "date": "2026-03-28",
@@ -660,14 +662,6 @@
       "deactivatedDate": "2026-05-27"
     },
     {
-      "text": "Patience is the companion of wisdom.",
-      "author": "St. Augustine of Hippo",
-      "date": "2026-05-15",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-05-28"
-    },
-    {
       "text": "It does not matter how slowly you go as long as you do not stop.",
       "author": "Confucius",
       "date": "2026-05-16",
@@ -691,13 +685,6 @@
     {
       "text": "Go confidently in the direction of your dreams. Live the life you have imagined.",
       "author": "Henry David Thoreau",
-      "date": "2026-05-18",
-      "inactive": true,
-      "deactivatedDate": "2026-05-31"
-    },
-    {
-      "text": "Hold on. Hope on.",
-      "author": "Jeffrey R. Holland",
       "date": "2026-05-18",
       "inactive": true,
       "deactivatedDate": "2026-05-31"
@@ -1559,14 +1546,6 @@
       "deactivatedDate": "2026-08-01"
     },
     {
-      "text": "Sometimes things make more sense the second time around. People change, you change and the universe changes, if we keep ourselves confined to first chances only, we will truly miss out on some of the most beautiful things in life.",
-      "author": "Rania Naim",
-      "date": "2026-07-16",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-08-01"
-    },
-    {
       "text": "There are moments when tribulations occur in our lives, and we cannot avoid them. But they are there for some reason … Only when we have overcome them do we understand why they were there.",
       "author": "Paulo Coelho",
       "date": "2026-07-18",
@@ -1749,13 +1728,6 @@
     {
       "text": "Why fit in when you were born to stand out?",
       "author": "Dr. Seuss",
-      "date": "2026-07-24",
-      "inactive": true,
-      "deactivatedDate": "2026-08-09"
-    },
-    {
-      "text": "Well done is better than well said.",
-      "author": "Benjamin Franklin",
       "date": "2026-07-24",
       "inactive": true,
       "deactivatedDate": "2026-08-09"
@@ -1976,13 +1948,6 @@
     {
       "text": "Start by doing what's necessary; then do what's possible; and suddenly you are doing the impossible.",
       "author": "St. Francis of Assisi",
-      "date": "2026-08-01",
-      "inactive": true,
-      "deactivatedDate": "2026-08-17"
-    },
-    {
-      "text": "We must accept finite disappointment, but never lose infinite hope.",
-      "author": "Martin Luther King Jr.",
       "date": "2026-08-01",
       "inactive": true,
       "deactivatedDate": "2026-08-17"
@@ -2439,9 +2404,44 @@
       "date": "2026-08-16",
       "inactive": true,
       "deactivatedDate": "2026-09-01"
+    },
+    {
+      "text": "The past is behind, learn from it. The future is ahead, prepare for it. The present is here, live it.",
+      "author": "Thomas S. Monson",
+      "date": "2026-08-18",
+      "inactive": true,
+      "deactivatedDate": "2026-09-03"
+    },
+    {
+      "text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
+      "author": "Helen Keller",
+      "date": "2026-08-17",
+      "inactive": true,
+      "deactivatedDate": "2026-09-03"
+    },
+    {
+      "text": "And above all, watch with glittering eyes the whole world around you because the greatest secrets are always hidden in the most unlikely places.",
+      "author": "Roald Dahl",
+      "date": "2026-08-17",
+      "inactive": true,
+      "deactivatedDate": "2026-09-03"
+    },
+    {
+      "text": "You do not rise to the level of your goals. You fall to the level of your systems.",
+      "author": "James Clear",
+      "date": "2026-08-17",
+      "inactive": true,
+      "deactivatedDate": "2026-09-03"
+    },
+    {
+      "text": "You can't use up creativity. The more you use, the more you have.",
+      "author": "Maya Angelou",
+      "date": "2026-08-17",
+      "inactive": true,
+      "deactivatedDate": "2026-09-03"
     }
   ],
-  "lastRotation": "2026-09-01",
+  "lastRotation": "2026-09-03",
   "totalQuotes": 355,
   "activeQuotes": 80,
   "inactiveQuotes": 275
