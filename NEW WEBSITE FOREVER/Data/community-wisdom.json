@@ -1,6 +1,13 @@
 {
   "quotes": [
     {
+      "text": "Life is a performance: don’t focus on the mistakes.",
+      "author": "Dr Goodman",
+      "date": "2026-09-04",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
       "text": "Patience is the companion of wisdom.",
       "author": "St. Augustine of Hippo",
       "date": "2026-09-03",
@@ -2442,7 +2449,7 @@
     }
   ],
   "lastRotation": "2026-09-03",
-  "totalQuotes": 355,
-  "activeQuotes": 80,
+  "totalQuotes": 356,
+  "activeQuotes": 81,
   "inactiveQuotes": 275
 }
