@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "No man is crushed by misfortune unless he has first been deceived by prosperity.\n-Seneca",
+      "author": "Seneca",
+      "date": "2026-09-04",
+      "inactive": false
+    },
+    {
+      "text": "The spiritual gift of agency, the freedom to choose, is essential to our growth.",
+      "author": "Dallin H. Oaks",
+      "date": "2026-09-04",
+      "inactive": false
+    },
+    {
+      "text": "There is some good in this world, and it's worth fighting for.",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-09-04",
+      "inactive": false
+    },
+    {
+      "text": "Good inspiration is based on good information.",
+      "author": "Russell M. Nelson",
+      "date": "2026-09-04",
+      "inactive": false
+    },
+    {
+      "text": "A single sunbeam is enough to drive away many shadows.",
+      "author": "St. Francis of Assisi",
+      "date": "2026-09-04",
+      "inactive": false
+    },
+    {
       "text": "Life is a performance: don’t focus on the mistakes.",
       "author": "Dr Goodman",
       "date": "2026-09-04",
@@ -465,38 +495,6 @@
       "inactive": false
     },
     {
-      "text": "A successful marriage requires falling in love many times, always with the same person.",
-      "author": "Mignon McLaughlin",
-      "date": "2026-08-19",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "Courage is not simply one of the virtues, but the form of every virtue at the testing point.",
-      "author": "C.S. Lewis",
-      "date": "2026-08-18",
-      "inactive": false
-    },
-    {
-      "text": "As life brings moments that feel too heavy to bear, place your trust in Christ. The burden may remain, but through the Atonement, it no longer rests on you alone.",
-      "author": "Natalie LeBaron",
-      "date": "2026-08-18",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "Because you are alive, everything is possible.",
-      "author": "Thich Nhat Hanh",
-      "date": "2026-08-18",
-      "inactive": false
-    },
-    {
-      "text": "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.",
-      "author": "Rumi",
-      "date": "2026-08-18",
-      "inactive": false
-    },
-    {
       "text": "Decisions determine destiny.",
       "author": "Thomas S. Monson",
       "date": "2026-03-28",
@@ -631,13 +629,6 @@
       "inactive": true,
       "communitySubmission": true,
       "deactivatedDate": "2026-05-22"
-    },
-    {
-      "text": "No man is crushed by misfortune unless he has first been deceived by prosperity.\n-Seneca",
-      "author": "Seneca",
-      "date": "2026-05-12",
-      "inactive": true,
-      "deactivatedDate": "2026-05-24"
     },
     {
       "text": "There is something you must remember. You are braver than you believe, stronger than you seem, and smarter than you think. But the most important thing is, even if we’re apart, I’ll always be with you.",
@@ -1007,13 +998,6 @@
       "deactivatedDate": "2026-07-05"
     },
     {
-      "text": "Good inspiration is based on good information.",
-      "author": "Russell M. Nelson",
-      "date": "2026-06-21",
-      "inactive": true,
-      "deactivatedDate": "2026-07-05"
-    },
-    {
       "text": "Happiness can be found even in the darkest of times, if one only remembers to turn on the light.",
       "author": "J.K. Rowling",
       "date": "2026-06-20",
@@ -1091,13 +1075,6 @@
       "deactivatedDate": "2026-07-09"
     },
     {
-      "text": "There is some good in this world, and it's worth fighting for.",
-      "author": "J.R.R. Tolkien",
-      "date": "2026-06-24",
-      "inactive": true,
-      "deactivatedDate": "2026-07-09"
-    },
-    {
       "text": "I am not what happened to me, I am what I choose to become.",
       "author": "Carl Jung",
       "date": "2026-06-26",
@@ -1124,13 +1101,6 @@
       "date": "2026-06-25",
       "inactive": true,
       "deactivatedDate": "2026-07-10"
-    },
-    {
-      "text": "A single sunbeam is enough to drive away many shadows.",
-      "author": "St. Francis of Assisi",
-      "date": "2026-06-27",
-      "inactive": true,
-      "deactivatedDate": "2026-07-11"
     },
     {
       "text": "Wherever you are… Be there. \nThis saying has been said in different ways, but this particular way has my personal touch on it. \nI had a plack made  for each one of my kids so that they know how important it is to be focused and in the moment.",
@@ -2364,13 +2334,6 @@
       "deactivatedDate": "2026-08-31"
     },
     {
-      "text": "The spiritual gift of agency, the freedom to choose, is essential to our growth.",
-      "author": "Dallin H. Oaks",
-      "date": "2026-08-15",
-      "inactive": true,
-      "deactivatedDate": "2026-08-31"
-    },
-    {
       "text": "Owning our story and loving ourselves through that process is the bravest thing that we'll ever do.",
       "author": "Brené Brown",
       "date": "2026-08-15",
@@ -2446,9 +2409,46 @@
       "date": "2026-08-17",
       "inactive": true,
       "deactivatedDate": "2026-09-03"
+    },
+    {
+      "text": "A successful marriage requires falling in love many times, always with the same person.",
+      "author": "Mignon McLaughlin",
+      "date": "2026-08-19",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-09-04"
+    },
+    {
+      "text": "Courage is not simply one of the virtues, but the form of every virtue at the testing point.",
+      "author": "C.S. Lewis",
+      "date": "2026-08-18",
+      "inactive": true,
+      "deactivatedDate": "2026-09-04"
+    },
+    {
+      "text": "As life brings moments that feel too heavy to bear, place your trust in Christ. The burden may remain, but through the Atonement, it no longer rests on you alone.",
+      "author": "Natalie LeBaron",
+      "date": "2026-08-18",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-09-04"
+    },
+    {
+      "text": "Because you are alive, everything is possible.",
+      "author": "Thich Nhat Hanh",
+      "date": "2026-08-18",
+      "inactive": true,
+      "deactivatedDate": "2026-09-04"
+    },
+    {
+      "text": "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.",
+      "author": "Rumi",
+      "date": "2026-08-18",
+      "inactive": true,
+      "deactivatedDate": "2026-09-04"
     }
   ],
-  "lastRotation": "2026-09-03",
+  "lastRotation": "2026-09-04",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
