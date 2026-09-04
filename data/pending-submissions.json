@@ -1,13 +1,5 @@
 {
-  "pending": [
-    {
-      "id": "1788487979866",
-      "wisdom": "Life is a performance: don’t focus on the mistakes.",
-      "author": "Dr Goodman",
-      "date": "2026-09-04",
-      "submittedAt": "2026-09-04T02:12:59.869Z"
-    }
-  ],
-  "approvedCount": 44,
+  "pending": [],
+  "approvedCount": 45,
   "rejectedCount": 3
 }
