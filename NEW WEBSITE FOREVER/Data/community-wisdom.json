@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "A little nonsense now and then is relished by the wisest men.",
+      "author": "Roald Dahl",
+      "date": "2026-09-05",
+      "inactive": false
+    },
+    {
+      "text": "The least of things with a meaning is worth more in life than the greatest of things without it.",
+      "author": "Carl Jung",
+      "date": "2026-09-05",
+      "inactive": false
+    },
+    {
+      "text": "I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live by the light that I have.",
+      "author": "Abraham Lincoln",
+      "date": "2026-09-05",
+      "inactive": false
+    },
+    {
+      "text": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+      "author": "Buddha",
+      "date": "2026-09-05",
+      "inactive": false
+    },
+    {
+      "text": "The joy we feel has little to do with the circumstances of our lives and everything to do with the focus of our lives.",
+      "author": "Russell M. Nelson",
+      "date": "2026-09-05",
+      "inactive": false
+    },
+    {
       "text": "No man is crushed by misfortune unless he has first been deceived by prosperity.\n-Seneca",
       "author": "Seneca",
       "date": "2026-09-04",
@@ -465,36 +495,6 @@
       "inactive": false
     },
     {
-      "text": "A soft answer turneth away wrath.",
-      "author": "King Solomon",
-      "date": "2026-08-20",
-      "inactive": false
-    },
-    {
-      "text": "Kind words can be short and easy to speak, but their echoes are truly endless.",
-      "author": "Mother Teresa",
-      "date": "2026-08-19",
-      "inactive": false
-    },
-    {
-      "text": "You are never too old to set another goal or to dream a new dream.",
-      "author": "C.S. Lewis",
-      "date": "2026-08-19",
-      "inactive": false
-    },
-    {
-      "text": "Humanity must seek what is NOT simple and obvious using the simple and obvious.",
-      "author": "Musonius Rufus",
-      "date": "2026-08-19",
-      "inactive": false
-    },
-    {
-      "text": "Imagination is more important than knowledge.",
-      "author": "Albert Einstein",
-      "date": "2026-08-19",
-      "inactive": false
-    },
-    {
       "text": "Decisions determine destiny.",
       "author": "Thomas S. Monson",
       "date": "2026-03-28",
@@ -688,13 +688,6 @@
       "deactivatedDate": "2026-05-31"
     },
     {
-      "text": "The joy we feel has little to do with the circumstances of our lives and everything to do with the focus of our lives.",
-      "author": "Russell M. Nelson",
-      "date": "2026-05-18",
-      "inactive": true,
-      "deactivatedDate": "2026-05-31"
-    },
-    {
       "text": "Peace comes from within. Do not seek it without.",
       "author": "Thich Nhat Hanh",
       "date": "2026-05-20",
@@ -836,13 +829,6 @@
       "deactivatedDate": "2026-06-19"
     },
     {
-      "text": "I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live by the light that I have.",
-      "author": "Abraham Lincoln",
-      "date": "2026-06-05",
-      "inactive": true,
-      "deactivatedDate": "2026-06-19"
-    },
-    {
       "text": "There are far, far better things ahead than any we leave behind.",
       "author": "C.S. Lewis",
       "date": "2026-06-05",
@@ -956,13 +942,6 @@
       "deactivatedDate": "2026-06-29"
     },
     {
-      "text": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
-      "author": "Buddha",
-      "date": "2026-06-17",
-      "inactive": true,
-      "deactivatedDate": "2026-07-01"
-    },
-    {
       "text": "let GO",
       "author": "Anonymous Reader",
       "date": "2026-06-16",
@@ -1052,13 +1031,6 @@
       "date": "2026-06-22",
       "inactive": true,
       "deactivatedDate": "2026-07-07"
-    },
-    {
-      "text": "The least of things with a meaning is worth more in life than the greatest of things without it.",
-      "author": "Carl Jung",
-      "date": "2026-06-23",
-      "inactive": true,
-      "deactivatedDate": "2026-07-08"
     },
     {
       "text": "Let yourself be silently drawn by the strange pull of what you really love. It will not lead you astray.",
@@ -2021,13 +1993,6 @@
       "deactivatedDate": "2026-08-21"
     },
     {
-      "text": "A little nonsense now and then is relished by the wisest men.",
-      "author": "Roald Dahl",
-      "date": "2026-08-05",
-      "inactive": true,
-      "deactivatedDate": "2026-08-21"
-    },
-    {
       "text": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
       "author": "Maya Angelou",
       "date": "2026-08-05",
@@ -2446,9 +2411,44 @@
       "date": "2026-08-18",
       "inactive": true,
       "deactivatedDate": "2026-09-04"
+    },
+    {
+      "text": "A soft answer turneth away wrath.",
+      "author": "King Solomon",
+      "date": "2026-08-20",
+      "inactive": true,
+      "deactivatedDate": "2026-09-05"
+    },
+    {
+      "text": "Kind words can be short and easy to speak, but their echoes are truly endless.",
+      "author": "Mother Teresa",
+      "date": "2026-08-19",
+      "inactive": true,
+      "deactivatedDate": "2026-09-05"
+    },
+    {
+      "text": "You are never too old to set another goal or to dream a new dream.",
+      "author": "C.S. Lewis",
+      "date": "2026-08-19",
+      "inactive": true,
+      "deactivatedDate": "2026-09-05"
+    },
+    {
+      "text": "Humanity must seek what is NOT simple and obvious using the simple and obvious.",
+      "author": "Musonius Rufus",
+      "date": "2026-08-19",
+      "inactive": true,
+      "deactivatedDate": "2026-09-05"
+    },
+    {
+      "text": "Imagination is more important than knowledge.",
+      "author": "Albert Einstein",
+      "date": "2026-08-19",
+      "inactive": true,
+      "deactivatedDate": "2026-09-05"
     }
   ],
-  "lastRotation": "2026-09-04",
+  "lastRotation": "2026-09-05",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
