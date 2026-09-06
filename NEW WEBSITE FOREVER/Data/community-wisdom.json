@@ -1,6 +1,37 @@
 {
   "quotes": [
     {
+      "text": "Remember: The serenity prayer: God grant me the serenity to accept the things I cannot \nchange; courage to change the things I can; and wisdom to know the difference. Living \none day at a time; enjoying one moment at a time; accepting hardships as the pathway to \npeace; taking, as He did, this sinful world as it is, not as I would have it; trusting that He \nwill make all things right If I surrender to His Will; that I may be reasonably happy in \nthis life and supremely happy with Him forever in the next. Amen",
+      "author": "Reinhold Niebuhr",
+      "date": "2026-09-06",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "There are far, far better things ahead than any we leave behind.",
+      "author": "C.S. Lewis",
+      "date": "2026-09-06",
+      "inactive": false
+    },
+    {
+      "text": "A person's a person, no matter how small.",
+      "author": "Dr. Seuss",
+      "date": "2026-09-06",
+      "inactive": false
+    },
+    {
+      "text": "I learned that courage was not the absence of fear, but the triumph over it.",
+      "author": "Nelson Mandela",
+      "date": "2026-09-06",
+      "inactive": false
+    },
+    {
+      "text": "A hero is someone who has given his or her life to something bigger than oneself.",
+      "author": "Joseph Campbell",
+      "date": "2026-09-06",
+      "inactive": false
+    },
+    {
       "text": "A little nonsense now and then is relished by the wisest men.",
       "author": "Roald Dahl",
       "date": "2026-09-05",
@@ -464,37 +495,6 @@
       "inactive": false
     },
     {
-      "text": "Attitude is a little thing that makes a big difference.",
-      "author": "Winston Churchill",
-      "date": "2026-08-21",
-      "inactive": false
-    },
-    {
-      "text": "Don’t make a project out of yourself. Get out of yourself and help someone else.",
-      "author": "Anonymous Reader",
-      "date": "2026-08-20",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "Thousands of candles can be lighted from a single candle. Happiness never decreases by being shared.",
-      "author": "Buddha",
-      "date": "2026-08-20",
-      "inactive": false
-    },
-    {
-      "text": "Life is to be enjoyed, not endured.",
-      "author": "Gordon B. Hinckley",
-      "date": "2026-08-20",
-      "inactive": false
-    },
-    {
-      "text": "First say to yourself what you would be; and then do what you have to do.",
-      "author": "Epictetus",
-      "date": "2026-08-20",
-      "inactive": false
-    },
-    {
       "text": "Decisions determine destiny.",
       "author": "Thomas S. Monson",
       "date": "2026-03-28",
@@ -536,14 +536,6 @@
       "date": "2026-04-18",
       "inactive": true,
       "deactivatedDate": "2026-04-28"
-    },
-    {
-      "text": "Remember: The serenity prayer: God grant me the serenity to accept the things I cannot \nchange; courage to change the things I can; and wisdom to know the difference. Living \none day at a time; enjoying one moment at a time; accepting hardships as the pathway to \npeace; taking, as He did, this sinful world as it is, not as I would have it; trusting that He \nwill make all things right If I surrender to His Will; that I may be reasonably happy in \nthis life and supremely happy with Him forever in the next. Amen",
-      "author": "Reinhold Niebuhr",
-      "date": "2026-04-20",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-04-30"
     },
     {
       "text": "A goal without a plan is just a wish.",
@@ -829,13 +821,6 @@
       "deactivatedDate": "2026-06-19"
     },
     {
-      "text": "There are far, far better things ahead than any we leave behind.",
-      "author": "C.S. Lewis",
-      "date": "2026-06-05",
-      "inactive": true,
-      "deactivatedDate": "2026-06-19"
-    },
-    {
       "text": "Don't cry because it's over, smile because it happened.",
       "author": "Dr. Seuss",
       "date": "2026-06-06",
@@ -1012,13 +997,6 @@
       "deactivatedDate": "2026-07-06"
     },
     {
-      "text": "A hero is someone who has given his or her life to something bigger than oneself.",
-      "author": "Joseph Campbell",
-      "date": "2026-06-23",
-      "inactive": true,
-      "deactivatedDate": "2026-07-07"
-    },
-    {
       "text": "Choose faith over fear, and doubt not.",
       "author": "David A. Bednar",
       "date": "2026-06-22",
@@ -1153,13 +1131,6 @@
       "deactivatedDate": "2026-07-15"
     },
     {
-      "text": "A person's a person, no matter how small.",
-      "author": "Dr. Seuss",
-      "date": "2026-06-30",
-      "inactive": true,
-      "deactivatedDate": "2026-07-15"
-    },
-    {
       "text": "The brick walls are there for a reason. They're not there to keep us out. The brick walls are there to give us a chance to show how badly we want something.",
       "author": "Randy Pausch",
       "date": "2026-07-01",
@@ -1193,13 +1164,6 @@
       "date": "2026-07-02",
       "inactive": true,
       "deactivatedDate": "2026-07-17"
-    },
-    {
-      "text": "I learned that courage was not the absence of fear, but the triumph over it.",
-      "author": "Nelson Mandela",
-      "date": "2026-07-04",
-      "inactive": true,
-      "deactivatedDate": "2026-07-18"
     },
     {
       "text": "Breathing in, I calm body and mind. Breathing out, I smile.",
@@ -2446,9 +2410,45 @@
       "date": "2026-08-19",
       "inactive": true,
       "deactivatedDate": "2026-09-05"
+    },
+    {
+      "text": "Attitude is a little thing that makes a big difference.",
+      "author": "Winston Churchill",
+      "date": "2026-08-21",
+      "inactive": true,
+      "deactivatedDate": "2026-09-06"
+    },
+    {
+      "text": "Don’t make a project out of yourself. Get out of yourself and help someone else.",
+      "author": "Anonymous Reader",
+      "date": "2026-08-20",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-09-06"
+    },
+    {
+      "text": "Thousands of candles can be lighted from a single candle. Happiness never decreases by being shared.",
+      "author": "Buddha",
+      "date": "2026-08-20",
+      "inactive": true,
+      "deactivatedDate": "2026-09-06"
+    },
+    {
+      "text": "Life is to be enjoyed, not endured.",
+      "author": "Gordon B. Hinckley",
+      "date": "2026-08-20",
+      "inactive": true,
+      "deactivatedDate": "2026-09-06"
+    },
+    {
+      "text": "First say to yourself what you would be; and then do what you have to do.",
+      "author": "Epictetus",
+      "date": "2026-08-20",
+      "inactive": true,
+      "deactivatedDate": "2026-09-06"
     }
   ],
-  "lastRotation": "2026-09-05",
+  "lastRotation": "2026-09-06",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
