@@ -1,6 +1,37 @@
 {
   "quotes": [
     {
+      "text": "Don't you quit. You keep walking. You keep trying. There is help and happiness ahead.",
+      "author": "Jeffrey R. Holland",
+      "date": "2026-09-07",
+      "inactive": false
+    },
+    {
+      "text": "Greater the persons' stature, the more one has to make sure to humble themselves.\nRashi, Berachos 34b",
+      "author": "Rashi, Berachos 34b",
+      "date": "2026-09-07",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "If there is no struggle, there is no progress.",
+      "author": "Frederick Douglass",
+      "date": "2026-09-07",
+      "inactive": false
+    },
+    {
+      "text": "Draw a crazy picture, Write a nutty poem, Sing a mumble-gumble song, Whistle through your comb.",
+      "author": "Shel Silverstein",
+      "date": "2026-09-07",
+      "inactive": false
+    },
+    {
+      "text": "Great things are done by a series of small things brought together.",
+      "author": "Vincent Van Gogh",
+      "date": "2026-09-07",
+      "inactive": false
+    },
+    {
       "text": "Remember: The serenity prayer: God grant me the serenity to accept the things I cannot \nchange; courage to change the things I can; and wisdom to know the difference. Living \none day at a time; enjoying one moment at a time; accepting hardships as the pathway to \npeace; taking, as He did, this sinful world as it is, not as I would have it; trusting that He \nwill make all things right If I surrender to His Will; that I may be reasonably happy in \nthis life and supremely happy with Him forever in the next. Amen",
       "author": "Reinhold Niebuhr",
       "date": "2026-09-06",
@@ -462,36 +493,6 @@
       "text": "You were born to win, but to be a winner, you must plan to win, prepare to win, and expect to win.",
       "author": "Zig Ziglar",
       "date": "2026-08-22",
-      "inactive": false
-    },
-    {
-      "text": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you.",
-      "author": "Jesus Christ",
-      "date": "2026-08-22",
-      "inactive": false
-    },
-    {
-      "text": "Wise men speak because they have something to say; fools because they have to say something.",
-      "author": "Plato",
-      "date": "2026-08-21",
-      "inactive": false
-    },
-    {
-      "text": "What would life be if we had no courage to attempt anything?",
-      "author": "Vincent Van Gogh",
-      "date": "2026-08-21",
-      "inactive": false
-    },
-    {
-      "text": "Those who have a 'why' to live, can bear with almost any 'how'.",
-      "author": "Viktor Frankl",
-      "date": "2026-08-21",
-      "inactive": false
-    },
-    {
-      "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
-      "author": "Martin Luther King Jr.",
-      "date": "2026-08-21",
       "inactive": false
     },
     {
@@ -1845,13 +1846,6 @@
       "deactivatedDate": "2026-08-17"
     },
     {
-      "text": "Great things are done by a series of small things brought together.",
-      "author": "Vincent Van Gogh",
-      "date": "2026-08-01",
-      "inactive": true,
-      "deactivatedDate": "2026-08-17"
-    },
-    {
       "text": "We cannot change the cards we are dealt, just how we play the hand.",
       "author": "Randy Pausch",
       "date": "2026-08-01",
@@ -2100,14 +2094,6 @@
       "deactivatedDate": "2026-08-26"
     },
     {
-      "text": "Greater the persons' stature, the more one has to make sure to humble themselves.\nRashi, Berachos 34b",
-      "author": "Rashi, Berachos 34b",
-      "date": "2026-08-12",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-08-27"
-    },
-    {
       "text": "Science is not only compatible with spirituality; it is a profound source of spirituality.",
       "author": "Carl Sagan",
       "date": "2026-08-11",
@@ -2193,13 +2179,6 @@
       "deactivatedDate": "2026-08-29"
     },
     {
-      "text": "Draw a crazy picture, Write a nutty poem, Sing a mumble-gumble song, Whistle through your comb.",
-      "author": "Shel Silverstein",
-      "date": "2026-08-13",
-      "inactive": true,
-      "deactivatedDate": "2026-08-29"
-    },
-    {
       "text": "It's not about how to achieve your dreams, it's about how to lead your life. If you lead your life the right way, the karma will take care of itself.",
       "author": "Randy Pausch",
       "date": "2026-08-13",
@@ -2216,13 +2195,6 @@
     {
       "text": "I wish it need not have happened in my time, said Frodo. So do I, said Gandalf, and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.",
       "author": "J.R.R. Tolkien",
-      "date": "2026-08-14",
-      "inactive": true,
-      "deactivatedDate": "2026-08-30"
-    },
-    {
-      "text": "If there is no struggle, there is no progress.",
-      "author": "Frederick Douglass",
       "date": "2026-08-14",
       "inactive": true,
       "deactivatedDate": "2026-08-30"
@@ -2286,13 +2258,6 @@
     {
       "text": "Instructions for living a life: Pay attention. Be astonished. Tell about it.",
       "author": "Mary Oliver",
-      "date": "2026-08-16",
-      "inactive": true,
-      "deactivatedDate": "2026-09-01"
-    },
-    {
-      "text": "Don't you quit. You keep walking. You keep trying. There is help and happiness ahead.",
-      "author": "Jeffrey R. Holland",
       "date": "2026-08-16",
       "inactive": true,
       "deactivatedDate": "2026-09-01"
@@ -2446,9 +2411,44 @@
       "date": "2026-08-20",
       "inactive": true,
       "deactivatedDate": "2026-09-06"
+    },
+    {
+      "text": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you.",
+      "author": "Jesus Christ",
+      "date": "2026-08-22",
+      "inactive": true,
+      "deactivatedDate": "2026-09-07"
+    },
+    {
+      "text": "Wise men speak because they have something to say; fools because they have to say something.",
+      "author": "Plato",
+      "date": "2026-08-21",
+      "inactive": true,
+      "deactivatedDate": "2026-09-07"
+    },
+    {
+      "text": "What would life be if we had no courage to attempt anything?",
+      "author": "Vincent Van Gogh",
+      "date": "2026-08-21",
+      "inactive": true,
+      "deactivatedDate": "2026-09-07"
+    },
+    {
+      "text": "Those who have a 'why' to live, can bear with almost any 'how'.",
+      "author": "Viktor Frankl",
+      "date": "2026-08-21",
+      "inactive": true,
+      "deactivatedDate": "2026-09-07"
+    },
+    {
+      "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-08-21",
+      "inactive": true,
+      "deactivatedDate": "2026-09-07"
     }
   ],
-  "lastRotation": "2026-09-06",
+  "lastRotation": "2026-09-07",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
