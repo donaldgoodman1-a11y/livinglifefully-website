@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Owning our story and loving ourselves through that process is the bravest thing that we'll ever do.",
+      "author": "Brené Brown",
+      "date": "2026-09-08",
+      "inactive": false
+    },
+    {
+      "text": "Happiness depends upon ourselves.",
+      "author": "Aristotle",
+      "date": "2026-09-08",
+      "inactive": false
+    },
+    {
+      "text": "You don't have to see the whole staircase, just take the first step.",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-09-08",
+      "inactive": false
+    },
+    {
+      "text": "Freedom is never given; it is won.",
+      "author": "A. Philip Randolph",
+      "date": "2026-09-08",
+      "inactive": false
+    },
+    {
+      "text": "Peace begins with a smile.",
+      "author": "Mother Teresa",
+      "date": "2026-09-08",
+      "inactive": false
+    },
+    {
       "text": "Don't you quit. You keep walking. You keep trying. There is help and happiness ahead.",
       "author": "Jeffrey R. Holland",
       "date": "2026-09-07",
@@ -466,36 +496,6 @@
       "inactive": false
     },
     {
-      "text": "The meeting of two personalities is like the contact of two chemical substances: if there is any reaction, both are transformed.",
-      "author": "Carl Jung",
-      "date": "2026-08-23",
-      "inactive": false
-    },
-    {
-      "text": "The best way out is always through.",
-      "author": "Robert Frost",
-      "date": "2026-08-22",
-      "inactive": false
-    },
-    {
-      "text": "Don’t make a project out of yourself. \nMove outside yourself.",
-      "author": "Dr Goodman",
-      "date": "2026-08-22",
-      "inactive": false
-    },
-    {
-      "text": "Getting old is like climbing a mountain; you get a little out of breath, but the view is much better.",
-      "author": "Ingrid Bergman",
-      "date": "2026-08-22",
-      "inactive": false
-    },
-    {
-      "text": "You were born to win, but to be a winner, you must plan to win, prepare to win, and expect to win.",
-      "author": "Zig Ziglar",
-      "date": "2026-08-22",
-      "inactive": false
-    },
-    {
       "text": "Decisions determine destiny.",
       "author": "Thomas S. Monson",
       "date": "2026-03-28",
@@ -745,13 +745,6 @@
       "deactivatedDate": "2026-06-08"
     },
     {
-      "text": "Peace begins with a smile.",
-      "author": "Mother Teresa",
-      "date": "2026-05-28",
-      "inactive": true,
-      "deactivatedDate": "2026-06-10"
-    },
-    {
       "text": "There is a place where the sidewalk ends and before the street begins.",
       "author": "Shel Silverstein",
       "date": "2026-05-28",
@@ -942,25 +935,11 @@
       "deactivatedDate": "2026-07-02"
     },
     {
-      "text": "Freedom is never given; it is won.",
-      "author": "A. Philip Randolph",
-      "date": "2026-06-19",
-      "inactive": true,
-      "deactivatedDate": "2026-07-03"
-    },
-    {
       "text": "What we insistently desire, over time, is what we will eventually become.",
       "author": "Neal A. Maxwell",
       "date": "2026-06-19",
       "inactive": true,
       "deactivatedDate": "2026-07-04"
-    },
-    {
-      "text": "You don't have to see the whole staircase, just take the first step.",
-      "author": "Martin Luther King Jr.",
-      "date": "2026-06-21",
-      "inactive": true,
-      "deactivatedDate": "2026-07-05"
     },
     {
       "text": "Happiness can be found even in the darkest of times, if one only remembers to turn on the light.",
@@ -1252,13 +1231,6 @@
       "date": "2026-07-06",
       "inactive": true,
       "deactivatedDate": "2026-07-21"
-    },
-    {
-      "text": "Happiness depends upon ourselves.",
-      "author": "Aristotle",
-      "date": "2026-07-08",
-      "inactive": true,
-      "deactivatedDate": "2026-07-22"
     },
     {
       "text": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
@@ -2235,13 +2207,6 @@
       "deactivatedDate": "2026-08-31"
     },
     {
-      "text": "Owning our story and loving ourselves through that process is the bravest thing that we'll ever do.",
-      "author": "Brené Brown",
-      "date": "2026-08-15",
-      "inactive": true,
-      "deactivatedDate": "2026-08-31"
-    },
-    {
       "text": "If you're going through hell, keep going.",
       "author": "Winston Churchill",
       "date": "2026-08-17",
@@ -2446,9 +2411,44 @@
       "date": "2026-08-21",
       "inactive": true,
       "deactivatedDate": "2026-09-07"
+    },
+    {
+      "text": "The meeting of two personalities is like the contact of two chemical substances: if there is any reaction, both are transformed.",
+      "author": "Carl Jung",
+      "date": "2026-08-23",
+      "inactive": true,
+      "deactivatedDate": "2026-09-08"
+    },
+    {
+      "text": "The best way out is always through.",
+      "author": "Robert Frost",
+      "date": "2026-08-22",
+      "inactive": true,
+      "deactivatedDate": "2026-09-08"
+    },
+    {
+      "text": "Don’t make a project out of yourself. \nMove outside yourself.",
+      "author": "Dr Goodman",
+      "date": "2026-08-22",
+      "inactive": true,
+      "deactivatedDate": "2026-09-08"
+    },
+    {
+      "text": "Getting old is like climbing a mountain; you get a little out of breath, but the view is much better.",
+      "author": "Ingrid Bergman",
+      "date": "2026-08-22",
+      "inactive": true,
+      "deactivatedDate": "2026-09-08"
+    },
+    {
+      "text": "You were born to win, but to be a winner, you must plan to win, prepare to win, and expect to win.",
+      "author": "Zig Ziglar",
+      "date": "2026-08-22",
+      "inactive": true,
+      "deactivatedDate": "2026-09-08"
     }
   ],
-  "lastRotation": "2026-09-07",
+  "lastRotation": "2026-09-08",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
