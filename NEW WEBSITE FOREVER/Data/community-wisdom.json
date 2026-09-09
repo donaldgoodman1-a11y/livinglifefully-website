@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "You can never get a cup of tea large enough or a book long enough to suit me.",
+      "author": "C.S. Lewis",
+      "date": "2026-09-09",
+      "inactive": false
+    },
+    {
+      "text": "To pull a friend out of the mire, don’t hesitate to get dirty.\nBaal Shem",
+      "author": "Baal Shem Tov",
+      "date": "2026-09-09",
+      "inactive": false
+    },
+    {
+      "text": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-09-09",
+      "inactive": false
+    },
+    {
+      "text": "Where the head goes, the body follows. Perception precedes action.",
+      "author": "Ryan Holiday",
+      "date": "2026-09-09",
+      "inactive": false
+    },
+    {
+      "text": "The mind is everything. What you think you become.",
+      "author": "Buddha",
+      "date": "2026-09-09",
+      "inactive": false
+    },
+    {
       "text": "Owning our story and loving ourselves through that process is the bravest thing that we'll ever do.",
       "author": "Brené Brown",
       "date": "2026-09-08",
@@ -465,37 +495,6 @@
       "inactive": false
     },
     {
-      "text": "Faith is to believe what you do not see; the reward of this faith is to see what you believe.",
-      "author": "St. Augustine",
-      "date": "2026-08-24",
-      "inactive": false
-    },
-    {
-      "text": "You either walk inside your story and own it or you stand outside your story and hustle for your worthiness.",
-      "author": "Brené Brown",
-      "date": "2026-08-23",
-      "inactive": false
-    },
-    {
-      "text": "The secret of staying young is to live honestly, eat slowly, and lie about your age.",
-      "author": "Lucille Ball",
-      "date": "2026-08-23",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "The time is always right to do what is right.",
-      "author": "Martin Luther King Jr.",
-      "date": "2026-08-23",
-      "inactive": false
-    },
-    {
-      "text": "For every minute you are angry you lose sixty seconds of happiness.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-08-23",
-      "inactive": false
-    },
-    {
       "text": "Decisions determine destiny.",
       "author": "Thomas S. Monson",
       "date": "2026-03-28",
@@ -738,13 +737,6 @@
       "deactivatedDate": "2026-06-08"
     },
     {
-      "text": "To pull a friend out of the mire, don’t hesitate to get dirty.\nBaal Shem",
-      "author": "Baal Shem Tov",
-      "date": "2026-05-26",
-      "inactive": true,
-      "deactivatedDate": "2026-06-08"
-    },
-    {
       "text": "There is a place where the sidewalk ends and before the street begins.",
       "author": "Shel Silverstein",
       "date": "2026-05-28",
@@ -954,13 +946,6 @@
       "date": "2026-06-20",
       "inactive": true,
       "deactivatedDate": "2026-07-05"
-    },
-    {
-      "text": "Where the head goes, the body follows. Perception precedes action.",
-      "author": "Ryan Holiday",
-      "date": "2026-06-22",
-      "inactive": true,
-      "deactivatedDate": "2026-07-06"
     },
     {
       "text": "Never wound a snake; kill it.",
@@ -1505,13 +1490,6 @@
       "deactivatedDate": "2026-08-05"
     },
     {
-      "text": "You can never get a cup of tea large enough or a book long enough to suit me.",
-      "author": "C.S. Lewis",
-      "date": "2026-07-20",
-      "inactive": true,
-      "deactivatedDate": "2026-08-05"
-    },
-    {
       "text": "Faith is taking the first step even when you don't see the whole staircase.",
       "author": "Martin Luther King Jr.",
       "date": "2026-07-20",
@@ -1832,13 +1810,6 @@
       "deactivatedDate": "2026-08-17"
     },
     {
-      "text": "The mind is everything. What you think you become.",
-      "author": "Buddha",
-      "date": "2026-08-02",
-      "inactive": true,
-      "deactivatedDate": "2026-08-18"
-    },
-    {
       "text": "We read to know we are not alone.",
       "author": "C.S. Lewis",
       "date": "2026-08-02",
@@ -1997,13 +1968,6 @@
       "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
       "author": "Aristotle",
       "date": "2026-08-09",
-      "inactive": true,
-      "deactivatedDate": "2026-08-24"
-    },
-    {
-      "text": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-08-08",
       "inactive": true,
       "deactivatedDate": "2026-08-24"
     },
@@ -2446,9 +2410,45 @@
       "date": "2026-08-22",
       "inactive": true,
       "deactivatedDate": "2026-09-08"
+    },
+    {
+      "text": "Faith is to believe what you do not see; the reward of this faith is to see what you believe.",
+      "author": "St. Augustine",
+      "date": "2026-08-24",
+      "inactive": true,
+      "deactivatedDate": "2026-09-09"
+    },
+    {
+      "text": "You either walk inside your story and own it or you stand outside your story and hustle for your worthiness.",
+      "author": "Brené Brown",
+      "date": "2026-08-23",
+      "inactive": true,
+      "deactivatedDate": "2026-09-09"
+    },
+    {
+      "text": "The secret of staying young is to live honestly, eat slowly, and lie about your age.",
+      "author": "Lucille Ball",
+      "date": "2026-08-23",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-09-09"
+    },
+    {
+      "text": "The time is always right to do what is right.",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-08-23",
+      "inactive": true,
+      "deactivatedDate": "2026-09-09"
+    },
+    {
+      "text": "For every minute you are angry you lose sixty seconds of happiness.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-08-23",
+      "inactive": true,
+      "deactivatedDate": "2026-09-09"
     }
   ],
-  "lastRotation": "2026-09-08",
+  "lastRotation": "2026-09-09",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
