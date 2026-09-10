@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "To bear trials with a calm mind robs misfortune of its strength and burden.",
+      "author": "Seneca",
+      "date": "2026-09-10",
+      "inactive": false
+    },
+    {
+      "text": "You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes.",
+      "author": "A.A. Milne",
+      "date": "2026-09-10",
+      "inactive": false
+    },
+    {
+      "text": "Those who don't believe in magic will never find it.",
+      "author": "Roald Dahl",
+      "date": "2026-09-10",
+      "inactive": false
+    },
+    {
+      "text": "Friendship is born at that moment when one person says to another: What! You too? I thought I was the only one.",
+      "author": "C.S. Lewis",
+      "date": "2026-09-10",
+      "inactive": false
+    },
+    {
+      "text": "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
+      "author": "Mother Teresa",
+      "date": "2026-09-10",
+      "inactive": false
+    },
+    {
       "text": "You can never get a cup of tea large enough or a book long enough to suit me.",
       "author": "C.S. Lewis",
       "date": "2026-09-09",
@@ -465,36 +495,6 @@
       "communitySubmission": true
     },
     {
-      "text": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
-      "author": "Eleanor Roosevelt",
-      "date": "2026-08-25",
-      "inactive": false
-    },
-    {
-      "text": "Rock bottom became the solid foundation on which I rebuilt my life.",
-      "author": "J.K. Rowling",
-      "date": "2026-08-24",
-      "inactive": false
-    },
-    {
-      "text": "Raise your words, not voice. It is rain that grows flowers, not thunder.",
-      "author": "Rumi",
-      "date": "2026-08-24",
-      "inactive": false
-    },
-    {
-      "text": "People often say that motivation doesn't last. Well, neither does bathing—that's why we recommend it daily.",
-      "author": "Zig Ziglar",
-      "date": "2026-08-24",
-      "inactive": false
-    },
-    {
-      "text": "Remember that sometimes not getting what you want is a wonderful stroke of luck.",
-      "author": "Dalai Lama",
-      "date": "2026-08-24",
-      "inactive": false
-    },
-    {
       "text": "Decisions determine destiny.",
       "author": "Thomas S. Monson",
       "date": "2026-03-28",
@@ -557,13 +557,6 @@
       "date": "2026-04-25",
       "inactive": true,
       "deactivatedDate": "2026-05-07"
-    },
-    {
-      "text": "To bear trials with a calm mind robs misfortune of its strength and burden.",
-      "author": "Seneca",
-      "date": "2026-04-30",
-      "inactive": true,
-      "deactivatedDate": "2026-05-11"
     },
     {
       "text": "Whatever you are, be a good one.",
@@ -1068,13 +1061,6 @@
       "deactivatedDate": "2026-07-14"
     },
     {
-      "text": "Those who don't believe in magic will never find it.",
-      "author": "Roald Dahl",
-      "date": "2026-06-29",
-      "inactive": true,
-      "deactivatedDate": "2026-07-14"
-    },
-    {
       "text": "Not all of us can do great things. But we can do small things with great love.",
       "author": "Mother Teresa",
       "date": "2026-07-01",
@@ -1161,13 +1147,6 @@
       "deactivatedDate": "2026-07-19"
     },
     {
-      "text": "Friendship is born at that moment when one person says to another: What! You too? I thought I was the only one.",
-      "author": "C.S. Lewis",
-      "date": "2026-07-04",
-      "inactive": true,
-      "deactivatedDate": "2026-07-19"
-    },
-    {
       "text": "Quick to observe means quick to act.",
       "author": "David A. Bednar",
       "date": "2026-07-06",
@@ -1230,13 +1209,6 @@
       "date": "2026-07-07",
       "inactive": true,
       "deactivatedDate": "2026-07-22"
-    },
-    {
-      "text": "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
-      "author": "Mother Teresa",
-      "date": "2026-07-09",
-      "inactive": true,
-      "deactivatedDate": "2026-07-23"
     },
     {
       "text": "Habits are the compound interest of self-improvement.",
@@ -1866,13 +1838,6 @@
       "deactivatedDate": "2026-08-20"
     },
     {
-      "text": "You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes.",
-      "author": "A.A. Milne",
-      "date": "2026-08-04",
-      "inactive": true,
-      "deactivatedDate": "2026-08-20"
-    },
-    {
       "text": "The impediment to action advances action. What stands in the way becomes the way.",
       "author": "Ryan Holiday",
       "date": "2026-08-04",
@@ -2446,9 +2411,44 @@
       "date": "2026-08-23",
       "inactive": true,
       "deactivatedDate": "2026-09-09"
+    },
+    {
+      "text": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-08-25",
+      "inactive": true,
+      "deactivatedDate": "2026-09-10"
+    },
+    {
+      "text": "Rock bottom became the solid foundation on which I rebuilt my life.",
+      "author": "J.K. Rowling",
+      "date": "2026-08-24",
+      "inactive": true,
+      "deactivatedDate": "2026-09-10"
+    },
+    {
+      "text": "Raise your words, not voice. It is rain that grows flowers, not thunder.",
+      "author": "Rumi",
+      "date": "2026-08-24",
+      "inactive": true,
+      "deactivatedDate": "2026-09-10"
+    },
+    {
+      "text": "People often say that motivation doesn't last. Well, neither does bathing—that's why we recommend it daily.",
+      "author": "Zig Ziglar",
+      "date": "2026-08-24",
+      "inactive": true,
+      "deactivatedDate": "2026-09-10"
+    },
+    {
+      "text": "Remember that sometimes not getting what you want is a wonderful stroke of luck.",
+      "author": "Dalai Lama",
+      "date": "2026-08-24",
+      "inactive": true,
+      "deactivatedDate": "2026-09-10"
     }
   ],
-  "lastRotation": "2026-09-09",
+  "lastRotation": "2026-09-10",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
