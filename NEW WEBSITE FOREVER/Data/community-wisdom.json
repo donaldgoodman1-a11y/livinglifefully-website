@@ -1,6 +1,37 @@
 {
   "quotes": [
     {
+      "text": "Wherever you go, go with all your heart.",
+      "author": "Confucius",
+      "date": "2026-09-11",
+      "inactive": false
+    },
+    {
+      "text": "What you see and what you hear depends a great deal on where you are standing. It also depends on what sort of person you are.",
+      "author": "C.S. Lewis",
+      "date": "2026-09-11",
+      "inactive": false
+    },
+    {
+      "text": "The present moment is the only time over which we have dominion.",
+      "author": "Thich Nhat Hanh",
+      "date": "2026-09-11",
+      "inactive": false
+    },
+    {
+      "text": "Don’t make a project out of yourself. Get out of yourself and help someone else.",
+      "author": "Anonymous Reader",
+      "date": "2026-09-11",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "Peace comes from within. Do not seek it without.",
+      "author": "Thich Nhat Hanh",
+      "date": "2026-09-11",
+      "inactive": false
+    },
+    {
       "text": "To bear trials with a calm mind robs misfortune of its strength and burden.",
       "author": "Seneca",
       "date": "2026-09-10",
@@ -464,37 +495,6 @@
       "inactive": false
     },
     {
-      "text": "An investment in knowledge pays the best interest.",
-      "author": "Benjamin Franklin",
-      "date": "2026-08-26",
-      "inactive": false
-    },
-    {
-      "text": "Doubt your doubts before you doubt your faith.",
-      "author": "Dieter F. Uchtdorf",
-      "date": "2026-08-25",
-      "inactive": false
-    },
-    {
-      "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-08-25",
-      "inactive": false
-    },
-    {
-      "text": "And we know that all things work together for good to them that love God.",
-      "author": "Paul the Apostle",
-      "date": "2026-08-25",
-      "inactive": false
-    },
-    {
-      "text": "You can't heal the people you love. You can't make choices for them. You can't rescue \nthem. You can promise that they won't journey alone. You can loan them your map. But \nthis trip is theirs. By Laura Jean Truman",
-      "author": "Laura Jean Truman",
-      "date": "2026-08-25",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
       "text": "Decisions determine destiny.",
       "author": "Thomas S. Monson",
       "date": "2026-03-28",
@@ -671,13 +671,6 @@
       "date": "2026-05-18",
       "inactive": true,
       "deactivatedDate": "2026-05-31"
-    },
-    {
-      "text": "Peace comes from within. Do not seek it without.",
-      "author": "Thich Nhat Hanh",
-      "date": "2026-05-20",
-      "inactive": true,
-      "deactivatedDate": "2026-06-01"
     },
     {
       "text": "Isn't it funny how day by day nothing changes, but when you look back, everything is different.",
@@ -1726,13 +1719,6 @@
       "deactivatedDate": "2026-08-15"
     },
     {
-      "text": "The present moment is the only time over which we have dominion.",
-      "author": "Thich Nhat Hanh",
-      "date": "2026-08-01",
-      "inactive": true,
-      "deactivatedDate": "2026-08-16"
-    },
-    {
       "text": "I grew up like a neglected weed, ignorant of liberty, having no experience of it.",
       "author": "Harriet Tubman",
       "date": "2026-07-31",
@@ -1759,13 +1745,6 @@
       "date": "2026-07-31",
       "inactive": true,
       "deactivatedDate": "2026-08-16"
-    },
-    {
-      "text": "Wherever you go, go with all your heart.",
-      "author": "Confucius",
-      "date": "2026-08-02",
-      "inactive": true,
-      "deactivatedDate": "2026-08-17"
     },
     {
       "text": "We cannot change the cards we are dealt, just how we play the hand.",
@@ -2066,13 +2045,6 @@
       "deactivatedDate": "2026-08-29"
     },
     {
-      "text": "What you see and what you hear depends a great deal on where you are standing. It also depends on what sort of person you are.",
-      "author": "C.S. Lewis",
-      "date": "2026-08-13",
-      "inactive": true,
-      "deactivatedDate": "2026-08-29"
-    },
-    {
       "text": "The enabling power of the Atonement strengthens us.",
       "author": "David A. Bednar",
       "date": "2026-08-13",
@@ -2278,14 +2250,6 @@
       "deactivatedDate": "2026-09-06"
     },
     {
-      "text": "Don’t make a project out of yourself. Get out of yourself and help someone else.",
-      "author": "Anonymous Reader",
-      "date": "2026-08-20",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-09-06"
-    },
-    {
       "text": "Thousands of candles can be lighted from a single candle. Happiness never decreases by being shared.",
       "author": "Buddha",
       "date": "2026-08-20",
@@ -2446,9 +2410,45 @@
       "date": "2026-08-24",
       "inactive": true,
       "deactivatedDate": "2026-09-10"
+    },
+    {
+      "text": "An investment in knowledge pays the best interest.",
+      "author": "Benjamin Franklin",
+      "date": "2026-08-26",
+      "inactive": true,
+      "deactivatedDate": "2026-09-11"
+    },
+    {
+      "text": "Doubt your doubts before you doubt your faith.",
+      "author": "Dieter F. Uchtdorf",
+      "date": "2026-08-25",
+      "inactive": true,
+      "deactivatedDate": "2026-09-11"
+    },
+    {
+      "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-08-25",
+      "inactive": true,
+      "deactivatedDate": "2026-09-11"
+    },
+    {
+      "text": "And we know that all things work together for good to them that love God.",
+      "author": "Paul the Apostle",
+      "date": "2026-08-25",
+      "inactive": true,
+      "deactivatedDate": "2026-09-11"
+    },
+    {
+      "text": "You can't heal the people you love. You can't make choices for them. You can't rescue \nthem. You can promise that they won't journey alone. You can loan them your map. But \nthis trip is theirs. By Laura Jean Truman",
+      "author": "Laura Jean Truman",
+      "date": "2026-08-25",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-09-11"
     }
   ],
-  "lastRotation": "2026-09-10",
+  "lastRotation": "2026-09-11",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
