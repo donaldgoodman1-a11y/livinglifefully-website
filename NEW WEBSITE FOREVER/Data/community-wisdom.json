@@ -1,6 +1,38 @@
 {
   "quotes": [
     {
+      "text": "If you have good thoughts they will shine out of your face like sunbeams and you will always look lovely.",
+      "author": "Roald Dahl",
+      "date": "2026-09-12",
+      "inactive": false
+    },
+    {
+      "text": "When we make our fantasies our reality they often become our nightmares.",
+      "author": "Dr Goodman",
+      "date": "2026-09-12",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "Let us not pray to be sheltered from dangers but to be fearless when facing them.",
+      "author": "Rabindranath Tagore",
+      "date": "2026-09-12",
+      "inactive": false
+    },
+    {
+      "text": "You must do the things you think you cannot do.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-09-12",
+      "inactive": false
+    },
+    {
+      "text": "“Loneliness, is not the absence of people around us, but the inability to express what truly matters within us",
+      "author": "Carl Jung",
+      "date": "2026-09-12",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
       "text": "Wherever you go, go with all your heart.",
       "author": "Confucius",
       "date": "2026-09-11",
@@ -462,36 +494,6 @@
       "text": "Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!",
       "author": "Dr. Seuss",
       "date": "2026-08-27",
-      "inactive": false
-    },
-    {
-      "text": "How many slams in an old screen door? Depends how loud you shut it.",
-      "author": "Shel Silverstein",
-      "date": "2026-08-27",
-      "inactive": false
-    },
-    {
-      "text": "The privilege of a lifetime is being who you are.",
-      "author": "Joseph Campbell",
-      "date": "2026-08-26",
-      "inactive": false
-    },
-    {
-      "text": "Joy comes not in riches, or in things, but in relationships.",
-      "author": "Russell M. Nelson",
-      "date": "2026-08-26",
-      "inactive": false
-    },
-    {
-      "text": "Be kind, for everyone you meet is fighting a hard battle.",
-      "author": "Plato",
-      "date": "2026-08-26",
-      "inactive": false
-    },
-    {
-      "text": "It's kind of fun to do the impossible.",
-      "author": "Walt Disney",
-      "date": "2026-08-26",
       "inactive": false
     },
     {
@@ -1519,14 +1521,6 @@
       "deactivatedDate": "2026-08-07"
     },
     {
-      "text": "When we make our fantasies our reality they often become our nightmares.",
-      "author": "Dr Goodman",
-      "date": "2026-07-22",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-08-07"
-    },
-    {
       "text": "The happiness of your life depends upon the quality of your thoughts.",
       "author": "Marcus Aurelius",
       "date": "2026-07-24",
@@ -1775,20 +1769,6 @@
       "deactivatedDate": "2026-08-18"
     },
     {
-      "text": "Let us not pray to be sheltered from dangers but to be fearless when facing them.",
-      "author": "Rabindranath Tagore",
-      "date": "2026-08-04",
-      "inactive": true,
-      "deactivatedDate": "2026-08-19"
-    },
-    {
-      "text": "If you have good thoughts they will shine out of your face like sunbeams and you will always look lovely.",
-      "author": "Roald Dahl",
-      "date": "2026-08-03",
-      "inactive": true,
-      "deactivatedDate": "2026-08-19"
-    },
-    {
       "text": "Accept the things to which fate binds you, and love the people with whom fate brings you together.",
       "author": "Marcus Aurelius",
       "date": "2026-08-03",
@@ -1863,14 +1843,6 @@
       "author": "Russell M. Nelson",
       "date": "2026-08-06",
       "inactive": true,
-      "deactivatedDate": "2026-08-22"
-    },
-    {
-      "text": "“Loneliness, is not the absence of people around us, but the inability to express what truly matters within us",
-      "author": "Carl Jung",
-      "date": "2026-08-06",
-      "inactive": true,
-      "communitySubmission": true,
       "deactivatedDate": "2026-08-22"
     },
     {
@@ -2006,13 +1978,6 @@
       "text": "The Lord loves effort.",
       "author": "Russell M. Nelson",
       "date": "2026-08-13",
-      "inactive": true,
-      "deactivatedDate": "2026-08-28"
-    },
-    {
-      "text": "You must do the things you think you cannot do.",
-      "author": "Eleanor Roosevelt",
-      "date": "2026-08-12",
       "inactive": true,
       "deactivatedDate": "2026-08-28"
     },
@@ -2446,9 +2411,44 @@
       "inactive": true,
       "communitySubmission": true,
       "deactivatedDate": "2026-09-11"
+    },
+    {
+      "text": "How many slams in an old screen door? Depends how loud you shut it.",
+      "author": "Shel Silverstein",
+      "date": "2026-08-27",
+      "inactive": true,
+      "deactivatedDate": "2026-09-12"
+    },
+    {
+      "text": "The privilege of a lifetime is being who you are.",
+      "author": "Joseph Campbell",
+      "date": "2026-08-26",
+      "inactive": true,
+      "deactivatedDate": "2026-09-12"
+    },
+    {
+      "text": "Joy comes not in riches, or in things, but in relationships.",
+      "author": "Russell M. Nelson",
+      "date": "2026-08-26",
+      "inactive": true,
+      "deactivatedDate": "2026-09-12"
+    },
+    {
+      "text": "Be kind, for everyone you meet is fighting a hard battle.",
+      "author": "Plato",
+      "date": "2026-08-26",
+      "inactive": true,
+      "deactivatedDate": "2026-09-12"
+    },
+    {
+      "text": "It's kind of fun to do the impossible.",
+      "author": "Walt Disney",
+      "date": "2026-08-26",
+      "inactive": true,
+      "deactivatedDate": "2026-09-12"
     }
   ],
-  "lastRotation": "2026-09-11",
+  "lastRotation": "2026-09-12",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
