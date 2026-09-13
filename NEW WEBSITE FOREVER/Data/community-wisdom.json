@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Even miracles take a little time.",
+      "author": "Fairy Godmother, Cinderella",
+      "date": "2026-09-13",
+      "inactive": false
+    },
+    {
+      "text": "Hope is being able to see that there is light despite all of the darkness.",
+      "author": "Desmond Tutu",
+      "date": "2026-09-13",
+      "inactive": false
+    },
+    {
+      "text": "You are never too old to set another goal or to dream a new dream.",
+      "author": "C.S. Lewis",
+      "date": "2026-09-13",
+      "inactive": false
+    },
+    {
+      "text": "A soft answer turneth away wrath.",
+      "author": "King Solomon",
+      "date": "2026-09-13",
+      "inactive": false
+    },
+    {
+      "text": "I am seeking, I am striving, I am in it with all my heart.",
+      "author": "Vincent Van Gogh",
+      "date": "2026-09-13",
+      "inactive": false
+    },
+    {
       "text": "If you have good thoughts they will shine out of your face like sunbeams and you will always look lovely.",
       "author": "Roald Dahl",
       "date": "2026-09-12",
@@ -464,36 +494,6 @@
       "text": "A small act is worth a million thoughts.",
       "author": "Ai Weiwei",
       "date": "2026-08-28",
-      "inactive": false
-    },
-    {
-      "text": "When it's over, I want to say: all my life I was a bride married to amazement.",
-      "author": "Mary Oliver",
-      "date": "2026-08-28",
-      "inactive": false
-    },
-    {
-      "text": "You don't have to be the victim of your environment. You can also be the architect of it.",
-      "author": "James Clear",
-      "date": "2026-08-27",
-      "inactive": false
-    },
-    {
-      "text": "Keep your face to the sunshine and you cannot see a shadow.",
-      "author": "Helen Keller",
-      "date": "2026-08-27",
-      "inactive": false
-    },
-    {
-      "text": "Opposition is part of the divine plan.",
-      "author": "Dallin H. Oaks",
-      "date": "2026-08-27",
-      "inactive": false
-    },
-    {
-      "text": "Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!",
-      "author": "Dr. Seuss",
-      "date": "2026-08-27",
       "inactive": false
     },
     {
@@ -1600,13 +1600,6 @@
       "deactivatedDate": "2026-08-11"
     },
     {
-      "text": "Even miracles take a little time.",
-      "author": "Fairy Godmother, Cinderella",
-      "date": "2026-07-26",
-      "inactive": true,
-      "deactivatedDate": "2026-08-11"
-    },
-    {
       "text": "Hardships often prepare ordinary people for an extraordinary destiny.",
       "author": "C.S. Lewis",
       "date": "2026-07-26",
@@ -1783,13 +1776,6 @@
       "deactivatedDate": "2026-08-19"
     },
     {
-      "text": "I am seeking, I am striving, I am in it with all my heart.",
-      "author": "Vincent Van Gogh",
-      "date": "2026-08-03",
-      "inactive": true,
-      "deactivatedDate": "2026-08-19"
-    },
-    {
       "text": "Tell me, what is it you plan to do with your one wild and precious life?",
       "author": "Mary Oliver",
       "date": "2026-08-05",
@@ -1863,13 +1849,6 @@
       "text": "The best way to predict your future is to create it.",
       "author": "Abraham Lincoln",
       "date": "2026-08-08",
-      "inactive": true,
-      "deactivatedDate": "2026-08-23"
-    },
-    {
-      "text": "Hope is being able to see that there is light despite all of the darkness.",
-      "author": "Desmond Tutu",
-      "date": "2026-08-07",
       "inactive": true,
       "deactivatedDate": "2026-08-23"
     },
@@ -2173,22 +2152,8 @@
       "deactivatedDate": "2026-09-04"
     },
     {
-      "text": "A soft answer turneth away wrath.",
-      "author": "King Solomon",
-      "date": "2026-08-20",
-      "inactive": true,
-      "deactivatedDate": "2026-09-05"
-    },
-    {
       "text": "Kind words can be short and easy to speak, but their echoes are truly endless.",
       "author": "Mother Teresa",
-      "date": "2026-08-19",
-      "inactive": true,
-      "deactivatedDate": "2026-09-05"
-    },
-    {
-      "text": "You are never too old to set another goal or to dream a new dream.",
-      "author": "C.S. Lewis",
       "date": "2026-08-19",
       "inactive": true,
       "deactivatedDate": "2026-09-05"
@@ -2446,9 +2411,44 @@
       "date": "2026-08-26",
       "inactive": true,
       "deactivatedDate": "2026-09-12"
+    },
+    {
+      "text": "When it's over, I want to say: all my life I was a bride married to amazement.",
+      "author": "Mary Oliver",
+      "date": "2026-08-28",
+      "inactive": true,
+      "deactivatedDate": "2026-09-13"
+    },
+    {
+      "text": "You don't have to be the victim of your environment. You can also be the architect of it.",
+      "author": "James Clear",
+      "date": "2026-08-27",
+      "inactive": true,
+      "deactivatedDate": "2026-09-13"
+    },
+    {
+      "text": "Keep your face to the sunshine and you cannot see a shadow.",
+      "author": "Helen Keller",
+      "date": "2026-08-27",
+      "inactive": true,
+      "deactivatedDate": "2026-09-13"
+    },
+    {
+      "text": "Opposition is part of the divine plan.",
+      "author": "Dallin H. Oaks",
+      "date": "2026-08-27",
+      "inactive": true,
+      "deactivatedDate": "2026-09-13"
+    },
+    {
+      "text": "Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!",
+      "author": "Dr. Seuss",
+      "date": "2026-08-27",
+      "inactive": true,
+      "deactivatedDate": "2026-09-13"
     }
   ],
-  "lastRotation": "2026-09-12",
+  "lastRotation": "2026-09-13",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
