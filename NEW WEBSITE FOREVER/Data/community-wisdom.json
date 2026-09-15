@@ -1,6 +1,37 @@
 {
   "quotes": [
     {
+      "text": "Science is not only compatible with spirituality; it is a profound source of spirituality.",
+      "author": "Carl Sagan",
+      "date": "2026-09-15",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "I alone cannot change the world, but I can cast a stone across the waters to create many ripples.",
+      "author": "Mother Teresa",
+      "date": "2026-09-15",
+      "inactive": false
+    },
+    {
+      "text": "Our prime purpose in this life is to help others. And if you can't help them, at least don't hurt them.",
+      "author": "Dalai Lama",
+      "date": "2026-09-15",
+      "inactive": false
+    },
+    {
+      "text": "The best way out is always through.",
+      "author": "Robert Frost",
+      "date": "2026-09-15",
+      "inactive": false
+    },
+    {
+      "text": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.",
+      "author": "J.K. Rowling",
+      "date": "2026-09-15",
+      "inactive": false
+    },
+    {
       "text": "We cannot do great things on this earth, only small things with great love.",
       "author": "Mother Teresa",
       "date": "2026-09-14",
@@ -467,36 +498,6 @@
       "inactive": false
     },
     {
-      "text": "You'll miss the best things if you keep your eyes shut.",
-      "author": "Dr. Seuss",
-      "date": "2026-08-30",
-      "inactive": false
-    },
-    {
-      "text": "In the end, it's not the years in your life that count. It's the life in your years.",
-      "author": "Abraham Lincoln",
-      "date": "2026-08-29",
-      "inactive": false
-    },
-    {
-      "text": "Everything can be taken from a man but one thing: the last of the human freedoms—to choose one's attitude in any given set of circumstances.",
-      "author": "Viktor Frankl",
-      "date": "2026-08-29",
-      "inactive": false
-    },
-    {
-      "text": "A winner is a dreamer who never gives up.",
-      "author": "Nelson Mandela",
-      "date": "2026-08-29",
-      "inactive": false
-    },
-    {
-      "text": "With the new day comes new strength and new thoughts.",
-      "author": "Eleanor Roosevelt",
-      "date": "2026-08-29",
-      "inactive": false
-    },
-    {
       "text": "Decisions determine destiny.",
       "author": "Thomas S. Monson",
       "date": "2026-03-28",
@@ -545,13 +546,6 @@
       "date": "2026-04-22",
       "inactive": true,
       "deactivatedDate": "2026-05-03"
-    },
-    {
-      "text": "Our prime purpose in this life is to help others. And if you can't help them, at least don't hurt them.",
-      "author": "Dalai Lama",
-      "date": "2026-04-24",
-      "inactive": true,
-      "deactivatedDate": "2026-05-05"
     },
     {
       "text": "It is easier to build strong children than to repair broken men.",
@@ -744,13 +738,6 @@
       "date": "2026-05-30",
       "inactive": true,
       "deactivatedDate": "2026-06-13"
-    },
-    {
-      "text": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.",
-      "author": "J.K. Rowling",
-      "date": "2026-05-31",
-      "inactive": true,
-      "deactivatedDate": "2026-06-14"
     },
     {
       "text": "If you can dream it, you can do it.",
@@ -1240,13 +1227,6 @@
       "date": "2026-07-11",
       "inactive": true,
       "deactivatedDate": "2026-07-26"
-    },
-    {
-      "text": "I alone cannot change the world, but I can cast a stone across the waters to create many ripples.",
-      "author": "Mother Teresa",
-      "date": "2026-07-13",
-      "inactive": true,
-      "deactivatedDate": "2026-07-27"
     },
     {
       "text": "The power of love and kindness can overcome any challenge or hardship.\nThe Lubavitcher Rebbe",
@@ -1890,14 +1870,6 @@
       "deactivatedDate": "2026-08-26"
     },
     {
-      "text": "Science is not only compatible with spirituality; it is a profound source of spirituality.",
-      "author": "Carl Sagan",
-      "date": "2026-08-11",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-08-27"
-    },
-    {
       "text": "Life is either a daring adventure or nothing at all.",
       "author": "Helen Keller",
       "date": "2026-08-11",
@@ -2208,13 +2180,6 @@
       "deactivatedDate": "2026-09-08"
     },
     {
-      "text": "The best way out is always through.",
-      "author": "Robert Frost",
-      "date": "2026-08-22",
-      "inactive": true,
-      "deactivatedDate": "2026-09-08"
-    },
-    {
       "text": "Don’t make a project out of yourself. \nMove outside yourself.",
       "author": "Dr Goodman",
       "date": "2026-08-22",
@@ -2446,9 +2411,44 @@
       "date": "2026-08-28",
       "inactive": true,
       "deactivatedDate": "2026-09-14"
+    },
+    {
+      "text": "You'll miss the best things if you keep your eyes shut.",
+      "author": "Dr. Seuss",
+      "date": "2026-08-30",
+      "inactive": true,
+      "deactivatedDate": "2026-09-15"
+    },
+    {
+      "text": "In the end, it's not the years in your life that count. It's the life in your years.",
+      "author": "Abraham Lincoln",
+      "date": "2026-08-29",
+      "inactive": true,
+      "deactivatedDate": "2026-09-15"
+    },
+    {
+      "text": "Everything can be taken from a man but one thing: the last of the human freedoms—to choose one's attitude in any given set of circumstances.",
+      "author": "Viktor Frankl",
+      "date": "2026-08-29",
+      "inactive": true,
+      "deactivatedDate": "2026-09-15"
+    },
+    {
+      "text": "A winner is a dreamer who never gives up.",
+      "author": "Nelson Mandela",
+      "date": "2026-08-29",
+      "inactive": true,
+      "deactivatedDate": "2026-09-15"
+    },
+    {
+      "text": "With the new day comes new strength and new thoughts.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-08-29",
+      "inactive": true,
+      "deactivatedDate": "2026-09-15"
     }
   ],
-  "lastRotation": "2026-09-14",
+  "lastRotation": "2026-09-15",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
