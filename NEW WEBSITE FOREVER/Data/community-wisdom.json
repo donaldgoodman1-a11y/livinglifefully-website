@@ -1,6 +1,37 @@
 {
   "quotes": [
     {
+      "text": "The difference between winning and losing is most often not quitting.",
+      "author": "Walt Disney",
+      "date": "2026-09-16",
+      "inactive": false
+    },
+    {
+      "text": "It does not matter how slowly you go as long as you do not stop.",
+      "author": "Confucius",
+      "date": "2026-09-16",
+      "inactive": false
+    },
+    {
+      "text": "As life brings moments that feel too heavy to bear, place your trust in Christ. The burden may remain, but through the Atonement, it no longer rests on you alone.",
+      "author": "Natalie LeBaron",
+      "date": "2026-09-16",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "The privilege of a lifetime is being who you are.",
+      "author": "Joseph Campbell",
+      "date": "2026-09-16",
+      "inactive": false
+    },
+    {
+      "text": "Someone I loved once gave me a box full of darkness. It took me years to understand that this too, was a gift.",
+      "author": "Mary Oliver",
+      "date": "2026-09-16",
+      "inactive": false
+    },
+    {
       "text": "Science is not only compatible with spirituality; it is a profound source of spirituality.",
       "author": "Carl Sagan",
       "date": "2026-09-15",
@@ -468,36 +499,6 @@
       "inactive": false
     },
     {
-      "text": "Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world.",
-      "author": "Desmond Tutu",
-      "date": "2026-08-31",
-      "inactive": false
-    },
-    {
-      "text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest.",
-      "author": "Jesus Christ",
-      "date": "2026-08-30",
-      "inactive": false
-    },
-    {
-      "text": "The future belongs to those who believe in the beauty of their dreams.",
-      "author": "Eleanor Roosevelt",
-      "date": "2026-08-30",
-      "inactive": false
-    },
-    {
-      "text": "Be kind whenever possible. It is always possible.",
-      "author": "Dalai Lama",
-      "date": "2026-08-30",
-      "inactive": false
-    },
-    {
-      "text": "All we have to decide is what to do with the time that is given us.",
-      "author": "J.R.R. Tolkien",
-      "date": "2026-08-30",
-      "inactive": false
-    },
-    {
       "text": "Decisions determine destiny.",
       "author": "Thomas S. Monson",
       "date": "2026-03-28",
@@ -517,13 +518,6 @@
       "date": "2026-04-11",
       "inactive": true,
       "deactivatedDate": "2026-04-20"
-    },
-    {
-      "text": "Someone I loved once gave me a box full of darkness. It took me years to understand that this too, was a gift.",
-      "author": "Mary Oliver",
-      "date": "2026-04-14",
-      "inactive": true,
-      "deactivatedDate": "2026-04-23"
     },
     {
       "text": "To be happy takes daily practice and daily gratitude.",
@@ -639,13 +633,6 @@
       "date": "2026-05-14",
       "inactive": true,
       "deactivatedDate": "2026-05-27"
-    },
-    {
-      "text": "It does not matter how slowly you go as long as you do not stop.",
-      "author": "Confucius",
-      "date": "2026-05-16",
-      "inactive": true,
-      "deactivatedDate": "2026-05-29"
     },
     {
       "text": "They that wait upon the Lord shall renew their strength; they shall mount up with wings as eagles.",
@@ -932,13 +919,6 @@
     {
       "text": "Choose faith over fear, and doubt not.",
       "author": "David A. Bednar",
-      "date": "2026-06-22",
-      "inactive": true,
-      "deactivatedDate": "2026-07-07"
-    },
-    {
-      "text": "The difference between winning and losing is most often not quitting.",
-      "author": "Walt Disney",
       "date": "2026-06-22",
       "inactive": true,
       "deactivatedDate": "2026-07-07"
@@ -2067,14 +2047,6 @@
       "deactivatedDate": "2026-09-04"
     },
     {
-      "text": "As life brings moments that feel too heavy to bear, place your trust in Christ. The burden may remain, but through the Atonement, it no longer rests on you alone.",
-      "author": "Natalie LeBaron",
-      "date": "2026-08-18",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-09-04"
-    },
-    {
       "text": "Because you are alive, everything is possible.",
       "author": "Thich Nhat Hanh",
       "date": "2026-08-18",
@@ -2315,13 +2287,6 @@
       "deactivatedDate": "2026-09-12"
     },
     {
-      "text": "The privilege of a lifetime is being who you are.",
-      "author": "Joseph Campbell",
-      "date": "2026-08-26",
-      "inactive": true,
-      "deactivatedDate": "2026-09-12"
-    },
-    {
       "text": "Joy comes not in riches, or in things, but in relationships.",
       "author": "Russell M. Nelson",
       "date": "2026-08-26",
@@ -2446,9 +2411,44 @@
       "date": "2026-08-29",
       "inactive": true,
       "deactivatedDate": "2026-09-15"
+    },
+    {
+      "text": "Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world.",
+      "author": "Desmond Tutu",
+      "date": "2026-08-31",
+      "inactive": true,
+      "deactivatedDate": "2026-09-16"
+    },
+    {
+      "text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest.",
+      "author": "Jesus Christ",
+      "date": "2026-08-30",
+      "inactive": true,
+      "deactivatedDate": "2026-09-16"
+    },
+    {
+      "text": "The future belongs to those who believe in the beauty of their dreams.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-08-30",
+      "inactive": true,
+      "deactivatedDate": "2026-09-16"
+    },
+    {
+      "text": "Be kind whenever possible. It is always possible.",
+      "author": "Dalai Lama",
+      "date": "2026-08-30",
+      "inactive": true,
+      "deactivatedDate": "2026-09-16"
+    },
+    {
+      "text": "All we have to decide is what to do with the time that is given us.",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-08-30",
+      "inactive": true,
+      "deactivatedDate": "2026-09-16"
     }
   ],
-  "lastRotation": "2026-09-15",
+  "lastRotation": "2026-09-16",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
