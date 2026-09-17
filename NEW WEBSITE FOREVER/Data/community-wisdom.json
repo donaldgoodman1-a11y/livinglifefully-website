@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "When it's over, I want to say: all my life I was a bride married to amazement.",
+      "author": "Mary Oliver",
+      "date": "2026-09-17",
+      "inactive": false
+    },
+    {
+      "text": "Unless someone like you cares a whole awful lot, nothing is going to get better. It's not.",
+      "author": "Dr. Seuss",
+      "date": "2026-09-17",
+      "inactive": false
+    },
+    {
+      "text": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+      "author": "Maya Angelou",
+      "date": "2026-09-17",
+      "inactive": false
+    },
+    {
+      "text": "If you can dream it, you can do it.",
+      "author": "Walt Disney",
+      "date": "2026-09-17",
+      "inactive": false
+    },
+    {
+      "text": "We can ignore reality, but we cannot ignore the consequences of ignoring reality.",
+      "author": "Ayn Rand",
+      "date": "2026-09-17",
+      "inactive": false
+    },
+    {
       "text": "The difference between winning and losing is most often not quitting.",
       "author": "Walt Disney",
       "date": "2026-09-16",
@@ -468,37 +498,6 @@
       "inactive": false
     },
     {
-      "text": "We delight in the beauty of the butterfly, but rarely admit the changes it has gone through to achieve that beauty.",
-      "author": "Maya Angelou",
-      "date": "2026-09-01",
-      "inactive": false
-    },
-    {
-      "text": "In a gentle way, you can shake the world.",
-      "author": "Mahatma Gandhi",
-      "date": "2026-08-31",
-      "inactive": false
-    },
-    {
-      "text": "Integrity is doing the right thing even when no one is watching.",
-      "author": "C.S. Lewis",
-      "date": "2026-08-31",
-      "inactive": false
-    },
-    {
-      "text": "Grasshopper: if you want control you must let go of control",
-      "author": "Kung fu",
-      "date": "2026-08-31",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "No matter what anyone says or does, my task is to be good.",
-      "author": "Marcus Aurelius",
-      "date": "2026-08-31",
-      "inactive": false
-    },
-    {
       "text": "Decisions determine destiny.",
       "author": "Thomas S. Monson",
       "date": "2026-03-28",
@@ -725,13 +724,6 @@
       "date": "2026-05-30",
       "inactive": true,
       "deactivatedDate": "2026-06-13"
-    },
-    {
-      "text": "If you can dream it, you can do it.",
-      "author": "Walt Disney",
-      "date": "2026-06-02",
-      "inactive": true,
-      "deactivatedDate": "2026-06-15"
     },
     {
       "text": "A pleasure is not full grown until it is remembered.",
@@ -1294,13 +1286,6 @@
       "deactivatedDate": "2026-07-31"
     },
     {
-      "text": "Unless someone like you cares a whole awful lot, nothing is going to get better. It's not.",
-      "author": "Dr. Seuss",
-      "date": "2026-07-16",
-      "inactive": true,
-      "deactivatedDate": "2026-07-31"
-    },
-    {
       "text": "Water is fluid, soft, and yielding. But water will wear away rock, which is rigid and cannot yield. As a rule, whatever is fluid, soft, and yielding will overcome whatever is rigid and hard.",
       "author": "Lao Tzu",
       "date": "2026-07-17",
@@ -1729,13 +1714,6 @@
       "deactivatedDate": "2026-08-21"
     },
     {
-      "text": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
-      "author": "Maya Angelou",
-      "date": "2026-08-05",
-      "inactive": true,
-      "deactivatedDate": "2026-08-21"
-    },
-    {
       "text": "Three things cannot be long hidden: the sun, the moon, and the truth.",
       "author": "Buddha",
       "date": "2026-08-05",
@@ -1852,13 +1830,6 @@
     {
       "text": "Life is either a daring adventure or nothing at all.",
       "author": "Helen Keller",
-      "date": "2026-08-11",
-      "inactive": true,
-      "deactivatedDate": "2026-08-27"
-    },
-    {
-      "text": "We can ignore reality, but we cannot ignore the consequences of ignoring reality.",
-      "author": "Ayn Rand",
       "date": "2026-08-11",
       "inactive": true,
       "deactivatedDate": "2026-08-27"
@@ -2308,13 +2279,6 @@
       "deactivatedDate": "2026-09-12"
     },
     {
-      "text": "When it's over, I want to say: all my life I was a bride married to amazement.",
-      "author": "Mary Oliver",
-      "date": "2026-08-28",
-      "inactive": true,
-      "deactivatedDate": "2026-09-13"
-    },
-    {
       "text": "You don't have to be the victim of your environment. You can also be the architect of it.",
       "author": "James Clear",
       "date": "2026-08-27",
@@ -2446,9 +2410,45 @@
       "date": "2026-08-30",
       "inactive": true,
       "deactivatedDate": "2026-09-16"
+    },
+    {
+      "text": "We delight in the beauty of the butterfly, but rarely admit the changes it has gone through to achieve that beauty.",
+      "author": "Maya Angelou",
+      "date": "2026-09-01",
+      "inactive": true,
+      "deactivatedDate": "2026-09-17"
+    },
+    {
+      "text": "In a gentle way, you can shake the world.",
+      "author": "Mahatma Gandhi",
+      "date": "2026-08-31",
+      "inactive": true,
+      "deactivatedDate": "2026-09-17"
+    },
+    {
+      "text": "Integrity is doing the right thing even when no one is watching.",
+      "author": "C.S. Lewis",
+      "date": "2026-08-31",
+      "inactive": true,
+      "deactivatedDate": "2026-09-17"
+    },
+    {
+      "text": "Grasshopper: if you want control you must let go of control",
+      "author": "Kung fu",
+      "date": "2026-08-31",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-09-17"
+    },
+    {
+      "text": "No matter what anyone says or does, my task is to be good.",
+      "author": "Marcus Aurelius",
+      "date": "2026-08-31",
+      "inactive": true,
+      "deactivatedDate": "2026-09-17"
     }
   ],
-  "lastRotation": "2026-09-16",
+  "lastRotation": "2026-09-17",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
