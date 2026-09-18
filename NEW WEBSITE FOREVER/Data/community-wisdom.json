@@ -1,6 +1,37 @@
 {
   "quotes": [
     {
+      "text": "Your work is to discover your work and then with all your heart to give yourself to it.",
+      "author": "Buddha",
+      "date": "2026-09-18",
+      "inactive": false
+    },
+    {
+      "text": "A successful marriage requires falling in love many times, always with the same person.",
+      "author": "Mignon McLaughlin",
+      "date": "2026-09-18",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.",
+      "author": "Viktor Frankl",
+      "date": "2026-09-18",
+      "inactive": false
+    },
+    {
+      "text": "The best antidote I know for worry is work.",
+      "author": "Gordon B. Hinckley",
+      "date": "2026-09-18",
+      "inactive": false
+    },
+    {
+      "text": "Dwell on the beauty of life. Watch the stars, and see yourself running with them.",
+      "author": "Marcus Aurelius",
+      "date": "2026-09-18",
+      "inactive": false
+    },
+    {
       "text": "When it's over, I want to say: all my life I was a bride married to amazement.",
       "author": "Mary Oliver",
       "date": "2026-09-17",
@@ -464,37 +495,6 @@
       "text": "Hold on. Hope on.",
       "author": "Jeffrey R. Holland",
       "date": "2026-09-03",
-      "inactive": false
-    },
-    {
-      "text": "Never get so busy making a living that you forget to make a life.",
-      "author": "Dolly Parton",
-      "date": "2026-09-01",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "There is no innovation and creativity without failure. Period.",
-      "author": "Brené Brown",
-      "date": "2026-09-01",
-      "inactive": false
-    },
-    {
-      "text": "If you accomplish something good with hard work, the labor passes quickly, but the good endures; if you do something shameful in pursuit of pleasure, the pleasure passes quickly, but the shame endures.",
-      "author": "Musonius Rufus",
-      "date": "2026-09-01",
-      "inactive": false
-    },
-    {
-      "text": "The gospel is a message of hope and salvation for all.",
-      "author": "Henry B. Eyring",
-      "date": "2026-09-01",
-      "inactive": false
-    },
-    {
-      "text": "Some day you will be old enough to start reading fairy tales again.",
-      "author": "C.S. Lewis",
-      "date": "2026-09-01",
       "inactive": false
     },
     {
@@ -1495,13 +1495,6 @@
       "deactivatedDate": "2026-08-10"
     },
     {
-      "text": "The best antidote I know for worry is work.",
-      "author": "Gordon B. Hinckley",
-      "date": "2026-07-25",
-      "inactive": true,
-      "deactivatedDate": "2026-08-10"
-    },
-    {
       "text": "Gratitude is the healthiest of all human emotions.",
       "author": "Zig Ziglar",
       "date": "2026-07-25",
@@ -1583,20 +1576,6 @@
     {
       "text": "I have learned that if one advances confidently in the direction of his dreams, he will meet with a success unexpected in common hours.",
       "author": "Henry David Thoreau",
-      "date": "2026-07-29",
-      "inactive": true,
-      "deactivatedDate": "2026-08-14"
-    },
-    {
-      "text": "Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.",
-      "author": "Viktor Frankl",
-      "date": "2026-07-29",
-      "inactive": true,
-      "deactivatedDate": "2026-08-14"
-    },
-    {
-      "text": "Dwell on the beauty of life. Watch the stars, and see yourself running with them.",
-      "author": "Marcus Aurelius",
       "date": "2026-07-29",
       "inactive": true,
       "deactivatedDate": "2026-08-14"
@@ -1737,13 +1716,6 @@
     {
       "text": "Education is the most powerful weapon which you can use to change the world.",
       "author": "Nelson Mandela",
-      "date": "2026-08-06",
-      "inactive": true,
-      "deactivatedDate": "2026-08-22"
-    },
-    {
-      "text": "Your work is to discover your work and then with all your heart to give yourself to it.",
-      "author": "Buddha",
       "date": "2026-08-06",
       "inactive": true,
       "deactivatedDate": "2026-08-22"
@@ -2001,14 +1973,6 @@
       "date": "2026-08-17",
       "inactive": true,
       "deactivatedDate": "2026-09-03"
-    },
-    {
-      "text": "A successful marriage requires falling in love many times, always with the same person.",
-      "author": "Mignon McLaughlin",
-      "date": "2026-08-19",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-09-04"
     },
     {
       "text": "Courage is not simply one of the virtues, but the form of every virtue at the testing point.",
@@ -2446,9 +2410,45 @@
       "date": "2026-08-31",
       "inactive": true,
       "deactivatedDate": "2026-09-17"
+    },
+    {
+      "text": "Never get so busy making a living that you forget to make a life.",
+      "author": "Dolly Parton",
+      "date": "2026-09-01",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-09-18"
+    },
+    {
+      "text": "There is no innovation and creativity without failure. Period.",
+      "author": "Brené Brown",
+      "date": "2026-09-01",
+      "inactive": true,
+      "deactivatedDate": "2026-09-18"
+    },
+    {
+      "text": "If you accomplish something good with hard work, the labor passes quickly, but the good endures; if you do something shameful in pursuit of pleasure, the pleasure passes quickly, but the shame endures.",
+      "author": "Musonius Rufus",
+      "date": "2026-09-01",
+      "inactive": true,
+      "deactivatedDate": "2026-09-18"
+    },
+    {
+      "text": "The gospel is a message of hope and salvation for all.",
+      "author": "Henry B. Eyring",
+      "date": "2026-09-01",
+      "inactive": true,
+      "deactivatedDate": "2026-09-18"
+    },
+    {
+      "text": "Some day you will be old enough to start reading fairy tales again.",
+      "author": "C.S. Lewis",
+      "date": "2026-09-01",
+      "inactive": true,
+      "deactivatedDate": "2026-09-18"
     }
   ],
-  "lastRotation": "2026-09-17",
+  "lastRotation": "2026-09-18",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
