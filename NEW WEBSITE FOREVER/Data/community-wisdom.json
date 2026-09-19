@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Attitude is a little thing that makes a big difference.",
+      "author": "Winston Churchill",
+      "date": "2026-09-19",
+      "inactive": false
+    },
+    {
+      "text": "Imagination is more important than knowledge.",
+      "author": "Albert Einstein",
+      "date": "2026-09-19",
+      "inactive": false
+    },
+    {
+      "text": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you.",
+      "author": "Jesus Christ",
+      "date": "2026-09-19",
+      "inactive": false
+    },
+    {
+      "text": "The cave you fear to enter holds the treasure you seek.",
+      "author": "Joseph Campbell",
+      "date": "2026-09-19",
+      "inactive": false
+    },
+    {
+      "text": "Success is liking yourself, liking what you do, and liking how you do it.",
+      "author": "Maya Angelou",
+      "date": "2026-09-19",
+      "inactive": false
+    },
+    {
       "text": "Your work is to discover your work and then with all your heart to give yourself to it.",
       "author": "Buddha",
       "date": "2026-09-18",
@@ -464,38 +494,6 @@
       "date": "2026-09-04",
       "inactive": false,
       "communitySubmission": true
-    },
-    {
-      "text": "Patience is the companion of wisdom.",
-      "author": "St. Augustine of Hippo",
-      "date": "2026-09-03",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "Sometimes things make more sense the second time around. People change, you change and the universe changes, if we keep ourselves confined to first chances only, we will truly miss out on some of the most beautiful things in life.",
-      "author": "Rania Naim",
-      "date": "2026-09-03",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "We must accept finite disappointment, but never lose infinite hope.",
-      "author": "Martin Luther King Jr.",
-      "date": "2026-09-03",
-      "inactive": false
-    },
-    {
-      "text": "Well done is better than well said.",
-      "author": "Benjamin Franklin",
-      "date": "2026-09-03",
-      "inactive": false
-    },
-    {
-      "text": "Hold on. Hope on.",
-      "author": "Jeffrey R. Holland",
-      "date": "2026-09-03",
-      "inactive": false
     },
     {
       "text": "Decisions determine destiny.",
@@ -1330,13 +1328,6 @@
       "deactivatedDate": "2026-08-02"
     },
     {
-      "text": "Success is liking yourself, liking what you do, and liking how you do it.",
-      "author": "Maya Angelou",
-      "date": "2026-07-17",
-      "inactive": true,
-      "deactivatedDate": "2026-08-02"
-    },
-    {
       "text": "Although the world is full of suffering, it is full also of the overcoming of it.",
       "author": "Helen Keller",
       "date": "2026-07-19",
@@ -1372,13 +1363,6 @@
       "date": "2026-07-19",
       "inactive": true,
       "deactivatedDate": "2026-08-04"
-    },
-    {
-      "text": "The cave you fear to enter holds the treasure you seek.",
-      "author": "Joseph Campbell",
-      "date": "2026-07-20",
-      "inactive": true,
-      "deactivatedDate": "2026-08-05"
     },
     {
       "text": "Faith is taking the first step even when you don't see the whole staircase.",
@@ -2010,20 +1994,6 @@
       "deactivatedDate": "2026-09-05"
     },
     {
-      "text": "Imagination is more important than knowledge.",
-      "author": "Albert Einstein",
-      "date": "2026-08-19",
-      "inactive": true,
-      "deactivatedDate": "2026-09-05"
-    },
-    {
-      "text": "Attitude is a little thing that makes a big difference.",
-      "author": "Winston Churchill",
-      "date": "2026-08-21",
-      "inactive": true,
-      "deactivatedDate": "2026-09-06"
-    },
-    {
       "text": "Thousands of candles can be lighted from a single candle. Happiness never decreases by being shared.",
       "author": "Buddha",
       "date": "2026-08-20",
@@ -2043,13 +2013,6 @@
       "date": "2026-08-20",
       "inactive": true,
       "deactivatedDate": "2026-09-06"
-    },
-    {
-      "text": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you.",
-      "author": "Jesus Christ",
-      "date": "2026-08-22",
-      "inactive": true,
-      "deactivatedDate": "2026-09-07"
     },
     {
       "text": "Wise men speak because they have something to say; fools because they have to say something.",
@@ -2446,9 +2409,46 @@
       "date": "2026-09-01",
       "inactive": true,
       "deactivatedDate": "2026-09-18"
+    },
+    {
+      "text": "Patience is the companion of wisdom.",
+      "author": "St. Augustine of Hippo",
+      "date": "2026-09-03",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-09-19"
+    },
+    {
+      "text": "Sometimes things make more sense the second time around. People change, you change and the universe changes, if we keep ourselves confined to first chances only, we will truly miss out on some of the most beautiful things in life.",
+      "author": "Rania Naim",
+      "date": "2026-09-03",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-09-19"
+    },
+    {
+      "text": "We must accept finite disappointment, but never lose infinite hope.",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-09-03",
+      "inactive": true,
+      "deactivatedDate": "2026-09-19"
+    },
+    {
+      "text": "Well done is better than well said.",
+      "author": "Benjamin Franklin",
+      "date": "2026-09-03",
+      "inactive": true,
+      "deactivatedDate": "2026-09-19"
+    },
+    {
+      "text": "Hold on. Hope on.",
+      "author": "Jeffrey R. Holland",
+      "date": "2026-09-03",
+      "inactive": true,
+      "deactivatedDate": "2026-09-19"
     }
   ],
-  "lastRotation": "2026-09-18",
+  "lastRotation": "2026-09-19",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
