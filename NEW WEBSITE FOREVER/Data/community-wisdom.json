@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "You'll miss the best things if you keep your eyes shut.",
+      "author": "Dr. Seuss",
+      "date": "2026-09-21",
+      "inactive": false
+    },
+    {
+      "text": "Focus on the moment, not the monsters that may or may not be up ahead.",
+      "author": "Ryan Holiday",
+      "date": "2026-09-21",
+      "inactive": false
+    },
+    {
+      "text": "We must accept finite disappointment, but never lose infinite hope.",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-09-21",
+      "inactive": false
+    },
+    {
+      "text": "Every action you take is a vote for the type of person you wish to become.",
+      "author": "James Clear",
+      "date": "2026-09-21",
+      "inactive": false
+    },
+    {
+      "text": "The way to get started is to quit talking and begin doing.",
+      "author": "Walt Disney",
+      "date": "2026-09-21",
+      "inactive": false
+    },
+    {
       "text": "It is easier to build strong children than to repair broken men.",
       "author": "Frederick Douglass",
       "date": "2026-09-20",
@@ -462,36 +492,6 @@
       "text": "A little nonsense now and then is relished by the wisest men.",
       "author": "Roald Dahl",
       "date": "2026-09-05",
-      "inactive": false
-    },
-    {
-      "text": "The least of things with a meaning is worth more in life than the greatest of things without it.",
-      "author": "Carl Jung",
-      "date": "2026-09-05",
-      "inactive": false
-    },
-    {
-      "text": "I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live by the light that I have.",
-      "author": "Abraham Lincoln",
-      "date": "2026-09-05",
-      "inactive": false
-    },
-    {
-      "text": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
-      "author": "Buddha",
-      "date": "2026-09-05",
-      "inactive": false
-    },
-    {
-      "text": "The joy we feel has little to do with the circumstances of our lives and everything to do with the focus of our lives.",
-      "author": "Russell M. Nelson",
-      "date": "2026-09-05",
-      "inactive": false
-    },
-    {
-      "text": "No man is crushed by misfortune unless he has first been deceived by prosperity.\n-Seneca",
-      "author": "Seneca",
-      "date": "2026-09-04",
       "inactive": false
     },
     {
@@ -1163,13 +1163,6 @@
       "deactivatedDate": "2026-07-25"
     },
     {
-      "text": "Focus on the moment, not the monsters that may or may not be up ahead.",
-      "author": "Ryan Holiday",
-      "date": "2026-07-11",
-      "inactive": true,
-      "deactivatedDate": "2026-07-26"
-    },
-    {
       "text": "Weeping may endure for a night, but joy cometh in the morning.",
       "author": "King David",
       "date": "2026-07-11",
@@ -1741,13 +1734,6 @@
       "deactivatedDate": "2026-08-26"
     },
     {
-      "text": "The way to get started is to quit talking and begin doing.",
-      "author": "Walt Disney",
-      "date": "2026-08-10",
-      "inactive": true,
-      "deactivatedDate": "2026-08-26"
-    },
-    {
       "text": "It is not our abilities that show what we truly are. It is our choices.",
       "author": "J.K. Rowling",
       "date": "2026-08-10",
@@ -1778,13 +1764,6 @@
     {
       "text": "Do what you can, with what you have, where you are.",
       "author": "Theodore Roosevelt",
-      "date": "2026-08-12",
-      "inactive": true,
-      "deactivatedDate": "2026-08-28"
-    },
-    {
-      "text": "Every action you take is a vote for the type of person you wish to become.",
-      "author": "James Clear",
       "date": "2026-08-12",
       "inactive": true,
       "deactivatedDate": "2026-08-28"
@@ -2233,13 +2212,6 @@
       "deactivatedDate": "2026-09-14"
     },
     {
-      "text": "You'll miss the best things if you keep your eyes shut.",
-      "author": "Dr. Seuss",
-      "date": "2026-08-30",
-      "inactive": true,
-      "deactivatedDate": "2026-09-15"
-    },
-    {
       "text": "In the end, it's not the years in your life that count. It's the life in your years.",
       "author": "Abraham Lincoln",
       "date": "2026-08-29",
@@ -2391,13 +2363,6 @@
       "deactivatedDate": "2026-09-19"
     },
     {
-      "text": "We must accept finite disappointment, but never lose infinite hope.",
-      "author": "Martin Luther King Jr.",
-      "date": "2026-09-03",
-      "inactive": true,
-      "deactivatedDate": "2026-09-19"
-    },
-    {
       "text": "Well done is better than well said.",
       "author": "Benjamin Franklin",
       "date": "2026-09-03",
@@ -2446,9 +2411,44 @@
       "inactive": true,
       "communitySubmission": true,
       "deactivatedDate": "2026-09-20"
+    },
+    {
+      "text": "The least of things with a meaning is worth more in life than the greatest of things without it.",
+      "author": "Carl Jung",
+      "date": "2026-09-05",
+      "inactive": true,
+      "deactivatedDate": "2026-09-21"
+    },
+    {
+      "text": "I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live by the light that I have.",
+      "author": "Abraham Lincoln",
+      "date": "2026-09-05",
+      "inactive": true,
+      "deactivatedDate": "2026-09-21"
+    },
+    {
+      "text": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+      "author": "Buddha",
+      "date": "2026-09-05",
+      "inactive": true,
+      "deactivatedDate": "2026-09-21"
+    },
+    {
+      "text": "The joy we feel has little to do with the circumstances of our lives and everything to do with the focus of our lives.",
+      "author": "Russell M. Nelson",
+      "date": "2026-09-05",
+      "inactive": true,
+      "deactivatedDate": "2026-09-21"
+    },
+    {
+      "text": "No man is crushed by misfortune unless he has first been deceived by prosperity.\n-Seneca",
+      "author": "Seneca",
+      "date": "2026-09-04",
+      "inactive": true,
+      "deactivatedDate": "2026-09-21"
     }
   ],
-  "lastRotation": "2026-09-20",
+  "lastRotation": "2026-09-21",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
