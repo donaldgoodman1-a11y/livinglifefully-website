@@ -1,6 +1,38 @@
 {
   "quotes": [
     {
+      "text": "The proper function of man is to live, not to exist. I shall not waste my days in trying to \nprolong them. I shall use my time…",
+      "author": "Jack London",
+      "date": "2026-09-22",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "Sometimes things make more sense the second time around. People change, you change and the universe changes, if we keep ourselves confined to first chances only, we will truly miss out on some of the most beautiful things in life.",
+      "author": "Rania Naim",
+      "date": "2026-09-22",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "Let us always meet each other with smile, for the smile is the beginning of love.",
+      "author": "Mother Teresa",
+      "date": "2026-09-22",
+      "inactive": false
+    },
+    {
+      "text": "It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.",
+      "author": "Seneca",
+      "date": "2026-09-22",
+      "inactive": false
+    },
+    {
+      "text": "The quieter you become, the more you can hear.",
+      "author": "Rumi",
+      "date": "2026-09-22",
+      "inactive": false
+    },
+    {
       "text": "You'll miss the best things if you keep your eyes shut.",
       "author": "Dr. Seuss",
       "date": "2026-09-21",
@@ -465,36 +497,6 @@
       "communitySubmission": true
     },
     {
-      "text": "There are far, far better things ahead than any we leave behind.",
-      "author": "C.S. Lewis",
-      "date": "2026-09-06",
-      "inactive": false
-    },
-    {
-      "text": "A person's a person, no matter how small.",
-      "author": "Dr. Seuss",
-      "date": "2026-09-06",
-      "inactive": false
-    },
-    {
-      "text": "I learned that courage was not the absence of fear, but the triumph over it.",
-      "author": "Nelson Mandela",
-      "date": "2026-09-06",
-      "inactive": false
-    },
-    {
-      "text": "A hero is someone who has given his or her life to something bigger than oneself.",
-      "author": "Joseph Campbell",
-      "date": "2026-09-06",
-      "inactive": false
-    },
-    {
-      "text": "A little nonsense now and then is relished by the wisest men.",
-      "author": "Roald Dahl",
-      "date": "2026-09-05",
-      "inactive": false
-    },
-    {
       "text": "Decisions determine destiny.",
       "author": "Thomas S. Monson",
       "date": "2026-03-28",
@@ -507,13 +509,6 @@
       "date": "2026-03-31",
       "inactive": true,
       "deactivatedDate": "2026-04-09"
-    },
-    {
-      "text": "The quieter you become, the more you can hear.",
-      "author": "Rumi",
-      "date": "2026-04-11",
-      "inactive": true,
-      "deactivatedDate": "2026-04-20"
     },
     {
       "text": "To be happy takes daily practice and daily gratitude.",
@@ -1343,14 +1338,6 @@
       "deactivatedDate": "2026-08-05"
     },
     {
-      "text": "The proper function of man is to live, not to exist. I shall not waste my days in trying to \nprolong them. I shall use my time…",
-      "author": "Jack London",
-      "date": "2026-07-22",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-08-06"
-    },
-    {
       "text": "No act of kindness, no matter how small, is ever wasted.",
       "author": "Aesop",
       "date": "2026-07-21",
@@ -1536,13 +1523,6 @@
       "deactivatedDate": "2026-08-15"
     },
     {
-      "text": "Let us always meet each other with smile, for the smile is the beginning of love.",
-      "author": "Mother Teresa",
-      "date": "2026-07-30",
-      "inactive": true,
-      "deactivatedDate": "2026-08-15"
-    },
-    {
       "text": "Walk as if you are kissing the Earth with your feet.",
       "author": "Thich Nhat Hanh",
       "date": "2026-07-30",
@@ -1587,13 +1567,6 @@
     {
       "text": "We read to know we are not alone.",
       "author": "C.S. Lewis",
-      "date": "2026-08-02",
-      "inactive": true,
-      "deactivatedDate": "2026-08-18"
-    },
-    {
-      "text": "It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.",
-      "author": "Seneca",
       "date": "2026-08-02",
       "inactive": true,
       "deactivatedDate": "2026-08-18"
@@ -2355,14 +2328,6 @@
       "deactivatedDate": "2026-09-19"
     },
     {
-      "text": "Sometimes things make more sense the second time around. People change, you change and the universe changes, if we keep ourselves confined to first chances only, we will truly miss out on some of the most beautiful things in life.",
-      "author": "Rania Naim",
-      "date": "2026-09-03",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-09-19"
-    },
-    {
       "text": "Well done is better than well said.",
       "author": "Benjamin Franklin",
       "date": "2026-09-03",
@@ -2446,9 +2411,44 @@
       "date": "2026-09-04",
       "inactive": true,
       "deactivatedDate": "2026-09-21"
+    },
+    {
+      "text": "There are far, far better things ahead than any we leave behind.",
+      "author": "C.S. Lewis",
+      "date": "2026-09-06",
+      "inactive": true,
+      "deactivatedDate": "2026-09-22"
+    },
+    {
+      "text": "A person's a person, no matter how small.",
+      "author": "Dr. Seuss",
+      "date": "2026-09-06",
+      "inactive": true,
+      "deactivatedDate": "2026-09-22"
+    },
+    {
+      "text": "I learned that courage was not the absence of fear, but the triumph over it.",
+      "author": "Nelson Mandela",
+      "date": "2026-09-06",
+      "inactive": true,
+      "deactivatedDate": "2026-09-22"
+    },
+    {
+      "text": "A hero is someone who has given his or her life to something bigger than oneself.",
+      "author": "Joseph Campbell",
+      "date": "2026-09-06",
+      "inactive": true,
+      "deactivatedDate": "2026-09-22"
+    },
+    {
+      "text": "A little nonsense now and then is relished by the wisest men.",
+      "author": "Roald Dahl",
+      "date": "2026-09-05",
+      "inactive": true,
+      "deactivatedDate": "2026-09-22"
     }
   ],
-  "lastRotation": "2026-09-21",
+  "lastRotation": "2026-09-22",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
