@@ -1,6 +1,39 @@
 {
   "quotes": [
     {
+      "text": "Although the world is full of suffering, it is full also of the overcoming of it.",
+      "author": "Helen Keller",
+      "date": "2026-09-23",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "Sometimes the future changes quickly and completely, and we’re left with only the choice of what to do next. We can choose to be afraid of it. Just stand there trembling, not moving, assuming the worst that can happen. Or we step forward into the unknown, and assume it will be brilliant.\nDr. Cristina Yang (Sandra Oh) in “Grey’s Anatomy”",
+      "author": "Anonymous Reader",
+      "date": "2026-09-23",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "Follow your bliss and the universe will open doors where there were only walls.",
+      "author": "Joseph Campbell",
+      "date": "2026-09-23",
+      "inactive": false
+    },
+    {
+      "text": "We may encounter many defeats but we must not be defeated.",
+      "author": "Maya Angelou",
+      "date": "2026-09-23",
+      "inactive": false
+    },
+    {
+      "text": "There can be no deep disappointment where there is not deep love.",
+      "author": "Martin Luther King",
+      "date": "2026-09-23",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
       "text": "The proper function of man is to live, not to exist. I shall not waste my days in trying to \nprolong them. I shall use my time…",
       "author": "Jack London",
       "date": "2026-09-22",
@@ -465,38 +498,6 @@
       "inactive": false
     },
     {
-      "text": "Greater the persons' stature, the more one has to make sure to humble themselves.\nRashi, Berachos 34b",
-      "author": "Rashi, Berachos 34b",
-      "date": "2026-09-07",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "If there is no struggle, there is no progress.",
-      "author": "Frederick Douglass",
-      "date": "2026-09-07",
-      "inactive": false
-    },
-    {
-      "text": "Draw a crazy picture, Write a nutty poem, Sing a mumble-gumble song, Whistle through your comb.",
-      "author": "Shel Silverstein",
-      "date": "2026-09-07",
-      "inactive": false
-    },
-    {
-      "text": "Great things are done by a series of small things brought together.",
-      "author": "Vincent Van Gogh",
-      "date": "2026-09-07",
-      "inactive": false
-    },
-    {
-      "text": "Remember: The serenity prayer: God grant me the serenity to accept the things I cannot \nchange; courage to change the things I can; and wisdom to know the difference. Living \none day at a time; enjoying one moment at a time; accepting hardships as the pathway to \npeace; taking, as He did, this sinful world as it is, not as I would have it; trusting that He \nwill make all things right If I surrender to His Will; that I may be reasonably happy in \nthis life and supremely happy with Him forever in the next. Amen",
-      "author": "Reinhold Niebuhr",
-      "date": "2026-09-06",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
       "text": "Decisions determine destiny.",
       "author": "Thomas S. Monson",
       "date": "2026-03-28",
@@ -776,13 +777,6 @@
     {
       "text": "We choose to be in control or choose to surrender.",
       "author": "Ryan Holiday",
-      "date": "2026-06-09",
-      "inactive": true,
-      "deactivatedDate": "2026-06-23"
-    },
-    {
-      "text": "We may encounter many defeats but we must not be defeated.",
-      "author": "Maya Angelou",
       "date": "2026-06-09",
       "inactive": true,
       "deactivatedDate": "2026-06-23"
@@ -1287,22 +1281,6 @@
       "deactivatedDate": "2026-08-02"
     },
     {
-      "text": "Although the world is full of suffering, it is full also of the overcoming of it.",
-      "author": "Helen Keller",
-      "date": "2026-07-19",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-08-03"
-    },
-    {
-      "text": "Sometimes the future changes quickly and completely, and we’re left with only the choice of what to do next. We can choose to be afraid of it. Just stand there trembling, not moving, assuming the worst that can happen. Or we step forward into the unknown, and assume it will be brilliant.\nDr. Cristina Yang (Sandra Oh) in “Grey’s Anatomy”",
-      "author": "Anonymous Reader",
-      "date": "2026-07-18",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-08-03"
-    },
-    {
       "text": "It's not what happens to you, but how you react to it that matters.",
       "author": "Epictetus",
       "date": "2026-07-19",
@@ -1415,14 +1393,6 @@
       "deactivatedDate": "2026-08-09"
     },
     {
-      "text": "There can be no deep disappointment where there is not deep love.",
-      "author": "Martin Luther King",
-      "date": "2026-07-26",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-08-10"
-    },
-    {
       "text": "The beginning is the most important part of the work.",
       "author": "Plato",
       "date": "2026-07-25",
@@ -1442,13 +1412,6 @@
       "date": "2026-07-27",
       "inactive": true,
       "communitySubmission": true,
-      "deactivatedDate": "2026-08-11"
-    },
-    {
-      "text": "Follow your bliss and the universe will open doors where there were only walls.",
-      "author": "Joseph Campbell",
-      "date": "2026-07-26",
-      "inactive": true,
       "deactivatedDate": "2026-08-11"
     },
     {
@@ -2446,9 +2409,46 @@
       "date": "2026-09-05",
       "inactive": true,
       "deactivatedDate": "2026-09-22"
+    },
+    {
+      "text": "Greater the persons' stature, the more one has to make sure to humble themselves.\nRashi, Berachos 34b",
+      "author": "Rashi, Berachos 34b",
+      "date": "2026-09-07",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-09-23"
+    },
+    {
+      "text": "If there is no struggle, there is no progress.",
+      "author": "Frederick Douglass",
+      "date": "2026-09-07",
+      "inactive": true,
+      "deactivatedDate": "2026-09-23"
+    },
+    {
+      "text": "Draw a crazy picture, Write a nutty poem, Sing a mumble-gumble song, Whistle through your comb.",
+      "author": "Shel Silverstein",
+      "date": "2026-09-07",
+      "inactive": true,
+      "deactivatedDate": "2026-09-23"
+    },
+    {
+      "text": "Great things are done by a series of small things brought together.",
+      "author": "Vincent Van Gogh",
+      "date": "2026-09-07",
+      "inactive": true,
+      "deactivatedDate": "2026-09-23"
+    },
+    {
+      "text": "Remember: The serenity prayer: God grant me the serenity to accept the things I cannot \nchange; courage to change the things I can; and wisdom to know the difference. Living \none day at a time; enjoying one moment at a time; accepting hardships as the pathway to \npeace; taking, as He did, this sinful world as it is, not as I would have it; trusting that He \nwill make all things right If I surrender to His Will; that I may be reasonably happy in \nthis life and supremely happy with Him forever in the next. Amen",
+      "author": "Reinhold Niebuhr",
+      "date": "2026-09-06",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-09-23"
     }
   ],
-  "lastRotation": "2026-09-22",
+  "lastRotation": "2026-09-23",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
