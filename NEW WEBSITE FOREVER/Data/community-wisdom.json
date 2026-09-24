@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "The happiness of your life depends upon the quality of your thoughts.",
+      "author": "Marcus Aurelius",
+      "date": "2026-09-24",
+      "inactive": false
+    },
+    {
+      "text": "The best preparation for tomorrow is doing your best today.",
+      "author": "H. Jackson Brown Jr.",
+      "date": "2026-09-24",
+      "inactive": false
+    },
+    {
+      "text": "I feel that there is nothing more truly artistic than to love people.",
+      "author": "Vincent Van Gogh",
+      "date": "2026-09-24",
+      "inactive": false
+    },
+    {
+      "text": "I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live by the light that I have.",
+      "author": "Abraham Lincoln",
+      "date": "2026-09-24",
+      "inactive": false
+    },
+    {
+      "text": "Courage is not simply one of the virtues, but the form of every virtue at the testing point.",
+      "author": "C.S. Lewis",
+      "date": "2026-09-24",
+      "inactive": false
+    },
+    {
       "text": "Although the world is full of suffering, it is full also of the overcoming of it.",
       "author": "Helen Keller",
       "date": "2026-09-23",
@@ -465,36 +495,6 @@
       "text": "Owning our story and loving ourselves through that process is the bravest thing that we'll ever do.",
       "author": "Brené Brown",
       "date": "2026-09-08",
-      "inactive": false
-    },
-    {
-      "text": "Happiness depends upon ourselves.",
-      "author": "Aristotle",
-      "date": "2026-09-08",
-      "inactive": false
-    },
-    {
-      "text": "You don't have to see the whole staircase, just take the first step.",
-      "author": "Martin Luther King Jr.",
-      "date": "2026-09-08",
-      "inactive": false
-    },
-    {
-      "text": "Freedom is never given; it is won.",
-      "author": "A. Philip Randolph",
-      "date": "2026-09-08",
-      "inactive": false
-    },
-    {
-      "text": "Peace begins with a smile.",
-      "author": "Mother Teresa",
-      "date": "2026-09-08",
-      "inactive": false
-    },
-    {
-      "text": "Don't you quit. You keep walking. You keep trying. There is help and happiness ahead.",
-      "author": "Jeffrey R. Holland",
-      "date": "2026-09-07",
       "inactive": false
     },
     {
@@ -1330,13 +1330,6 @@
       "deactivatedDate": "2026-08-06"
     },
     {
-      "text": "I feel that there is nothing more truly artistic than to love people.",
-      "author": "Vincent Van Gogh",
-      "date": "2026-07-21",
-      "inactive": true,
-      "deactivatedDate": "2026-08-06"
-    },
-    {
       "text": "To pay attention, this is our endless and proper work.",
       "author": "Mary Oliver",
       "date": "2026-07-21",
@@ -1356,13 +1349,6 @@
       "date": "2026-07-22",
       "inactive": true,
       "deactivatedDate": "2026-08-07"
-    },
-    {
-      "text": "The happiness of your life depends upon the quality of your thoughts.",
-      "author": "Marcus Aurelius",
-      "date": "2026-07-24",
-      "inactive": true,
-      "deactivatedDate": "2026-08-08"
     },
     {
       "text": "It is during our darkest moments that we must focus to see the light.",
@@ -1446,13 +1432,6 @@
     {
       "text": "It is only with the heart that one can see rightly; what is essential is invisible to the eye.",
       "author": "Antoine de Saint-Exupéry",
-      "date": "2026-07-28",
-      "inactive": true,
-      "deactivatedDate": "2026-08-13"
-    },
-    {
-      "text": "The best preparation for tomorrow is doing your best today.",
-      "author": "H. Jackson Brown Jr.",
       "date": "2026-07-28",
       "inactive": true,
       "deactivatedDate": "2026-08-13"
@@ -1843,13 +1822,6 @@
       "date": "2026-08-17",
       "inactive": true,
       "deactivatedDate": "2026-09-03"
-    },
-    {
-      "text": "Courage is not simply one of the virtues, but the form of every virtue at the testing point.",
-      "author": "C.S. Lewis",
-      "date": "2026-08-18",
-      "inactive": true,
-      "deactivatedDate": "2026-09-04"
     },
     {
       "text": "Because you are alive, everything is possible.",
@@ -2348,13 +2320,6 @@
       "deactivatedDate": "2026-09-21"
     },
     {
-      "text": "I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live by the light that I have.",
-      "author": "Abraham Lincoln",
-      "date": "2026-09-05",
-      "inactive": true,
-      "deactivatedDate": "2026-09-21"
-    },
-    {
       "text": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
       "author": "Buddha",
       "date": "2026-09-05",
@@ -2446,9 +2411,44 @@
       "inactive": true,
       "communitySubmission": true,
       "deactivatedDate": "2026-09-23"
+    },
+    {
+      "text": "Happiness depends upon ourselves.",
+      "author": "Aristotle",
+      "date": "2026-09-08",
+      "inactive": true,
+      "deactivatedDate": "2026-09-24"
+    },
+    {
+      "text": "You don't have to see the whole staircase, just take the first step.",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-09-08",
+      "inactive": true,
+      "deactivatedDate": "2026-09-24"
+    },
+    {
+      "text": "Freedom is never given; it is won.",
+      "author": "A. Philip Randolph",
+      "date": "2026-09-08",
+      "inactive": true,
+      "deactivatedDate": "2026-09-24"
+    },
+    {
+      "text": "Peace begins with a smile.",
+      "author": "Mother Teresa",
+      "date": "2026-09-08",
+      "inactive": true,
+      "deactivatedDate": "2026-09-24"
+    },
+    {
+      "text": "Don't you quit. You keep walking. You keep trying. There is help and happiness ahead.",
+      "author": "Jeffrey R. Holland",
+      "date": "2026-09-07",
+      "inactive": true,
+      "deactivatedDate": "2026-09-24"
     }
   ],
-  "lastRotation": "2026-09-23",
+  "lastRotation": "2026-09-24",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
