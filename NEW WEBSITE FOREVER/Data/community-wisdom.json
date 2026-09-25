@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Let yourself be silently drawn by the strange pull of what you really love. It will not lead you astray.",
+      "author": "Rumi",
+      "date": "2026-09-25",
+      "inactive": false
+    },
+    {
+      "text": "Even the smallest person can change the course of the future.",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-09-25",
+      "inactive": false
+    },
+    {
+      "text": "Humanity must seek what is NOT simple and obvious using the simple and obvious.",
+      "author": "Musonius Rufus",
+      "date": "2026-09-25",
+      "inactive": false
+    },
+    {
+      "text": "For every minute you are angry you lose sixty seconds of happiness.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-09-25",
+      "inactive": false
+    },
+    {
+      "text": "Be who God meant you to be and you will set the world on fire.",
+      "author": "St. Catherine of Siena",
+      "date": "2026-09-25",
+      "inactive": false
+    },
+    {
       "text": "The happiness of your life depends upon the quality of your thoughts.",
       "author": "Marcus Aurelius",
       "date": "2026-09-24",
@@ -468,36 +498,6 @@
       "inactive": false
     },
     {
-      "text": "To pull a friend out of the mire, don’t hesitate to get dirty.\nBaal Shem",
-      "author": "Baal Shem Tov",
-      "date": "2026-09-09",
-      "inactive": false
-    },
-    {
-      "text": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-09-09",
-      "inactive": false
-    },
-    {
-      "text": "Where the head goes, the body follows. Perception precedes action.",
-      "author": "Ryan Holiday",
-      "date": "2026-09-09",
-      "inactive": false
-    },
-    {
-      "text": "The mind is everything. What you think you become.",
-      "author": "Buddha",
-      "date": "2026-09-09",
-      "inactive": false
-    },
-    {
-      "text": "Owning our story and loving ourselves through that process is the bravest thing that we'll ever do.",
-      "author": "Brené Brown",
-      "date": "2026-09-08",
-      "inactive": false
-    },
-    {
       "text": "Decisions determine destiny.",
       "author": "Thomas S. Monson",
       "date": "2026-03-28",
@@ -660,13 +660,6 @@
       "date": "2026-05-22",
       "inactive": true,
       "communitySubmission": true,
-      "deactivatedDate": "2026-06-04"
-    },
-    {
-      "text": "Even the smallest person can change the course of the future.",
-      "author": "J.R.R. Tolkien",
-      "date": "2026-05-22",
-      "inactive": true,
       "deactivatedDate": "2026-06-04"
     },
     {
@@ -879,13 +872,6 @@
       "date": "2026-06-22",
       "inactive": true,
       "deactivatedDate": "2026-07-07"
-    },
-    {
-      "text": "Let yourself be silently drawn by the strange pull of what you really love. It will not lead you astray.",
-      "author": "Rumi",
-      "date": "2026-06-25",
-      "inactive": true,
-      "deactivatedDate": "2026-07-09"
     },
     {
       "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
@@ -1768,13 +1754,6 @@
       "deactivatedDate": "2026-09-01"
     },
     {
-      "text": "Be who God meant you to be and you will set the world on fire.",
-      "author": "St. Catherine of Siena",
-      "date": "2026-08-16",
-      "inactive": true,
-      "deactivatedDate": "2026-09-01"
-    },
-    {
       "text": "Instructions for living a life: Pay attention. Be astonished. Tell about it.",
       "author": "Mary Oliver",
       "date": "2026-08-16",
@@ -1840,13 +1819,6 @@
     {
       "text": "Kind words can be short and easy to speak, but their echoes are truly endless.",
       "author": "Mother Teresa",
-      "date": "2026-08-19",
-      "inactive": true,
-      "deactivatedDate": "2026-09-05"
-    },
-    {
-      "text": "Humanity must seek what is NOT simple and obvious using the simple and obvious.",
-      "author": "Musonius Rufus",
       "date": "2026-08-19",
       "inactive": true,
       "deactivatedDate": "2026-09-05"
@@ -1953,13 +1925,6 @@
     {
       "text": "The time is always right to do what is right.",
       "author": "Martin Luther King Jr.",
-      "date": "2026-08-23",
-      "inactive": true,
-      "deactivatedDate": "2026-09-09"
-    },
-    {
-      "text": "For every minute you are angry you lose sixty seconds of happiness.",
-      "author": "Ralph Waldo Emerson",
       "date": "2026-08-23",
       "inactive": true,
       "deactivatedDate": "2026-09-09"
@@ -2446,9 +2411,44 @@
       "date": "2026-09-07",
       "inactive": true,
       "deactivatedDate": "2026-09-24"
+    },
+    {
+      "text": "To pull a friend out of the mire, don’t hesitate to get dirty.\nBaal Shem",
+      "author": "Baal Shem Tov",
+      "date": "2026-09-09",
+      "inactive": true,
+      "deactivatedDate": "2026-09-25"
+    },
+    {
+      "text": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-09-09",
+      "inactive": true,
+      "deactivatedDate": "2026-09-25"
+    },
+    {
+      "text": "Where the head goes, the body follows. Perception precedes action.",
+      "author": "Ryan Holiday",
+      "date": "2026-09-09",
+      "inactive": true,
+      "deactivatedDate": "2026-09-25"
+    },
+    {
+      "text": "The mind is everything. What you think you become.",
+      "author": "Buddha",
+      "date": "2026-09-09",
+      "inactive": true,
+      "deactivatedDate": "2026-09-25"
+    },
+    {
+      "text": "Owning our story and loving ourselves through that process is the bravest thing that we'll ever do.",
+      "author": "Brené Brown",
+      "date": "2026-09-08",
+      "inactive": true,
+      "deactivatedDate": "2026-09-25"
     }
   ],
-  "lastRotation": "2026-09-24",
+  "lastRotation": "2026-09-25",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
