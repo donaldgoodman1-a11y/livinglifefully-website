@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "When we keep the commandments, the blessings come.",
+      "author": "Henry B. Eyring",
+      "date": "2026-09-26",
+      "inactive": false
+    },
+    {
+      "text": "Because a thing seems difficult for you, do not think it impossible for anyone to accomplish.",
+      "author": "Marcus Aurelius",
+      "date": "2026-09-26",
+      "inactive": false
+    },
+    {
+      "text": "We choose to be in control or choose to surrender.",
+      "author": "Ryan Holiday",
+      "date": "2026-09-26",
+      "inactive": false
+    },
+    {
+      "text": "The purpose of our lives is to be happy.",
+      "author": "Dalai Lama",
+      "date": "2026-09-26",
+      "inactive": false
+    },
+    {
+      "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-09-26",
+      "inactive": false
+    },
+    {
       "text": "Let yourself be silently drawn by the strange pull of what you really love. It will not lead you astray.",
       "author": "Rumi",
       "date": "2026-09-25",
@@ -468,36 +498,6 @@
       "inactive": false
     },
     {
-      "text": "You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes.",
-      "author": "A.A. Milne",
-      "date": "2026-09-10",
-      "inactive": false
-    },
-    {
-      "text": "Those who don't believe in magic will never find it.",
-      "author": "Roald Dahl",
-      "date": "2026-09-10",
-      "inactive": false
-    },
-    {
-      "text": "Friendship is born at that moment when one person says to another: What! You too? I thought I was the only one.",
-      "author": "C.S. Lewis",
-      "date": "2026-09-10",
-      "inactive": false
-    },
-    {
-      "text": "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
-      "author": "Mother Teresa",
-      "date": "2026-09-10",
-      "inactive": false
-    },
-    {
-      "text": "You can never get a cup of tea large enough or a book long enough to suit me.",
-      "author": "C.S. Lewis",
-      "date": "2026-09-09",
-      "inactive": false
-    },
-    {
       "text": "Decisions determine destiny.",
       "author": "Thomas S. Monson",
       "date": "2026-03-28",
@@ -747,13 +747,6 @@
       "deactivatedDate": "2026-06-21"
     },
     {
-      "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-06-07",
-      "inactive": true,
-      "deactivatedDate": "2026-06-21"
-    },
-    {
       "text": "When I do good, I feel good. When I do bad, I feel bad. That's my religion.",
       "author": "Abraham Lincoln",
       "date": "2026-06-08",
@@ -763,13 +756,6 @@
     {
       "text": "Knowing yourself is the beginning of all wisdom.",
       "author": "Aristotle",
-      "date": "2026-06-09",
-      "inactive": true,
-      "deactivatedDate": "2026-06-23"
-    },
-    {
-      "text": "We choose to be in control or choose to surrender.",
-      "author": "Ryan Holiday",
       "date": "2026-06-09",
       "inactive": true,
       "deactivatedDate": "2026-06-23"
@@ -931,13 +917,6 @@
       "deactivatedDate": "2026-07-12"
     },
     {
-      "text": "The purpose of our lives is to be happy.",
-      "author": "Dalai Lama",
-      "date": "2026-06-28",
-      "inactive": true,
-      "deactivatedDate": "2026-07-13"
-    },
-    {
       "text": "Write it on your heart that every day is the best day in the year.",
       "author": "Ralph Waldo Emerson",
       "date": "2026-06-28",
@@ -955,13 +934,6 @@
       "text": "Not all of us can do great things. But we can do small things with great love.",
       "author": "Mother Teresa",
       "date": "2026-07-01",
-      "inactive": true,
-      "deactivatedDate": "2026-07-15"
-    },
-    {
-      "text": "Because a thing seems difficult for you, do not think it impossible for anyone to accomplish.",
-      "author": "Marcus Aurelius",
-      "date": "2026-06-30",
       "inactive": true,
       "deactivatedDate": "2026-07-15"
     },
@@ -1326,13 +1298,6 @@
       "text": "He who has a why to live can bear almost any how.",
       "author": "Friedrich Nietzsche",
       "date": "2026-07-23",
-      "inactive": true,
-      "deactivatedDate": "2026-08-07"
-    },
-    {
-      "text": "When we keep the commandments, the blessings come.",
-      "author": "Henry B. Eyring",
-      "date": "2026-07-22",
       "inactive": true,
       "deactivatedDate": "2026-08-07"
     },
@@ -2446,9 +2411,44 @@
       "date": "2026-09-08",
       "inactive": true,
       "deactivatedDate": "2026-09-25"
+    },
+    {
+      "text": "You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes.",
+      "author": "A.A. Milne",
+      "date": "2026-09-10",
+      "inactive": true,
+      "deactivatedDate": "2026-09-26"
+    },
+    {
+      "text": "Those who don't believe in magic will never find it.",
+      "author": "Roald Dahl",
+      "date": "2026-09-10",
+      "inactive": true,
+      "deactivatedDate": "2026-09-26"
+    },
+    {
+      "text": "Friendship is born at that moment when one person says to another: What! You too? I thought I was the only one.",
+      "author": "C.S. Lewis",
+      "date": "2026-09-10",
+      "inactive": true,
+      "deactivatedDate": "2026-09-26"
+    },
+    {
+      "text": "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
+      "author": "Mother Teresa",
+      "date": "2026-09-10",
+      "inactive": true,
+      "deactivatedDate": "2026-09-26"
+    },
+    {
+      "text": "You can never get a cup of tea large enough or a book long enough to suit me.",
+      "author": "C.S. Lewis",
+      "date": "2026-09-09",
+      "inactive": true,
+      "deactivatedDate": "2026-09-26"
     }
   ],
-  "lastRotation": "2026-09-25",
+  "lastRotation": "2026-09-26",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
