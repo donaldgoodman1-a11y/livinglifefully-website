@@ -1,6 +1,38 @@
 {
   "quotes": [
     {
+      "text": "Life is a performance: don’t focus on the mistakes.",
+      "author": "Dr Goodman",
+      "date": "2026-09-27",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "Be still, and know that I am God.",
+      "author": "King David",
+      "date": "2026-09-27",
+      "inactive": false
+    },
+    {
+      "text": "I can't die but once.",
+      "author": "Harriet Tubman",
+      "date": "2026-09-27",
+      "inactive": false
+    },
+    {
+      "text": "Hugh B. Brown wrote: We ask for strength and God gives us difficulties, which makes us \nstrong. We pray for wisdom and God sends us problems, the solution of which develops \nwisdom. We plead for prosperity and God gives us brain and brawn to work. We plead \nfor courage and God gives us dangers to overcome. We ask for favors and God gives us \nopportunities. This is the answer.”",
+      "author": "Hugh B Brown",
+      "date": "2026-09-27",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "A goal without a plan is just a wish.",
+      "author": "Antoine de Saint-Exupéry",
+      "date": "2026-09-27",
+      "inactive": false
+    },
+    {
       "text": "When we keep the commandments, the blessings come.",
       "author": "Henry B. Eyring",
       "date": "2026-09-26",
@@ -467,37 +499,6 @@
       "inactive": false
     },
     {
-      "text": "What you see and what you hear depends a great deal on where you are standing. It also depends on what sort of person you are.",
-      "author": "C.S. Lewis",
-      "date": "2026-09-11",
-      "inactive": false
-    },
-    {
-      "text": "The present moment is the only time over which we have dominion.",
-      "author": "Thich Nhat Hanh",
-      "date": "2026-09-11",
-      "inactive": false
-    },
-    {
-      "text": "Don’t make a project out of yourself. Get out of yourself and help someone else.",
-      "author": "Anonymous Reader",
-      "date": "2026-09-11",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "Peace comes from within. Do not seek it without.",
-      "author": "Thich Nhat Hanh",
-      "date": "2026-09-11",
-      "inactive": false
-    },
-    {
-      "text": "To bear trials with a calm mind robs misfortune of its strength and burden.",
-      "author": "Seneca",
-      "date": "2026-09-10",
-      "inactive": false
-    },
-    {
       "text": "Decisions determine destiny.",
       "author": "Thomas S. Monson",
       "date": "2026-03-28",
@@ -525,13 +526,6 @@
       "date": "2026-04-18",
       "inactive": true,
       "deactivatedDate": "2026-04-28"
-    },
-    {
-      "text": "A goal without a plan is just a wish.",
-      "author": "Antoine de Saint-Exupéry",
-      "date": "2026-04-22",
-      "inactive": true,
-      "deactivatedDate": "2026-05-03"
     },
     {
       "text": "Whatever you are, be a good one.",
@@ -995,14 +989,6 @@
       "deactivatedDate": "2026-07-18"
     },
     {
-      "text": "Hugh B. Brown wrote: We ask for strength and God gives us difficulties, which makes us \nstrong. We pray for wisdom and God sends us problems, the solution of which develops \nwisdom. We plead for prosperity and God gives us brain and brawn to work. We plead \nfor courage and God gives us dangers to overcome. We ask for favors and God gives us \nopportunities. This is the answer.”",
-      "author": "Hugh B Brown",
-      "date": "2026-07-03",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-07-18"
-    },
-    {
       "text": "Peace comes from within. Do not seek it without.",
       "author": "Buddha",
       "date": "2026-07-04",
@@ -1131,13 +1117,6 @@
       "deactivatedDate": "2026-07-28"
     },
     {
-      "text": "Be still, and know that I am God.",
-      "author": "King David",
-      "date": "2026-07-13",
-      "inactive": true,
-      "deactivatedDate": "2026-07-28"
-    },
-    {
       "text": "What we think, we become.",
       "author": "Dalai Lama",
       "date": "2026-07-13",
@@ -1222,13 +1201,6 @@
       "date": "2026-07-18",
       "inactive": true,
       "communitySubmission": true,
-      "deactivatedDate": "2026-08-02"
-    },
-    {
-      "text": "I can't die but once.",
-      "author": "Harriet Tubman",
-      "date": "2026-07-18",
-      "inactive": true,
       "deactivatedDate": "2026-08-02"
     },
     {
@@ -2235,14 +2207,6 @@
       "deactivatedDate": "2026-09-20"
     },
     {
-      "text": "Life is a performance: don’t focus on the mistakes.",
-      "author": "Dr Goodman",
-      "date": "2026-09-04",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-09-20"
-    },
-    {
       "text": "The least of things with a meaning is worth more in life than the greatest of things without it.",
       "author": "Carl Jung",
       "date": "2026-09-05",
@@ -2446,9 +2410,45 @@
       "date": "2026-09-09",
       "inactive": true,
       "deactivatedDate": "2026-09-26"
+    },
+    {
+      "text": "What you see and what you hear depends a great deal on where you are standing. It also depends on what sort of person you are.",
+      "author": "C.S. Lewis",
+      "date": "2026-09-11",
+      "inactive": true,
+      "deactivatedDate": "2026-09-27"
+    },
+    {
+      "text": "The present moment is the only time over which we have dominion.",
+      "author": "Thich Nhat Hanh",
+      "date": "2026-09-11",
+      "inactive": true,
+      "deactivatedDate": "2026-09-27"
+    },
+    {
+      "text": "Don’t make a project out of yourself. Get out of yourself and help someone else.",
+      "author": "Anonymous Reader",
+      "date": "2026-09-11",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-09-27"
+    },
+    {
+      "text": "Peace comes from within. Do not seek it without.",
+      "author": "Thich Nhat Hanh",
+      "date": "2026-09-11",
+      "inactive": true,
+      "deactivatedDate": "2026-09-27"
+    },
+    {
+      "text": "To bear trials with a calm mind robs misfortune of its strength and burden.",
+      "author": "Seneca",
+      "date": "2026-09-10",
+      "inactive": true,
+      "deactivatedDate": "2026-09-27"
     }
   ],
-  "lastRotation": "2026-09-26",
+  "lastRotation": "2026-09-27",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
