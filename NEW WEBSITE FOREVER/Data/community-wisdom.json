@@ -1,6 +1,37 @@
 {
   "quotes": [
     {
+      "text": "All our dreams can come true, if we have the courage to pursue them.",
+      "author": "Walt Disney",
+      "date": "2026-09-28",
+      "inactive": false
+    },
+    {
+      "text": "Live in the sunshine, swim the sea, drink the wild air.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-09-28",
+      "inactive": false
+    },
+    {
+      "text": "The impediment to action advances action. What stands in the way becomes the way.",
+      "author": "Ryan Holiday",
+      "date": "2026-09-28",
+      "inactive": false
+    },
+    {
+      "text": "You can't heal the people you love. You can't make choices for them. You can't rescue \nthem. You can promise that they won't journey alone. You can loan them your map. But \nthis trip is theirs. By Laura Jean Truman",
+      "author": "Laura Jean Truman",
+      "date": "2026-09-28",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "No act of kindness, no matter how small, is ever wasted.",
+      "author": "Aesop",
+      "date": "2026-09-28",
+      "inactive": false
+    },
+    {
       "text": "Life is a performance: don’t focus on the mistakes.",
       "author": "Dr Goodman",
       "date": "2026-09-27",
@@ -467,38 +498,6 @@
       "inactive": false
     },
     {
-      "text": "When we make our fantasies our reality they often become our nightmares.",
-      "author": "Dr Goodman",
-      "date": "2026-09-12",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "Let us not pray to be sheltered from dangers but to be fearless when facing them.",
-      "author": "Rabindranath Tagore",
-      "date": "2026-09-12",
-      "inactive": false
-    },
-    {
-      "text": "You must do the things you think you cannot do.",
-      "author": "Eleanor Roosevelt",
-      "date": "2026-09-12",
-      "inactive": false
-    },
-    {
-      "text": "“Loneliness, is not the absence of people around us, but the inability to express what truly matters within us",
-      "author": "Carl Jung",
-      "date": "2026-09-12",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "Wherever you go, go with all your heart.",
-      "author": "Confucius",
-      "date": "2026-09-11",
-      "inactive": false
-    },
-    {
       "text": "Decisions determine destiny.",
       "author": "Thomas S. Monson",
       "date": "2026-03-28",
@@ -798,13 +797,6 @@
       "deactivatedDate": "2026-06-28"
     },
     {
-      "text": "All our dreams can come true, if we have the courage to pursue them.",
-      "author": "Walt Disney",
-      "date": "2026-06-14",
-      "inactive": true,
-      "deactivatedDate": "2026-06-29"
-    },
-    {
       "text": "let GO",
       "author": "Anonymous Reader",
       "date": "2026-06-16",
@@ -928,13 +920,6 @@
       "text": "Not all of us can do great things. But we can do small things with great love.",
       "author": "Mother Teresa",
       "date": "2026-07-01",
-      "inactive": true,
-      "deactivatedDate": "2026-07-15"
-    },
-    {
-      "text": "Live in the sunshine, swim the sea, drink the wild air.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-06-30",
       "inactive": true,
       "deactivatedDate": "2026-07-15"
     },
@@ -1246,13 +1231,6 @@
       "deactivatedDate": "2026-08-05"
     },
     {
-      "text": "No act of kindness, no matter how small, is ever wasted.",
-      "author": "Aesop",
-      "date": "2026-07-21",
-      "inactive": true,
-      "deactivatedDate": "2026-08-06"
-    },
-    {
       "text": "The most effective way to change your behavior is to focus not on what you want to achieve, but on who you wish to become.",
       "author": "James Clear",
       "date": "2026-07-21",
@@ -1454,13 +1432,6 @@
       "text": "Tell me, what is it you plan to do with your one wild and precious life?",
       "author": "Mary Oliver",
       "date": "2026-08-05",
-      "inactive": true,
-      "deactivatedDate": "2026-08-20"
-    },
-    {
-      "text": "The impediment to action advances action. What stands in the way becomes the way.",
-      "author": "Ryan Holiday",
-      "date": "2026-08-04",
       "inactive": true,
       "deactivatedDate": "2026-08-20"
     },
@@ -1927,14 +1898,6 @@
       "author": "Paul the Apostle",
       "date": "2026-08-25",
       "inactive": true,
-      "deactivatedDate": "2026-09-11"
-    },
-    {
-      "text": "You can't heal the people you love. You can't make choices for them. You can't rescue \nthem. You can promise that they won't journey alone. You can loan them your map. But \nthis trip is theirs. By Laura Jean Truman",
-      "author": "Laura Jean Truman",
-      "date": "2026-08-25",
-      "inactive": true,
-      "communitySubmission": true,
       "deactivatedDate": "2026-09-11"
     },
     {
@@ -2446,9 +2409,46 @@
       "date": "2026-09-10",
       "inactive": true,
       "deactivatedDate": "2026-09-27"
+    },
+    {
+      "text": "When we make our fantasies our reality they often become our nightmares.",
+      "author": "Dr Goodman",
+      "date": "2026-09-12",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-09-28"
+    },
+    {
+      "text": "Let us not pray to be sheltered from dangers but to be fearless when facing them.",
+      "author": "Rabindranath Tagore",
+      "date": "2026-09-12",
+      "inactive": true,
+      "deactivatedDate": "2026-09-28"
+    },
+    {
+      "text": "You must do the things you think you cannot do.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-09-12",
+      "inactive": true,
+      "deactivatedDate": "2026-09-28"
+    },
+    {
+      "text": "“Loneliness, is not the absence of people around us, but the inability to express what truly matters within us",
+      "author": "Carl Jung",
+      "date": "2026-09-12",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-09-28"
+    },
+    {
+      "text": "Wherever you go, go with all your heart.",
+      "author": "Confucius",
+      "date": "2026-09-11",
+      "inactive": true,
+      "deactivatedDate": "2026-09-28"
     }
   ],
-  "lastRotation": "2026-09-27",
+  "lastRotation": "2026-09-28",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
