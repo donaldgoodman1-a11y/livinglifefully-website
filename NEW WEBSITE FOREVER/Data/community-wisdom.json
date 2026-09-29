@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "let GO",
+      "author": "Anonymous Reader",
+      "date": "2026-09-29",
+      "inactive": false
+    },
+    {
+      "text": "Knowing your own darkness is the best method for dealing with the darknesses of other people.",
+      "author": "Carl Jung",
+      "date": "2026-09-29",
+      "inactive": false
+    },
+    {
+      "text": "You're off to great places! Today is your day! Your mountain is waiting, so get on your way!",
+      "author": "Dr. Seuss",
+      "date": "2026-09-29",
+      "inactive": false
+    },
+    {
+      "text": "Decisions determine destiny.",
+      "author": "Thomas S. Monson",
+      "date": "2026-09-29",
+      "inactive": false
+    },
+    {
+      "text": "The brick walls are there for a reason. They're not there to keep us out. The brick walls are there to give us a chance to show how badly we want something.",
+      "author": "Randy Pausch",
+      "date": "2026-09-29",
+      "inactive": false
+    },
+    {
       "text": "All our dreams can come true, if we have the courage to pursue them.",
       "author": "Walt Disney",
       "date": "2026-09-28",
@@ -468,43 +498,6 @@
       "inactive": false
     },
     {
-      "text": "Hope is being able to see that there is light despite all of the darkness.",
-      "author": "Desmond Tutu",
-      "date": "2026-09-13",
-      "inactive": false
-    },
-    {
-      "text": "You are never too old to set another goal or to dream a new dream.",
-      "author": "C.S. Lewis",
-      "date": "2026-09-13",
-      "inactive": false
-    },
-    {
-      "text": "A soft answer turneth away wrath.",
-      "author": "King Solomon",
-      "date": "2026-09-13",
-      "inactive": false
-    },
-    {
-      "text": "I am seeking, I am striving, I am in it with all my heart.",
-      "author": "Vincent Van Gogh",
-      "date": "2026-09-13",
-      "inactive": false
-    },
-    {
-      "text": "If you have good thoughts they will shine out of your face like sunbeams and you will always look lovely.",
-      "author": "Roald Dahl",
-      "date": "2026-09-12",
-      "inactive": false
-    },
-    {
-      "text": "Decisions determine destiny.",
-      "author": "Thomas S. Monson",
-      "date": "2026-03-28",
-      "inactive": true,
-      "deactivatedDate": "2026-04-06"
-    },
-    {
       "text": "You miss 100% of the shots you don't take.",
       "author": "Wayne Gretzky",
       "date": "2026-03-31",
@@ -797,13 +790,6 @@
       "deactivatedDate": "2026-06-28"
     },
     {
-      "text": "let GO",
-      "author": "Anonymous Reader",
-      "date": "2026-06-16",
-      "inactive": true,
-      "deactivatedDate": "2026-07-01"
-    },
-    {
       "text": "The only impossible journey is the one you never begin.",
       "author": "Tony Robbins",
       "date": "2026-06-18",
@@ -922,13 +908,6 @@
       "date": "2026-07-01",
       "inactive": true,
       "deactivatedDate": "2026-07-15"
-    },
-    {
-      "text": "The brick walls are there for a reason. They're not there to keep us out. The brick walls are there to give us a chance to show how badly we want something.",
-      "author": "Randy Pausch",
-      "date": "2026-07-01",
-      "inactive": true,
-      "deactivatedDate": "2026-07-16"
     },
     {
       "text": "Every great dream begins with a dreamer.",
@@ -1529,13 +1508,6 @@
       "deactivatedDate": "2026-08-25"
     },
     {
-      "text": "Knowing your own darkness is the best method for dealing with the darknesses of other people.",
-      "author": "Carl Jung",
-      "date": "2026-08-09",
-      "inactive": true,
-      "deactivatedDate": "2026-08-25"
-    },
-    {
       "text": "Experience is what you get when you didn't get what you wanted.",
       "author": "Randy Pausch",
       "date": "2026-08-10",
@@ -1552,13 +1524,6 @@
     {
       "text": "Life is either a daring adventure or nothing at all.",
       "author": "Helen Keller",
-      "date": "2026-08-11",
-      "inactive": true,
-      "deactivatedDate": "2026-08-27"
-    },
-    {
-      "text": "You're off to great places! Today is your day! Your mountain is waiting, so get on your way!",
-      "author": "Dr. Seuss",
       "date": "2026-08-11",
       "inactive": true,
       "deactivatedDate": "2026-08-27"
@@ -2446,9 +2411,44 @@
       "date": "2026-09-11",
       "inactive": true,
       "deactivatedDate": "2026-09-28"
+    },
+    {
+      "text": "Hope is being able to see that there is light despite all of the darkness.",
+      "author": "Desmond Tutu",
+      "date": "2026-09-13",
+      "inactive": true,
+      "deactivatedDate": "2026-09-29"
+    },
+    {
+      "text": "You are never too old to set another goal or to dream a new dream.",
+      "author": "C.S. Lewis",
+      "date": "2026-09-13",
+      "inactive": true,
+      "deactivatedDate": "2026-09-29"
+    },
+    {
+      "text": "A soft answer turneth away wrath.",
+      "author": "King Solomon",
+      "date": "2026-09-13",
+      "inactive": true,
+      "deactivatedDate": "2026-09-29"
+    },
+    {
+      "text": "I am seeking, I am striving, I am in it with all my heart.",
+      "author": "Vincent Van Gogh",
+      "date": "2026-09-13",
+      "inactive": true,
+      "deactivatedDate": "2026-09-29"
+    },
+    {
+      "text": "If you have good thoughts they will shine out of your face like sunbeams and you will always look lovely.",
+      "author": "Roald Dahl",
+      "date": "2026-09-12",
+      "inactive": true,
+      "deactivatedDate": "2026-09-29"
     }
   ],
-  "lastRotation": "2026-09-28",
+  "lastRotation": "2026-09-29",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
