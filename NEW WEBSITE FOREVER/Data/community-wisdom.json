@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "When we are no longer able to change a situation, we are challenged to change ourselves.",
+      "author": "Viktor Frankl",
+      "date": "2026-09-30",
+      "inactive": false
+    },
+    {
+      "text": "A cheerful heart is good medicine.",
+      "author": "King Solomon",
+      "date": "2026-09-30",
+      "inactive": false
+    },
+    {
+      "text": "You either walk inside your story and own it or you stand outside your story and hustle for your worthiness.",
+      "author": "Brené Brown",
+      "date": "2026-09-30",
+      "inactive": false
+    },
+    {
+      "text": "For I know the thoughts that I think toward you, saith the Lord, thoughts of peace, and not of evil.",
+      "author": "Jeremiah",
+      "date": "2026-09-30",
+      "inactive": false
+    },
+    {
+      "text": "It's kind of fun to do the impossible.",
+      "author": "Walt Disney",
+      "date": "2026-09-30",
+      "inactive": false
+    },
+    {
       "text": "let GO",
       "author": "Anonymous Reader",
       "date": "2026-09-29",
@@ -465,36 +495,6 @@
       "text": "We cannot do great things on this earth, only small things with great love.",
       "author": "Mother Teresa",
       "date": "2026-09-14",
-      "inactive": false
-    },
-    {
-      "text": "The only person you are destined to become is the person you decide to be.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-09-14",
-      "inactive": false
-    },
-    {
-      "text": "Don't gobblefunk around with words.",
-      "author": "Roald Dahl",
-      "date": "2026-09-14",
-      "inactive": false
-    },
-    {
-      "text": "Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.",
-      "author": "Carl Jung",
-      "date": "2026-09-14",
-      "inactive": false
-    },
-    {
-      "text": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
-      "author": "Albert Einstein",
-      "date": "2026-09-14",
-      "inactive": false
-    },
-    {
-      "text": "Even miracles take a little time.",
-      "author": "Fairy Godmother, Cinderella",
-      "date": "2026-09-13",
       "inactive": false
     },
     {
@@ -1359,20 +1359,6 @@
       "deactivatedDate": "2026-08-16"
     },
     {
-      "text": "For I know the thoughts that I think toward you, saith the Lord, thoughts of peace, and not of evil.",
-      "author": "Jeremiah",
-      "date": "2026-07-31",
-      "inactive": true,
-      "deactivatedDate": "2026-08-16"
-    },
-    {
-      "text": "A cheerful heart is good medicine.",
-      "author": "King Solomon",
-      "date": "2026-07-31",
-      "inactive": true,
-      "deactivatedDate": "2026-08-16"
-    },
-    {
       "text": "We cannot change the cards we are dealt, just how we play the hand.",
       "author": "Randy Pausch",
       "date": "2026-08-01",
@@ -1599,13 +1585,6 @@
       "deactivatedDate": "2026-08-30"
     },
     {
-      "text": "When we are no longer able to change a situation, we are challenged to change ourselves.",
-      "author": "Viktor Frankl",
-      "date": "2026-08-16",
-      "inactive": true,
-      "deactivatedDate": "2026-08-31"
-    },
-    {
       "text": "Today you are you, that is truer than true. There is no one alive who is youer than you.",
       "author": "Dr. Seuss",
       "date": "2026-08-15",
@@ -1781,13 +1760,6 @@
       "deactivatedDate": "2026-09-09"
     },
     {
-      "text": "You either walk inside your story and own it or you stand outside your story and hustle for your worthiness.",
-      "author": "Brené Brown",
-      "date": "2026-08-23",
-      "inactive": true,
-      "deactivatedDate": "2026-09-09"
-    },
-    {
       "text": "The secret of staying young is to live honestly, eat slowly, and lie about your age.",
       "author": "Lucille Ball",
       "date": "2026-08-23",
@@ -1882,13 +1854,6 @@
     {
       "text": "Be kind, for everyone you meet is fighting a hard battle.",
       "author": "Plato",
-      "date": "2026-08-26",
-      "inactive": true,
-      "deactivatedDate": "2026-09-12"
-    },
-    {
-      "text": "It's kind of fun to do the impossible.",
-      "author": "Walt Disney",
       "date": "2026-08-26",
       "inactive": true,
       "deactivatedDate": "2026-09-12"
@@ -2446,9 +2411,44 @@
       "date": "2026-09-12",
       "inactive": true,
       "deactivatedDate": "2026-09-29"
+    },
+    {
+      "text": "The only person you are destined to become is the person you decide to be.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-09-14",
+      "inactive": true,
+      "deactivatedDate": "2026-09-30"
+    },
+    {
+      "text": "Don't gobblefunk around with words.",
+      "author": "Roald Dahl",
+      "date": "2026-09-14",
+      "inactive": true,
+      "deactivatedDate": "2026-09-30"
+    },
+    {
+      "text": "Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.",
+      "author": "Carl Jung",
+      "date": "2026-09-14",
+      "inactive": true,
+      "deactivatedDate": "2026-09-30"
+    },
+    {
+      "text": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+      "author": "Albert Einstein",
+      "date": "2026-09-14",
+      "inactive": true,
+      "deactivatedDate": "2026-09-30"
+    },
+    {
+      "text": "Even miracles take a little time.",
+      "author": "Fairy Godmother, Cinderella",
+      "date": "2026-09-13",
+      "inactive": true,
+      "deactivatedDate": "2026-09-30"
     }
   ],
-  "lastRotation": "2026-09-29",
+  "lastRotation": "2026-09-30",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
