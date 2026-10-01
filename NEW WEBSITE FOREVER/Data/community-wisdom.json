@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "What would life be if we had no courage to attempt anything?",
+      "author": "Vincent Van Gogh",
+      "date": "2026-10-01",
+      "inactive": false
+    },
+    {
+      "text": "You are never too old to set another goal or to dream a new dream.",
+      "author": "C.S. Lewis",
+      "date": "2026-10-01",
+      "inactive": false
+    },
+    {
+      "text": "Well done is better than well said.",
+      "author": "Benjamin Franklin",
+      "date": "2026-10-01",
+      "inactive": false
+    },
+    {
+      "text": "Opposition is part of the divine plan.",
+      "author": "Dallin H. Oaks",
+      "date": "2026-10-01",
+      "inactive": false
+    },
+    {
+      "text": "Be kind whenever possible. It is always possible.",
+      "author": "Dalai Lama",
+      "date": "2026-10-01",
+      "inactive": false
+    },
+    {
       "text": "When we are no longer able to change a situation, we are challenged to change ourselves.",
       "author": "Viktor Frankl",
       "date": "2026-09-30",
@@ -466,36 +496,6 @@
       "date": "2026-09-15",
       "inactive": false,
       "communitySubmission": true
-    },
-    {
-      "text": "I alone cannot change the world, but I can cast a stone across the waters to create many ripples.",
-      "author": "Mother Teresa",
-      "date": "2026-09-15",
-      "inactive": false
-    },
-    {
-      "text": "Our prime purpose in this life is to help others. And if you can't help them, at least don't hurt them.",
-      "author": "Dalai Lama",
-      "date": "2026-09-15",
-      "inactive": false
-    },
-    {
-      "text": "The best way out is always through.",
-      "author": "Robert Frost",
-      "date": "2026-09-15",
-      "inactive": false
-    },
-    {
-      "text": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.",
-      "author": "J.K. Rowling",
-      "date": "2026-09-15",
-      "inactive": false
-    },
-    {
-      "text": "We cannot do great things on this earth, only small things with great love.",
-      "author": "Mother Teresa",
-      "date": "2026-09-14",
-      "inactive": false
     },
     {
       "text": "You miss 100% of the shots you don't take.",
@@ -1704,13 +1704,6 @@
       "deactivatedDate": "2026-09-07"
     },
     {
-      "text": "What would life be if we had no courage to attempt anything?",
-      "author": "Vincent Van Gogh",
-      "date": "2026-08-21",
-      "inactive": true,
-      "deactivatedDate": "2026-09-07"
-    },
-    {
       "text": "Those who have a 'why' to live, can bear with almost any 'how'.",
       "author": "Viktor Frankl",
       "date": "2026-08-21",
@@ -1873,13 +1866,6 @@
       "deactivatedDate": "2026-09-13"
     },
     {
-      "text": "Opposition is part of the divine plan.",
-      "author": "Dallin H. Oaks",
-      "date": "2026-08-27",
-      "inactive": true,
-      "deactivatedDate": "2026-09-13"
-    },
-    {
       "text": "Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!",
       "author": "Dr. Seuss",
       "date": "2026-08-27",
@@ -1959,13 +1945,6 @@
     {
       "text": "The future belongs to those who believe in the beauty of their dreams.",
       "author": "Eleanor Roosevelt",
-      "date": "2026-08-30",
-      "inactive": true,
-      "deactivatedDate": "2026-09-16"
-    },
-    {
-      "text": "Be kind whenever possible. It is always possible.",
-      "author": "Dalai Lama",
       "date": "2026-08-30",
       "inactive": true,
       "deactivatedDate": "2026-09-16"
@@ -2055,13 +2034,6 @@
       "date": "2026-09-03",
       "inactive": true,
       "communitySubmission": true,
-      "deactivatedDate": "2026-09-19"
-    },
-    {
-      "text": "Well done is better than well said.",
-      "author": "Benjamin Franklin",
-      "date": "2026-09-03",
-      "inactive": true,
       "deactivatedDate": "2026-09-19"
     },
     {
@@ -2385,13 +2357,6 @@
       "deactivatedDate": "2026-09-29"
     },
     {
-      "text": "You are never too old to set another goal or to dream a new dream.",
-      "author": "C.S. Lewis",
-      "date": "2026-09-13",
-      "inactive": true,
-      "deactivatedDate": "2026-09-29"
-    },
-    {
       "text": "A soft answer turneth away wrath.",
       "author": "King Solomon",
       "date": "2026-09-13",
@@ -2446,9 +2411,44 @@
       "date": "2026-09-13",
       "inactive": true,
       "deactivatedDate": "2026-09-30"
+    },
+    {
+      "text": "I alone cannot change the world, but I can cast a stone across the waters to create many ripples.",
+      "author": "Mother Teresa",
+      "date": "2026-09-15",
+      "inactive": true,
+      "deactivatedDate": "2026-10-01"
+    },
+    {
+      "text": "Our prime purpose in this life is to help others. And if you can't help them, at least don't hurt them.",
+      "author": "Dalai Lama",
+      "date": "2026-09-15",
+      "inactive": true,
+      "deactivatedDate": "2026-10-01"
+    },
+    {
+      "text": "The best way out is always through.",
+      "author": "Robert Frost",
+      "date": "2026-09-15",
+      "inactive": true,
+      "deactivatedDate": "2026-10-01"
+    },
+    {
+      "text": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.",
+      "author": "J.K. Rowling",
+      "date": "2026-09-15",
+      "inactive": true,
+      "deactivatedDate": "2026-10-01"
+    },
+    {
+      "text": "We cannot do great things on this earth, only small things with great love.",
+      "author": "Mother Teresa",
+      "date": "2026-09-14",
+      "inactive": true,
+      "deactivatedDate": "2026-10-01"
     }
   ],
-  "lastRotation": "2026-09-30",
+  "lastRotation": "2026-10-01",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
