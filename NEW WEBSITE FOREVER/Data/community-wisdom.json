@@ -1,6 +1,37 @@
 {
   "quotes": [
     {
+      "text": "Life is like riding a bicycle: to keep your balance you must keep moving.",
+      "author": "Albert Einstein",
+      "date": "2026-10-02",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "Some day you will be old enough to start reading fairy tales again.",
+      "author": "C.S. Lewis",
+      "date": "2026-10-02",
+      "inactive": false
+    },
+    {
+      "text": "Quick to observe means quick to act.",
+      "author": "David A. Bednar",
+      "date": "2026-10-02",
+      "inactive": false
+    },
+    {
+      "text": "It is your reaction to adversity, not the adversity itself, that determines how your life's story will develop.",
+      "author": "Dieter F. Uchtdorf",
+      "date": "2026-10-02",
+      "inactive": false
+    },
+    {
+      "text": "Better to get on the bike and fall then never to get on the bike at all.",
+      "author": "Dr Goodman",
+      "date": "2026-10-02",
+      "inactive": false
+    },
+    {
       "text": "What would life be if we had no courage to attempt anything?",
       "author": "Vincent Van Gogh",
       "date": "2026-10-01",
@@ -466,38 +497,6 @@
       "inactive": false
     },
     {
-      "text": "It does not matter how slowly you go as long as you do not stop.",
-      "author": "Confucius",
-      "date": "2026-09-16",
-      "inactive": false
-    },
-    {
-      "text": "As life brings moments that feel too heavy to bear, place your trust in Christ. The burden may remain, but through the Atonement, it no longer rests on you alone.",
-      "author": "Natalie LeBaron",
-      "date": "2026-09-16",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "The privilege of a lifetime is being who you are.",
-      "author": "Joseph Campbell",
-      "date": "2026-09-16",
-      "inactive": false
-    },
-    {
-      "text": "Someone I loved once gave me a box full of darkness. It took me years to understand that this too, was a gift.",
-      "author": "Mary Oliver",
-      "date": "2026-09-16",
-      "inactive": false
-    },
-    {
-      "text": "Science is not only compatible with spirituality; it is a profound source of spirituality.",
-      "author": "Carl Sagan",
-      "date": "2026-09-15",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
       "text": "You miss 100% of the shots you don't take.",
       "author": "Wayne Gretzky",
       "date": "2026-03-31",
@@ -537,13 +536,6 @@
       "text": "It does not do to dwell on dreams and forget to live.",
       "author": "J.K. Rowling",
       "date": "2026-05-09",
-      "inactive": true,
-      "deactivatedDate": "2026-05-20"
-    },
-    {
-      "text": "It is your reaction to adversity, not the adversity itself, that determines how your life's story will develop.",
-      "author": "Dieter F. Uchtdorf",
-      "date": "2026-05-08",
       "inactive": true,
       "deactivatedDate": "2026-05-20"
     },
@@ -641,14 +633,6 @@
       "deactivatedDate": "2026-06-02"
     },
     {
-      "text": "Life is like riding a bicycle: to keep your balance you must keep moving.",
-      "author": "Albert Einstein",
-      "date": "2026-05-22",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-06-04"
-    },
-    {
       "text": "Everything has beauty, but not everyone sees it.",
       "author": "Confucius",
       "date": "2026-05-23",
@@ -710,13 +694,6 @@
       "date": "2026-06-03",
       "inactive": true,
       "deactivatedDate": "2026-06-17"
-    },
-    {
-      "text": "Better to get on the bike and fall then never to get on the bike at all.",
-      "author": "Dr Goodman",
-      "date": "2026-06-04",
-      "inactive": true,
-      "deactivatedDate": "2026-06-18"
     },
     {
       "text": "Don't cry because it's over, smile because it happened.",
@@ -958,13 +935,6 @@
       "date": "2026-07-04",
       "inactive": true,
       "deactivatedDate": "2026-07-19"
-    },
-    {
-      "text": "Quick to observe means quick to act.",
-      "author": "David A. Bednar",
-      "date": "2026-07-06",
-      "inactive": true,
-      "deactivatedDate": "2026-07-20"
     },
     {
       "text": "I had reasoned this out in my mind, there was one of two things I had a right to, liberty or death; if I could not have one, I would have the other.",
@@ -2022,13 +1992,6 @@
       "deactivatedDate": "2026-09-18"
     },
     {
-      "text": "Some day you will be old enough to start reading fairy tales again.",
-      "author": "C.S. Lewis",
-      "date": "2026-09-01",
-      "inactive": true,
-      "deactivatedDate": "2026-09-18"
-    },
-    {
       "text": "Patience is the companion of wisdom.",
       "author": "St. Augustine of Hippo",
       "date": "2026-09-03",
@@ -2446,9 +2409,46 @@
       "date": "2026-09-14",
       "inactive": true,
       "deactivatedDate": "2026-10-01"
+    },
+    {
+      "text": "It does not matter how slowly you go as long as you do not stop.",
+      "author": "Confucius",
+      "date": "2026-09-16",
+      "inactive": true,
+      "deactivatedDate": "2026-10-02"
+    },
+    {
+      "text": "As life brings moments that feel too heavy to bear, place your trust in Christ. The burden may remain, but through the Atonement, it no longer rests on you alone.",
+      "author": "Natalie LeBaron",
+      "date": "2026-09-16",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-10-02"
+    },
+    {
+      "text": "The privilege of a lifetime is being who you are.",
+      "author": "Joseph Campbell",
+      "date": "2026-09-16",
+      "inactive": true,
+      "deactivatedDate": "2026-10-02"
+    },
+    {
+      "text": "Someone I loved once gave me a box full of darkness. It took me years to understand that this too, was a gift.",
+      "author": "Mary Oliver",
+      "date": "2026-09-16",
+      "inactive": true,
+      "deactivatedDate": "2026-10-02"
+    },
+    {
+      "text": "Science is not only compatible with spirituality; it is a profound source of spirituality.",
+      "author": "Carl Sagan",
+      "date": "2026-09-15",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-10-02"
     }
   ],
-  "lastRotation": "2026-10-01",
+  "lastRotation": "2026-10-02",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
