@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Faith in Jesus Christ is the first principle of the gospel for a reason.",
+      "author": "Henry B. Eyring",
+      "date": "2026-10-03",
+      "inactive": false
+    },
+    {
+      "text": "Because you are alive, everything is possible.",
+      "author": "Thich Nhat Hanh",
+      "date": "2026-10-03",
+      "inactive": false
+    },
+    {
+      "text": "I am seeking, I am striving, I am in it with all my heart.",
+      "author": "Vincent Van Gogh",
+      "date": "2026-10-03",
+      "inactive": false
+    },
+    {
+      "text": "Courage starts with showing up and letting ourselves be seen.",
+      "author": "Brené Brown",
+      "date": "2026-10-03",
+      "inactive": false
+    },
+    {
+      "text": "We can ignore reality, but we cannot ignore the consequences of ignoring reality.",
+      "author": "Ayn Rand",
+      "date": "2026-10-03",
+      "inactive": false
+    },
+    {
       "text": "Life is like riding a bicycle: to keep your balance you must keep moving.",
       "author": "Albert Einstein",
       "date": "2026-10-02",
@@ -467,36 +497,6 @@
       "inactive": false
     },
     {
-      "text": "Unless someone like you cares a whole awful lot, nothing is going to get better. It's not.",
-      "author": "Dr. Seuss",
-      "date": "2026-09-17",
-      "inactive": false
-    },
-    {
-      "text": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
-      "author": "Maya Angelou",
-      "date": "2026-09-17",
-      "inactive": false
-    },
-    {
-      "text": "If you can dream it, you can do it.",
-      "author": "Walt Disney",
-      "date": "2026-09-17",
-      "inactive": false
-    },
-    {
-      "text": "We can ignore reality, but we cannot ignore the consequences of ignoring reality.",
-      "author": "Ayn Rand",
-      "date": "2026-09-17",
-      "inactive": false
-    },
-    {
-      "text": "The difference between winning and losing is most often not quitting.",
-      "author": "Walt Disney",
-      "date": "2026-09-16",
-      "inactive": false
-    },
-    {
       "text": "You miss 100% of the shots you don't take.",
       "author": "Wayne Gretzky",
       "date": "2026-03-31",
@@ -740,13 +740,6 @@
     {
       "text": "I'm a success today because I had a friend who believed in me and I didn't have the heart to let him down.",
       "author": "Abraham Lincoln",
-      "date": "2026-06-13",
-      "inactive": true,
-      "deactivatedDate": "2026-06-27"
-    },
-    {
-      "text": "Faith in Jesus Christ is the first principle of the gospel for a reason.",
-      "author": "Henry B. Eyring",
       "date": "2026-06-13",
       "inactive": true,
       "deactivatedDate": "2026-06-27"
@@ -1287,13 +1280,6 @@
       "deactivatedDate": "2026-08-13"
     },
     {
-      "text": "Courage starts with showing up and letting ourselves be seen.",
-      "author": "Brené Brown",
-      "date": "2026-07-28",
-      "inactive": true,
-      "deactivatedDate": "2026-08-13"
-    },
-    {
       "text": "Desire is the father of action.",
       "author": "Dallin H. Oaks",
       "date": "2026-07-30",
@@ -1623,13 +1609,6 @@
       "date": "2026-08-17",
       "inactive": true,
       "deactivatedDate": "2026-09-03"
-    },
-    {
-      "text": "Because you are alive, everything is possible.",
-      "author": "Thich Nhat Hanh",
-      "date": "2026-08-18",
-      "inactive": true,
-      "deactivatedDate": "2026-09-04"
     },
     {
       "text": "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.",
@@ -2327,13 +2306,6 @@
       "deactivatedDate": "2026-09-29"
     },
     {
-      "text": "I am seeking, I am striving, I am in it with all my heart.",
-      "author": "Vincent Van Gogh",
-      "date": "2026-09-13",
-      "inactive": true,
-      "deactivatedDate": "2026-09-29"
-    },
-    {
       "text": "If you have good thoughts they will shine out of your face like sunbeams and you will always look lovely.",
       "author": "Roald Dahl",
       "date": "2026-09-12",
@@ -2446,9 +2418,37 @@
       "inactive": true,
       "communitySubmission": true,
       "deactivatedDate": "2026-10-02"
+    },
+    {
+      "text": "Unless someone like you cares a whole awful lot, nothing is going to get better. It's not.",
+      "author": "Dr. Seuss",
+      "date": "2026-09-17",
+      "inactive": true,
+      "deactivatedDate": "2026-10-03"
+    },
+    {
+      "text": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+      "author": "Maya Angelou",
+      "date": "2026-09-17",
+      "inactive": true,
+      "deactivatedDate": "2026-10-03"
+    },
+    {
+      "text": "If you can dream it, you can do it.",
+      "author": "Walt Disney",
+      "date": "2026-09-17",
+      "inactive": true,
+      "deactivatedDate": "2026-10-03"
+    },
+    {
+      "text": "The difference between winning and losing is most often not quitting.",
+      "author": "Walt Disney",
+      "date": "2026-09-16",
+      "inactive": true,
+      "deactivatedDate": "2026-10-03"
     }
   ],
-  "lastRotation": "2026-10-02",
+  "lastRotation": "2026-10-03",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
