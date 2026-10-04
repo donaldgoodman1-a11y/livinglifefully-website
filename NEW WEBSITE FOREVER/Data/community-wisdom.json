@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "If there is no struggle, there is no progress.",
+      "author": "Frederick Douglass",
+      "date": "2026-10-04",
+      "inactive": false
+    },
+    {
+      "text": "Choose faith over fear, and doubt not.",
+      "author": "David A. Bednar",
+      "date": "2026-10-04",
+      "inactive": false
+    },
+    {
+      "text": "The issue for us is trusting God enough to trust also His timing.",
+      "author": "Neal A. Maxwell",
+      "date": "2026-10-04",
+      "inactive": false
+    },
+    {
+      "text": "Lift where you stand.",
+      "author": "Dieter F. Uchtdorf",
+      "date": "2026-10-04",
+      "inactive": false
+    },
+    {
+      "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
+      "author": "Confucius",
+      "date": "2026-10-04",
+      "inactive": false
+    },
+    {
       "text": "Faith in Jesus Christ is the first principle of the gospel for a reason.",
       "author": "Henry B. Eyring",
       "date": "2026-10-03",
@@ -466,37 +496,6 @@
       "inactive": false
     },
     {
-      "text": "A successful marriage requires falling in love many times, always with the same person.",
-      "author": "Mignon McLaughlin",
-      "date": "2026-09-18",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.",
-      "author": "Viktor Frankl",
-      "date": "2026-09-18",
-      "inactive": false
-    },
-    {
-      "text": "The best antidote I know for worry is work.",
-      "author": "Gordon B. Hinckley",
-      "date": "2026-09-18",
-      "inactive": false
-    },
-    {
-      "text": "Dwell on the beauty of life. Watch the stars, and see yourself running with them.",
-      "author": "Marcus Aurelius",
-      "date": "2026-09-18",
-      "inactive": false
-    },
-    {
-      "text": "When it's over, I want to say: all my life I was a bride married to amazement.",
-      "author": "Mary Oliver",
-      "date": "2026-09-17",
-      "inactive": false
-    },
-    {
       "text": "You miss 100% of the shots you don't take.",
       "author": "Wayne Gretzky",
       "date": "2026-03-31",
@@ -689,13 +688,6 @@
       "deactivatedDate": "2026-06-16"
     },
     {
-      "text": "Lift where you stand.",
-      "author": "Dieter F. Uchtdorf",
-      "date": "2026-06-03",
-      "inactive": true,
-      "deactivatedDate": "2026-06-17"
-    },
-    {
       "text": "Don't cry because it's over, smile because it happened.",
       "author": "Dr. Seuss",
       "date": "2026-06-06",
@@ -795,13 +787,6 @@
       "deactivatedDate": "2026-07-06"
     },
     {
-      "text": "Choose faith over fear, and doubt not.",
-      "author": "David A. Bednar",
-      "date": "2026-06-22",
-      "inactive": true,
-      "deactivatedDate": "2026-07-07"
-    },
-    {
       "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
       "author": "Zig Ziglar",
       "date": "2026-06-24",
@@ -819,13 +804,6 @@
       "text": "If you are a dreamer, come in.",
       "author": "Shel Silverstein",
       "date": "2026-06-26",
-      "inactive": true,
-      "deactivatedDate": "2026-07-10"
-    },
-    {
-      "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
-      "author": "Confucius",
-      "date": "2026-06-25",
       "inactive": true,
       "deactivatedDate": "2026-07-10"
     },
@@ -1492,13 +1470,6 @@
       "deactivatedDate": "2026-08-28"
     },
     {
-      "text": "The issue for us is trusting God enough to trust also His timing.",
-      "author": "Neal A. Maxwell",
-      "date": "2026-08-14",
-      "inactive": true,
-      "deactivatedDate": "2026-08-29"
-    },
-    {
       "text": "The enabling power of the Atonement strengthens us.",
       "author": "David A. Bednar",
       "date": "2026-08-13",
@@ -2085,13 +2056,6 @@
       "deactivatedDate": "2026-09-23"
     },
     {
-      "text": "If there is no struggle, there is no progress.",
-      "author": "Frederick Douglass",
-      "date": "2026-09-07",
-      "inactive": true,
-      "deactivatedDate": "2026-09-23"
-    },
-    {
       "text": "Draw a crazy picture, Write a nutty poem, Sing a mumble-gumble song, Whistle through your comb.",
       "author": "Shel Silverstein",
       "date": "2026-09-07",
@@ -2446,9 +2410,45 @@
       "date": "2026-09-16",
       "inactive": true,
       "deactivatedDate": "2026-10-03"
+    },
+    {
+      "text": "A successful marriage requires falling in love many times, always with the same person.",
+      "author": "Mignon McLaughlin",
+      "date": "2026-09-18",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-10-04"
+    },
+    {
+      "text": "Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.",
+      "author": "Viktor Frankl",
+      "date": "2026-09-18",
+      "inactive": true,
+      "deactivatedDate": "2026-10-04"
+    },
+    {
+      "text": "The best antidote I know for worry is work.",
+      "author": "Gordon B. Hinckley",
+      "date": "2026-09-18",
+      "inactive": true,
+      "deactivatedDate": "2026-10-04"
+    },
+    {
+      "text": "Dwell on the beauty of life. Watch the stars, and see yourself running with them.",
+      "author": "Marcus Aurelius",
+      "date": "2026-09-18",
+      "inactive": true,
+      "deactivatedDate": "2026-10-04"
+    },
+    {
+      "text": "When it's over, I want to say: all my life I was a bride married to amazement.",
+      "author": "Mary Oliver",
+      "date": "2026-09-17",
+      "inactive": true,
+      "deactivatedDate": "2026-10-04"
     }
   ],
-  "lastRotation": "2026-10-03",
+  "lastRotation": "2026-10-04",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
