@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Weeping may endure for a night, but joy cometh in the morning.",
+      "author": "King David",
+      "date": "2026-10-05",
+      "inactive": false
+    },
+    {
+      "text": "Listen to the mustn'ts, child. Listen to the don'ts. Listen to the shouldn'ts, the impossibles, the won'ts. Then listen close to me... Anything can happen, child. Anything can be.",
+      "author": "Shel Silverstein",
+      "date": "2026-10-05",
+      "inactive": false
+    },
+    {
+      "text": "Faith is taking the first step even when you don't see the whole staircase.",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-10-05",
+      "inactive": false
+    },
+    {
+      "text": "Desire is the father of action.",
+      "author": "Dallin H. Oaks",
+      "date": "2026-10-05",
+      "inactive": false
+    },
+    {
+      "text": "Energy and persistence conquer all things.",
+      "author": "Benjamin Franklin",
+      "date": "2026-10-05",
+      "inactive": false
+    },
+    {
       "text": "If there is no struggle, there is no progress.",
       "author": "Frederick Douglass",
       "date": "2026-10-04",
@@ -466,36 +496,6 @@
       "inactive": false
     },
     {
-      "text": "Imagination is more important than knowledge.",
-      "author": "Albert Einstein",
-      "date": "2026-09-19",
-      "inactive": false
-    },
-    {
-      "text": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you.",
-      "author": "Jesus Christ",
-      "date": "2026-09-19",
-      "inactive": false
-    },
-    {
-      "text": "The cave you fear to enter holds the treasure you seek.",
-      "author": "Joseph Campbell",
-      "date": "2026-09-19",
-      "inactive": false
-    },
-    {
-      "text": "Success is liking yourself, liking what you do, and liking how you do it.",
-      "author": "Maya Angelou",
-      "date": "2026-09-19",
-      "inactive": false
-    },
-    {
-      "text": "Your work is to discover your work and then with all your heart to give yourself to it.",
-      "author": "Buddha",
-      "date": "2026-09-18",
-      "inactive": false
-    },
-    {
       "text": "You miss 100% of the shots you don't take.",
       "author": "Wayne Gretzky",
       "date": "2026-03-31",
@@ -602,13 +602,6 @@
       "date": "2026-05-16",
       "inactive": true,
       "deactivatedDate": "2026-05-29"
-    },
-    {
-      "text": "Listen to the mustn'ts, child. Listen to the don'ts. Listen to the shouldn'ts, the impossibles, the won'ts. Then listen close to me... Anything can happen, child. Anything can be.",
-      "author": "Shel Silverstein",
-      "date": "2026-05-18",
-      "inactive": true,
-      "deactivatedDate": "2026-05-30"
     },
     {
       "text": "Go confidently in the direction of your dreams. Live the life you have imagined.",
@@ -994,20 +987,6 @@
       "deactivatedDate": "2026-07-25"
     },
     {
-      "text": "Energy and persistence conquer all things.",
-      "author": "Benjamin Franklin",
-      "date": "2026-07-10",
-      "inactive": true,
-      "deactivatedDate": "2026-07-25"
-    },
-    {
-      "text": "Weeping may endure for a night, but joy cometh in the morning.",
-      "author": "King David",
-      "date": "2026-07-11",
-      "inactive": true,
-      "deactivatedDate": "2026-07-26"
-    },
-    {
       "text": "The power of love and kindness can overcome any challenge or hardship.\nThe Lubavitcher Rebbe",
       "author": "The Lubavitcher Rebbe",
       "date": "2026-07-12",
@@ -1137,13 +1116,6 @@
       "deactivatedDate": "2026-08-04"
     },
     {
-      "text": "Faith is taking the first step even when you don't see the whole staircase.",
-      "author": "Martin Luther King Jr.",
-      "date": "2026-07-20",
-      "inactive": true,
-      "deactivatedDate": "2026-08-05"
-    },
-    {
       "text": "Be the change that you wish to see in the world.",
       "author": "Mahatma Gandhi",
       "date": "2026-07-20",
@@ -1256,13 +1228,6 @@
       "date": "2026-07-28",
       "inactive": true,
       "deactivatedDate": "2026-08-13"
-    },
-    {
-      "text": "Desire is the father of action.",
-      "author": "Dallin H. Oaks",
-      "date": "2026-07-30",
-      "inactive": true,
-      "deactivatedDate": "2026-08-14"
     },
     {
       "text": "I have learned that if one advances confidently in the direction of his dreams, he will meet with a success unexpected in common hours.",
@@ -2446,9 +2411,44 @@
       "date": "2026-09-17",
       "inactive": true,
       "deactivatedDate": "2026-10-04"
+    },
+    {
+      "text": "Imagination is more important than knowledge.",
+      "author": "Albert Einstein",
+      "date": "2026-09-19",
+      "inactive": true,
+      "deactivatedDate": "2026-10-05"
+    },
+    {
+      "text": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you.",
+      "author": "Jesus Christ",
+      "date": "2026-09-19",
+      "inactive": true,
+      "deactivatedDate": "2026-10-05"
+    },
+    {
+      "text": "The cave you fear to enter holds the treasure you seek.",
+      "author": "Joseph Campbell",
+      "date": "2026-09-19",
+      "inactive": true,
+      "deactivatedDate": "2026-10-05"
+    },
+    {
+      "text": "Success is liking yourself, liking what you do, and liking how you do it.",
+      "author": "Maya Angelou",
+      "date": "2026-09-19",
+      "inactive": true,
+      "deactivatedDate": "2026-10-05"
+    },
+    {
+      "text": "Your work is to discover your work and then with all your heart to give yourself to it.",
+      "author": "Buddha",
+      "date": "2026-09-18",
+      "inactive": true,
+      "deactivatedDate": "2026-10-05"
     }
   ],
-  "lastRotation": "2026-10-04",
+  "lastRotation": "2026-10-05",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
