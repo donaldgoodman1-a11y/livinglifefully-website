@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "To bear trials with a calm mind robs misfortune of its strength and burden.",
+      "author": "Seneca",
+      "date": "2026-10-06",
+      "inactive": false
+    },
+    {
+      "text": "And above all, watch with glittering eyes the whole world around you because the greatest secrets are always hidden in the most unlikely places.",
+      "author": "Roald Dahl",
+      "date": "2026-10-06",
+      "inactive": false
+    },
+    {
+      "text": "Thousands of candles can be lighted from a single candle. Happiness never decreases by being shared.",
+      "author": "Buddha",
+      "date": "2026-10-06",
+      "inactive": false
+    },
+    {
+      "text": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-10-06",
+      "inactive": false
+    },
+    {
+      "text": "Be kind, for everyone you meet is fighting a hard battle.",
+      "author": "Plato",
+      "date": "2026-10-06",
+      "inactive": false
+    },
+    {
       "text": "Weeping may endure for a night, but joy cometh in the morning.",
       "author": "King David",
       "date": "2026-10-05",
@@ -463,36 +493,6 @@
       "text": "It is easier to build strong children than to repair broken men.",
       "author": "Frederick Douglass",
       "date": "2026-09-20",
-      "inactive": false
-    },
-    {
-      "text": "Not all those who wander are lost.",
-      "author": "J.R.R. Tolkien",
-      "date": "2026-09-20",
-      "inactive": false
-    },
-    {
-      "text": "Never let a problem to be solved become more important than a person to be loved.",
-      "author": "Thomas S. Monson",
-      "date": "2026-09-20",
-      "inactive": false
-    },
-    {
-      "text": "When you're screwing up and nobody says anything to you anymore, that means they've given up on you.",
-      "author": "Randy Pausch",
-      "date": "2026-09-20",
-      "inactive": false
-    },
-    {
-      "text": "Water is fluid, soft, and yielding. But water will wear away rock, which is rigid and cannot yield. As a rule, whatever is fluid, soft, and yielding will overcome whatever is rigid and hard.",
-      "author": "Lao Tzu",
-      "date": "2026-09-20",
-      "inactive": false
-    },
-    {
-      "text": "Attitude is a little thing that makes a big difference.",
-      "author": "Winston Churchill",
-      "date": "2026-09-19",
       "inactive": false
     },
     {
@@ -1526,13 +1526,6 @@
       "deactivatedDate": "2026-09-03"
     },
     {
-      "text": "And above all, watch with glittering eyes the whole world around you because the greatest secrets are always hidden in the most unlikely places.",
-      "author": "Roald Dahl",
-      "date": "2026-08-17",
-      "inactive": true,
-      "deactivatedDate": "2026-09-03"
-    },
-    {
       "text": "You do not rise to the level of your goals. You fall to the level of your systems.",
       "author": "James Clear",
       "date": "2026-08-17",
@@ -1559,13 +1552,6 @@
       "date": "2026-08-19",
       "inactive": true,
       "deactivatedDate": "2026-09-05"
-    },
-    {
-      "text": "Thousands of candles can be lighted from a single candle. Happiness never decreases by being shared.",
-      "author": "Buddha",
-      "date": "2026-08-20",
-      "inactive": true,
-      "deactivatedDate": "2026-09-06"
     },
     {
       "text": "Life is to be enjoyed, not endured.",
@@ -1653,13 +1639,6 @@
       "deactivatedDate": "2026-09-09"
     },
     {
-      "text": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
-      "author": "Eleanor Roosevelt",
-      "date": "2026-08-25",
-      "inactive": true,
-      "deactivatedDate": "2026-09-10"
-    },
-    {
       "text": "Rock bottom became the solid foundation on which I rebuilt my life.",
       "author": "J.K. Rowling",
       "date": "2026-08-24",
@@ -1725,13 +1704,6 @@
     {
       "text": "Joy comes not in riches, or in things, but in relationships.",
       "author": "Russell M. Nelson",
-      "date": "2026-08-26",
-      "inactive": true,
-      "deactivatedDate": "2026-09-12"
-    },
-    {
-      "text": "Be kind, for everyone you meet is fighting a hard battle.",
-      "author": "Plato",
       "date": "2026-08-26",
       "inactive": true,
       "deactivatedDate": "2026-09-12"
@@ -2177,13 +2149,6 @@
       "deactivatedDate": "2026-09-27"
     },
     {
-      "text": "To bear trials with a calm mind robs misfortune of its strength and burden.",
-      "author": "Seneca",
-      "date": "2026-09-10",
-      "inactive": true,
-      "deactivatedDate": "2026-09-27"
-    },
-    {
       "text": "When we make our fantasies our reality they often become our nightmares.",
       "author": "Dr Goodman",
       "date": "2026-09-12",
@@ -2446,9 +2411,44 @@
       "date": "2026-09-18",
       "inactive": true,
       "deactivatedDate": "2026-10-05"
+    },
+    {
+      "text": "Not all those who wander are lost.",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-09-20",
+      "inactive": true,
+      "deactivatedDate": "2026-10-06"
+    },
+    {
+      "text": "Never let a problem to be solved become more important than a person to be loved.",
+      "author": "Thomas S. Monson",
+      "date": "2026-09-20",
+      "inactive": true,
+      "deactivatedDate": "2026-10-06"
+    },
+    {
+      "text": "When you're screwing up and nobody says anything to you anymore, that means they've given up on you.",
+      "author": "Randy Pausch",
+      "date": "2026-09-20",
+      "inactive": true,
+      "deactivatedDate": "2026-10-06"
+    },
+    {
+      "text": "Water is fluid, soft, and yielding. But water will wear away rock, which is rigid and cannot yield. As a rule, whatever is fluid, soft, and yielding will overcome whatever is rigid and hard.",
+      "author": "Lao Tzu",
+      "date": "2026-09-20",
+      "inactive": true,
+      "deactivatedDate": "2026-10-06"
+    },
+    {
+      "text": "Attitude is a little thing that makes a big difference.",
+      "author": "Winston Churchill",
+      "date": "2026-09-19",
+      "inactive": true,
+      "deactivatedDate": "2026-10-06"
     }
   ],
-  "lastRotation": "2026-10-05",
+  "lastRotation": "2026-10-06",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
