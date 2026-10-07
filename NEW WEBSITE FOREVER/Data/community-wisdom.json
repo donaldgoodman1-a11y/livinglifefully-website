@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Without a struggle, there can be no progress.",
+      "author": "Frederick Douglass",
+      "date": "2026-10-07",
+      "inactive": false
+    },
+    {
+      "text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
+      "author": "Helen Keller",
+      "date": "2026-10-07",
+      "inactive": false
+    },
+    {
+      "text": "The spiritual gift of agency, the freedom to choose, is essential to our growth.",
+      "author": "Dallin H. Oaks",
+      "date": "2026-10-07",
+      "inactive": false
+    },
+    {
+      "text": "You must do the things you think you cannot do.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-10-07",
+      "inactive": false
+    },
+    {
+      "text": "If you accomplish something good with hard work, the labor passes quickly, but the good endures; if you do something shameful in pursuit of pleasure, the pleasure passes quickly, but the shame endures.",
+      "author": "Musonius Rufus",
+      "date": "2026-10-07",
+      "inactive": false
+    },
+    {
       "text": "To bear trials with a calm mind robs misfortune of its strength and burden.",
       "author": "Seneca",
       "date": "2026-10-06",
@@ -463,36 +493,6 @@
       "text": "You'll miss the best things if you keep your eyes shut.",
       "author": "Dr. Seuss",
       "date": "2026-09-21",
-      "inactive": false
-    },
-    {
-      "text": "Focus on the moment, not the monsters that may or may not be up ahead.",
-      "author": "Ryan Holiday",
-      "date": "2026-09-21",
-      "inactive": false
-    },
-    {
-      "text": "We must accept finite disappointment, but never lose infinite hope.",
-      "author": "Martin Luther King Jr.",
-      "date": "2026-09-21",
-      "inactive": false
-    },
-    {
-      "text": "Every action you take is a vote for the type of person you wish to become.",
-      "author": "James Clear",
-      "date": "2026-09-21",
-      "inactive": false
-    },
-    {
-      "text": "The way to get started is to quit talking and begin doing.",
-      "author": "Walt Disney",
-      "date": "2026-09-21",
-      "inactive": false
-    },
-    {
-      "text": "It is easier to build strong children than to repair broken men.",
-      "author": "Frederick Douglass",
-      "date": "2026-09-20",
       "inactive": false
     },
     {
@@ -1321,13 +1321,6 @@
       "deactivatedDate": "2026-08-21"
     },
     {
-      "text": "Without a struggle, there can be no progress.",
-      "author": "Frederick Douglass",
-      "date": "2026-08-05",
-      "inactive": true,
-      "deactivatedDate": "2026-08-21"
-    },
-    {
       "text": "The gathering of Israel is the most important thing taking place on earth today.",
       "author": "Russell M. Nelson",
       "date": "2026-08-06",
@@ -1515,13 +1508,6 @@
       "text": "The past is behind, learn from it. The future is ahead, prepare for it. The present is here, live it.",
       "author": "Thomas S. Monson",
       "date": "2026-08-18",
-      "inactive": true,
-      "deactivatedDate": "2026-09-03"
-    },
-    {
-      "text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
-      "author": "Helen Keller",
-      "date": "2026-08-17",
       "inactive": true,
       "deactivatedDate": "2026-09-03"
     },
@@ -1865,13 +1851,6 @@
       "deactivatedDate": "2026-09-18"
     },
     {
-      "text": "If you accomplish something good with hard work, the labor passes quickly, but the good endures; if you do something shameful in pursuit of pleasure, the pleasure passes quickly, but the shame endures.",
-      "author": "Musonius Rufus",
-      "date": "2026-09-01",
-      "inactive": true,
-      "deactivatedDate": "2026-09-18"
-    },
-    {
       "text": "The gospel is a message of hope and salvation for all.",
       "author": "Henry B. Eyring",
       "date": "2026-09-01",
@@ -1892,13 +1871,6 @@
       "date": "2026-09-03",
       "inactive": true,
       "deactivatedDate": "2026-09-19"
-    },
-    {
-      "text": "The spiritual gift of agency, the freedom to choose, is essential to our growth.",
-      "author": "Dallin H. Oaks",
-      "date": "2026-09-04",
-      "inactive": true,
-      "deactivatedDate": "2026-09-20"
     },
     {
       "text": "There is some good in this world, and it's worth fighting for.",
@@ -2159,13 +2131,6 @@
     {
       "text": "Let us not pray to be sheltered from dangers but to be fearless when facing them.",
       "author": "Rabindranath Tagore",
-      "date": "2026-09-12",
-      "inactive": true,
-      "deactivatedDate": "2026-09-28"
-    },
-    {
-      "text": "You must do the things you think you cannot do.",
-      "author": "Eleanor Roosevelt",
       "date": "2026-09-12",
       "inactive": true,
       "deactivatedDate": "2026-09-28"
@@ -2446,9 +2411,44 @@
       "date": "2026-09-19",
       "inactive": true,
       "deactivatedDate": "2026-10-06"
+    },
+    {
+      "text": "Focus on the moment, not the monsters that may or may not be up ahead.",
+      "author": "Ryan Holiday",
+      "date": "2026-09-21",
+      "inactive": true,
+      "deactivatedDate": "2026-10-07"
+    },
+    {
+      "text": "We must accept finite disappointment, but never lose infinite hope.",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-09-21",
+      "inactive": true,
+      "deactivatedDate": "2026-10-07"
+    },
+    {
+      "text": "Every action you take is a vote for the type of person you wish to become.",
+      "author": "James Clear",
+      "date": "2026-09-21",
+      "inactive": true,
+      "deactivatedDate": "2026-10-07"
+    },
+    {
+      "text": "The way to get started is to quit talking and begin doing.",
+      "author": "Walt Disney",
+      "date": "2026-09-21",
+      "inactive": true,
+      "deactivatedDate": "2026-10-07"
+    },
+    {
+      "text": "It is easier to build strong children than to repair broken men.",
+      "author": "Frederick Douglass",
+      "date": "2026-09-20",
+      "inactive": true,
+      "deactivatedDate": "2026-10-07"
     }
   ],
-  "lastRotation": "2026-10-06",
+  "lastRotation": "2026-10-07",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
