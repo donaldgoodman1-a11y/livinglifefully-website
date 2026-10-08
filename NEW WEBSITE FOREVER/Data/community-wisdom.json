@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Not all those who wander are lost.",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-10-08",
+      "inactive": false
+    },
+    {
+      "text": "A pleasure is not full grown until it is remembered.",
+      "author": "C.S. Lewis",
+      "date": "2026-10-08",
+      "inactive": false
+    },
+    {
+      "text": "You do not rise to the level of your goals. You fall to the level of your systems.",
+      "author": "James Clear",
+      "date": "2026-10-08",
+      "inactive": false
+    },
+    {
+      "text": "Fantasy is hardly an escape from reality. It's a way of understanding it.",
+      "author": "Lloyd Alexander",
+      "date": "2026-10-08",
+      "inactive": false
+    },
+    {
+      "text": "No matter what anyone says or does, my task is to be good.",
+      "author": "Marcus Aurelius",
+      "date": "2026-10-08",
+      "inactive": false
+    },
+    {
       "text": "Without a struggle, there can be no progress.",
       "author": "Frederick Douglass",
       "date": "2026-10-07",
@@ -465,37 +495,6 @@
       "communitySubmission": true
     },
     {
-      "text": "Sometimes things make more sense the second time around. People change, you change and the universe changes, if we keep ourselves confined to first chances only, we will truly miss out on some of the most beautiful things in life.",
-      "author": "Rania Naim",
-      "date": "2026-09-22",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "Let us always meet each other with smile, for the smile is the beginning of love.",
-      "author": "Mother Teresa",
-      "date": "2026-09-22",
-      "inactive": false
-    },
-    {
-      "text": "It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.",
-      "author": "Seneca",
-      "date": "2026-09-22",
-      "inactive": false
-    },
-    {
-      "text": "The quieter you become, the more you can hear.",
-      "author": "Rumi",
-      "date": "2026-09-22",
-      "inactive": false
-    },
-    {
-      "text": "You'll miss the best things if you keep your eyes shut.",
-      "author": "Dr. Seuss",
-      "date": "2026-09-21",
-      "inactive": false
-    },
-    {
       "text": "You miss 100% of the shots you don't take.",
       "author": "Wayne Gretzky",
       "date": "2026-03-31",
@@ -665,13 +664,6 @@
       "date": "2026-05-30",
       "inactive": true,
       "deactivatedDate": "2026-06-13"
-    },
-    {
-      "text": "A pleasure is not full grown until it is remembered.",
-      "author": "C.S. Lewis",
-      "date": "2026-06-01",
-      "inactive": true,
-      "deactivatedDate": "2026-06-15"
     },
     {
       "text": "The obstacle is the way.",
@@ -1286,13 +1278,6 @@
       "deactivatedDate": "2026-08-19"
     },
     {
-      "text": "Fantasy is hardly an escape from reality. It's a way of understanding it.",
-      "author": "Lloyd Alexander",
-      "date": "2026-08-03",
-      "inactive": true,
-      "deactivatedDate": "2026-08-19"
-    },
-    {
       "text": "Tell me, what is it you plan to do with your one wild and precious life?",
       "author": "Mary Oliver",
       "date": "2026-08-05",
@@ -1508,13 +1493,6 @@
       "text": "The past is behind, learn from it. The future is ahead, prepare for it. The present is here, live it.",
       "author": "Thomas S. Monson",
       "date": "2026-08-18",
-      "inactive": true,
-      "deactivatedDate": "2026-09-03"
-    },
-    {
-      "text": "You do not rise to the level of your goals. You fall to the level of your systems.",
-      "author": "James Clear",
-      "date": "2026-08-17",
       "inactive": true,
       "deactivatedDate": "2026-09-03"
     },
@@ -1826,13 +1804,6 @@
       "date": "2026-08-31",
       "inactive": true,
       "communitySubmission": true,
-      "deactivatedDate": "2026-09-17"
-    },
-    {
-      "text": "No matter what anyone says or does, my task is to be good.",
-      "author": "Marcus Aurelius",
-      "date": "2026-08-31",
-      "inactive": true,
       "deactivatedDate": "2026-09-17"
     },
     {
@@ -2378,13 +2349,6 @@
       "deactivatedDate": "2026-10-05"
     },
     {
-      "text": "Not all those who wander are lost.",
-      "author": "J.R.R. Tolkien",
-      "date": "2026-09-20",
-      "inactive": true,
-      "deactivatedDate": "2026-10-06"
-    },
-    {
       "text": "Never let a problem to be solved become more important than a person to be loved.",
       "author": "Thomas S. Monson",
       "date": "2026-09-20",
@@ -2446,9 +2410,45 @@
       "date": "2026-09-20",
       "inactive": true,
       "deactivatedDate": "2026-10-07"
+    },
+    {
+      "text": "Sometimes things make more sense the second time around. People change, you change and the universe changes, if we keep ourselves confined to first chances only, we will truly miss out on some of the most beautiful things in life.",
+      "author": "Rania Naim",
+      "date": "2026-09-22",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-10-08"
+    },
+    {
+      "text": "Let us always meet each other with smile, for the smile is the beginning of love.",
+      "author": "Mother Teresa",
+      "date": "2026-09-22",
+      "inactive": true,
+      "deactivatedDate": "2026-10-08"
+    },
+    {
+      "text": "It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.",
+      "author": "Seneca",
+      "date": "2026-09-22",
+      "inactive": true,
+      "deactivatedDate": "2026-10-08"
+    },
+    {
+      "text": "The quieter you become, the more you can hear.",
+      "author": "Rumi",
+      "date": "2026-09-22",
+      "inactive": true,
+      "deactivatedDate": "2026-10-08"
+    },
+    {
+      "text": "You'll miss the best things if you keep your eyes shut.",
+      "author": "Dr. Seuss",
+      "date": "2026-09-21",
+      "inactive": true,
+      "deactivatedDate": "2026-10-08"
     }
   ],
-  "lastRotation": "2026-10-07",
+  "lastRotation": "2026-10-08",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
