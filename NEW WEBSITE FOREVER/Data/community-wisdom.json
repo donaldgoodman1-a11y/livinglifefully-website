@@ -1,6 +1,37 @@
 {
   "quotes": [
     {
+      "text": "Someone I loved once gave me a box full of darkness. It took me years to understand that this too, was a gift.",
+      "author": "Mary Oliver",
+      "date": "2026-10-09",
+      "inactive": false
+    },
+    {
+      "text": "It always seems impossible until it's done.",
+      "author": "Nelson Mandela",
+      "date": "2026-10-09",
+      "inactive": false
+    },
+    {
+      "text": "Don't cry because it's over, smile because it happened.",
+      "author": "Dr. Seuss",
+      "date": "2026-10-09",
+      "inactive": false
+    },
+    {
+      "text": "Take forgiveness slowly. Don’t blame yourself for being slow. Peace will come.",
+      "author": "Yoko Ono",
+      "date": "2026-10-09",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "It does not do to dwell on dreams and forget to live.",
+      "author": "J.K. Rowling",
+      "date": "2026-10-09",
+      "inactive": false
+    },
+    {
       "text": "Not all those who wander are lost.",
       "author": "J.R.R. Tolkien",
       "date": "2026-10-08",
@@ -462,39 +493,6 @@
       "communitySubmission": true
     },
     {
-      "text": "Sometimes the future changes quickly and completely, and we’re left with only the choice of what to do next. We can choose to be afraid of it. Just stand there trembling, not moving, assuming the worst that can happen. Or we step forward into the unknown, and assume it will be brilliant.\nDr. Cristina Yang (Sandra Oh) in “Grey’s Anatomy”",
-      "author": "Anonymous Reader",
-      "date": "2026-09-23",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "Follow your bliss and the universe will open doors where there were only walls.",
-      "author": "Joseph Campbell",
-      "date": "2026-09-23",
-      "inactive": false
-    },
-    {
-      "text": "We may encounter many defeats but we must not be defeated.",
-      "author": "Maya Angelou",
-      "date": "2026-09-23",
-      "inactive": false
-    },
-    {
-      "text": "There can be no deep disappointment where there is not deep love.",
-      "author": "Martin Luther King",
-      "date": "2026-09-23",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "The proper function of man is to live, not to exist. I shall not waste my days in trying to \nprolong them. I shall use my time…",
-      "author": "Jack London",
-      "date": "2026-09-22",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
       "text": "You miss 100% of the shots you don't take.",
       "author": "Wayne Gretzky",
       "date": "2026-03-31",
@@ -510,13 +508,6 @@
       "deactivatedDate": "2026-04-27"
     },
     {
-      "text": "It always seems impossible until it's done.",
-      "author": "Nelson Mandela",
-      "date": "2026-04-18",
-      "inactive": true,
-      "deactivatedDate": "2026-04-28"
-    },
-    {
       "text": "Whatever you are, be a good one.",
       "author": "Abraham Lincoln",
       "date": "2026-05-02",
@@ -529,13 +520,6 @@
       "date": "2026-05-04",
       "inactive": true,
       "deactivatedDate": "2026-05-15"
-    },
-    {
-      "text": "It does not do to dwell on dreams and forget to live.",
-      "author": "J.K. Rowling",
-      "date": "2026-05-09",
-      "inactive": true,
-      "deactivatedDate": "2026-05-20"
     },
     {
       "text": "Sometimes we're tested not to show our weaknesses, but to discover our strengths.",
@@ -671,13 +655,6 @@
       "date": "2026-06-02",
       "inactive": true,
       "deactivatedDate": "2026-06-16"
-    },
-    {
-      "text": "Don't cry because it's over, smile because it happened.",
-      "author": "Dr. Seuss",
-      "date": "2026-06-06",
-      "inactive": true,
-      "deactivatedDate": "2026-06-20"
     },
     {
       "text": "The wound is the place where the Light enters you.",
@@ -1040,14 +1017,6 @@
       "date": "2026-07-15",
       "inactive": true,
       "deactivatedDate": "2026-07-30"
-    },
-    {
-      "text": "Take forgiveness slowly. Don’t blame yourself for being slow. Peace will come.",
-      "author": "Yoko Ono",
-      "date": "2026-07-16",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-07-31"
     },
     {
       "text": "The Lord is my shepherd; I shall not want.",
@@ -2235,13 +2204,6 @@
       "deactivatedDate": "2026-10-02"
     },
     {
-      "text": "Someone I loved once gave me a box full of darkness. It took me years to understand that this too, was a gift.",
-      "author": "Mary Oliver",
-      "date": "2026-09-16",
-      "inactive": true,
-      "deactivatedDate": "2026-10-02"
-    },
-    {
       "text": "Science is not only compatible with spirituality; it is a profound source of spirituality.",
       "author": "Carl Sagan",
       "date": "2026-09-15",
@@ -2446,9 +2408,47 @@
       "date": "2026-09-21",
       "inactive": true,
       "deactivatedDate": "2026-10-08"
+    },
+    {
+      "text": "Sometimes the future changes quickly and completely, and we’re left with only the choice of what to do next. We can choose to be afraid of it. Just stand there trembling, not moving, assuming the worst that can happen. Or we step forward into the unknown, and assume it will be brilliant.\nDr. Cristina Yang (Sandra Oh) in “Grey’s Anatomy”",
+      "author": "Anonymous Reader",
+      "date": "2026-09-23",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-10-09"
+    },
+    {
+      "text": "Follow your bliss and the universe will open doors where there were only walls.",
+      "author": "Joseph Campbell",
+      "date": "2026-09-23",
+      "inactive": true,
+      "deactivatedDate": "2026-10-09"
+    },
+    {
+      "text": "We may encounter many defeats but we must not be defeated.",
+      "author": "Maya Angelou",
+      "date": "2026-09-23",
+      "inactive": true,
+      "deactivatedDate": "2026-10-09"
+    },
+    {
+      "text": "There can be no deep disappointment where there is not deep love.",
+      "author": "Martin Luther King",
+      "date": "2026-09-23",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-10-09"
+    },
+    {
+      "text": "The proper function of man is to live, not to exist. I shall not waste my days in trying to \nprolong them. I shall use my time…",
+      "author": "Jack London",
+      "date": "2026-09-22",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-10-09"
     }
   ],
-  "lastRotation": "2026-10-08",
+  "lastRotation": "2026-10-09",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
