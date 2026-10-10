@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Life is to be enjoyed, not endured.",
+      "author": "Gordon B. Hinckley",
+      "date": "2026-10-10",
+      "inactive": false
+    },
+    {
+      "text": "There is some good in this world, and it's worth fighting for.",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-10-10",
+      "inactive": false
+    },
+    {
+      "text": "A single sunbeam is enough to drive away many shadows.",
+      "author": "St. Francis of Assisi",
+      "date": "2026-10-10",
+      "inactive": false
+    },
+    {
+      "text": "It does not matter how slowly you go as long as you do not stop.",
+      "author": "Confucius",
+      "date": "2026-10-10",
+      "inactive": false
+    },
+    {
+      "text": "Education is the most powerful weapon which you can use to change the world.",
+      "author": "Nelson Mandela",
+      "date": "2026-10-10",
+      "inactive": false
+    },
+    {
       "text": "Someone I loved once gave me a box full of darkness. It took me years to understand that this too, was a gift.",
       "author": "Mary Oliver",
       "date": "2026-10-09",
@@ -460,37 +490,6 @@
       "author": "Marcus Aurelius",
       "date": "2026-09-24",
       "inactive": false
-    },
-    {
-      "text": "The best preparation for tomorrow is doing your best today.",
-      "author": "H. Jackson Brown Jr.",
-      "date": "2026-09-24",
-      "inactive": false
-    },
-    {
-      "text": "I feel that there is nothing more truly artistic than to love people.",
-      "author": "Vincent Van Gogh",
-      "date": "2026-09-24",
-      "inactive": false
-    },
-    {
-      "text": "I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live by the light that I have.",
-      "author": "Abraham Lincoln",
-      "date": "2026-09-24",
-      "inactive": false
-    },
-    {
-      "text": "Courage is not simply one of the virtues, but the form of every virtue at the testing point.",
-      "author": "C.S. Lewis",
-      "date": "2026-09-24",
-      "inactive": false
-    },
-    {
-      "text": "Although the world is full of suffering, it is full also of the overcoming of it.",
-      "author": "Helen Keller",
-      "date": "2026-09-23",
-      "inactive": false,
-      "communitySubmission": true
     },
     {
       "text": "You miss 100% of the shots you don't take.",
@@ -1282,13 +1281,6 @@
       "deactivatedDate": "2026-08-22"
     },
     {
-      "text": "Education is the most powerful weapon which you can use to change the world.",
-      "author": "Nelson Mandela",
-      "date": "2026-08-06",
-      "inactive": true,
-      "deactivatedDate": "2026-08-22"
-    },
-    {
       "text": "The best way to predict your future is to create it.",
       "author": "Abraham Lincoln",
       "date": "2026-08-08",
@@ -1485,13 +1477,6 @@
       "date": "2026-08-19",
       "inactive": true,
       "deactivatedDate": "2026-09-05"
-    },
-    {
-      "text": "Life is to be enjoyed, not endured.",
-      "author": "Gordon B. Hinckley",
-      "date": "2026-08-20",
-      "inactive": true,
-      "deactivatedDate": "2026-09-06"
     },
     {
       "text": "First say to yourself what you would be; and then do what you have to do.",
@@ -1813,22 +1798,8 @@
       "deactivatedDate": "2026-09-19"
     },
     {
-      "text": "There is some good in this world, and it's worth fighting for.",
-      "author": "J.R.R. Tolkien",
-      "date": "2026-09-04",
-      "inactive": true,
-      "deactivatedDate": "2026-09-20"
-    },
-    {
       "text": "Good inspiration is based on good information.",
       "author": "Russell M. Nelson",
-      "date": "2026-09-04",
-      "inactive": true,
-      "deactivatedDate": "2026-09-20"
-    },
-    {
-      "text": "A single sunbeam is enough to drive away many shadows.",
-      "author": "St. Francis of Assisi",
       "date": "2026-09-04",
       "inactive": true,
       "deactivatedDate": "2026-09-20"
@@ -2182,13 +2153,6 @@
       "deactivatedDate": "2026-10-01"
     },
     {
-      "text": "It does not matter how slowly you go as long as you do not stop.",
-      "author": "Confucius",
-      "date": "2026-09-16",
-      "inactive": true,
-      "deactivatedDate": "2026-10-02"
-    },
-    {
       "text": "As life brings moments that feel too heavy to bear, place your trust in Christ. The burden may remain, but through the Atonement, it no longer rests on you alone.",
       "author": "Natalie LeBaron",
       "date": "2026-09-16",
@@ -2446,9 +2410,45 @@
       "inactive": true,
       "communitySubmission": true,
       "deactivatedDate": "2026-10-09"
+    },
+    {
+      "text": "The best preparation for tomorrow is doing your best today.",
+      "author": "H. Jackson Brown Jr.",
+      "date": "2026-09-24",
+      "inactive": true,
+      "deactivatedDate": "2026-10-10"
+    },
+    {
+      "text": "I feel that there is nothing more truly artistic than to love people.",
+      "author": "Vincent Van Gogh",
+      "date": "2026-09-24",
+      "inactive": true,
+      "deactivatedDate": "2026-10-10"
+    },
+    {
+      "text": "I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live by the light that I have.",
+      "author": "Abraham Lincoln",
+      "date": "2026-09-24",
+      "inactive": true,
+      "deactivatedDate": "2026-10-10"
+    },
+    {
+      "text": "Courage is not simply one of the virtues, but the form of every virtue at the testing point.",
+      "author": "C.S. Lewis",
+      "date": "2026-09-24",
+      "inactive": true,
+      "deactivatedDate": "2026-10-10"
+    },
+    {
+      "text": "Although the world is full of suffering, it is full also of the overcoming of it.",
+      "author": "Helen Keller",
+      "date": "2026-09-23",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-10-10"
     }
   ],
-  "lastRotation": "2026-10-09",
+  "lastRotation": "2026-10-10",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
