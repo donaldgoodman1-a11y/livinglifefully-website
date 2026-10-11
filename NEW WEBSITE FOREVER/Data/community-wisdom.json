@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.",
+      "author": "Carl Jung",
+      "date": "2026-10-11",
+      "inactive": false
+    },
+    {
+      "text": "Accept the things to which fate binds you, and love the people with whom fate brings you together.",
+      "author": "Marcus Aurelius",
+      "date": "2026-10-11",
+      "inactive": false
+    },
+    {
+      "text": "Real change takes time. What matters most is that you start.",
+      "author": "Russell M. Nelson",
+      "date": "2026-10-11",
+      "inactive": false
+    },
+    {
+      "text": "If you are a dreamer, come in.",
+      "author": "Shel Silverstein",
+      "date": "2026-10-11",
+      "inactive": false
+    },
+    {
+      "text": "Faith does not eliminate questions. But faith knows where to take them.",
+      "author": "Elisabeth Elliot",
+      "date": "2026-10-11",
+      "inactive": false
+    },
+    {
       "text": "Life is to be enjoyed, not endured.",
       "author": "Gordon B. Hinckley",
       "date": "2026-10-10",
@@ -462,36 +492,6 @@
       "inactive": false
     },
     {
-      "text": "Even the smallest person can change the course of the future.",
-      "author": "J.R.R. Tolkien",
-      "date": "2026-09-25",
-      "inactive": false
-    },
-    {
-      "text": "Humanity must seek what is NOT simple and obvious using the simple and obvious.",
-      "author": "Musonius Rufus",
-      "date": "2026-09-25",
-      "inactive": false
-    },
-    {
-      "text": "For every minute you are angry you lose sixty seconds of happiness.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-09-25",
-      "inactive": false
-    },
-    {
-      "text": "Be who God meant you to be and you will set the world on fire.",
-      "author": "St. Catherine of Siena",
-      "date": "2026-09-25",
-      "inactive": false
-    },
-    {
-      "text": "The happiness of your life depends upon the quality of your thoughts.",
-      "author": "Marcus Aurelius",
-      "date": "2026-09-24",
-      "inactive": false
-    },
-    {
       "text": "You miss 100% of the shots you don't take.",
       "author": "Wayne Gretzky",
       "date": "2026-03-31",
@@ -556,13 +556,6 @@
       "inactive": true,
       "communitySubmission": true,
       "deactivatedDate": "2026-05-25"
-    },
-    {
-      "text": "Faith does not eliminate questions. But faith knows where to take them.",
-      "author": "Elisabeth Elliot",
-      "date": "2026-05-14",
-      "inactive": true,
-      "deactivatedDate": "2026-05-26"
     },
     {
       "text": "There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living.",
@@ -758,20 +751,6 @@
       "text": "I am not what happened to me, I am what I choose to become.",
       "author": "Carl Jung",
       "date": "2026-06-26",
-      "inactive": true,
-      "deactivatedDate": "2026-07-10"
-    },
-    {
-      "text": "If you are a dreamer, come in.",
-      "author": "Shel Silverstein",
-      "date": "2026-06-26",
-      "inactive": true,
-      "deactivatedDate": "2026-07-10"
-    },
-    {
-      "text": "Real change takes time. What matters most is that you start.",
-      "author": "Russell M. Nelson",
-      "date": "2026-06-25",
       "inactive": true,
       "deactivatedDate": "2026-07-10"
     },
@@ -1237,13 +1216,6 @@
       "date": "2026-08-02",
       "inactive": true,
       "deactivatedDate": "2026-08-18"
-    },
-    {
-      "text": "Accept the things to which fate binds you, and love the people with whom fate brings you together.",
-      "author": "Marcus Aurelius",
-      "date": "2026-08-03",
-      "inactive": true,
-      "deactivatedDate": "2026-08-19"
     },
     {
       "text": "Tell me, what is it you plan to do with your one wild and precious life?",
@@ -2097,13 +2069,6 @@
       "deactivatedDate": "2026-09-30"
     },
     {
-      "text": "Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.",
-      "author": "Carl Jung",
-      "date": "2026-09-14",
-      "inactive": true,
-      "deactivatedDate": "2026-09-30"
-    },
-    {
       "text": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
       "author": "Albert Einstein",
       "date": "2026-09-14",
@@ -2446,9 +2411,44 @@
       "inactive": true,
       "communitySubmission": true,
       "deactivatedDate": "2026-10-10"
+    },
+    {
+      "text": "Even the smallest person can change the course of the future.",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-09-25",
+      "inactive": true,
+      "deactivatedDate": "2026-10-11"
+    },
+    {
+      "text": "Humanity must seek what is NOT simple and obvious using the simple and obvious.",
+      "author": "Musonius Rufus",
+      "date": "2026-09-25",
+      "inactive": true,
+      "deactivatedDate": "2026-10-11"
+    },
+    {
+      "text": "For every minute you are angry you lose sixty seconds of happiness.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-09-25",
+      "inactive": true,
+      "deactivatedDate": "2026-10-11"
+    },
+    {
+      "text": "Be who God meant you to be and you will set the world on fire.",
+      "author": "St. Catherine of Siena",
+      "date": "2026-09-25",
+      "inactive": true,
+      "deactivatedDate": "2026-10-11"
+    },
+    {
+      "text": "The happiness of your life depends upon the quality of your thoughts.",
+      "author": "Marcus Aurelius",
+      "date": "2026-09-24",
+      "inactive": true,
+      "deactivatedDate": "2026-10-11"
     }
   ],
-  "lastRotation": "2026-10-10",
+  "lastRotation": "2026-10-11",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
