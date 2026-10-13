@@ -1,6 +1,37 @@
 {
   "quotes": [
     {
+      "text": "Wherever you are… Be there. \nThis saying has been said in different ways, but this particular way has my personal touch on it. \nI had a plack made  for each one of my kids so that they know how important it is to be focused and in the moment.",
+      "author": "Steve LeBaron",
+      "date": "2026-10-13",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "When we long for life without difficulties, remember that oaks grow strong in contrary winds and diamonds are made under pressure.",
+      "author": "Peter Marshall",
+      "date": "2026-10-13",
+      "inactive": false
+    },
+    {
+      "text": "Even miracles take a little time.",
+      "author": "Fairy Godmother, Cinderella",
+      "date": "2026-10-13",
+      "inactive": false
+    },
+    {
+      "text": "The cave you fear to enter holds the treasure you seek.",
+      "author": "Joseph Campbell",
+      "date": "2026-10-13",
+      "inactive": false
+    },
+    {
+      "text": "I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live by the light that I have.",
+      "author": "Abraham Lincoln",
+      "date": "2026-10-13",
+      "inactive": false
+    },
+    {
       "text": "Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!",
       "author": "Dr. Seuss",
       "date": "2026-10-12",
@@ -461,37 +492,6 @@
       "communitySubmission": true
     },
     {
-      "text": "Be still, and know that I am God.",
-      "author": "King David",
-      "date": "2026-09-27",
-      "inactive": false
-    },
-    {
-      "text": "I can't die but once.",
-      "author": "Harriet Tubman",
-      "date": "2026-09-27",
-      "inactive": false
-    },
-    {
-      "text": "Hugh B. Brown wrote: We ask for strength and God gives us difficulties, which makes us \nstrong. We pray for wisdom and God sends us problems, the solution of which develops \nwisdom. We plead for prosperity and God gives us brain and brawn to work. We plead \nfor courage and God gives us dangers to overcome. We ask for favors and God gives us \nopportunities. This is the answer.”",
-      "author": "Hugh B Brown",
-      "date": "2026-09-27",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "A goal without a plan is just a wish.",
-      "author": "Antoine de Saint-Exupéry",
-      "date": "2026-09-27",
-      "inactive": false
-    },
-    {
-      "text": "When we keep the commandments, the blessings come.",
-      "author": "Henry B. Eyring",
-      "date": "2026-09-26",
-      "inactive": false
-    },
-    {
       "text": "You miss 100% of the shots you don't take.",
       "author": "Wayne Gretzky",
       "date": "2026-03-31",
@@ -753,14 +753,6 @@
       "date": "2026-06-26",
       "inactive": true,
       "deactivatedDate": "2026-07-10"
-    },
-    {
-      "text": "Wherever you are… Be there. \nThis saying has been said in different ways, but this particular way has my personal touch on it. \nI had a plack made  for each one of my kids so that they know how important it is to be focused and in the moment.",
-      "author": "Steve LeBaron",
-      "date": "2026-06-27",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-07-11"
     },
     {
       "text": "Act as if what you do makes a difference. It does.",
@@ -1223,13 +1215,6 @@
       "date": "2026-08-04",
       "inactive": true,
       "deactivatedDate": "2026-08-20"
-    },
-    {
-      "text": "When we long for life without difficulties, remember that oaks grow strong in contrary winds and diamonds are made under pressure.",
-      "author": "Peter Marshall",
-      "date": "2026-08-06",
-      "inactive": true,
-      "deactivatedDate": "2026-08-21"
     },
     {
       "text": "Three things cannot be long hidden: the sun, the moon, and the truth.",
@@ -2041,13 +2026,6 @@
       "deactivatedDate": "2026-09-30"
     },
     {
-      "text": "Even miracles take a little time.",
-      "author": "Fairy Godmother, Cinderella",
-      "date": "2026-09-13",
-      "inactive": true,
-      "deactivatedDate": "2026-09-30"
-    },
-    {
       "text": "I alone cannot change the world, but I can cast a stone across the waters to create many ripples.",
       "author": "Mother Teresa",
       "date": "2026-09-15",
@@ -2179,13 +2157,6 @@
     {
       "text": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you.",
       "author": "Jesus Christ",
-      "date": "2026-09-19",
-      "inactive": true,
-      "deactivatedDate": "2026-10-05"
-    },
-    {
-      "text": "The cave you fear to enter holds the treasure you seek.",
-      "author": "Joseph Campbell",
       "date": "2026-09-19",
       "inactive": true,
       "deactivatedDate": "2026-10-05"
@@ -2356,13 +2327,6 @@
       "deactivatedDate": "2026-10-10"
     },
     {
-      "text": "I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live by the light that I have.",
-      "author": "Abraham Lincoln",
-      "date": "2026-09-24",
-      "inactive": true,
-      "deactivatedDate": "2026-10-10"
-    },
-    {
       "text": "Courage is not simply one of the virtues, but the form of every virtue at the testing point.",
       "author": "C.S. Lewis",
       "date": "2026-09-24",
@@ -2446,9 +2410,45 @@
       "date": "2026-09-25",
       "inactive": true,
       "deactivatedDate": "2026-10-12"
+    },
+    {
+      "text": "Be still, and know that I am God.",
+      "author": "King David",
+      "date": "2026-09-27",
+      "inactive": true,
+      "deactivatedDate": "2026-10-13"
+    },
+    {
+      "text": "I can't die but once.",
+      "author": "Harriet Tubman",
+      "date": "2026-09-27",
+      "inactive": true,
+      "deactivatedDate": "2026-10-13"
+    },
+    {
+      "text": "Hugh B. Brown wrote: We ask for strength and God gives us difficulties, which makes us \nstrong. We pray for wisdom and God sends us problems, the solution of which develops \nwisdom. We plead for prosperity and God gives us brain and brawn to work. We plead \nfor courage and God gives us dangers to overcome. We ask for favors and God gives us \nopportunities. This is the answer.”",
+      "author": "Hugh B Brown",
+      "date": "2026-09-27",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-10-13"
+    },
+    {
+      "text": "A goal without a plan is just a wish.",
+      "author": "Antoine de Saint-Exupéry",
+      "date": "2026-09-27",
+      "inactive": true,
+      "deactivatedDate": "2026-10-13"
+    },
+    {
+      "text": "When we keep the commandments, the blessings come.",
+      "author": "Henry B. Eyring",
+      "date": "2026-09-26",
+      "inactive": true,
+      "deactivatedDate": "2026-10-13"
     }
   ],
-  "lastRotation": "2026-10-12",
+  "lastRotation": "2026-10-13",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
