@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Wise men speak because they have something to say; fools because they have to say something.",
+      "author": "Plato",
+      "date": "2026-10-15",
+      "inactive": false
+    },
+    {
+      "text": "I had reasoned this out in my mind, there was one of two things I had a right to, liberty or death; if I could not have one, I would have the other.",
+      "author": "Harriet Tubman",
+      "date": "2026-10-15",
+      "inactive": false
+    },
+    {
+      "text": "Humanity must seek what is NOT simple and obvious using the simple and obvious.",
+      "author": "Musonius Rufus",
+      "date": "2026-10-15",
+      "inactive": false
+    },
+    {
+      "text": "There is no greater agony than bearing an untold story inside you.",
+      "author": "Maya Angelou",
+      "date": "2026-10-15",
+      "inactive": false
+    },
+    {
+      "text": "When we keep the commandments, the blessings come.",
+      "author": "Henry B. Eyring",
+      "date": "2026-10-15",
+      "inactive": false
+    },
+    {
       "text": "The obstacle is the way.",
       "author": "Ryan Holiday",
       "date": "2026-10-14",
@@ -460,36 +490,6 @@
       "inactive": false
     },
     {
-      "text": "Knowing your own darkness is the best method for dealing with the darknesses of other people.",
-      "author": "Carl Jung",
-      "date": "2026-09-29",
-      "inactive": false
-    },
-    {
-      "text": "You're off to great places! Today is your day! Your mountain is waiting, so get on your way!",
-      "author": "Dr. Seuss",
-      "date": "2026-09-29",
-      "inactive": false
-    },
-    {
-      "text": "Decisions determine destiny.",
-      "author": "Thomas S. Monson",
-      "date": "2026-09-29",
-      "inactive": false
-    },
-    {
-      "text": "The brick walls are there for a reason. They're not there to keep us out. The brick walls are there to give us a chance to show how badly we want something.",
-      "author": "Randy Pausch",
-      "date": "2026-09-29",
-      "inactive": false
-    },
-    {
-      "text": "All our dreams can come true, if we have the courage to pursue them.",
-      "author": "Walt Disney",
-      "date": "2026-09-28",
-      "inactive": false
-    },
-    {
       "text": "You miss 100% of the shots you don't take.",
       "author": "Wayne Gretzky",
       "date": "2026-03-31",
@@ -552,13 +552,6 @@
       "text": "There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living.",
       "author": "Nelson Mandela",
       "date": "2026-05-15",
-      "inactive": true,
-      "deactivatedDate": "2026-05-27"
-    },
-    {
-      "text": "There is no greater agony than bearing an untold story inside you.",
-      "author": "Maya Angelou",
-      "date": "2026-05-14",
       "inactive": true,
       "deactivatedDate": "2026-05-27"
     },
@@ -808,13 +801,6 @@
       "date": "2026-07-04",
       "inactive": true,
       "deactivatedDate": "2026-07-19"
-    },
-    {
-      "text": "I had reasoned this out in my mind, there was one of two things I had a right to, liberty or death; if I could not have one, I would have the other.",
-      "author": "Harriet Tubman",
-      "date": "2026-07-05",
-      "inactive": true,
-      "deactivatedDate": "2026-07-20"
     },
     {
       "text": "Each child brings his own blessing into the world.",
@@ -1404,13 +1390,6 @@
       "date": "2026-08-20",
       "inactive": true,
       "deactivatedDate": "2026-09-06"
-    },
-    {
-      "text": "Wise men speak because they have something to say; fools because they have to say something.",
-      "author": "Plato",
-      "date": "2026-08-21",
-      "inactive": true,
-      "deactivatedDate": "2026-09-07"
     },
     {
       "text": "Those who have a 'why' to live, can bear with almost any 'how'.",
@@ -2312,13 +2291,6 @@
       "deactivatedDate": "2026-10-11"
     },
     {
-      "text": "Humanity must seek what is NOT simple and obvious using the simple and obvious.",
-      "author": "Musonius Rufus",
-      "date": "2026-09-25",
-      "inactive": true,
-      "deactivatedDate": "2026-10-11"
-    },
-    {
       "text": "For every minute you are angry you lose sixty seconds of happiness.",
       "author": "Ralph Waldo Emerson",
       "date": "2026-09-25",
@@ -2404,13 +2376,6 @@
       "deactivatedDate": "2026-10-13"
     },
     {
-      "text": "When we keep the commandments, the blessings come.",
-      "author": "Henry B. Eyring",
-      "date": "2026-09-26",
-      "inactive": true,
-      "deactivatedDate": "2026-10-13"
-    },
-    {
       "text": "Live in the sunshine, swim the sea, drink the wild air.",
       "author": "Ralph Waldo Emerson",
       "date": "2026-09-28",
@@ -2446,9 +2411,44 @@
       "inactive": true,
       "communitySubmission": true,
       "deactivatedDate": "2026-10-14"
+    },
+    {
+      "text": "Knowing your own darkness is the best method for dealing with the darknesses of other people.",
+      "author": "Carl Jung",
+      "date": "2026-09-29",
+      "inactive": true,
+      "deactivatedDate": "2026-10-15"
+    },
+    {
+      "text": "You're off to great places! Today is your day! Your mountain is waiting, so get on your way!",
+      "author": "Dr. Seuss",
+      "date": "2026-09-29",
+      "inactive": true,
+      "deactivatedDate": "2026-10-15"
+    },
+    {
+      "text": "Decisions determine destiny.",
+      "author": "Thomas S. Monson",
+      "date": "2026-09-29",
+      "inactive": true,
+      "deactivatedDate": "2026-10-15"
+    },
+    {
+      "text": "The brick walls are there for a reason. They're not there to keep us out. The brick walls are there to give us a chance to show how badly we want something.",
+      "author": "Randy Pausch",
+      "date": "2026-09-29",
+      "inactive": true,
+      "deactivatedDate": "2026-10-15"
+    },
+    {
+      "text": "All our dreams can come true, if we have the courage to pursue them.",
+      "author": "Walt Disney",
+      "date": "2026-09-28",
+      "inactive": true,
+      "deactivatedDate": "2026-10-15"
     }
   ],
-  "lastRotation": "2026-10-14",
+  "lastRotation": "2026-10-15",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
