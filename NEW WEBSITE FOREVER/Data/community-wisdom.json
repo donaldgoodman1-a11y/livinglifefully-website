@@ -1,6 +1,37 @@
 {
   "quotes": [
     {
+      "text": "Everything has beauty, but not everyone sees it.",
+      "author": "Confucius",
+      "date": "2026-10-16",
+      "inactive": false
+    },
+    {
+      "text": "Sometimes things make more sense the second time around. People change, you change and the universe changes, if we keep ourselves confined to first chances only, we will truly miss out on some of the most beautiful things in life.",
+      "author": "Rania Naim",
+      "date": "2026-10-16",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "Attitude is a little thing that makes a big difference.",
+      "author": "Winston Churchill",
+      "date": "2026-10-16",
+      "inactive": false
+    },
+    {
+      "text": "The best preparation for tomorrow is doing your best today.",
+      "author": "H. Jackson Brown Jr.",
+      "date": "2026-10-16",
+      "inactive": false
+    },
+    {
+      "text": "A winner is a dreamer who never gives up.",
+      "author": "Nelson Mandela",
+      "date": "2026-10-16",
+      "inactive": false
+    },
+    {
       "text": "Wise men speak because they have something to say; fools because they have to say something.",
       "author": "Plato",
       "date": "2026-10-15",
@@ -460,36 +491,6 @@
       "inactive": false
     },
     {
-      "text": "A cheerful heart is good medicine.",
-      "author": "King Solomon",
-      "date": "2026-09-30",
-      "inactive": false
-    },
-    {
-      "text": "You either walk inside your story and own it or you stand outside your story and hustle for your worthiness.",
-      "author": "Brené Brown",
-      "date": "2026-09-30",
-      "inactive": false
-    },
-    {
-      "text": "For I know the thoughts that I think toward you, saith the Lord, thoughts of peace, and not of evil.",
-      "author": "Jeremiah",
-      "date": "2026-09-30",
-      "inactive": false
-    },
-    {
-      "text": "It's kind of fun to do the impossible.",
-      "author": "Walt Disney",
-      "date": "2026-09-30",
-      "inactive": false
-    },
-    {
-      "text": "let GO",
-      "author": "Anonymous Reader",
-      "date": "2026-09-29",
-      "inactive": false
-    },
-    {
       "text": "You miss 100% of the shots you don't take.",
       "author": "Wayne Gretzky",
       "date": "2026-03-31",
@@ -582,13 +583,6 @@
       "date": "2026-05-20",
       "inactive": true,
       "deactivatedDate": "2026-06-02"
-    },
-    {
-      "text": "Everything has beauty, but not everyone sees it.",
-      "author": "Confucius",
-      "date": "2026-05-23",
-      "inactive": true,
-      "deactivatedDate": "2026-06-06"
     },
     {
       "text": "Life's most persistent and urgent question is, 'What are you doing for others?'",
@@ -1575,13 +1569,6 @@
       "deactivatedDate": "2026-09-15"
     },
     {
-      "text": "A winner is a dreamer who never gives up.",
-      "author": "Nelson Mandela",
-      "date": "2026-08-29",
-      "inactive": true,
-      "deactivatedDate": "2026-09-15"
-    },
-    {
       "text": "With the new day comes new strength and new thoughts.",
       "author": "Eleanor Roosevelt",
       "date": "2026-08-29",
@@ -2139,13 +2126,6 @@
       "deactivatedDate": "2026-10-06"
     },
     {
-      "text": "Attitude is a little thing that makes a big difference.",
-      "author": "Winston Churchill",
-      "date": "2026-09-19",
-      "inactive": true,
-      "deactivatedDate": "2026-10-06"
-    },
-    {
       "text": "Focus on the moment, not the monsters that may or may not be up ahead.",
       "author": "Ryan Holiday",
       "date": "2026-09-21",
@@ -2179,14 +2159,6 @@
       "date": "2026-09-20",
       "inactive": true,
       "deactivatedDate": "2026-10-07"
-    },
-    {
-      "text": "Sometimes things make more sense the second time around. People change, you change and the universe changes, if we keep ourselves confined to first chances only, we will truly miss out on some of the most beautiful things in life.",
-      "author": "Rania Naim",
-      "date": "2026-09-22",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-10-08"
     },
     {
       "text": "Let us always meet each other with smile, for the smile is the beginning of love.",
@@ -2253,13 +2225,6 @@
       "inactive": true,
       "communitySubmission": true,
       "deactivatedDate": "2026-10-09"
-    },
-    {
-      "text": "The best preparation for tomorrow is doing your best today.",
-      "author": "H. Jackson Brown Jr.",
-      "date": "2026-09-24",
-      "inactive": true,
-      "deactivatedDate": "2026-10-10"
     },
     {
       "text": "I feel that there is nothing more truly artistic than to love people.",
@@ -2446,9 +2411,44 @@
       "date": "2026-09-28",
       "inactive": true,
       "deactivatedDate": "2026-10-15"
+    },
+    {
+      "text": "A cheerful heart is good medicine.",
+      "author": "King Solomon",
+      "date": "2026-09-30",
+      "inactive": true,
+      "deactivatedDate": "2026-10-16"
+    },
+    {
+      "text": "You either walk inside your story and own it or you stand outside your story and hustle for your worthiness.",
+      "author": "Brené Brown",
+      "date": "2026-09-30",
+      "inactive": true,
+      "deactivatedDate": "2026-10-16"
+    },
+    {
+      "text": "For I know the thoughts that I think toward you, saith the Lord, thoughts of peace, and not of evil.",
+      "author": "Jeremiah",
+      "date": "2026-09-30",
+      "inactive": true,
+      "deactivatedDate": "2026-10-16"
+    },
+    {
+      "text": "It's kind of fun to do the impossible.",
+      "author": "Walt Disney",
+      "date": "2026-09-30",
+      "inactive": true,
+      "deactivatedDate": "2026-10-16"
+    },
+    {
+      "text": "let GO",
+      "author": "Anonymous Reader",
+      "date": "2026-09-29",
+      "inactive": true,
+      "deactivatedDate": "2026-10-16"
     }
   ],
-  "lastRotation": "2026-10-15",
+  "lastRotation": "2026-10-16",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
