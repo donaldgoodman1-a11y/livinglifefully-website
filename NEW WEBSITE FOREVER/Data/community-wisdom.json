@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
+      "author": "Dr. Seuss",
+      "date": "2026-10-17",
+      "inactive": false
+    },
+    {
+      "text": "Habits are the compound interest of self-improvement.",
+      "author": "James Clear",
+      "date": "2026-10-17",
+      "inactive": false
+    },
+    {
+      "text": "The best way to predict your future is to create it.",
+      "author": "Abraham Lincoln",
+      "date": "2026-10-17",
+      "inactive": false
+    },
+    {
+      "text": "Wherever you go, go with all your heart.",
+      "author": "Confucius",
+      "date": "2026-10-17",
+      "inactive": false
+    },
+    {
+      "text": "Peace comes from within. Do not seek it without.",
+      "author": "Thich Nhat Hanh",
+      "date": "2026-10-17",
+      "inactive": false
+    },
+    {
       "text": "Everything has beauty, but not everyone sees it.",
       "author": "Confucius",
       "date": "2026-10-16",
@@ -461,36 +491,6 @@
       "inactive": false
     },
     {
-      "text": "You are never too old to set another goal or to dream a new dream.",
-      "author": "C.S. Lewis",
-      "date": "2026-10-01",
-      "inactive": false
-    },
-    {
-      "text": "Well done is better than well said.",
-      "author": "Benjamin Franklin",
-      "date": "2026-10-01",
-      "inactive": false
-    },
-    {
-      "text": "Opposition is part of the divine plan.",
-      "author": "Dallin H. Oaks",
-      "date": "2026-10-01",
-      "inactive": false
-    },
-    {
-      "text": "Be kind whenever possible. It is always possible.",
-      "author": "Dalai Lama",
-      "date": "2026-10-01",
-      "inactive": false
-    },
-    {
-      "text": "When we are no longer able to change a situation, we are challenged to change ourselves.",
-      "author": "Viktor Frankl",
-      "date": "2026-09-30",
-      "inactive": false
-    },
-    {
       "text": "You miss 100% of the shots you don't take.",
       "author": "Wayne Gretzky",
       "date": "2026-03-31",
@@ -833,25 +833,11 @@
       "deactivatedDate": "2026-07-21"
     },
     {
-      "text": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
-      "author": "Dr. Seuss",
-      "date": "2026-07-07",
-      "inactive": true,
-      "deactivatedDate": "2026-07-22"
-    },
-    {
       "text": "The Lord compensates the faithful for every loss.",
       "author": "Russell M. Nelson",
       "date": "2026-07-07",
       "inactive": true,
       "deactivatedDate": "2026-07-22"
-    },
-    {
-      "text": "Habits are the compound interest of self-improvement.",
-      "author": "James Clear",
-      "date": "2026-07-08",
-      "inactive": true,
-      "deactivatedDate": "2026-07-23"
     },
     {
       "text": "Trust in the Lord with all thine heart; and lean not unto thine own understanding.",
@@ -1179,13 +1165,6 @@
       "date": "2026-08-06",
       "inactive": true,
       "deactivatedDate": "2026-08-22"
-    },
-    {
-      "text": "The best way to predict your future is to create it.",
-      "author": "Abraham Lincoln",
-      "date": "2026-08-08",
-      "inactive": true,
-      "deactivatedDate": "2026-08-23"
     },
     {
       "text": "Prayer is not asking. Prayer is putting oneself in the hands of God.",
@@ -1876,13 +1855,6 @@
       "deactivatedDate": "2026-09-27"
     },
     {
-      "text": "Peace comes from within. Do not seek it without.",
-      "author": "Thich Nhat Hanh",
-      "date": "2026-09-11",
-      "inactive": true,
-      "deactivatedDate": "2026-09-27"
-    },
-    {
       "text": "When we make our fantasies our reality they often become our nightmares.",
       "author": "Dr Goodman",
       "date": "2026-09-12",
@@ -1903,13 +1875,6 @@
       "date": "2026-09-12",
       "inactive": true,
       "communitySubmission": true,
-      "deactivatedDate": "2026-09-28"
-    },
-    {
-      "text": "Wherever you go, go with all your heart.",
-      "author": "Confucius",
-      "date": "2026-09-11",
-      "inactive": true,
       "deactivatedDate": "2026-09-28"
     },
     {
@@ -2446,9 +2411,44 @@
       "date": "2026-09-29",
       "inactive": true,
       "deactivatedDate": "2026-10-16"
+    },
+    {
+      "text": "You are never too old to set another goal or to dream a new dream.",
+      "author": "C.S. Lewis",
+      "date": "2026-10-01",
+      "inactive": true,
+      "deactivatedDate": "2026-10-17"
+    },
+    {
+      "text": "Well done is better than well said.",
+      "author": "Benjamin Franklin",
+      "date": "2026-10-01",
+      "inactive": true,
+      "deactivatedDate": "2026-10-17"
+    },
+    {
+      "text": "Opposition is part of the divine plan.",
+      "author": "Dallin H. Oaks",
+      "date": "2026-10-01",
+      "inactive": true,
+      "deactivatedDate": "2026-10-17"
+    },
+    {
+      "text": "Be kind whenever possible. It is always possible.",
+      "author": "Dalai Lama",
+      "date": "2026-10-01",
+      "inactive": true,
+      "deactivatedDate": "2026-10-17"
+    },
+    {
+      "text": "When we are no longer able to change a situation, we are challenged to change ourselves.",
+      "author": "Viktor Frankl",
+      "date": "2026-09-30",
+      "inactive": true,
+      "deactivatedDate": "2026-10-17"
     }
   ],
-  "lastRotation": "2026-10-16",
+  "lastRotation": "2026-10-17",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
