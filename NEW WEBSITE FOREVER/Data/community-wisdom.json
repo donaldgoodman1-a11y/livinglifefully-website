@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Where the head goes, the body follows. Perception precedes action.",
+      "author": "Ryan Holiday",
+      "date": "2026-10-18",
+      "inactive": false
+    },
+    {
+      "text": "For I know the thoughts that I think toward you, saith the Lord, thoughts of peace, and not of evil.",
+      "author": "Jeremiah",
+      "date": "2026-10-18",
+      "inactive": false
+    },
+    {
+      "text": "The secret to so many artists living so long is that every painting is a new adventure. So, you see, they're always looking ahead to something new and exciting.",
+      "author": "Norman Rockwell",
+      "date": "2026-10-18",
+      "inactive": false
+    },
+    {
+      "text": "The privilege of a lifetime is being who you are.",
+      "author": "Joseph Campbell",
+      "date": "2026-10-18",
+      "inactive": false
+    },
+    {
+      "text": "Be kind whenever possible. It is always possible.",
+      "author": "Dalai Lama",
+      "date": "2026-10-18",
+      "inactive": false
+    },
+    {
       "text": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
       "author": "Dr. Seuss",
       "date": "2026-10-17",
@@ -459,36 +489,6 @@
       "date": "2026-10-02",
       "inactive": false,
       "communitySubmission": true
-    },
-    {
-      "text": "Some day you will be old enough to start reading fairy tales again.",
-      "author": "C.S. Lewis",
-      "date": "2026-10-02",
-      "inactive": false
-    },
-    {
-      "text": "Quick to observe means quick to act.",
-      "author": "David A. Bednar",
-      "date": "2026-10-02",
-      "inactive": false
-    },
-    {
-      "text": "It is your reaction to adversity, not the adversity itself, that determines how your life's story will develop.",
-      "author": "Dieter F. Uchtdorf",
-      "date": "2026-10-02",
-      "inactive": false
-    },
-    {
-      "text": "Better to get on the bike and fall then never to get on the bike at all.",
-      "author": "Dr Goodman",
-      "date": "2026-10-02",
-      "inactive": false
-    },
-    {
-      "text": "What would life be if we had no courage to attempt anything?",
-      "author": "Vincent Van Gogh",
-      "date": "2026-10-01",
-      "inactive": false
     },
     {
       "text": "You miss 100% of the shots you don't take.",
@@ -1006,13 +1006,6 @@
     {
       "text": "It is during our darkest moments that we must focus to see the light.",
       "author": "Aristotle",
-      "date": "2026-07-23",
-      "inactive": true,
-      "deactivatedDate": "2026-08-08"
-    },
-    {
-      "text": "The secret to so many artists living so long is that every painting is a new adventure. So, you see, they're always looking ahead to something new and exciting.",
-      "author": "Norman Rockwell",
       "date": "2026-07-23",
       "inactive": true,
       "deactivatedDate": "2026-08-08"
@@ -1777,13 +1770,6 @@
       "deactivatedDate": "2026-09-25"
     },
     {
-      "text": "Where the head goes, the body follows. Perception precedes action.",
-      "author": "Ryan Holiday",
-      "date": "2026-09-09",
-      "inactive": true,
-      "deactivatedDate": "2026-09-25"
-    },
-    {
       "text": "The mind is everything. What you think you become.",
       "author": "Buddha",
       "date": "2026-09-09",
@@ -1960,13 +1946,6 @@
       "date": "2026-09-16",
       "inactive": true,
       "communitySubmission": true,
-      "deactivatedDate": "2026-10-02"
-    },
-    {
-      "text": "The privilege of a lifetime is being who you are.",
-      "author": "Joseph Campbell",
-      "date": "2026-09-16",
-      "inactive": true,
       "deactivatedDate": "2026-10-02"
     },
     {
@@ -2392,13 +2371,6 @@
       "deactivatedDate": "2026-10-16"
     },
     {
-      "text": "For I know the thoughts that I think toward you, saith the Lord, thoughts of peace, and not of evil.",
-      "author": "Jeremiah",
-      "date": "2026-09-30",
-      "inactive": true,
-      "deactivatedDate": "2026-10-16"
-    },
-    {
       "text": "It's kind of fun to do the impossible.",
       "author": "Walt Disney",
       "date": "2026-09-30",
@@ -2434,21 +2406,49 @@
       "deactivatedDate": "2026-10-17"
     },
     {
-      "text": "Be kind whenever possible. It is always possible.",
-      "author": "Dalai Lama",
-      "date": "2026-10-01",
-      "inactive": true,
-      "deactivatedDate": "2026-10-17"
-    },
-    {
       "text": "When we are no longer able to change a situation, we are challenged to change ourselves.",
       "author": "Viktor Frankl",
       "date": "2026-09-30",
       "inactive": true,
       "deactivatedDate": "2026-10-17"
+    },
+    {
+      "text": "Some day you will be old enough to start reading fairy tales again.",
+      "author": "C.S. Lewis",
+      "date": "2026-10-02",
+      "inactive": true,
+      "deactivatedDate": "2026-10-18"
+    },
+    {
+      "text": "Quick to observe means quick to act.",
+      "author": "David A. Bednar",
+      "date": "2026-10-02",
+      "inactive": true,
+      "deactivatedDate": "2026-10-18"
+    },
+    {
+      "text": "It is your reaction to adversity, not the adversity itself, that determines how your life's story will develop.",
+      "author": "Dieter F. Uchtdorf",
+      "date": "2026-10-02",
+      "inactive": true,
+      "deactivatedDate": "2026-10-18"
+    },
+    {
+      "text": "Better to get on the bike and fall then never to get on the bike at all.",
+      "author": "Dr Goodman",
+      "date": "2026-10-02",
+      "inactive": true,
+      "deactivatedDate": "2026-10-18"
+    },
+    {
+      "text": "What would life be if we had no courage to attempt anything?",
+      "author": "Vincent Van Gogh",
+      "date": "2026-10-01",
+      "inactive": true,
+      "deactivatedDate": "2026-10-18"
     }
   ],
-  "lastRotation": "2026-10-17",
+  "lastRotation": "2026-10-18",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
