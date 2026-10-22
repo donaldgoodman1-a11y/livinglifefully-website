@@ -1,6 +1,37 @@
 {
   "quotes": [
     {
+      "text": "You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes.",
+      "author": "A.A. Milne",
+      "date": "2026-10-22",
+      "inactive": false
+    },
+    {
+      "text": "It is only with the heart that one can see rightly; what is essential is invisible to the eye.",
+      "author": "Antoine de Saint-Exupéry",
+      "date": "2026-10-22",
+      "inactive": false
+    },
+    {
+      "text": "I am seeking, I am striving, I am in it with all my heart.",
+      "author": "Vincent Van Gogh",
+      "date": "2026-10-22",
+      "inactive": false
+    },
+    {
+      "text": "Patience is the companion of wisdom.",
+      "author": "St. Augustine of Hippo",
+      "date": "2026-10-22",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "Faith is to believe what you do not see; the reward of this faith is to see what you believe.",
+      "author": "St. Augustine",
+      "date": "2026-10-22",
+      "inactive": false
+    },
+    {
       "text": "Let your light so shine before men.",
       "author": "Jesus Christ",
       "date": "2026-10-21",
@@ -459,36 +490,6 @@
       "text": "To bear trials with a calm mind robs misfortune of its strength and burden.",
       "author": "Seneca",
       "date": "2026-10-06",
-      "inactive": false
-    },
-    {
-      "text": "And above all, watch with glittering eyes the whole world around you because the greatest secrets are always hidden in the most unlikely places.",
-      "author": "Roald Dahl",
-      "date": "2026-10-06",
-      "inactive": false
-    },
-    {
-      "text": "Thousands of candles can be lighted from a single candle. Happiness never decreases by being shared.",
-      "author": "Buddha",
-      "date": "2026-10-06",
-      "inactive": false
-    },
-    {
-      "text": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
-      "author": "Eleanor Roosevelt",
-      "date": "2026-10-06",
-      "inactive": false
-    },
-    {
-      "text": "Be kind, for everyone you meet is fighting a hard battle.",
-      "author": "Plato",
-      "date": "2026-10-06",
-      "inactive": false
-    },
-    {
-      "text": "Weeping may endure for a night, but joy cometh in the morning.",
-      "author": "King David",
-      "date": "2026-10-05",
       "inactive": false
     },
     {
@@ -1035,13 +1036,6 @@
       "deactivatedDate": "2026-08-12"
     },
     {
-      "text": "It is only with the heart that one can see rightly; what is essential is invisible to the eye.",
-      "author": "Antoine de Saint-Exupéry",
-      "date": "2026-07-28",
-      "inactive": true,
-      "deactivatedDate": "2026-08-13"
-    },
-    {
       "text": "I have learned that if one advances confidently in the direction of his dreams, he will meet with a success unexpected in common hours.",
       "author": "Henry David Thoreau",
       "date": "2026-07-29",
@@ -1331,13 +1325,6 @@
       "deactivatedDate": "2026-09-08"
     },
     {
-      "text": "Faith is to believe what you do not see; the reward of this faith is to see what you believe.",
-      "author": "St. Augustine",
-      "date": "2026-08-24",
-      "inactive": true,
-      "deactivatedDate": "2026-09-09"
-    },
-    {
       "text": "The secret of staying young is to live honestly, eat slowly, and lie about your age.",
       "author": "Lucille Ball",
       "date": "2026-08-23",
@@ -1537,14 +1524,6 @@
       "deactivatedDate": "2026-09-18"
     },
     {
-      "text": "Patience is the companion of wisdom.",
-      "author": "St. Augustine of Hippo",
-      "date": "2026-09-03",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-09-19"
-    },
-    {
       "text": "Hold on. Hope on.",
       "author": "Jeffrey R. Holland",
       "date": "2026-09-03",
@@ -1705,13 +1684,6 @@
       "date": "2026-09-08",
       "inactive": true,
       "deactivatedDate": "2026-09-25"
-    },
-    {
-      "text": "You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes.",
-      "author": "A.A. Milne",
-      "date": "2026-09-10",
-      "inactive": true,
-      "deactivatedDate": "2026-09-26"
     },
     {
       "text": "Those who don't believe in magic will never find it.",
@@ -2349,13 +2321,6 @@
       "deactivatedDate": "2026-10-19"
     },
     {
-      "text": "I am seeking, I am striving, I am in it with all my heart.",
-      "author": "Vincent Van Gogh",
-      "date": "2026-10-03",
-      "inactive": true,
-      "deactivatedDate": "2026-10-19"
-    },
-    {
       "text": "Courage starts with showing up and letting ourselves be seen.",
       "author": "Brené Brown",
       "date": "2026-10-03",
@@ -2446,9 +2411,44 @@
       "date": "2026-10-04",
       "inactive": true,
       "deactivatedDate": "2026-10-21"
+    },
+    {
+      "text": "And above all, watch with glittering eyes the whole world around you because the greatest secrets are always hidden in the most unlikely places.",
+      "author": "Roald Dahl",
+      "date": "2026-10-06",
+      "inactive": true,
+      "deactivatedDate": "2026-10-22"
+    },
+    {
+      "text": "Thousands of candles can be lighted from a single candle. Happiness never decreases by being shared.",
+      "author": "Buddha",
+      "date": "2026-10-06",
+      "inactive": true,
+      "deactivatedDate": "2026-10-22"
+    },
+    {
+      "text": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-10-06",
+      "inactive": true,
+      "deactivatedDate": "2026-10-22"
+    },
+    {
+      "text": "Be kind, for everyone you meet is fighting a hard battle.",
+      "author": "Plato",
+      "date": "2026-10-06",
+      "inactive": true,
+      "deactivatedDate": "2026-10-22"
+    },
+    {
+      "text": "Weeping may endure for a night, but joy cometh in the morning.",
+      "author": "King David",
+      "date": "2026-10-05",
+      "inactive": true,
+      "deactivatedDate": "2026-10-22"
     }
   ],
-  "lastRotation": "2026-10-21",
+  "lastRotation": "2026-10-22",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
