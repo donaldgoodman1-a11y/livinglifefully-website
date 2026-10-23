@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "People do not decide their futures, they decide their habits and their habits decide their futures.",
+      "author": "F.M. Alexander",
+      "date": "2026-10-23",
+      "inactive": false
+    },
+    {
+      "text": "Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world.",
+      "author": "Desmond Tutu",
+      "date": "2026-10-23",
+      "inactive": false
+    },
+    {
+      "text": "You'll miss the best things if you keep your eyes shut.",
+      "author": "Dr. Seuss",
+      "date": "2026-10-23",
+      "inactive": false
+    },
+    {
+      "text": "How many slams in an old screen door? Depends how loud you shut it.",
+      "author": "Shel Silverstein",
+      "date": "2026-10-23",
+      "inactive": false
+    },
+    {
+      "text": "Getting old is like climbing a mountain; you get a little out of breath, but the view is much better.",
+      "author": "Ingrid Bergman",
+      "date": "2026-10-23",
+      "inactive": false
+    },
+    {
       "text": "You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes.",
       "author": "A.A. Milne",
       "date": "2026-10-22",
@@ -463,36 +493,6 @@
       "inactive": false
     },
     {
-      "text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
-      "author": "Helen Keller",
-      "date": "2026-10-07",
-      "inactive": false
-    },
-    {
-      "text": "The spiritual gift of agency, the freedom to choose, is essential to our growth.",
-      "author": "Dallin H. Oaks",
-      "date": "2026-10-07",
-      "inactive": false
-    },
-    {
-      "text": "You must do the things you think you cannot do.",
-      "author": "Eleanor Roosevelt",
-      "date": "2026-10-07",
-      "inactive": false
-    },
-    {
-      "text": "If you accomplish something good with hard work, the labor passes quickly, but the good endures; if you do something shameful in pursuit of pleasure, the pleasure passes quickly, but the shame endures.",
-      "author": "Musonius Rufus",
-      "date": "2026-10-07",
-      "inactive": false
-    },
-    {
-      "text": "To bear trials with a calm mind robs misfortune of its strength and burden.",
-      "author": "Seneca",
-      "date": "2026-10-06",
-      "inactive": false
-    },
-    {
       "text": "To be happy takes daily practice and daily gratitude.",
       "author": "Anonymous Reader",
       "date": "2026-04-17",
@@ -510,13 +510,6 @@
     {
       "text": "Sometimes we're tested not to show our weaknesses, but to discover our strengths.",
       "author": "Rafiki, The Lion King",
-      "date": "2026-05-10",
-      "inactive": true,
-      "deactivatedDate": "2026-05-21"
-    },
-    {
-      "text": "People do not decide their futures, they decide their habits and their habits decide their futures.",
-      "author": "F.M. Alexander",
       "date": "2026-05-10",
       "inactive": true,
       "deactivatedDate": "2026-05-21"
@@ -1311,13 +1304,6 @@
       "deactivatedDate": "2026-09-08"
     },
     {
-      "text": "Getting old is like climbing a mountain; you get a little out of breath, but the view is much better.",
-      "author": "Ingrid Bergman",
-      "date": "2026-08-22",
-      "inactive": true,
-      "deactivatedDate": "2026-09-08"
-    },
-    {
       "text": "You were born to win, but to be a winner, you must plan to win, prepare to win, and expect to win.",
       "author": "Zig Ziglar",
       "date": "2026-08-22",
@@ -1389,13 +1375,6 @@
       "deactivatedDate": "2026-09-11"
     },
     {
-      "text": "How many slams in an old screen door? Depends how loud you shut it.",
-      "author": "Shel Silverstein",
-      "date": "2026-08-27",
-      "inactive": true,
-      "deactivatedDate": "2026-09-12"
-    },
-    {
       "text": "Joy comes not in riches, or in things, but in relationships.",
       "author": "Russell M. Nelson",
       "date": "2026-08-26",
@@ -1464,13 +1443,6 @@
       "date": "2026-08-29",
       "inactive": true,
       "deactivatedDate": "2026-09-15"
-    },
-    {
-      "text": "Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world.",
-      "author": "Desmond Tutu",
-      "date": "2026-08-31",
-      "inactive": true,
-      "deactivatedDate": "2026-09-16"
     },
     {
       "text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest.",
@@ -2006,13 +1978,6 @@
       "deactivatedDate": "2026-10-08"
     },
     {
-      "text": "You'll miss the best things if you keep your eyes shut.",
-      "author": "Dr. Seuss",
-      "date": "2026-09-21",
-      "inactive": true,
-      "deactivatedDate": "2026-10-08"
-    },
-    {
       "text": "Sometimes the future changes quickly and completely, and we’re left with only the choice of what to do next. We can choose to be afraid of it. Just stand there trembling, not moving, assuming the worst that can happen. Or we step forward into the unknown, and assume it will be brilliant.\nDr. Cristina Yang (Sandra Oh) in “Grey’s Anatomy”",
       "author": "Anonymous Reader",
       "date": "2026-09-23",
@@ -2446,9 +2411,44 @@
       "date": "2026-10-05",
       "inactive": true,
       "deactivatedDate": "2026-10-22"
+    },
+    {
+      "text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
+      "author": "Helen Keller",
+      "date": "2026-10-07",
+      "inactive": true,
+      "deactivatedDate": "2026-10-23"
+    },
+    {
+      "text": "The spiritual gift of agency, the freedom to choose, is essential to our growth.",
+      "author": "Dallin H. Oaks",
+      "date": "2026-10-07",
+      "inactive": true,
+      "deactivatedDate": "2026-10-23"
+    },
+    {
+      "text": "You must do the things you think you cannot do.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-10-07",
+      "inactive": true,
+      "deactivatedDate": "2026-10-23"
+    },
+    {
+      "text": "If you accomplish something good with hard work, the labor passes quickly, but the good endures; if you do something shameful in pursuit of pleasure, the pleasure passes quickly, but the shame endures.",
+      "author": "Musonius Rufus",
+      "date": "2026-10-07",
+      "inactive": true,
+      "deactivatedDate": "2026-10-23"
+    },
+    {
+      "text": "To bear trials with a calm mind robs misfortune of its strength and burden.",
+      "author": "Seneca",
+      "date": "2026-10-06",
+      "inactive": true,
+      "deactivatedDate": "2026-10-23"
     }
   ],
-  "lastRotation": "2026-10-22",
+  "lastRotation": "2026-10-23",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
