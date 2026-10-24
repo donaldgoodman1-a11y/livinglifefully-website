@@ -1,6 +1,37 @@
 {
   "quotes": [
     {
+      "text": "Be kind, for everyone you meet is fighting a hard battle.",
+      "author": "Plato",
+      "date": "2026-10-24",
+      "inactive": false
+    },
+    {
+      "text": "It always helps to have people we love beside us when we have to do difficult things in life.",
+      "author": "Fred Rogers",
+      "date": "2026-10-24",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "I alone cannot change the world, but I can cast a stone across the waters to create many ripples.",
+      "author": "Mother Teresa",
+      "date": "2026-10-24",
+      "inactive": false
+    },
+    {
+      "text": "We may encounter many defeats but we must not be defeated.",
+      "author": "Maya Angelou",
+      "date": "2026-10-24",
+      "inactive": false
+    },
+    {
+      "text": "Tell me, what is it you plan to do with your one wild and precious life?",
+      "author": "Mary Oliver",
+      "date": "2026-10-24",
+      "inactive": false
+    },
+    {
       "text": "People do not decide their futures, they decide their habits and their habits decide their futures.",
       "author": "F.M. Alexander",
       "date": "2026-10-23",
@@ -463,36 +494,6 @@
       "inactive": false
     },
     {
-      "text": "A pleasure is not full grown until it is remembered.",
-      "author": "C.S. Lewis",
-      "date": "2026-10-08",
-      "inactive": false
-    },
-    {
-      "text": "You do not rise to the level of your goals. You fall to the level of your systems.",
-      "author": "James Clear",
-      "date": "2026-10-08",
-      "inactive": false
-    },
-    {
-      "text": "Fantasy is hardly an escape from reality. It's a way of understanding it.",
-      "author": "Lloyd Alexander",
-      "date": "2026-10-08",
-      "inactive": false
-    },
-    {
-      "text": "No matter what anyone says or does, my task is to be good.",
-      "author": "Marcus Aurelius",
-      "date": "2026-10-08",
-      "inactive": false
-    },
-    {
-      "text": "Without a struggle, there can be no progress.",
-      "author": "Frederick Douglass",
-      "date": "2026-10-07",
-      "inactive": false
-    },
-    {
       "text": "To be happy takes daily practice and daily gratitude.",
       "author": "Anonymous Reader",
       "date": "2026-04-17",
@@ -769,14 +770,6 @@
       "date": "2026-07-05",
       "inactive": true,
       "deactivatedDate": "2026-07-20"
-    },
-    {
-      "text": "It always helps to have people we love beside us when we have to do difficult things in life.",
-      "author": "Fred Rogers",
-      "date": "2026-07-06",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-07-21"
     },
     {
       "text": "Fear thou not; for I am with thee: be not dismayed; for I am thy God.",
@@ -1069,13 +1062,6 @@
       "date": "2026-08-02",
       "inactive": true,
       "deactivatedDate": "2026-08-18"
-    },
-    {
-      "text": "Tell me, what is it you plan to do with your one wild and precious life?",
-      "author": "Mary Oliver",
-      "date": "2026-08-05",
-      "inactive": true,
-      "deactivatedDate": "2026-08-20"
     },
     {
       "text": "Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.",
@@ -1758,13 +1744,6 @@
       "deactivatedDate": "2026-09-30"
     },
     {
-      "text": "I alone cannot change the world, but I can cast a stone across the waters to create many ripples.",
-      "author": "Mother Teresa",
-      "date": "2026-09-15",
-      "inactive": true,
-      "deactivatedDate": "2026-10-01"
-    },
-    {
       "text": "Our prime purpose in this life is to help others. And if you can't help them, at least don't hurt them.",
       "author": "Dalai Lama",
       "date": "2026-09-15",
@@ -1988,13 +1967,6 @@
     {
       "text": "Follow your bliss and the universe will open doors where there were only walls.",
       "author": "Joseph Campbell",
-      "date": "2026-09-23",
-      "inactive": true,
-      "deactivatedDate": "2026-10-09"
-    },
-    {
-      "text": "We may encounter many defeats but we must not be defeated.",
-      "author": "Maya Angelou",
       "date": "2026-09-23",
       "inactive": true,
       "deactivatedDate": "2026-10-09"
@@ -2399,13 +2371,6 @@
       "deactivatedDate": "2026-10-22"
     },
     {
-      "text": "Be kind, for everyone you meet is fighting a hard battle.",
-      "author": "Plato",
-      "date": "2026-10-06",
-      "inactive": true,
-      "deactivatedDate": "2026-10-22"
-    },
-    {
       "text": "Weeping may endure for a night, but joy cometh in the morning.",
       "author": "King David",
       "date": "2026-10-05",
@@ -2446,9 +2411,44 @@
       "date": "2026-10-06",
       "inactive": true,
       "deactivatedDate": "2026-10-23"
+    },
+    {
+      "text": "A pleasure is not full grown until it is remembered.",
+      "author": "C.S. Lewis",
+      "date": "2026-10-08",
+      "inactive": true,
+      "deactivatedDate": "2026-10-24"
+    },
+    {
+      "text": "You do not rise to the level of your goals. You fall to the level of your systems.",
+      "author": "James Clear",
+      "date": "2026-10-08",
+      "inactive": true,
+      "deactivatedDate": "2026-10-24"
+    },
+    {
+      "text": "Fantasy is hardly an escape from reality. It's a way of understanding it.",
+      "author": "Lloyd Alexander",
+      "date": "2026-10-08",
+      "inactive": true,
+      "deactivatedDate": "2026-10-24"
+    },
+    {
+      "text": "No matter what anyone says or does, my task is to be good.",
+      "author": "Marcus Aurelius",
+      "date": "2026-10-08",
+      "inactive": true,
+      "deactivatedDate": "2026-10-24"
+    },
+    {
+      "text": "Without a struggle, there can be no progress.",
+      "author": "Frederick Douglass",
+      "date": "2026-10-07",
+      "inactive": true,
+      "deactivatedDate": "2026-10-24"
     }
   ],
-  "lastRotation": "2026-10-23",
+  "lastRotation": "2026-10-24",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
