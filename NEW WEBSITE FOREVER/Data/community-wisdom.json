@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest.",
+      "author": "Jesus Christ",
+      "date": "2026-10-27",
+      "inactive": false
+    },
+    {
+      "text": "Those who have a 'why' to live, can bear with almost any 'how'.",
+      "author": "Viktor Frankl",
+      "date": "2026-10-27",
+      "inactive": false
+    },
+    {
+      "text": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
+      "author": "Marcus Aurelius",
+      "date": "2026-10-27",
+      "inactive": false
+    },
+    {
+      "text": "If they merit redemption through Teshuva and Mitzvos, I will hasten the coming of the Moshiach.",
+      "author": "Sanhedrin",
+      "date": "2026-10-27",
+      "inactive": false
+    },
+    {
+      "text": "The more that you read, the more things you will know. The more that you learn, the more places you'll go.",
+      "author": "Dr. Seuss",
+      "date": "2026-10-27",
+      "inactive": false
+    },
+    {
       "text": "People often say that motivation doesn't last. Well, neither does bathing—that's why we recommend it daily.",
       "author": "Zig Ziglar",
       "date": "2026-10-26",
@@ -463,36 +493,6 @@
       "inactive": false
     },
     {
-      "text": "Accept the things to which fate binds you, and love the people with whom fate brings you together.",
-      "author": "Marcus Aurelius",
-      "date": "2026-10-11",
-      "inactive": false
-    },
-    {
-      "text": "Real change takes time. What matters most is that you start.",
-      "author": "Russell M. Nelson",
-      "date": "2026-10-11",
-      "inactive": false
-    },
-    {
-      "text": "If you are a dreamer, come in.",
-      "author": "Shel Silverstein",
-      "date": "2026-10-11",
-      "inactive": false
-    },
-    {
-      "text": "Faith does not eliminate questions. But faith knows where to take them.",
-      "author": "Elisabeth Elliot",
-      "date": "2026-10-11",
-      "inactive": false
-    },
-    {
-      "text": "Life is to be enjoyed, not endured.",
-      "author": "Gordon B. Hinckley",
-      "date": "2026-10-10",
-      "inactive": false
-    },
-    {
       "text": "To be happy takes daily practice and daily gratitude.",
       "author": "Anonymous Reader",
       "date": "2026-04-17",
@@ -665,13 +665,6 @@
       "deactivatedDate": "2026-07-06"
     },
     {
-      "text": "If they merit redemption through Teshuva and Mitzvos, I will hasten the coming of the Moshiach.",
-      "author": "Sanhedrin",
-      "date": "2026-06-21",
-      "inactive": true,
-      "deactivatedDate": "2026-07-06"
-    },
-    {
       "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
       "author": "Zig Ziglar",
       "date": "2026-06-24",
@@ -826,13 +819,6 @@
       "date": "2026-07-13",
       "inactive": true,
       "deactivatedDate": "2026-07-28"
-    },
-    {
-      "text": "The more that you read, the more things you will know. The more that you learn, the more places you'll go.",
-      "author": "Dr. Seuss",
-      "date": "2026-07-15",
-      "inactive": true,
-      "deactivatedDate": "2026-07-29"
     },
     {
       "text": "Either write something worth reading or do something worth writing.",
@@ -1177,13 +1163,6 @@
       "deactivatedDate": "2026-08-30"
     },
     {
-      "text": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
-      "author": "Marcus Aurelius",
-      "date": "2026-08-14",
-      "inactive": true,
-      "deactivatedDate": "2026-08-30"
-    },
-    {
       "text": "Nearly all men can stand adversity, but if you want to test a man's character, give him power.",
       "author": "Abraham Lincoln",
       "date": "2026-08-14",
@@ -1231,13 +1210,6 @@
       "date": "2026-08-20",
       "inactive": true,
       "deactivatedDate": "2026-09-06"
-    },
-    {
-      "text": "Those who have a 'why' to live, can bear with almost any 'how'.",
-      "author": "Viktor Frankl",
-      "date": "2026-08-21",
-      "inactive": true,
-      "deactivatedDate": "2026-09-07"
     },
     {
       "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
@@ -1379,13 +1351,6 @@
       "date": "2026-08-29",
       "inactive": true,
       "deactivatedDate": "2026-09-15"
-    },
-    {
-      "text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest.",
-      "author": "Jesus Christ",
-      "date": "2026-08-30",
-      "inactive": true,
-      "deactivatedDate": "2026-09-16"
     },
     {
       "text": "The future belongs to those who believe in the beauty of their dreams.",
@@ -2446,9 +2411,44 @@
       "date": "2026-10-09",
       "inactive": true,
       "deactivatedDate": "2026-10-26"
+    },
+    {
+      "text": "Accept the things to which fate binds you, and love the people with whom fate brings you together.",
+      "author": "Marcus Aurelius",
+      "date": "2026-10-11",
+      "inactive": true,
+      "deactivatedDate": "2026-10-27"
+    },
+    {
+      "text": "Real change takes time. What matters most is that you start.",
+      "author": "Russell M. Nelson",
+      "date": "2026-10-11",
+      "inactive": true,
+      "deactivatedDate": "2026-10-27"
+    },
+    {
+      "text": "If you are a dreamer, come in.",
+      "author": "Shel Silverstein",
+      "date": "2026-10-11",
+      "inactive": true,
+      "deactivatedDate": "2026-10-27"
+    },
+    {
+      "text": "Faith does not eliminate questions. But faith knows where to take them.",
+      "author": "Elisabeth Elliot",
+      "date": "2026-10-11",
+      "inactive": true,
+      "deactivatedDate": "2026-10-27"
+    },
+    {
+      "text": "Life is to be enjoyed, not endured.",
+      "author": "Gordon B. Hinckley",
+      "date": "2026-10-10",
+      "inactive": true,
+      "deactivatedDate": "2026-10-27"
     }
   ],
-  "lastRotation": "2026-10-26",
+  "lastRotation": "2026-10-27",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
