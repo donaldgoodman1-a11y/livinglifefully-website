@@ -1,6 +1,37 @@
 {
   "quotes": [
     {
+      "text": "We must accept finite disappointment, but never lose infinite hope.",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-10-29",
+      "inactive": false
+    },
+    {
+      "text": "When I do good, I feel good. When I do bad, I feel bad. That's my religion.",
+      "author": "Abraham Lincoln",
+      "date": "2026-10-29",
+      "inactive": false
+    },
+    {
+      "text": "Everything can be taken from a man but one thing: the last of the human freedoms—to choose one's attitude in any given set of circumstances.",
+      "author": "Viktor Frankl",
+      "date": "2026-10-29",
+      "inactive": false
+    },
+    {
+      "text": "Never get so busy making a living that you forget to make a life.",
+      "author": "Dolly Parton",
+      "date": "2026-10-29",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "All we have to decide is what to do with the time that is given us.",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-10-29",
+      "inactive": false
+    },
+    {
       "text": "There can be no deep disappointment where there is not deep love.",
       "author": "Martin Luther King",
       "date": "2026-10-28",
@@ -465,36 +496,6 @@
       "communitySubmission": true
     },
     {
-      "text": "When we long for life without difficulties, remember that oaks grow strong in contrary winds and diamonds are made under pressure.",
-      "author": "Peter Marshall",
-      "date": "2026-10-13",
-      "inactive": false
-    },
-    {
-      "text": "Even miracles take a little time.",
-      "author": "Fairy Godmother, Cinderella",
-      "date": "2026-10-13",
-      "inactive": false
-    },
-    {
-      "text": "The cave you fear to enter holds the treasure you seek.",
-      "author": "Joseph Campbell",
-      "date": "2026-10-13",
-      "inactive": false
-    },
-    {
-      "text": "I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live by the light that I have.",
-      "author": "Abraham Lincoln",
-      "date": "2026-10-13",
-      "inactive": false
-    },
-    {
-      "text": "Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!",
-      "author": "Dr. Seuss",
-      "date": "2026-10-12",
-      "inactive": false
-    },
-    {
       "text": "To be happy takes daily practice and daily gratitude.",
       "author": "Anonymous Reader",
       "date": "2026-04-17",
@@ -594,13 +595,6 @@
       "date": "2026-05-30",
       "inactive": true,
       "deactivatedDate": "2026-06-13"
-    },
-    {
-      "text": "When I do good, I feel good. When I do bad, I feel bad. That's my religion.",
-      "author": "Abraham Lincoln",
-      "date": "2026-06-08",
-      "inactive": true,
-      "deactivatedDate": "2026-06-22"
     },
     {
       "text": "Knowing yourself is the beginning of all wisdom.",
@@ -1312,13 +1306,6 @@
       "deactivatedDate": "2026-09-15"
     },
     {
-      "text": "Everything can be taken from a man but one thing: the last of the human freedoms—to choose one's attitude in any given set of circumstances.",
-      "author": "Viktor Frankl",
-      "date": "2026-08-29",
-      "inactive": true,
-      "deactivatedDate": "2026-09-15"
-    },
-    {
       "text": "With the new day comes new strength and new thoughts.",
       "author": "Eleanor Roosevelt",
       "date": "2026-08-29",
@@ -1328,13 +1315,6 @@
     {
       "text": "The future belongs to those who believe in the beauty of their dreams.",
       "author": "Eleanor Roosevelt",
-      "date": "2026-08-30",
-      "inactive": true,
-      "deactivatedDate": "2026-09-16"
-    },
-    {
-      "text": "All we have to decide is what to do with the time that is given us.",
-      "author": "J.R.R. Tolkien",
       "date": "2026-08-30",
       "inactive": true,
       "deactivatedDate": "2026-09-16"
@@ -1360,14 +1340,6 @@
       "inactive": true,
       "communitySubmission": true,
       "deactivatedDate": "2026-09-17"
-    },
-    {
-      "text": "Never get so busy making a living that you forget to make a life.",
-      "author": "Dolly Parton",
-      "date": "2026-09-01",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-09-18"
     },
     {
       "text": "Hold on. Hope on.",
@@ -1784,13 +1756,6 @@
     {
       "text": "Focus on the moment, not the monsters that may or may not be up ahead.",
       "author": "Ryan Holiday",
-      "date": "2026-09-21",
-      "inactive": true,
-      "deactivatedDate": "2026-10-07"
-    },
-    {
-      "text": "We must accept finite disappointment, but never lose infinite hope.",
-      "author": "Martin Luther King Jr.",
       "date": "2026-09-21",
       "inactive": true,
       "deactivatedDate": "2026-10-07"
@@ -2446,9 +2411,44 @@
       "date": "2026-10-11",
       "inactive": true,
       "deactivatedDate": "2026-10-28"
+    },
+    {
+      "text": "When we long for life without difficulties, remember that oaks grow strong in contrary winds and diamonds are made under pressure.",
+      "author": "Peter Marshall",
+      "date": "2026-10-13",
+      "inactive": true,
+      "deactivatedDate": "2026-10-29"
+    },
+    {
+      "text": "Even miracles take a little time.",
+      "author": "Fairy Godmother, Cinderella",
+      "date": "2026-10-13",
+      "inactive": true,
+      "deactivatedDate": "2026-10-29"
+    },
+    {
+      "text": "The cave you fear to enter holds the treasure you seek.",
+      "author": "Joseph Campbell",
+      "date": "2026-10-13",
+      "inactive": true,
+      "deactivatedDate": "2026-10-29"
+    },
+    {
+      "text": "I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live by the light that I have.",
+      "author": "Abraham Lincoln",
+      "date": "2026-10-13",
+      "inactive": true,
+      "deactivatedDate": "2026-10-29"
+    },
+    {
+      "text": "Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!",
+      "author": "Dr. Seuss",
+      "date": "2026-10-12",
+      "inactive": true,
+      "deactivatedDate": "2026-10-29"
     }
   ],
-  "lastRotation": "2026-10-28",
+  "lastRotation": "2026-10-29",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
