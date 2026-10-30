@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "What we think, we become.",
+      "author": "Dalai Lama",
+      "date": "2026-10-30",
+      "inactive": false
+    },
+    {
+      "text": "We suffer more often in imagination than in reality.",
+      "author": "Seneca",
+      "date": "2026-10-30",
+      "inactive": false
+    },
+    {
+      "text": "You don't have to be great to start, but you have to start to be great.",
+      "author": "Zig Ziglar",
+      "date": "2026-10-30",
+      "inactive": false
+    },
+    {
+      "text": "A pleasure is not full grown until it is remembered.",
+      "author": "C.S. Lewis",
+      "date": "2026-10-30",
+      "inactive": false
+    },
+    {
+      "text": "The impediment to action advances action. What stands in the way becomes the way.",
+      "author": "Marcus Aurelius",
+      "date": "2026-10-30",
+      "inactive": false
+    },
+    {
       "text": "We must accept finite disappointment, but never lose infinite hope.",
       "author": "Martin Luther King Jr.",
       "date": "2026-10-29",
@@ -465,37 +495,6 @@
       "inactive": false
     },
     {
-      "text": "The gospel is a message of hope and salvation for all.",
-      "author": "Henry B. Eyring",
-      "date": "2026-10-14",
-      "inactive": false
-    },
-    {
-      "text": "We can press forward with steadfastness in Christ.",
-      "author": "David A. Bednar",
-      "date": "2026-10-14",
-      "inactive": false
-    },
-    {
-      "text": "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
-      "author": "Benjamin Franklin",
-      "date": "2026-10-14",
-      "inactive": false
-    },
-    {
-      "text": "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.",
-      "author": "Antoine de Saint-Exupéry",
-      "date": "2026-10-14",
-      "inactive": false
-    },
-    {
-      "text": "Wherever you are… Be there. \nThis saying has been said in different ways, but this particular way has my personal touch on it. \nI had a plack made  for each one of my kids so that they know how important it is to be focused and in the moment.",
-      "author": "Steve LeBaron",
-      "date": "2026-10-13",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
       "text": "To be happy takes daily practice and daily gratitude.",
       "author": "Anonymous Reader",
       "date": "2026-04-17",
@@ -574,13 +573,6 @@
       "date": "2026-05-25",
       "inactive": true,
       "deactivatedDate": "2026-06-07"
-    },
-    {
-      "text": "You don't have to be great to start, but you have to start to be great.",
-      "author": "Zig Ziglar",
-      "date": "2026-05-26",
-      "inactive": true,
-      "deactivatedDate": "2026-06-08"
     },
     {
       "text": "You know you've reached middle age when you're cautioned to slow down by your doctor, instead of by the police.",
@@ -682,13 +674,6 @@
       "deactivatedDate": "2026-07-11"
     },
     {
-      "text": "We suffer more often in imagination than in reality.",
-      "author": "Seneca",
-      "date": "2026-06-27",
-      "inactive": true,
-      "deactivatedDate": "2026-07-12"
-    },
-    {
       "text": "Not all of us can do great things. But we can do small things with great love.",
       "author": "Mother Teresa",
       "date": "2026-07-01",
@@ -698,13 +683,6 @@
     {
       "text": "Every great dream begins with a dreamer.",
       "author": "Harriet Tubman",
-      "date": "2026-07-01",
-      "inactive": true,
-      "deactivatedDate": "2026-07-16"
-    },
-    {
-      "text": "The impediment to action advances action. What stands in the way becomes the way.",
-      "author": "Marcus Aurelius",
       "date": "2026-07-01",
       "inactive": true,
       "deactivatedDate": "2026-07-16"
@@ -808,13 +786,6 @@
       "date": "2026-07-12",
       "inactive": true,
       "deactivatedDate": "2026-07-27"
-    },
-    {
-      "text": "What we think, we become.",
-      "author": "Dalai Lama",
-      "date": "2026-07-13",
-      "inactive": true,
-      "deactivatedDate": "2026-07-28"
     },
     {
       "text": "Either write something worth reading or do something worth writing.",
@@ -2237,13 +2208,6 @@
       "deactivatedDate": "2026-10-23"
     },
     {
-      "text": "A pleasure is not full grown until it is remembered.",
-      "author": "C.S. Lewis",
-      "date": "2026-10-08",
-      "inactive": true,
-      "deactivatedDate": "2026-10-24"
-    },
-    {
       "text": "You do not rise to the level of your goals. You fall to the level of your systems.",
       "author": "James Clear",
       "date": "2026-10-08",
@@ -2446,9 +2410,45 @@
       "date": "2026-10-12",
       "inactive": true,
       "deactivatedDate": "2026-10-29"
+    },
+    {
+      "text": "The gospel is a message of hope and salvation for all.",
+      "author": "Henry B. Eyring",
+      "date": "2026-10-14",
+      "inactive": true,
+      "deactivatedDate": "2026-10-30"
+    },
+    {
+      "text": "We can press forward with steadfastness in Christ.",
+      "author": "David A. Bednar",
+      "date": "2026-10-14",
+      "inactive": true,
+      "deactivatedDate": "2026-10-30"
+    },
+    {
+      "text": "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
+      "author": "Benjamin Franklin",
+      "date": "2026-10-14",
+      "inactive": true,
+      "deactivatedDate": "2026-10-30"
+    },
+    {
+      "text": "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.",
+      "author": "Antoine de Saint-Exupéry",
+      "date": "2026-10-14",
+      "inactive": true,
+      "deactivatedDate": "2026-10-30"
+    },
+    {
+      "text": "Wherever you are… Be there. \nThis saying has been said in different ways, but this particular way has my personal touch on it. \nI had a plack made  for each one of my kids so that they know how important it is to be focused and in the moment.",
+      "author": "Steve LeBaron",
+      "date": "2026-10-13",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-10-30"
     }
   ],
-  "lastRotation": "2026-10-29",
+  "lastRotation": "2026-10-30",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
