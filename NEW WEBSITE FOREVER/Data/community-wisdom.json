@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living.",
+      "author": "Nelson Mandela",
+      "date": "2026-10-31",
+      "inactive": false
+    },
+    {
+      "text": "Luck is what happens when preparation meets opportunity.",
+      "author": "Seneca",
+      "date": "2026-10-31",
+      "inactive": false
+    },
+    {
+      "text": "And we know that all things work together for good to them that love God.",
+      "author": "Paul the Apostle",
+      "date": "2026-10-31",
+      "inactive": false
+    },
+    {
+      "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+      "author": "Winston Churchill",
+      "date": "2026-10-31",
+      "inactive": false
+    },
+    {
+      "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+      "author": "Zig Ziglar",
+      "date": "2026-10-31",
+      "inactive": false
+    },
+    {
       "text": "What we think, we become.",
       "author": "Dalai Lama",
       "date": "2026-10-30",
@@ -465,36 +495,6 @@
       "inactive": false
     },
     {
-      "text": "I had reasoned this out in my mind, there was one of two things I had a right to, liberty or death; if I could not have one, I would have the other.",
-      "author": "Harriet Tubman",
-      "date": "2026-10-15",
-      "inactive": false
-    },
-    {
-      "text": "Humanity must seek what is NOT simple and obvious using the simple and obvious.",
-      "author": "Musonius Rufus",
-      "date": "2026-10-15",
-      "inactive": false
-    },
-    {
-      "text": "There is no greater agony than bearing an untold story inside you.",
-      "author": "Maya Angelou",
-      "date": "2026-10-15",
-      "inactive": false
-    },
-    {
-      "text": "When we keep the commandments, the blessings come.",
-      "author": "Henry B. Eyring",
-      "date": "2026-10-15",
-      "inactive": false
-    },
-    {
-      "text": "The obstacle is the way.",
-      "author": "Ryan Holiday",
-      "date": "2026-10-14",
-      "inactive": false
-    },
-    {
       "text": "To be happy takes daily practice and daily gratitude.",
       "author": "Anonymous Reader",
       "date": "2026-04-17",
@@ -531,13 +531,6 @@
       "inactive": true,
       "communitySubmission": true,
       "deactivatedDate": "2026-05-25"
-    },
-    {
-      "text": "There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living.",
-      "author": "Nelson Mandela",
-      "date": "2026-05-15",
-      "inactive": true,
-      "deactivatedDate": "2026-05-27"
     },
     {
       "text": "They that wait upon the Lord shall renew their strength; they shall mount up with wings as eagles.",
@@ -651,13 +644,6 @@
       "date": "2026-06-21",
       "inactive": true,
       "deactivatedDate": "2026-07-06"
-    },
-    {
-      "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
-      "author": "Zig Ziglar",
-      "date": "2026-06-24",
-      "inactive": true,
-      "deactivatedDate": "2026-07-09"
     },
     {
       "text": "I am not what happened to me, I am what I choose to become.",
@@ -844,13 +830,6 @@
       "date": "2026-07-17",
       "inactive": true,
       "deactivatedDate": "2026-08-02"
-    },
-    {
-      "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
-      "author": "Winston Churchill",
-      "date": "2026-07-19",
-      "inactive": true,
-      "deactivatedDate": "2026-08-04"
     },
     {
       "text": "Be the change that you wish to see in the world.",
@@ -1214,13 +1193,6 @@
       "deactivatedDate": "2026-09-11"
     },
     {
-      "text": "And we know that all things work together for good to them that love God.",
-      "author": "Paul the Apostle",
-      "date": "2026-08-25",
-      "inactive": true,
-      "deactivatedDate": "2026-09-11"
-    },
-    {
       "text": "Joy comes not in riches, or in things, but in relationships.",
       "author": "Russell M. Nelson",
       "date": "2026-08-26",
@@ -1240,13 +1212,6 @@
       "date": "2026-08-27",
       "inactive": true,
       "deactivatedDate": "2026-09-13"
-    },
-    {
-      "text": "Luck is what happens when preparation meets opportunity.",
-      "author": "Seneca",
-      "date": "2026-08-29",
-      "inactive": true,
-      "deactivatedDate": "2026-09-14"
     },
     {
       "text": "The weak can never forgive. Forgiveness is the attribute of the strong.",
@@ -2446,9 +2411,44 @@
       "inactive": true,
       "communitySubmission": true,
       "deactivatedDate": "2026-10-30"
+    },
+    {
+      "text": "I had reasoned this out in my mind, there was one of two things I had a right to, liberty or death; if I could not have one, I would have the other.",
+      "author": "Harriet Tubman",
+      "date": "2026-10-15",
+      "inactive": true,
+      "deactivatedDate": "2026-10-31"
+    },
+    {
+      "text": "Humanity must seek what is NOT simple and obvious using the simple and obvious.",
+      "author": "Musonius Rufus",
+      "date": "2026-10-15",
+      "inactive": true,
+      "deactivatedDate": "2026-10-31"
+    },
+    {
+      "text": "There is no greater agony than bearing an untold story inside you.",
+      "author": "Maya Angelou",
+      "date": "2026-10-15",
+      "inactive": true,
+      "deactivatedDate": "2026-10-31"
+    },
+    {
+      "text": "When we keep the commandments, the blessings come.",
+      "author": "Henry B. Eyring",
+      "date": "2026-10-15",
+      "inactive": true,
+      "deactivatedDate": "2026-10-31"
+    },
+    {
+      "text": "The obstacle is the way.",
+      "author": "Ryan Holiday",
+      "date": "2026-10-14",
+      "inactive": true,
+      "deactivatedDate": "2026-10-31"
     }
   ],
-  "lastRotation": "2026-10-30",
+  "lastRotation": "2026-10-31",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
