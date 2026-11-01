@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Without a struggle, there can be no progress.",
+      "author": "Frederick Douglass",
+      "date": "2026-11-01",
+      "inactive": false
+    },
+    {
+      "text": "The best antidote I know for worry is work.",
+      "author": "Gordon B. Hinckley",
+      "date": "2026-11-01",
+      "inactive": false
+    },
+    {
+      "text": "Live in the sunshine, swim the sea, drink the wild air.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-11-01",
+      "inactive": false
+    },
+    {
+      "text": "The Lord compensates the faithful for every loss.",
+      "author": "Russell M. Nelson",
+      "date": "2026-11-01",
+      "inactive": false
+    },
+    {
+      "text": "The only person you are destined to become is the person you decide to be.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-11-01",
+      "inactive": false
+    },
+    {
       "text": "There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living.",
       "author": "Nelson Mandela",
       "date": "2026-10-31",
@@ -464,37 +494,6 @@
       "inactive": false
     },
     {
-      "text": "Sometimes things make more sense the second time around. People change, you change and the universe changes, if we keep ourselves confined to first chances only, we will truly miss out on some of the most beautiful things in life.",
-      "author": "Rania Naim",
-      "date": "2026-10-16",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "Attitude is a little thing that makes a big difference.",
-      "author": "Winston Churchill",
-      "date": "2026-10-16",
-      "inactive": false
-    },
-    {
-      "text": "The best preparation for tomorrow is doing your best today.",
-      "author": "H. Jackson Brown Jr.",
-      "date": "2026-10-16",
-      "inactive": false
-    },
-    {
-      "text": "A winner is a dreamer who never gives up.",
-      "author": "Nelson Mandela",
-      "date": "2026-10-16",
-      "inactive": false
-    },
-    {
-      "text": "Wise men speak because they have something to say; fools because they have to say something.",
-      "author": "Plato",
-      "date": "2026-10-15",
-      "inactive": false
-    },
-    {
       "text": "To be happy takes daily practice and daily gratitude.",
       "author": "Anonymous Reader",
       "date": "2026-04-17",
@@ -736,13 +735,6 @@
       "date": "2026-07-06",
       "inactive": true,
       "deactivatedDate": "2026-07-21"
-    },
-    {
-      "text": "The Lord compensates the faithful for every loss.",
-      "author": "Russell M. Nelson",
-      "date": "2026-07-07",
-      "inactive": true,
-      "deactivatedDate": "2026-07-22"
     },
     {
       "text": "Trust in the Lord with all thine heart; and lean not unto thine own understanding.",
@@ -1519,13 +1511,6 @@
       "deactivatedDate": "2026-09-29"
     },
     {
-      "text": "The only person you are destined to become is the person you decide to be.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-09-14",
-      "inactive": true,
-      "deactivatedDate": "2026-09-30"
-    },
-    {
       "text": "Don't gobblefunk around with words.",
       "author": "Roald Dahl",
       "date": "2026-09-14",
@@ -1622,13 +1607,6 @@
     {
       "text": "Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.",
       "author": "Viktor Frankl",
-      "date": "2026-09-18",
-      "inactive": true,
-      "deactivatedDate": "2026-10-04"
-    },
-    {
-      "text": "The best antidote I know for worry is work.",
-      "author": "Gordon B. Hinckley",
       "date": "2026-09-18",
       "inactive": true,
       "deactivatedDate": "2026-10-04"
@@ -1860,13 +1838,6 @@
       "date": "2026-09-27",
       "inactive": true,
       "deactivatedDate": "2026-10-13"
-    },
-    {
-      "text": "Live in the sunshine, swim the sea, drink the wild air.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-09-28",
-      "inactive": true,
-      "deactivatedDate": "2026-10-14"
     },
     {
       "text": "The impediment to action advances action. What stands in the way becomes the way.",
@@ -2194,13 +2165,6 @@
       "deactivatedDate": "2026-10-24"
     },
     {
-      "text": "Without a struggle, there can be no progress.",
-      "author": "Frederick Douglass",
-      "date": "2026-10-07",
-      "inactive": true,
-      "deactivatedDate": "2026-10-24"
-    },
-    {
       "text": "It always seems impossible until it's done.",
       "author": "Nelson Mandela",
       "date": "2026-10-09",
@@ -2446,9 +2410,45 @@
       "date": "2026-10-14",
       "inactive": true,
       "deactivatedDate": "2026-10-31"
+    },
+    {
+      "text": "Sometimes things make more sense the second time around. People change, you change and the universe changes, if we keep ourselves confined to first chances only, we will truly miss out on some of the most beautiful things in life.",
+      "author": "Rania Naim",
+      "date": "2026-10-16",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-11-01"
+    },
+    {
+      "text": "Attitude is a little thing that makes a big difference.",
+      "author": "Winston Churchill",
+      "date": "2026-10-16",
+      "inactive": true,
+      "deactivatedDate": "2026-11-01"
+    },
+    {
+      "text": "The best preparation for tomorrow is doing your best today.",
+      "author": "H. Jackson Brown Jr.",
+      "date": "2026-10-16",
+      "inactive": true,
+      "deactivatedDate": "2026-11-01"
+    },
+    {
+      "text": "A winner is a dreamer who never gives up.",
+      "author": "Nelson Mandela",
+      "date": "2026-10-16",
+      "inactive": true,
+      "deactivatedDate": "2026-11-01"
+    },
+    {
+      "text": "Wise men speak because they have something to say; fools because they have to say something.",
+      "author": "Plato",
+      "date": "2026-10-15",
+      "inactive": true,
+      "deactivatedDate": "2026-11-01"
     }
   ],
-  "lastRotation": "2026-10-31",
+  "lastRotation": "2026-11-01",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
