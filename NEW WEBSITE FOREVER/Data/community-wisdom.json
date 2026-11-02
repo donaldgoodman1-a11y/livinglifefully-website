@@ -1,6 +1,37 @@
 {
   "quotes": [
     {
+      "text": "If you are a dreamer, come in.",
+      "author": "Shel Silverstein",
+      "date": "2026-11-02",
+      "inactive": false
+    },
+    {
+      "text": "Love loves to love love.",
+      "author": "James Joyce “Ulysses”",
+      "date": "2026-11-02",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "The spiritual gift of agency, the freedom to choose, is essential to our growth.",
+      "author": "Dallin H. Oaks",
+      "date": "2026-11-02",
+      "inactive": false
+    },
+    {
+      "text": "Because you are alive, everything is possible.",
+      "author": "Thich Nhat Hanh",
+      "date": "2026-11-02",
+      "inactive": false
+    },
+    {
+      "text": "Life is either a daring adventure or nothing at all.",
+      "author": "Helen Keller",
+      "date": "2026-11-02",
+      "inactive": false
+    },
+    {
       "text": "Without a struggle, there can be no progress.",
       "author": "Frederick Douglass",
       "date": "2026-11-01",
@@ -464,36 +495,6 @@
       "inactive": false
     },
     {
-      "text": "Habits are the compound interest of self-improvement.",
-      "author": "James Clear",
-      "date": "2026-10-17",
-      "inactive": false
-    },
-    {
-      "text": "The best way to predict your future is to create it.",
-      "author": "Abraham Lincoln",
-      "date": "2026-10-17",
-      "inactive": false
-    },
-    {
-      "text": "Wherever you go, go with all your heart.",
-      "author": "Confucius",
-      "date": "2026-10-17",
-      "inactive": false
-    },
-    {
-      "text": "Peace comes from within. Do not seek it without.",
-      "author": "Thich Nhat Hanh",
-      "date": "2026-10-17",
-      "inactive": false
-    },
-    {
-      "text": "Everything has beauty, but not everyone sees it.",
-      "author": "Confucius",
-      "date": "2026-10-16",
-      "inactive": false
-    },
-    {
       "text": "To be happy takes daily practice and daily gratitude.",
       "author": "Anonymous Reader",
       "date": "2026-04-17",
@@ -607,14 +608,6 @@
       "date": "2026-06-13",
       "inactive": true,
       "deactivatedDate": "2026-06-27"
-    },
-    {
-      "text": "Love loves to love love.",
-      "author": "James Joyce “Ulysses”",
-      "date": "2026-06-14",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-06-28"
     },
     {
       "text": "The only impossible journey is the one you never begin.",
@@ -1014,13 +1007,6 @@
       "date": "2026-08-10",
       "inactive": true,
       "deactivatedDate": "2026-08-26"
-    },
-    {
-      "text": "Life is either a daring adventure or nothing at all.",
-      "author": "Helen Keller",
-      "date": "2026-08-11",
-      "inactive": true,
-      "deactivatedDate": "2026-08-27"
     },
     {
       "text": "The Lord loves effort.",
@@ -1989,13 +1975,6 @@
       "deactivatedDate": "2026-10-18"
     },
     {
-      "text": "Because you are alive, everything is possible.",
-      "author": "Thich Nhat Hanh",
-      "date": "2026-10-03",
-      "inactive": true,
-      "deactivatedDate": "2026-10-19"
-    },
-    {
       "text": "Courage starts with showing up and letting ourselves be seen.",
       "author": "Brené Brown",
       "date": "2026-10-03",
@@ -2111,13 +2090,6 @@
     {
       "text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
       "author": "Helen Keller",
-      "date": "2026-10-07",
-      "inactive": true,
-      "deactivatedDate": "2026-10-23"
-    },
-    {
-      "text": "The spiritual gift of agency, the freedom to choose, is essential to our growth.",
-      "author": "Dallin H. Oaks",
       "date": "2026-10-07",
       "inactive": true,
       "deactivatedDate": "2026-10-23"
@@ -2245,13 +2217,6 @@
     {
       "text": "Real change takes time. What matters most is that you start.",
       "author": "Russell M. Nelson",
-      "date": "2026-10-11",
-      "inactive": true,
-      "deactivatedDate": "2026-10-27"
-    },
-    {
-      "text": "If you are a dreamer, come in.",
-      "author": "Shel Silverstein",
       "date": "2026-10-11",
       "inactive": true,
       "deactivatedDate": "2026-10-27"
@@ -2446,9 +2411,44 @@
       "date": "2026-10-15",
       "inactive": true,
       "deactivatedDate": "2026-11-01"
+    },
+    {
+      "text": "Habits are the compound interest of self-improvement.",
+      "author": "James Clear",
+      "date": "2026-10-17",
+      "inactive": true,
+      "deactivatedDate": "2026-11-02"
+    },
+    {
+      "text": "The best way to predict your future is to create it.",
+      "author": "Abraham Lincoln",
+      "date": "2026-10-17",
+      "inactive": true,
+      "deactivatedDate": "2026-11-02"
+    },
+    {
+      "text": "Wherever you go, go with all your heart.",
+      "author": "Confucius",
+      "date": "2026-10-17",
+      "inactive": true,
+      "deactivatedDate": "2026-11-02"
+    },
+    {
+      "text": "Peace comes from within. Do not seek it without.",
+      "author": "Thich Nhat Hanh",
+      "date": "2026-10-17",
+      "inactive": true,
+      "deactivatedDate": "2026-11-02"
+    },
+    {
+      "text": "Everything has beauty, but not everyone sees it.",
+      "author": "Confucius",
+      "date": "2026-10-16",
+      "inactive": true,
+      "deactivatedDate": "2026-11-02"
     }
   ],
-  "lastRotation": "2026-11-01",
+  "lastRotation": "2026-11-02",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
