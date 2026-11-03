@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Life is to be enjoyed, not endured.",
+      "author": "Gordon B. Hinckley",
+      "date": "2026-11-03",
+      "inactive": false
+    },
+    {
+      "text": "We choose to be in control or choose to surrender.",
+      "author": "Ryan Holiday",
+      "date": "2026-11-03",
+      "inactive": false
+    },
+    {
+      "text": "However late you think you are, however many chances you think you have missed, you have not traveled beyond the reach of divine love.",
+      "author": "Jeffrey R. Holland",
+      "date": "2026-11-03",
+      "inactive": false
+    },
+    {
+      "text": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.",
+      "author": "J.K. Rowling",
+      "date": "2026-11-03",
+      "inactive": false
+    },
+    {
+      "text": "It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.",
+      "author": "Seneca",
+      "date": "2026-11-03",
+      "inactive": false
+    },
+    {
       "text": "If you are a dreamer, come in.",
       "author": "Shel Silverstein",
       "date": "2026-11-02",
@@ -465,36 +495,6 @@
       "inactive": false
     },
     {
-      "text": "For I know the thoughts that I think toward you, saith the Lord, thoughts of peace, and not of evil.",
-      "author": "Jeremiah",
-      "date": "2026-10-18",
-      "inactive": false
-    },
-    {
-      "text": "The secret to so many artists living so long is that every painting is a new adventure. So, you see, they're always looking ahead to something new and exciting.",
-      "author": "Norman Rockwell",
-      "date": "2026-10-18",
-      "inactive": false
-    },
-    {
-      "text": "The privilege of a lifetime is being who you are.",
-      "author": "Joseph Campbell",
-      "date": "2026-10-18",
-      "inactive": false
-    },
-    {
-      "text": "Be kind whenever possible. It is always possible.",
-      "author": "Dalai Lama",
-      "date": "2026-10-18",
-      "inactive": false
-    },
-    {
-      "text": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
-      "author": "Dr. Seuss",
-      "date": "2026-10-17",
-      "inactive": false
-    },
-    {
       "text": "To be happy takes daily practice and daily gratitude.",
       "author": "Anonymous Reader",
       "date": "2026-04-17",
@@ -587,13 +587,6 @@
       "date": "2026-06-09",
       "inactive": true,
       "deactivatedDate": "2026-06-23"
-    },
-    {
-      "text": "However late you think you are, however many chances you think you have missed, you have not traveled beyond the reach of divine love.",
-      "author": "Jeffrey R. Holland",
-      "date": "2026-06-10",
-      "inactive": true,
-      "deactivatedDate": "2026-06-24"
     },
     {
       "text": "Sometimes the questions are complicated and the answers are simple.",
@@ -1525,13 +1518,6 @@
       "deactivatedDate": "2026-10-01"
     },
     {
-      "text": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.",
-      "author": "J.K. Rowling",
-      "date": "2026-09-15",
-      "inactive": true,
-      "deactivatedDate": "2026-10-01"
-    },
-    {
       "text": "We cannot do great things on this earth, only small things with great love.",
       "author": "Mother Teresa",
       "date": "2026-09-14",
@@ -1689,13 +1675,6 @@
       "deactivatedDate": "2026-10-08"
     },
     {
-      "text": "It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.",
-      "author": "Seneca",
-      "date": "2026-09-22",
-      "inactive": true,
-      "deactivatedDate": "2026-10-08"
-    },
-    {
       "text": "The quieter you become, the more you can hear.",
       "author": "Rumi",
       "date": "2026-09-22",
@@ -1767,13 +1746,6 @@
       "date": "2026-09-24",
       "inactive": true,
       "deactivatedDate": "2026-10-11"
-    },
-    {
-      "text": "We choose to be in control or choose to surrender.",
-      "author": "Ryan Holiday",
-      "date": "2026-09-26",
-      "inactive": true,
-      "deactivatedDate": "2026-10-12"
     },
     {
       "text": "The purpose of our lives is to be happy.",
@@ -2229,13 +2201,6 @@
       "deactivatedDate": "2026-10-27"
     },
     {
-      "text": "Life is to be enjoyed, not endured.",
-      "author": "Gordon B. Hinckley",
-      "date": "2026-10-10",
-      "inactive": true,
-      "deactivatedDate": "2026-10-27"
-    },
-    {
       "text": "There is no innovation and creativity without failure. Period.",
       "author": "Brené Brown",
       "date": "2026-10-12",
@@ -2446,9 +2411,44 @@
       "date": "2026-10-16",
       "inactive": true,
       "deactivatedDate": "2026-11-02"
+    },
+    {
+      "text": "For I know the thoughts that I think toward you, saith the Lord, thoughts of peace, and not of evil.",
+      "author": "Jeremiah",
+      "date": "2026-10-18",
+      "inactive": true,
+      "deactivatedDate": "2026-11-03"
+    },
+    {
+      "text": "The secret to so many artists living so long is that every painting is a new adventure. So, you see, they're always looking ahead to something new and exciting.",
+      "author": "Norman Rockwell",
+      "date": "2026-10-18",
+      "inactive": true,
+      "deactivatedDate": "2026-11-03"
+    },
+    {
+      "text": "The privilege of a lifetime is being who you are.",
+      "author": "Joseph Campbell",
+      "date": "2026-10-18",
+      "inactive": true,
+      "deactivatedDate": "2026-11-03"
+    },
+    {
+      "text": "Be kind whenever possible. It is always possible.",
+      "author": "Dalai Lama",
+      "date": "2026-10-18",
+      "inactive": true,
+      "deactivatedDate": "2026-11-03"
+    },
+    {
+      "text": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
+      "author": "Dr. Seuss",
+      "date": "2026-10-17",
+      "inactive": true,
+      "deactivatedDate": "2026-11-03"
     }
   ],
-  "lastRotation": "2026-11-02",
+  "lastRotation": "2026-11-03",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
