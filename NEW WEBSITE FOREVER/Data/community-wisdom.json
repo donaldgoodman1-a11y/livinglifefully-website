@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "There is some good in this world, and it's worth fighting for.",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-11-04",
+      "inactive": false
+    },
+    {
+      "text": "Fear thou not; for I am with thee: be not dismayed; for I am thy God.",
+      "author": "Isaiah",
+      "date": "2026-11-04",
+      "inactive": false
+    },
+    {
+      "text": "Decisions determine destiny.",
+      "author": "Thomas S. Monson",
+      "date": "2026-11-04",
+      "inactive": false
+    },
+    {
+      "text": "Breathing in, I calm body and mind. Breathing out, I smile.",
+      "author": "Thich Nhat Hanh",
+      "date": "2026-11-04",
+      "inactive": false
+    },
+    {
+      "text": "Quick to observe means quick to act.",
+      "author": "David A. Bednar",
+      "date": "2026-11-04",
+      "inactive": false
+    },
+    {
       "text": "Life is to be enjoyed, not endured.",
       "author": "Gordon B. Hinckley",
       "date": "2026-11-03",
@@ -464,37 +494,6 @@
       "inactive": false
     },
     {
-      "text": "Because a thing seems difficult for you, do not think it impossible for anyone to accomplish.",
-      "author": "Marcus Aurelius",
-      "date": "2026-10-19",
-      "inactive": false
-    },
-    {
-      "text": "Doubt your doubts before you doubt your faith.",
-      "author": "Dieter F. Uchtdorf",
-      "date": "2026-10-19",
-      "inactive": false
-    },
-    {
-      "text": "You miss 100% of the shots you don't take.",
-      "author": "Wayne Gretzky",
-      "date": "2026-10-19",
-      "inactive": false
-    },
-    {
-      "text": "When we make our fantasies our reality they often become our nightmares.",
-      "author": "Dr Goodman",
-      "date": "2026-10-19",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "Where the head goes, the body follows. Perception precedes action.",
-      "author": "Ryan Holiday",
-      "date": "2026-10-18",
-      "inactive": false
-    },
-    {
       "text": "To be happy takes daily practice and daily gratitude.",
       "author": "Anonymous Reader",
       "date": "2026-04-17",
@@ -673,13 +672,6 @@
       "deactivatedDate": "2026-07-17"
     },
     {
-      "text": "Breathing in, I calm body and mind. Breathing out, I smile.",
-      "author": "Thich Nhat Hanh",
-      "date": "2026-07-03",
-      "inactive": true,
-      "deactivatedDate": "2026-07-18"
-    },
-    {
       "text": "He who doesn’t see God everywhere isn’t capable of seeing Him anywhere.\nKotzker Rebbe",
       "author": "Kotzker Rebbe",
       "date": "2026-07-03",
@@ -707,13 +699,6 @@
       "date": "2026-07-05",
       "inactive": true,
       "deactivatedDate": "2026-07-20"
-    },
-    {
-      "text": "Fear thou not; for I am with thee: be not dismayed; for I am thy God.",
-      "author": "Isaiah",
-      "date": "2026-07-06",
-      "inactive": true,
-      "deactivatedDate": "2026-07-21"
     },
     {
       "text": "Courage doesn't always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.'",
@@ -1842,13 +1827,6 @@
       "deactivatedDate": "2026-10-15"
     },
     {
-      "text": "Decisions determine destiny.",
-      "author": "Thomas S. Monson",
-      "date": "2026-09-29",
-      "inactive": true,
-      "deactivatedDate": "2026-10-15"
-    },
-    {
       "text": "The brick walls are there for a reason. They're not there to keep us out. The brick walls are there to give us a chance to show how badly we want something.",
       "author": "Randy Pausch",
       "date": "2026-09-29",
@@ -1914,13 +1892,6 @@
     {
       "text": "Some day you will be old enough to start reading fairy tales again.",
       "author": "C.S. Lewis",
-      "date": "2026-10-02",
-      "inactive": true,
-      "deactivatedDate": "2026-10-18"
-    },
-    {
-      "text": "Quick to observe means quick to act.",
-      "author": "David A. Bednar",
       "date": "2026-10-02",
       "inactive": true,
       "deactivatedDate": "2026-10-18"
@@ -2143,13 +2114,6 @@
       "date": "2026-10-08",
       "inactive": true,
       "deactivatedDate": "2026-10-25"
-    },
-    {
-      "text": "There is some good in this world, and it's worth fighting for.",
-      "author": "J.R.R. Tolkien",
-      "date": "2026-10-10",
-      "inactive": true,
-      "deactivatedDate": "2026-10-26"
     },
     {
       "text": "A single sunbeam is enough to drive away many shadows.",
@@ -2446,9 +2410,45 @@
       "date": "2026-10-17",
       "inactive": true,
       "deactivatedDate": "2026-11-03"
+    },
+    {
+      "text": "Because a thing seems difficult for you, do not think it impossible for anyone to accomplish.",
+      "author": "Marcus Aurelius",
+      "date": "2026-10-19",
+      "inactive": true,
+      "deactivatedDate": "2026-11-04"
+    },
+    {
+      "text": "Doubt your doubts before you doubt your faith.",
+      "author": "Dieter F. Uchtdorf",
+      "date": "2026-10-19",
+      "inactive": true,
+      "deactivatedDate": "2026-11-04"
+    },
+    {
+      "text": "You miss 100% of the shots you don't take.",
+      "author": "Wayne Gretzky",
+      "date": "2026-10-19",
+      "inactive": true,
+      "deactivatedDate": "2026-11-04"
+    },
+    {
+      "text": "When we make our fantasies our reality they often become our nightmares.",
+      "author": "Dr Goodman",
+      "date": "2026-10-19",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-11-04"
+    },
+    {
+      "text": "Where the head goes, the body follows. Perception precedes action.",
+      "author": "Ryan Holiday",
+      "date": "2026-10-18",
+      "inactive": true,
+      "deactivatedDate": "2026-11-04"
     }
   ],
-  "lastRotation": "2026-11-03",
+  "lastRotation": "2026-11-04",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
