@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "All our dreams can come true, if we have the courage to pursue them.",
+      "author": "Walt Disney",
+      "date": "2026-11-05",
+      "inactive": false
+    },
+    {
+      "text": "Walk as if you are kissing the Earth with your feet.",
+      "author": "Thich Nhat Hanh",
+      "date": "2026-11-05",
+      "inactive": false
+    },
+    {
+      "text": "The least of things with a meaning is worth more in life than the greatest of things without it.",
+      "author": "Carl Jung",
+      "date": "2026-11-05",
+      "inactive": false
+    },
+    {
+      "text": "I'm a success today because I had a friend who believed in me and I didn't have the heart to let him down.",
+      "author": "Abraham Lincoln",
+      "date": "2026-11-05",
+      "inactive": false
+    },
+    {
+      "text": "Either write something worth reading or do something worth writing.",
+      "author": "Benjamin Franklin",
+      "date": "2026-11-05",
+      "inactive": false
+    },
+    {
       "text": "There is some good in this world, and it's worth fighting for.",
       "author": "J.R.R. Tolkien",
       "date": "2026-11-04",
@@ -464,36 +494,6 @@
       "inactive": false
     },
     {
-      "text": "Waste no more time arguing about what a good man should be. Be one.",
-      "author": "Marcus Aurelius",
-      "date": "2026-10-20",
-      "inactive": false
-    },
-    {
-      "text": "The wound is the place where the Light enters you.",
-      "author": "Rumi",
-      "date": "2026-10-20",
-      "inactive": false
-    },
-    {
-      "text": "We cannot change the cards we are dealt, just how we play the hand.",
-      "author": "Randy Pausch",
-      "date": "2026-10-20",
-      "inactive": false
-    },
-    {
-      "text": "You either walk inside your story and own it or you stand outside your story and hustle for your worthiness.",
-      "author": "Brené Brown",
-      "date": "2026-10-20",
-      "inactive": false
-    },
-    {
-      "text": "You can't use up creativity. The more you use, the more you have.",
-      "author": "Maya Angelou",
-      "date": "2026-10-19",
-      "inactive": false
-    },
-    {
       "text": "To be happy takes daily practice and daily gratitude.",
       "author": "Anonymous Reader",
       "date": "2026-04-17",
@@ -593,13 +593,6 @@
       "date": "2026-06-10",
       "inactive": true,
       "deactivatedDate": "2026-06-24"
-    },
-    {
-      "text": "I'm a success today because I had a friend who believed in me and I didn't have the heart to let him down.",
-      "author": "Abraham Lincoln",
-      "date": "2026-06-13",
-      "inactive": true,
-      "deactivatedDate": "2026-06-27"
     },
     {
       "text": "The only impossible journey is the one you never begin.",
@@ -735,13 +728,6 @@
       "date": "2026-07-12",
       "inactive": true,
       "deactivatedDate": "2026-07-27"
-    },
-    {
-      "text": "Either write something worth reading or do something worth writing.",
-      "author": "Benjamin Franklin",
-      "date": "2026-07-14",
-      "inactive": true,
-      "deactivatedDate": "2026-07-29"
     },
     {
       "text": "We are to become even as He is.",
@@ -890,13 +876,6 @@
       "text": "We must be willing to let go of the life we planned so as to have the life that is waiting for us.",
       "author": "Joseph Campbell",
       "date": "2026-07-31",
-      "inactive": true,
-      "deactivatedDate": "2026-08-15"
-    },
-    {
-      "text": "Walk as if you are kissing the Earth with your feet.",
-      "author": "Thich Nhat Hanh",
-      "date": "2026-07-30",
       "inactive": true,
       "deactivatedDate": "2026-08-15"
     },
@@ -1246,13 +1225,6 @@
       "date": "2026-09-04",
       "inactive": true,
       "deactivatedDate": "2026-09-20"
-    },
-    {
-      "text": "The least of things with a meaning is worth more in life than the greatest of things without it.",
-      "author": "Carl Jung",
-      "date": "2026-09-05",
-      "inactive": true,
-      "deactivatedDate": "2026-09-21"
     },
     {
       "text": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
@@ -1830,13 +1802,6 @@
       "text": "The brick walls are there for a reason. They're not there to keep us out. The brick walls are there to give us a chance to show how badly we want something.",
       "author": "Randy Pausch",
       "date": "2026-09-29",
-      "inactive": true,
-      "deactivatedDate": "2026-10-15"
-    },
-    {
-      "text": "All our dreams can come true, if we have the courage to pursue them.",
-      "author": "Walt Disney",
-      "date": "2026-09-28",
       "inactive": true,
       "deactivatedDate": "2026-10-15"
     },
@@ -2446,9 +2411,44 @@
       "date": "2026-10-18",
       "inactive": true,
       "deactivatedDate": "2026-11-04"
+    },
+    {
+      "text": "Waste no more time arguing about what a good man should be. Be one.",
+      "author": "Marcus Aurelius",
+      "date": "2026-10-20",
+      "inactive": true,
+      "deactivatedDate": "2026-11-05"
+    },
+    {
+      "text": "The wound is the place where the Light enters you.",
+      "author": "Rumi",
+      "date": "2026-10-20",
+      "inactive": true,
+      "deactivatedDate": "2026-11-05"
+    },
+    {
+      "text": "We cannot change the cards we are dealt, just how we play the hand.",
+      "author": "Randy Pausch",
+      "date": "2026-10-20",
+      "inactive": true,
+      "deactivatedDate": "2026-11-05"
+    },
+    {
+      "text": "You either walk inside your story and own it or you stand outside your story and hustle for your worthiness.",
+      "author": "Brené Brown",
+      "date": "2026-10-20",
+      "inactive": true,
+      "deactivatedDate": "2026-11-05"
+    },
+    {
+      "text": "You can't use up creativity. The more you use, the more you have.",
+      "author": "Maya Angelou",
+      "date": "2026-10-19",
+      "inactive": true,
+      "deactivatedDate": "2026-11-05"
     }
   ],
-  "lastRotation": "2026-11-04",
+  "lastRotation": "2026-11-05",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
