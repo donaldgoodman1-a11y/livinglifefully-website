@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "You don't have to see the whole staircase, just take the first step.",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-11-06",
+      "inactive": false
+    },
+    {
+      "text": "What we insistently desire, over time, is what we will eventually become.",
+      "author": "Neal A. Maxwell",
+      "date": "2026-11-06",
+      "inactive": false
+    },
+    {
+      "text": "Go confidently in the direction of your dreams. Live the life you have imagined.",
+      "author": "Henry David Thoreau",
+      "date": "2026-11-06",
+      "inactive": false
+    },
+    {
+      "text": "No one can make you feel inferior without your consent.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-11-06",
+      "inactive": false
+    },
+    {
+      "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+      "author": "Aristotle",
+      "date": "2026-11-06",
+      "inactive": false
+    },
+    {
       "text": "All our dreams can come true, if we have the courage to pursue them.",
       "author": "Walt Disney",
       "date": "2026-11-05",
@@ -463,37 +493,6 @@
       "inactive": false
     },
     {
-      "text": "Try a little harder to be a little better.",
-      "author": "Gordon B. Hinckley",
-      "date": "2026-10-21",
-      "inactive": false
-    },
-    {
-      "text": "Write it on your heart that every day is the best day in the year.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-10-21",
-      "inactive": false
-    },
-    {
-      "text": "The present moment is the only time over which we have dominion.",
-      "author": "Thich Nhat Hanh",
-      "date": "2026-10-21",
-      "inactive": false
-    },
-    {
-      "text": "Greater the persons' stature, the more one has to make sure to humble themselves.\nRashi, Berachos 34b",
-      "author": "Rashi, Berachos 34b",
-      "date": "2026-10-21",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "There is a place where the sidewalk ends and before the street begins.",
-      "author": "Shel Silverstein",
-      "date": "2026-10-20",
-      "inactive": false
-    },
-    {
       "text": "To be happy takes daily practice and daily gratitude.",
       "author": "Anonymous Reader",
       "date": "2026-04-17",
@@ -537,13 +536,6 @@
       "date": "2026-05-16",
       "inactive": true,
       "deactivatedDate": "2026-05-29"
-    },
-    {
-      "text": "Go confidently in the direction of your dreams. Live the life you have imagined.",
-      "author": "Henry David Thoreau",
-      "date": "2026-05-18",
-      "inactive": true,
-      "deactivatedDate": "2026-05-31"
     },
     {
       "text": "Isn't it funny how day by day nothing changes, but when you look back, everything is different.",
@@ -600,13 +592,6 @@
       "date": "2026-06-18",
       "inactive": true,
       "deactivatedDate": "2026-07-02"
-    },
-    {
-      "text": "What we insistently desire, over time, is what we will eventually become.",
-      "author": "Neal A. Maxwell",
-      "date": "2026-06-19",
-      "inactive": true,
-      "deactivatedDate": "2026-07-04"
     },
     {
       "text": "Happiness can be found even in the darkest of times, if one only remembers to turn on the light.",
@@ -706,13 +691,6 @@
       "date": "2026-07-08",
       "inactive": true,
       "deactivatedDate": "2026-07-23"
-    },
-    {
-      "text": "No one can make you feel inferior without your consent.",
-      "author": "Eleanor Roosevelt",
-      "date": "2026-07-09",
-      "inactive": true,
-      "deactivatedDate": "2026-07-24"
     },
     {
       "text": "I believe in the goodness of a free society. And I believe that society can remain good only as long as we are willing to fight for it — and to fight against whatever imperfections may exist.",
@@ -920,13 +898,6 @@
       "date": "2026-08-07",
       "inactive": true,
       "deactivatedDate": "2026-08-23"
-    },
-    {
-      "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
-      "author": "Aristotle",
-      "date": "2026-08-09",
-      "inactive": true,
-      "deactivatedDate": "2026-08-24"
     },
     {
       "text": "Creativity is the power to reject the past, to change the status quo, and to seek new potential.",
@@ -1307,13 +1278,6 @@
     {
       "text": "Happiness depends upon ourselves.",
       "author": "Aristotle",
-      "date": "2026-09-08",
-      "inactive": true,
-      "deactivatedDate": "2026-09-24"
-    },
-    {
-      "text": "You don't have to see the whole staircase, just take the first step.",
-      "author": "Martin Luther King Jr.",
       "date": "2026-09-08",
       "inactive": true,
       "deactivatedDate": "2026-09-24"
@@ -2446,9 +2410,45 @@
       "date": "2026-10-19",
       "inactive": true,
       "deactivatedDate": "2026-11-05"
+    },
+    {
+      "text": "Try a little harder to be a little better.",
+      "author": "Gordon B. Hinckley",
+      "date": "2026-10-21",
+      "inactive": true,
+      "deactivatedDate": "2026-11-06"
+    },
+    {
+      "text": "Write it on your heart that every day is the best day in the year.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-10-21",
+      "inactive": true,
+      "deactivatedDate": "2026-11-06"
+    },
+    {
+      "text": "The present moment is the only time over which we have dominion.",
+      "author": "Thich Nhat Hanh",
+      "date": "2026-10-21",
+      "inactive": true,
+      "deactivatedDate": "2026-11-06"
+    },
+    {
+      "text": "Greater the persons' stature, the more one has to make sure to humble themselves.\nRashi, Berachos 34b",
+      "author": "Rashi, Berachos 34b",
+      "date": "2026-10-21",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-11-06"
+    },
+    {
+      "text": "There is a place where the sidewalk ends and before the street begins.",
+      "author": "Shel Silverstein",
+      "date": "2026-10-20",
+      "inactive": true,
+      "deactivatedDate": "2026-11-06"
     }
   ],
-  "lastRotation": "2026-11-05",
+  "lastRotation": "2026-11-06",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
