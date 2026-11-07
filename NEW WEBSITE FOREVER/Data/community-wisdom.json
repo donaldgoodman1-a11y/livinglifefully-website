@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "The Lord is my shepherd; I shall not want.",
+      "author": "King David",
+      "date": "2026-11-07",
+      "inactive": false
+    },
+    {
+      "text": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-11-07",
+      "inactive": false
+    },
+    {
+      "text": "I can't die but once.",
+      "author": "Harriet Tubman",
+      "date": "2026-11-07",
+      "inactive": false
+    },
+    {
+      "text": "Hope is being able to see that there is light despite all of the darkness.",
+      "author": "Desmond Tutu",
+      "date": "2026-11-07",
+      "inactive": false
+    },
+    {
+      "text": "Listen to the mustn'ts, child. Listen to the don'ts. Listen to the shouldn'ts, the impossibles, the won'ts. Then listen close to me... Anything can happen, child. Anything can be.",
+      "author": "Shel Silverstein",
+      "date": "2026-11-07",
+      "inactive": false
+    },
+    {
       "text": "You don't have to see the whole staircase, just take the first step.",
       "author": "Martin Luther King Jr.",
       "date": "2026-11-06",
@@ -462,37 +492,6 @@
       "inactive": false
     },
     {
-      "text": "It is only with the heart that one can see rightly; what is essential is invisible to the eye.",
-      "author": "Antoine de Saint-Exupéry",
-      "date": "2026-10-22",
-      "inactive": false
-    },
-    {
-      "text": "I am seeking, I am striving, I am in it with all my heart.",
-      "author": "Vincent Van Gogh",
-      "date": "2026-10-22",
-      "inactive": false
-    },
-    {
-      "text": "Patience is the companion of wisdom.",
-      "author": "St. Augustine of Hippo",
-      "date": "2026-10-22",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "Faith is to believe what you do not see; the reward of this faith is to see what you believe.",
-      "author": "St. Augustine",
-      "date": "2026-10-22",
-      "inactive": false
-    },
-    {
-      "text": "Let your light so shine before men.",
-      "author": "Jesus Christ",
-      "date": "2026-10-21",
-      "inactive": false
-    },
-    {
       "text": "To be happy takes daily practice and daily gratitude.",
       "author": "Anonymous Reader",
       "date": "2026-04-17",
@@ -727,13 +726,6 @@
       "date": "2026-07-15",
       "inactive": true,
       "deactivatedDate": "2026-07-30"
-    },
-    {
-      "text": "The Lord is my shepherd; I shall not want.",
-      "author": "King David",
-      "date": "2026-07-16",
-      "inactive": true,
-      "deactivatedDate": "2026-07-31"
     },
     {
       "text": "Success lies in one’s ability to learn from mistakes.",
@@ -1390,13 +1382,6 @@
       "deactivatedDate": "2026-09-28"
     },
     {
-      "text": "Hope is being able to see that there is light despite all of the darkness.",
-      "author": "Desmond Tutu",
-      "date": "2026-09-13",
-      "inactive": true,
-      "deactivatedDate": "2026-09-29"
-    },
-    {
       "text": "A soft answer turneth away wrath.",
       "author": "King Solomon",
       "date": "2026-09-13",
@@ -1697,13 +1682,6 @@
       "deactivatedDate": "2026-10-13"
     },
     {
-      "text": "I can't die but once.",
-      "author": "Harriet Tubman",
-      "date": "2026-09-27",
-      "inactive": true,
-      "deactivatedDate": "2026-10-13"
-    },
-    {
       "text": "Hugh B. Brown wrote: We ask for strength and God gives us difficulties, which makes us \nstrong. We pray for wisdom and God sends us problems, the solution of which develops \nwisdom. We plead for prosperity and God gives us brain and brawn to work. We plead \nfor courage and God gives us dangers to overcome. We ask for favors and God gives us \nopportunities. This is the answer.”",
       "author": "Hugh B Brown",
       "date": "2026-09-27",
@@ -1897,13 +1875,6 @@
       "deactivatedDate": "2026-10-20"
     },
     {
-      "text": "Listen to the mustn'ts, child. Listen to the don'ts. Listen to the shouldn'ts, the impossibles, the won'ts. Then listen close to me... Anything can happen, child. Anything can be.",
-      "author": "Shel Silverstein",
-      "date": "2026-10-05",
-      "inactive": true,
-      "deactivatedDate": "2026-10-21"
-    },
-    {
       "text": "Faith is taking the first step even when you don't see the whole staircase.",
       "author": "Martin Luther King Jr.",
       "date": "2026-10-05",
@@ -1941,13 +1912,6 @@
     {
       "text": "Thousands of candles can be lighted from a single candle. Happiness never decreases by being shared.",
       "author": "Buddha",
-      "date": "2026-10-06",
-      "inactive": true,
-      "deactivatedDate": "2026-10-22"
-    },
-    {
-      "text": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
-      "author": "Eleanor Roosevelt",
       "date": "2026-10-06",
       "inactive": true,
       "deactivatedDate": "2026-10-22"
@@ -2446,9 +2410,45 @@
       "date": "2026-10-20",
       "inactive": true,
       "deactivatedDate": "2026-11-06"
+    },
+    {
+      "text": "It is only with the heart that one can see rightly; what is essential is invisible to the eye.",
+      "author": "Antoine de Saint-Exupéry",
+      "date": "2026-10-22",
+      "inactive": true,
+      "deactivatedDate": "2026-11-07"
+    },
+    {
+      "text": "I am seeking, I am striving, I am in it with all my heart.",
+      "author": "Vincent Van Gogh",
+      "date": "2026-10-22",
+      "inactive": true,
+      "deactivatedDate": "2026-11-07"
+    },
+    {
+      "text": "Patience is the companion of wisdom.",
+      "author": "St. Augustine of Hippo",
+      "date": "2026-10-22",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-11-07"
+    },
+    {
+      "text": "Faith is to believe what you do not see; the reward of this faith is to see what you believe.",
+      "author": "St. Augustine",
+      "date": "2026-10-22",
+      "inactive": true,
+      "deactivatedDate": "2026-11-07"
+    },
+    {
+      "text": "Let your light so shine before men.",
+      "author": "Jesus Christ",
+      "date": "2026-10-21",
+      "inactive": true,
+      "deactivatedDate": "2026-11-07"
     }
   ],
-  "lastRotation": "2026-11-06",
+  "lastRotation": "2026-11-07",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
