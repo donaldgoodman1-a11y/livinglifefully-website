@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "If there is no struggle, there is no progress.",
+      "author": "Frederick Douglass",
+      "date": "2026-11-08",
+      "inactive": false
+    },
+    {
+      "text": "When it's over, I want to say: all my life I was a bride married to amazement.",
+      "author": "Mary Oliver",
+      "date": "2026-11-08",
+      "inactive": false
+    },
+    {
+      "text": "If you're going through hell, keep going.",
+      "author": "Winston Churchill",
+      "date": "2026-11-08",
+      "inactive": false
+    },
+    {
+      "text": "The way to get started is to quit talking and begin doing.",
+      "author": "Walt Disney",
+      "date": "2026-11-08",
+      "inactive": false
+    },
+    {
+      "text": "It does not matter how slowly you go as long as you do not stop.",
+      "author": "Confucius",
+      "date": "2026-11-08",
+      "inactive": false
+    },
+    {
       "text": "The Lord is my shepherd; I shall not want.",
       "author": "King David",
       "date": "2026-11-07",
@@ -459,36 +489,6 @@
       "text": "People do not decide their futures, they decide their habits and their habits decide their futures.",
       "author": "F.M. Alexander",
       "date": "2026-10-23",
-      "inactive": false
-    },
-    {
-      "text": "Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world.",
-      "author": "Desmond Tutu",
-      "date": "2026-10-23",
-      "inactive": false
-    },
-    {
-      "text": "You'll miss the best things if you keep your eyes shut.",
-      "author": "Dr. Seuss",
-      "date": "2026-10-23",
-      "inactive": false
-    },
-    {
-      "text": "How many slams in an old screen door? Depends how loud you shut it.",
-      "author": "Shel Silverstein",
-      "date": "2026-10-23",
-      "inactive": false
-    },
-    {
-      "text": "Getting old is like climbing a mountain; you get a little out of breath, but the view is much better.",
-      "author": "Ingrid Bergman",
-      "date": "2026-10-23",
-      "inactive": false
-    },
-    {
-      "text": "You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes.",
-      "author": "A.A. Milne",
-      "date": "2026-10-22",
       "inactive": false
     },
     {
@@ -992,13 +992,6 @@
       "deactivatedDate": "2026-08-31"
     },
     {
-      "text": "If you're going through hell, keep going.",
-      "author": "Winston Churchill",
-      "date": "2026-08-17",
-      "inactive": true,
-      "deactivatedDate": "2026-09-01"
-    },
-    {
       "text": "Instructions for living a life: Pay attention. Be astonished. Tell about it.",
       "author": "Mary Oliver",
       "date": "2026-08-16",
@@ -1497,13 +1490,6 @@
       "deactivatedDate": "2026-10-04"
     },
     {
-      "text": "When it's over, I want to say: all my life I was a bride married to amazement.",
-      "author": "Mary Oliver",
-      "date": "2026-09-17",
-      "inactive": true,
-      "deactivatedDate": "2026-10-04"
-    },
-    {
       "text": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you.",
       "author": "Jesus Christ",
       "date": "2026-09-19",
@@ -1555,13 +1541,6 @@
     {
       "text": "Every action you take is a vote for the type of person you wish to become.",
       "author": "James Clear",
-      "date": "2026-09-21",
-      "inactive": true,
-      "deactivatedDate": "2026-10-07"
-    },
-    {
-      "text": "The way to get started is to quit talking and begin doing.",
-      "author": "Walt Disney",
       "date": "2026-09-21",
       "inactive": true,
       "deactivatedDate": "2026-10-07"
@@ -1896,13 +1875,6 @@
       "deactivatedDate": "2026-10-21"
     },
     {
-      "text": "If there is no struggle, there is no progress.",
-      "author": "Frederick Douglass",
-      "date": "2026-10-04",
-      "inactive": true,
-      "deactivatedDate": "2026-10-21"
-    },
-    {
       "text": "And above all, watch with glittering eyes the whole world around you because the greatest secrets are always hidden in the most unlikely places.",
       "author": "Roald Dahl",
       "date": "2026-10-06",
@@ -2011,13 +1983,6 @@
     {
       "text": "A single sunbeam is enough to drive away many shadows.",
       "author": "St. Francis of Assisi",
-      "date": "2026-10-10",
-      "inactive": true,
-      "deactivatedDate": "2026-10-26"
-    },
-    {
-      "text": "It does not matter how slowly you go as long as you do not stop.",
-      "author": "Confucius",
       "date": "2026-10-10",
       "inactive": true,
       "deactivatedDate": "2026-10-26"
@@ -2446,9 +2411,44 @@
       "date": "2026-10-21",
       "inactive": true,
       "deactivatedDate": "2026-11-07"
+    },
+    {
+      "text": "Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world.",
+      "author": "Desmond Tutu",
+      "date": "2026-10-23",
+      "inactive": true,
+      "deactivatedDate": "2026-11-08"
+    },
+    {
+      "text": "You'll miss the best things if you keep your eyes shut.",
+      "author": "Dr. Seuss",
+      "date": "2026-10-23",
+      "inactive": true,
+      "deactivatedDate": "2026-11-08"
+    },
+    {
+      "text": "How many slams in an old screen door? Depends how loud you shut it.",
+      "author": "Shel Silverstein",
+      "date": "2026-10-23",
+      "inactive": true,
+      "deactivatedDate": "2026-11-08"
+    },
+    {
+      "text": "Getting old is like climbing a mountain; you get a little out of breath, but the view is much better.",
+      "author": "Ingrid Bergman",
+      "date": "2026-10-23",
+      "inactive": true,
+      "deactivatedDate": "2026-11-08"
+    },
+    {
+      "text": "You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes.",
+      "author": "A.A. Milne",
+      "date": "2026-10-22",
+      "inactive": true,
+      "deactivatedDate": "2026-11-08"
     }
   ],
-  "lastRotation": "2026-11-07",
+  "lastRotation": "2026-11-08",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
