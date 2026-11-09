@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "let GO",
+      "author": "Anonymous Reader",
+      "date": "2026-11-09",
+      "inactive": false
+    },
+    {
+      "text": "Choose faith over fear, and doubt not.",
+      "author": "David A. Bednar",
+      "date": "2026-11-09",
+      "inactive": false
+    },
+    {
+      "text": "Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.",
+      "author": "Carl Jung",
+      "date": "2026-11-09",
+      "inactive": false
+    },
+    {
+      "text": "Thousands of candles can be lighted from a single candle. Happiness never decreases by being shared.",
+      "author": "Buddha",
+      "date": "2026-11-09",
+      "inactive": false
+    },
+    {
+      "text": "No man is crushed by misfortune unless he has first been deceived by prosperity.\n-Seneca",
+      "author": "Seneca",
+      "date": "2026-11-09",
+      "inactive": false
+    },
+    {
       "text": "If there is no struggle, there is no progress.",
       "author": "Frederick Douglass",
       "date": "2026-11-08",
@@ -458,37 +488,6 @@
       "text": "Be kind, for everyone you meet is fighting a hard battle.",
       "author": "Plato",
       "date": "2026-10-24",
-      "inactive": false
-    },
-    {
-      "text": "It always helps to have people we love beside us when we have to do difficult things in life.",
-      "author": "Fred Rogers",
-      "date": "2026-10-24",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "I alone cannot change the world, but I can cast a stone across the waters to create many ripples.",
-      "author": "Mother Teresa",
-      "date": "2026-10-24",
-      "inactive": false
-    },
-    {
-      "text": "We may encounter many defeats but we must not be defeated.",
-      "author": "Maya Angelou",
-      "date": "2026-10-24",
-      "inactive": false
-    },
-    {
-      "text": "Tell me, what is it you plan to do with your one wild and precious life?",
-      "author": "Mary Oliver",
-      "date": "2026-10-24",
-      "inactive": false
-    },
-    {
-      "text": "People do not decide their futures, they decide their habits and their habits decide their futures.",
-      "author": "F.M. Alexander",
-      "date": "2026-10-23",
       "inactive": false
     },
     {
@@ -1197,13 +1196,6 @@
       "deactivatedDate": "2026-09-21"
     },
     {
-      "text": "No man is crushed by misfortune unless he has first been deceived by prosperity.\n-Seneca",
-      "author": "Seneca",
-      "date": "2026-09-04",
-      "inactive": true,
-      "deactivatedDate": "2026-09-21"
-    },
-    {
       "text": "There are far, far better things ahead than any we leave behind.",
       "author": "C.S. Lewis",
       "date": "2026-09-06",
@@ -1741,13 +1733,6 @@
       "deactivatedDate": "2026-10-16"
     },
     {
-      "text": "let GO",
-      "author": "Anonymous Reader",
-      "date": "2026-09-29",
-      "inactive": true,
-      "deactivatedDate": "2026-10-16"
-    },
-    {
       "text": "You are never too old to set another goal or to dream a new dream.",
       "author": "C.S. Lewis",
       "date": "2026-10-01",
@@ -1826,13 +1811,6 @@
       "deactivatedDate": "2026-10-19"
     },
     {
-      "text": "Choose faith over fear, and doubt not.",
-      "author": "David A. Bednar",
-      "date": "2026-10-04",
-      "inactive": true,
-      "deactivatedDate": "2026-10-20"
-    },
-    {
       "text": "The issue for us is trusting God enough to trust also His timing.",
       "author": "Neal A. Maxwell",
       "date": "2026-10-04",
@@ -1877,13 +1855,6 @@
     {
       "text": "And above all, watch with glittering eyes the whole world around you because the greatest secrets are always hidden in the most unlikely places.",
       "author": "Roald Dahl",
-      "date": "2026-10-06",
-      "inactive": true,
-      "deactivatedDate": "2026-10-22"
-    },
-    {
-      "text": "Thousands of candles can be lighted from a single candle. Happiness never decreases by being shared.",
-      "author": "Buddha",
       "date": "2026-10-06",
       "inactive": true,
       "deactivatedDate": "2026-10-22"
@@ -2047,13 +2018,6 @@
       "text": "Intelligence plus character—that is the goal of true education.",
       "author": "Martin Luther King Jr.",
       "date": "2026-10-12",
-      "inactive": true,
-      "deactivatedDate": "2026-10-28"
-    },
-    {
-      "text": "Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.",
-      "author": "Carl Jung",
-      "date": "2026-10-11",
       "inactive": true,
       "deactivatedDate": "2026-10-28"
     },
@@ -2446,9 +2410,45 @@
       "date": "2026-10-22",
       "inactive": true,
       "deactivatedDate": "2026-11-08"
+    },
+    {
+      "text": "It always helps to have people we love beside us when we have to do difficult things in life.",
+      "author": "Fred Rogers",
+      "date": "2026-10-24",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-11-09"
+    },
+    {
+      "text": "I alone cannot change the world, but I can cast a stone across the waters to create many ripples.",
+      "author": "Mother Teresa",
+      "date": "2026-10-24",
+      "inactive": true,
+      "deactivatedDate": "2026-11-09"
+    },
+    {
+      "text": "We may encounter many defeats but we must not be defeated.",
+      "author": "Maya Angelou",
+      "date": "2026-10-24",
+      "inactive": true,
+      "deactivatedDate": "2026-11-09"
+    },
+    {
+      "text": "Tell me, what is it you plan to do with your one wild and precious life?",
+      "author": "Mary Oliver",
+      "date": "2026-10-24",
+      "inactive": true,
+      "deactivatedDate": "2026-11-09"
+    },
+    {
+      "text": "People do not decide their futures, they decide their habits and their habits decide their futures.",
+      "author": "F.M. Alexander",
+      "date": "2026-10-23",
+      "inactive": true,
+      "deactivatedDate": "2026-11-09"
     }
   ],
-  "lastRotation": "2026-11-08",
+  "lastRotation": "2026-11-09",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
