@@ -1,6 +1,37 @@
 {
   "quotes": [
     {
+      "text": "The most effective way to change your behavior is to focus not on what you want to achieve, but on who you wish to become.",
+      "author": "James Clear",
+      "date": "2026-11-12",
+      "inactive": false
+    },
+    {
+      "text": "When we long for life without difficulties, remember that oaks grow strong in contrary winds and diamonds are made under pressure.",
+      "author": "Peter Marshall",
+      "date": "2026-11-12",
+      "inactive": false
+    },
+    {
+      "text": "They that wait upon the Lord shall renew their strength; they shall mount up with wings as eagles.",
+      "author": "Isaiah",
+      "date": "2026-11-12",
+      "inactive": false
+    },
+    {
+      "text": "Never wound a snake; kill it.",
+      "author": "Harriet Tubman",
+      "date": "2026-11-12",
+      "inactive": false
+    },
+    {
+      "text": "Science is not only compatible with spirituality; it is a profound source of spirituality.",
+      "author": "Carl Sagan",
+      "date": "2026-11-12",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
       "text": "As life brings moments that feel too heavy to bear, place your trust in Christ. The burden may remain, but through the Atonement, it no longer rests on you alone.",
       "author": "Natalie LeBaron",
       "date": "2026-11-11",
@@ -463,36 +494,6 @@
       "inactive": false
     },
     {
-      "text": "Those who have a 'why' to live, can bear with almost any 'how'.",
-      "author": "Viktor Frankl",
-      "date": "2026-10-27",
-      "inactive": false
-    },
-    {
-      "text": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
-      "author": "Marcus Aurelius",
-      "date": "2026-10-27",
-      "inactive": false
-    },
-    {
-      "text": "If they merit redemption through Teshuva and Mitzvos, I will hasten the coming of the Moshiach.",
-      "author": "Sanhedrin",
-      "date": "2026-10-27",
-      "inactive": false
-    },
-    {
-      "text": "The more that you read, the more things you will know. The more that you learn, the more places you'll go.",
-      "author": "Dr. Seuss",
-      "date": "2026-10-27",
-      "inactive": false
-    },
-    {
-      "text": "People often say that motivation doesn't last. Well, neither does bathing—that's why we recommend it daily.",
-      "author": "Zig Ziglar",
-      "date": "2026-10-26",
-      "inactive": false
-    },
-    {
       "text": "To be happy takes daily practice and daily gratitude.",
       "author": "Anonymous Reader",
       "date": "2026-04-17",
@@ -522,13 +523,6 @@
       "inactive": true,
       "communitySubmission": true,
       "deactivatedDate": "2026-05-25"
-    },
-    {
-      "text": "They that wait upon the Lord shall renew their strength; they shall mount up with wings as eagles.",
-      "author": "Isaiah",
-      "date": "2026-05-16",
-      "inactive": true,
-      "deactivatedDate": "2026-05-29"
     },
     {
       "text": "Isn't it funny how day by day nothing changes, but when you look back, everything is different.",
@@ -592,13 +586,6 @@
       "date": "2026-06-20",
       "inactive": true,
       "deactivatedDate": "2026-07-05"
-    },
-    {
-      "text": "Never wound a snake; kill it.",
-      "author": "Harriet Tubman",
-      "date": "2026-06-21",
-      "inactive": true,
-      "deactivatedDate": "2026-07-06"
     },
     {
       "text": "I am not what happened to me, I am what I choose to become.",
@@ -750,13 +737,6 @@
       "date": "2026-07-20",
       "inactive": true,
       "deactivatedDate": "2026-08-05"
-    },
-    {
-      "text": "The most effective way to change your behavior is to focus not on what you want to achieve, but on who you wish to become.",
-      "author": "James Clear",
-      "date": "2026-07-21",
-      "inactive": true,
-      "deactivatedDate": "2026-08-06"
     },
     {
       "text": "To pay attention, this is our endless and proper work.",
@@ -1390,14 +1370,6 @@
       "deactivatedDate": "2026-10-01"
     },
     {
-      "text": "Science is not only compatible with spirituality; it is a profound source of spirituality.",
-      "author": "Carl Sagan",
-      "date": "2026-09-15",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-10-02"
-    },
-    {
       "text": "Unless someone like you cares a whole awful lot, nothing is going to get better. It's not.",
       "author": "Dr. Seuss",
       "date": "2026-09-17",
@@ -1966,13 +1938,6 @@
       "deactivatedDate": "2026-10-28"
     },
     {
-      "text": "When we long for life without difficulties, remember that oaks grow strong in contrary winds and diamonds are made under pressure.",
-      "author": "Peter Marshall",
-      "date": "2026-10-13",
-      "inactive": true,
-      "deactivatedDate": "2026-10-29"
-    },
-    {
       "text": "Even miracles take a little time.",
       "author": "Fairy Godmother, Cinderella",
       "date": "2026-10-13",
@@ -2446,9 +2411,44 @@
       "date": "2026-10-25",
       "inactive": true,
       "deactivatedDate": "2026-11-11"
+    },
+    {
+      "text": "Those who have a 'why' to live, can bear with almost any 'how'.",
+      "author": "Viktor Frankl",
+      "date": "2026-10-27",
+      "inactive": true,
+      "deactivatedDate": "2026-11-12"
+    },
+    {
+      "text": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
+      "author": "Marcus Aurelius",
+      "date": "2026-10-27",
+      "inactive": true,
+      "deactivatedDate": "2026-11-12"
+    },
+    {
+      "text": "If they merit redemption through Teshuva and Mitzvos, I will hasten the coming of the Moshiach.",
+      "author": "Sanhedrin",
+      "date": "2026-10-27",
+      "inactive": true,
+      "deactivatedDate": "2026-11-12"
+    },
+    {
+      "text": "The more that you read, the more things you will know. The more that you learn, the more places you'll go.",
+      "author": "Dr. Seuss",
+      "date": "2026-10-27",
+      "inactive": true,
+      "deactivatedDate": "2026-11-12"
+    },
+    {
+      "text": "People often say that motivation doesn't last. Well, neither does bathing—that's why we recommend it daily.",
+      "author": "Zig Ziglar",
+      "date": "2026-10-26",
+      "inactive": true,
+      "deactivatedDate": "2026-11-12"
     }
   ],
-  "lastRotation": "2026-11-11",
+  "lastRotation": "2026-11-12",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
