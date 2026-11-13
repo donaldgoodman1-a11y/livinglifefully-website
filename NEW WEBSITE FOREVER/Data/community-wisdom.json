@@ -1,6 +1,39 @@
 {
   "quotes": [
     {
+      "text": "Patience is the companion of wisdom.",
+      "author": "St. Augustine of Hippo",
+      "date": "2026-11-13",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "In the middle of difficulty lies opportunity.",
+      "author": "Albert Einstein",
+      "date": "2026-11-13",
+      "inactive": false
+    },
+    {
+      "text": "You can't heal the people you love. You can't make choices for them. You can't rescue \nthem. You can promise that they won't journey alone. You can loan them your map. But \nthis trip is theirs. By Laura Jean Truman",
+      "author": "Laura Jean Truman",
+      "date": "2026-11-13",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "In three words I can sum up everything I've learned about life: it goes on.",
+      "author": "Robert Frost",
+      "date": "2026-11-13",
+      "inactive": false
+    },
+    {
+      "text": "The proper function of man is to live, not to exist. I shall not waste my days in trying to \nprolong them. I shall use my time…",
+      "author": "Jack London",
+      "date": "2026-11-13",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
       "text": "The most effective way to change your behavior is to focus not on what you want to achieve, but on who you wish to become.",
       "author": "James Clear",
       "date": "2026-11-12",
@@ -463,37 +496,6 @@
       "communitySubmission": true
     },
     {
-      "text": "It is better to light a candle than curse the darkness.",
-      "author": "Eleanor Roosevelt",
-      "date": "2026-10-28",
-      "inactive": false
-    },
-    {
-      "text": "We do not need magic to transform our world. We carry all the power we need inside ourselves already.",
-      "author": "J.K. Rowling",
-      "date": "2026-10-28",
-      "inactive": false
-    },
-    {
-      "text": "It's not what happens to you, but how you react to it that matters.",
-      "author": "Epictetus",
-      "date": "2026-10-28",
-      "inactive": false
-    },
-    {
-      "text": "Press your lips together, and don’t be in a hurry to answer.",
-      "author": "The Talmud: Avodah Zarah 35 a",
-      "date": "2026-10-28",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest.",
-      "author": "Jesus Christ",
-      "date": "2026-10-27",
-      "inactive": false
-    },
-    {
       "text": "To be happy takes daily practice and daily gratitude.",
       "author": "Anonymous Reader",
       "date": "2026-04-17",
@@ -527,13 +529,6 @@
     {
       "text": "Isn't it funny how day by day nothing changes, but when you look back, everything is different.",
       "author": "C.S. Lewis",
-      "date": "2026-05-20",
-      "inactive": true,
-      "deactivatedDate": "2026-06-02"
-    },
-    {
-      "text": "In three words I can sum up everything I've learned about life: it goes on.",
-      "author": "Robert Frost",
       "date": "2026-05-20",
       "inactive": true,
       "deactivatedDate": "2026-06-02"
@@ -1512,14 +1507,6 @@
       "deactivatedDate": "2026-10-09"
     },
     {
-      "text": "The proper function of man is to live, not to exist. I shall not waste my days in trying to \nprolong them. I shall use my time…",
-      "author": "Jack London",
-      "date": "2026-09-22",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-10-09"
-    },
-    {
       "text": "Courage is not simply one of the virtues, but the form of every virtue at the testing point.",
       "author": "C.S. Lewis",
       "date": "2026-09-24",
@@ -1610,14 +1597,6 @@
       "author": "Ryan Holiday",
       "date": "2026-09-28",
       "inactive": true,
-      "deactivatedDate": "2026-10-14"
-    },
-    {
-      "text": "You can't heal the people you love. You can't make choices for them. You can't rescue \nthem. You can promise that they won't journey alone. You can loan them your map. But \nthis trip is theirs. By Laura Jean Truman",
-      "author": "Laura Jean Truman",
-      "date": "2026-09-28",
-      "inactive": true,
-      "communitySubmission": true,
       "deactivatedDate": "2026-10-14"
     },
     {
@@ -2250,14 +2229,6 @@
       "deactivatedDate": "2026-11-07"
     },
     {
-      "text": "Patience is the companion of wisdom.",
-      "author": "St. Augustine of Hippo",
-      "date": "2026-10-22",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-11-07"
-    },
-    {
       "text": "Faith is to believe what you do not see; the reward of this faith is to see what you believe.",
       "author": "St. Augustine",
       "date": "2026-10-22",
@@ -2364,13 +2335,6 @@
       "deactivatedDate": "2026-11-10"
     },
     {
-      "text": "In the middle of difficulty lies opportunity.",
-      "author": "Albert Einstein",
-      "date": "2026-10-25",
-      "inactive": true,
-      "deactivatedDate": "2026-11-10"
-    },
-    {
       "text": "Be kind, for everyone you meet is fighting a hard battle.",
       "author": "Plato",
       "date": "2026-10-24",
@@ -2446,9 +2410,45 @@
       "date": "2026-10-26",
       "inactive": true,
       "deactivatedDate": "2026-11-12"
+    },
+    {
+      "text": "It is better to light a candle than curse the darkness.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-10-28",
+      "inactive": true,
+      "deactivatedDate": "2026-11-13"
+    },
+    {
+      "text": "We do not need magic to transform our world. We carry all the power we need inside ourselves already.",
+      "author": "J.K. Rowling",
+      "date": "2026-10-28",
+      "inactive": true,
+      "deactivatedDate": "2026-11-13"
+    },
+    {
+      "text": "It's not what happens to you, but how you react to it that matters.",
+      "author": "Epictetus",
+      "date": "2026-10-28",
+      "inactive": true,
+      "deactivatedDate": "2026-11-13"
+    },
+    {
+      "text": "Press your lips together, and don’t be in a hurry to answer.",
+      "author": "The Talmud: Avodah Zarah 35 a",
+      "date": "2026-10-28",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-11-13"
+    },
+    {
+      "text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest.",
+      "author": "Jesus Christ",
+      "date": "2026-10-27",
+      "inactive": true,
+      "deactivatedDate": "2026-11-13"
     }
   ],
-  "lastRotation": "2026-11-12",
+  "lastRotation": "2026-11-13",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
