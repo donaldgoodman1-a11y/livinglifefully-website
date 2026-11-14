@@ -1,6 +1,37 @@
 {
   "quotes": [
     {
+      "text": "Lift where you stand.",
+      "author": "Dieter F. Uchtdorf",
+      "date": "2026-11-14",
+      "inactive": false
+    },
+    {
+      "text": "Three things cannot be long hidden: the sun, the moon, and the truth.",
+      "author": "Buddha",
+      "date": "2026-11-14",
+      "inactive": false
+    },
+    {
+      "text": "Grasshopper: if you want control you must let go of control",
+      "author": "Kung fu",
+      "date": "2026-11-14",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "Good inspiration is based on good information.",
+      "author": "Russell M. Nelson",
+      "date": "2026-11-14",
+      "inactive": false
+    },
+    {
+      "text": "It is during our darkest moments that we must focus to see the light.",
+      "author": "Aristotle",
+      "date": "2026-11-14",
+      "inactive": false
+    },
+    {
       "text": "Patience is the companion of wisdom.",
       "author": "St. Augustine of Hippo",
       "date": "2026-11-13",
@@ -464,38 +495,6 @@
       "inactive": false
     },
     {
-      "text": "When I do good, I feel good. When I do bad, I feel bad. That's my religion.",
-      "author": "Abraham Lincoln",
-      "date": "2026-10-29",
-      "inactive": false
-    },
-    {
-      "text": "Everything can be taken from a man but one thing: the last of the human freedoms—to choose one's attitude in any given set of circumstances.",
-      "author": "Viktor Frankl",
-      "date": "2026-10-29",
-      "inactive": false
-    },
-    {
-      "text": "Never get so busy making a living that you forget to make a life.",
-      "author": "Dolly Parton",
-      "date": "2026-10-29",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "All we have to decide is what to do with the time that is given us.",
-      "author": "J.R.R. Tolkien",
-      "date": "2026-10-29",
-      "inactive": false
-    },
-    {
-      "text": "There can be no deep disappointment where there is not deep love.",
-      "author": "Martin Luther King",
-      "date": "2026-10-28",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
       "text": "To be happy takes daily practice and daily gratitude.",
       "author": "Anonymous Reader",
       "date": "2026-04-17",
@@ -748,13 +747,6 @@
       "deactivatedDate": "2026-08-07"
     },
     {
-      "text": "It is during our darkest moments that we must focus to see the light.",
-      "author": "Aristotle",
-      "date": "2026-07-23",
-      "inactive": true,
-      "deactivatedDate": "2026-08-08"
-    },
-    {
       "text": "If you judge people, you have no time to love them.",
       "author": "Mother Teresa",
       "date": "2026-07-24",
@@ -831,13 +823,6 @@
       "date": "2026-08-04",
       "inactive": true,
       "deactivatedDate": "2026-08-20"
-    },
-    {
-      "text": "Three things cannot be long hidden: the sun, the moon, and the truth.",
-      "author": "Buddha",
-      "date": "2026-08-05",
-      "inactive": true,
-      "deactivatedDate": "2026-08-21"
     },
     {
       "text": "The gathering of Israel is the most important thing taking place on earth today.",
@@ -1109,26 +1094,11 @@
       "deactivatedDate": "2026-09-17"
     },
     {
-      "text": "Grasshopper: if you want control you must let go of control",
-      "author": "Kung fu",
-      "date": "2026-08-31",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-09-17"
-    },
-    {
       "text": "Hold on. Hope on.",
       "author": "Jeffrey R. Holland",
       "date": "2026-09-03",
       "inactive": true,
       "deactivatedDate": "2026-09-19"
-    },
-    {
-      "text": "Good inspiration is based on good information.",
-      "author": "Russell M. Nelson",
-      "date": "2026-09-04",
-      "inactive": true,
-      "deactivatedDate": "2026-09-20"
     },
     {
       "text": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
@@ -2342,13 +2312,6 @@
       "deactivatedDate": "2026-11-10"
     },
     {
-      "text": "Lift where you stand.",
-      "author": "Dieter F. Uchtdorf",
-      "date": "2026-10-26",
-      "inactive": true,
-      "deactivatedDate": "2026-11-11"
-    },
-    {
       "text": "Imagination is more important than knowledge.",
       "author": "Albert Einstein",
       "date": "2026-10-26",
@@ -2446,9 +2409,46 @@
       "date": "2026-10-27",
       "inactive": true,
       "deactivatedDate": "2026-11-13"
+    },
+    {
+      "text": "When I do good, I feel good. When I do bad, I feel bad. That's my religion.",
+      "author": "Abraham Lincoln",
+      "date": "2026-10-29",
+      "inactive": true,
+      "deactivatedDate": "2026-11-14"
+    },
+    {
+      "text": "Everything can be taken from a man but one thing: the last of the human freedoms—to choose one's attitude in any given set of circumstances.",
+      "author": "Viktor Frankl",
+      "date": "2026-10-29",
+      "inactive": true,
+      "deactivatedDate": "2026-11-14"
+    },
+    {
+      "text": "Never get so busy making a living that you forget to make a life.",
+      "author": "Dolly Parton",
+      "date": "2026-10-29",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-11-14"
+    },
+    {
+      "text": "All we have to decide is what to do with the time that is given us.",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-10-29",
+      "inactive": true,
+      "deactivatedDate": "2026-11-14"
+    },
+    {
+      "text": "There can be no deep disappointment where there is not deep love.",
+      "author": "Martin Luther King",
+      "date": "2026-10-28",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-11-14"
     }
   ],
-  "lastRotation": "2026-11-13",
+  "lastRotation": "2026-11-14",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
