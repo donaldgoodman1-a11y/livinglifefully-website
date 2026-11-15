@@ -1,6 +1,37 @@
 {
   "quotes": [
     {
+      "text": "You'll miss the best things if you keep your eyes shut.",
+      "author": "Dr. Seuss",
+      "date": "2026-11-15",
+      "inactive": false
+    },
+    {
+      "text": "The past is behind, learn from it. The future is ahead, prepare for it. The present is here, live it.",
+      "author": "Thomas S. Monson",
+      "date": "2026-11-15",
+      "inactive": false
+    },
+    {
+      "text": "Let your light so shine before men.",
+      "author": "Jesus Christ",
+      "date": "2026-11-15",
+      "inactive": false
+    },
+    {
+      "text": "Better to get on the bike and fall then never to get on the bike at all.",
+      "author": "Dr Goodman",
+      "date": "2026-11-15",
+      "inactive": false
+    },
+    {
+      "text": "A successful marriage requires falling in love many times, always with the same person.",
+      "author": "Mignon McLaughlin",
+      "date": "2026-11-15",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
       "text": "Lift where you stand.",
       "author": "Dieter F. Uchtdorf",
       "date": "2026-11-14",
@@ -465,36 +496,6 @@
       "inactive": false
     },
     {
-      "text": "We suffer more often in imagination than in reality.",
-      "author": "Seneca",
-      "date": "2026-10-30",
-      "inactive": false
-    },
-    {
-      "text": "You don't have to be great to start, but you have to start to be great.",
-      "author": "Zig Ziglar",
-      "date": "2026-10-30",
-      "inactive": false
-    },
-    {
-      "text": "A pleasure is not full grown until it is remembered.",
-      "author": "C.S. Lewis",
-      "date": "2026-10-30",
-      "inactive": false
-    },
-    {
-      "text": "The impediment to action advances action. What stands in the way becomes the way.",
-      "author": "Marcus Aurelius",
-      "date": "2026-10-30",
-      "inactive": false
-    },
-    {
-      "text": "We must accept finite disappointment, but never lose infinite hope.",
-      "author": "Martin Luther King Jr.",
-      "date": "2026-10-29",
-      "inactive": false
-    },
-    {
       "text": "To be happy takes daily practice and daily gratitude.",
       "author": "Anonymous Reader",
       "date": "2026-04-17",
@@ -932,13 +933,6 @@
       "deactivatedDate": "2026-09-01"
     },
     {
-      "text": "The past is behind, learn from it. The future is ahead, prepare for it. The present is here, live it.",
-      "author": "Thomas S. Monson",
-      "date": "2026-08-18",
-      "inactive": true,
-      "deactivatedDate": "2026-09-03"
-    },
-    {
       "text": "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.",
       "author": "Rumi",
       "date": "2026-08-18",
@@ -1363,14 +1357,6 @@
       "deactivatedDate": "2026-10-03"
     },
     {
-      "text": "A successful marriage requires falling in love many times, always with the same person.",
-      "author": "Mignon McLaughlin",
-      "date": "2026-09-18",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-10-04"
-    },
-    {
       "text": "Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.",
       "author": "Viktor Frankl",
       "date": "2026-09-18",
@@ -1657,13 +1643,6 @@
     {
       "text": "It is your reaction to adversity, not the adversity itself, that determines how your life's story will develop.",
       "author": "Dieter F. Uchtdorf",
-      "date": "2026-10-02",
-      "inactive": true,
-      "deactivatedDate": "2026-10-18"
-    },
-    {
-      "text": "Better to get on the bike and fall then never to get on the bike at all.",
-      "author": "Dr Goodman",
       "date": "2026-10-02",
       "inactive": true,
       "deactivatedDate": "2026-10-18"
@@ -2206,22 +2185,8 @@
       "deactivatedDate": "2026-11-07"
     },
     {
-      "text": "Let your light so shine before men.",
-      "author": "Jesus Christ",
-      "date": "2026-10-21",
-      "inactive": true,
-      "deactivatedDate": "2026-11-07"
-    },
-    {
       "text": "Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world.",
       "author": "Desmond Tutu",
-      "date": "2026-10-23",
-      "inactive": true,
-      "deactivatedDate": "2026-11-08"
-    },
-    {
-      "text": "You'll miss the best things if you keep your eyes shut.",
-      "author": "Dr. Seuss",
       "date": "2026-10-23",
       "inactive": true,
       "deactivatedDate": "2026-11-08"
@@ -2446,9 +2411,44 @@
       "inactive": true,
       "communitySubmission": true,
       "deactivatedDate": "2026-11-14"
+    },
+    {
+      "text": "We suffer more often in imagination than in reality.",
+      "author": "Seneca",
+      "date": "2026-10-30",
+      "inactive": true,
+      "deactivatedDate": "2026-11-15"
+    },
+    {
+      "text": "You don't have to be great to start, but you have to start to be great.",
+      "author": "Zig Ziglar",
+      "date": "2026-10-30",
+      "inactive": true,
+      "deactivatedDate": "2026-11-15"
+    },
+    {
+      "text": "A pleasure is not full grown until it is remembered.",
+      "author": "C.S. Lewis",
+      "date": "2026-10-30",
+      "inactive": true,
+      "deactivatedDate": "2026-11-15"
+    },
+    {
+      "text": "The impediment to action advances action. What stands in the way becomes the way.",
+      "author": "Marcus Aurelius",
+      "date": "2026-10-30",
+      "inactive": true,
+      "deactivatedDate": "2026-11-15"
+    },
+    {
+      "text": "We must accept finite disappointment, but never lose infinite hope.",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-10-29",
+      "inactive": true,
+      "deactivatedDate": "2026-11-15"
     }
   ],
-  "lastRotation": "2026-11-14",
+  "lastRotation": "2026-11-15",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
