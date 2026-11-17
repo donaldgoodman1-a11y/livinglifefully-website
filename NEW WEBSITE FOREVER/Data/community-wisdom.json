@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Integrity is doing the right thing even when no one is watching.",
+      "author": "C.S. Lewis",
+      "date": "2026-11-17",
+      "inactive": false
+    },
+    {
+      "text": "You either walk inside your story and own it or you stand outside your story and hustle for your worthiness.",
+      "author": "Brené Brown",
+      "date": "2026-11-17",
+      "inactive": false
+    },
+    {
+      "text": "The wound is the place where the Light enters you.",
+      "author": "Rumi",
+      "date": "2026-11-17",
+      "inactive": false
+    },
+    {
+      "text": "Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world.",
+      "author": "Desmond Tutu",
+      "date": "2026-11-17",
+      "inactive": false
+    },
+    {
+      "text": "There is no innovation and creativity without failure. Period.",
+      "author": "Brené Brown",
+      "date": "2026-11-17",
+      "inactive": false
+    },
+    {
       "text": "Waste no more time arguing about what a good man should be. Be one.",
       "author": "Marcus Aurelius",
       "date": "2026-11-16",
@@ -464,36 +494,6 @@
       "text": "Without a struggle, there can be no progress.",
       "author": "Frederick Douglass",
       "date": "2026-11-01",
-      "inactive": false
-    },
-    {
-      "text": "The best antidote I know for worry is work.",
-      "author": "Gordon B. Hinckley",
-      "date": "2026-11-01",
-      "inactive": false
-    },
-    {
-      "text": "Live in the sunshine, swim the sea, drink the wild air.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-11-01",
-      "inactive": false
-    },
-    {
-      "text": "The Lord compensates the faithful for every loss.",
-      "author": "Russell M. Nelson",
-      "date": "2026-11-01",
-      "inactive": false
-    },
-    {
-      "text": "The only person you are destined to become is the person you decide to be.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-11-01",
-      "inactive": false
-    },
-    {
-      "text": "There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living.",
-      "author": "Nelson Mandela",
-      "date": "2026-10-31",
       "inactive": false
     },
     {
@@ -1810,20 +1810,6 @@
       "deactivatedDate": "2026-10-27"
     },
     {
-      "text": "There is no innovation and creativity without failure. Period.",
-      "author": "Brené Brown",
-      "date": "2026-10-12",
-      "inactive": true,
-      "deactivatedDate": "2026-10-28"
-    },
-    {
-      "text": "Integrity is doing the right thing even when no one is watching.",
-      "author": "C.S. Lewis",
-      "date": "2026-10-12",
-      "inactive": true,
-      "deactivatedDate": "2026-10-28"
-    },
-    {
       "text": "Don’t make a project out of yourself. \nMove outside yourself.",
       "author": "Dr Goodman",
       "date": "2026-10-12",
@@ -2072,22 +2058,8 @@
       "deactivatedDate": "2026-11-04"
     },
     {
-      "text": "The wound is the place where the Light enters you.",
-      "author": "Rumi",
-      "date": "2026-10-20",
-      "inactive": true,
-      "deactivatedDate": "2026-11-05"
-    },
-    {
       "text": "We cannot change the cards we are dealt, just how we play the hand.",
       "author": "Randy Pausch",
-      "date": "2026-10-20",
-      "inactive": true,
-      "deactivatedDate": "2026-11-05"
-    },
-    {
-      "text": "You either walk inside your story and own it or you stand outside your story and hustle for your worthiness.",
-      "author": "Brené Brown",
       "date": "2026-10-20",
       "inactive": true,
       "deactivatedDate": "2026-11-05"
@@ -2148,13 +2120,6 @@
       "date": "2026-10-22",
       "inactive": true,
       "deactivatedDate": "2026-11-07"
-    },
-    {
-      "text": "Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world.",
-      "author": "Desmond Tutu",
-      "date": "2026-10-23",
-      "inactive": true,
-      "deactivatedDate": "2026-11-08"
     },
     {
       "text": "How many slams in an old screen door? Depends how loud you shut it.",
@@ -2446,9 +2411,44 @@
       "date": "2026-10-30",
       "inactive": true,
       "deactivatedDate": "2026-11-16"
+    },
+    {
+      "text": "The best antidote I know for worry is work.",
+      "author": "Gordon B. Hinckley",
+      "date": "2026-11-01",
+      "inactive": true,
+      "deactivatedDate": "2026-11-17"
+    },
+    {
+      "text": "Live in the sunshine, swim the sea, drink the wild air.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-11-01",
+      "inactive": true,
+      "deactivatedDate": "2026-11-17"
+    },
+    {
+      "text": "The Lord compensates the faithful for every loss.",
+      "author": "Russell M. Nelson",
+      "date": "2026-11-01",
+      "inactive": true,
+      "deactivatedDate": "2026-11-17"
+    },
+    {
+      "text": "The only person you are destined to become is the person you decide to be.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-11-01",
+      "inactive": true,
+      "deactivatedDate": "2026-11-17"
+    },
+    {
+      "text": "There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living.",
+      "author": "Nelson Mandela",
+      "date": "2026-10-31",
+      "inactive": true,
+      "deactivatedDate": "2026-11-17"
     }
   ],
-  "lastRotation": "2026-11-16",
+  "lastRotation": "2026-11-17",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
