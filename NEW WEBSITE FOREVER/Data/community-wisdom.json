@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Intelligence plus character—that is the goal of true education.",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-11-18",
+      "inactive": false
+    },
+    {
+      "text": "The only impossible journey is the one you never begin.",
+      "author": "Tony Robbins",
+      "date": "2026-11-18",
+      "inactive": false
+    },
+    {
+      "text": "Each child brings his own blessing into the world.",
+      "author": "Talmud",
+      "date": "2026-11-18",
+      "inactive": false
+    },
+    {
+      "text": "Nothing can dim the light which shines from within.",
+      "author": "Maya Angelou",
+      "date": "2026-11-18",
+      "inactive": false
+    },
+    {
+      "text": "If you have good thoughts they will shine out of your face like sunbeams and you will always look lovely.",
+      "author": "Roald Dahl",
+      "date": "2026-11-18",
+      "inactive": false
+    },
+    {
       "text": "Integrity is doing the right thing even when no one is watching.",
       "author": "C.S. Lewis",
       "date": "2026-11-17",
@@ -466,37 +496,6 @@
       "inactive": false
     },
     {
-      "text": "Love loves to love love.",
-      "author": "James Joyce “Ulysses”",
-      "date": "2026-11-02",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "The spiritual gift of agency, the freedom to choose, is essential to our growth.",
-      "author": "Dallin H. Oaks",
-      "date": "2026-11-02",
-      "inactive": false
-    },
-    {
-      "text": "Because you are alive, everything is possible.",
-      "author": "Thich Nhat Hanh",
-      "date": "2026-11-02",
-      "inactive": false
-    },
-    {
-      "text": "Life is either a daring adventure or nothing at all.",
-      "author": "Helen Keller",
-      "date": "2026-11-02",
-      "inactive": false
-    },
-    {
-      "text": "Without a struggle, there can be no progress.",
-      "author": "Frederick Douglass",
-      "date": "2026-11-01",
-      "inactive": false
-    },
-    {
       "text": "To be happy takes daily practice and daily gratitude.",
       "author": "Anonymous Reader",
       "date": "2026-04-17",
@@ -549,13 +548,6 @@
       "deactivatedDate": "2026-06-12"
     },
     {
-      "text": "Nothing can dim the light which shines from within.",
-      "author": "Maya Angelou",
-      "date": "2026-05-30",
-      "inactive": true,
-      "deactivatedDate": "2026-06-13"
-    },
-    {
       "text": "Knowing yourself is the beginning of all wisdom.",
       "author": "Aristotle",
       "date": "2026-06-09",
@@ -568,13 +560,6 @@
       "date": "2026-06-10",
       "inactive": true,
       "deactivatedDate": "2026-06-24"
-    },
-    {
-      "text": "The only impossible journey is the one you never begin.",
-      "author": "Tony Robbins",
-      "date": "2026-06-18",
-      "inactive": true,
-      "deactivatedDate": "2026-07-02"
     },
     {
       "text": "Happiness can be found even in the darkest of times, if one only remembers to turn on the light.",
@@ -639,13 +624,6 @@
       "date": "2026-07-04",
       "inactive": true,
       "deactivatedDate": "2026-07-19"
-    },
-    {
-      "text": "Each child brings his own blessing into the world.",
-      "author": "Talmud",
-      "date": "2026-07-05",
-      "inactive": true,
-      "deactivatedDate": "2026-07-20"
     },
     {
       "text": "I would unite with anybody to do right and with nobody to do wrong.",
@@ -1266,13 +1244,6 @@
       "deactivatedDate": "2026-09-29"
     },
     {
-      "text": "If you have good thoughts they will shine out of your face like sunbeams and you will always look lovely.",
-      "author": "Roald Dahl",
-      "date": "2026-09-12",
-      "inactive": true,
-      "deactivatedDate": "2026-09-29"
-    },
-    {
       "text": "Don't gobblefunk around with words.",
       "author": "Roald Dahl",
       "date": "2026-09-14",
@@ -1812,13 +1783,6 @@
     {
       "text": "Don’t make a project out of yourself. \nMove outside yourself.",
       "author": "Dr Goodman",
-      "date": "2026-10-12",
-      "inactive": true,
-      "deactivatedDate": "2026-10-28"
-    },
-    {
-      "text": "Intelligence plus character—that is the goal of true education.",
-      "author": "Martin Luther King Jr.",
       "date": "2026-10-12",
       "inactive": true,
       "deactivatedDate": "2026-10-28"
@@ -2446,9 +2410,45 @@
       "date": "2026-10-31",
       "inactive": true,
       "deactivatedDate": "2026-11-17"
+    },
+    {
+      "text": "Love loves to love love.",
+      "author": "James Joyce “Ulysses”",
+      "date": "2026-11-02",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-11-18"
+    },
+    {
+      "text": "The spiritual gift of agency, the freedom to choose, is essential to our growth.",
+      "author": "Dallin H. Oaks",
+      "date": "2026-11-02",
+      "inactive": true,
+      "deactivatedDate": "2026-11-18"
+    },
+    {
+      "text": "Because you are alive, everything is possible.",
+      "author": "Thich Nhat Hanh",
+      "date": "2026-11-02",
+      "inactive": true,
+      "deactivatedDate": "2026-11-18"
+    },
+    {
+      "text": "Life is either a daring adventure or nothing at all.",
+      "author": "Helen Keller",
+      "date": "2026-11-02",
+      "inactive": true,
+      "deactivatedDate": "2026-11-18"
+    },
+    {
+      "text": "Without a struggle, there can be no progress.",
+      "author": "Frederick Douglass",
+      "date": "2026-11-01",
+      "inactive": true,
+      "deactivatedDate": "2026-11-18"
     }
   ],
-  "lastRotation": "2026-11-17",
+  "lastRotation": "2026-11-18",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
