@@ -1,6 +1,37 @@
 {
   "quotes": [
     {
+      "text": "Opposition is part of the divine plan.",
+      "author": "Dallin H. Oaks",
+      "date": "2026-11-19",
+      "inactive": false
+    },
+    {
+      "text": "Life is a performance: don’t focus on the mistakes.",
+      "author": "Dr Goodman",
+      "date": "2026-11-19",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "Desire is the father of action.",
+      "author": "Dallin H. Oaks",
+      "date": "2026-11-19",
+      "inactive": false
+    },
+    {
+      "text": "You do not rise to the level of your goals. You fall to the level of your systems.",
+      "author": "James Clear",
+      "date": "2026-11-19",
+      "inactive": false
+    },
+    {
+      "text": "Education is the most powerful weapon which you can use to change the world.",
+      "author": "Nelson Mandela",
+      "date": "2026-11-19",
+      "inactive": false
+    },
+    {
       "text": "Intelligence plus character—that is the goal of true education.",
       "author": "Martin Luther King Jr.",
       "date": "2026-11-18",
@@ -463,36 +494,6 @@
       "text": "Life is to be enjoyed, not endured.",
       "author": "Gordon B. Hinckley",
       "date": "2026-11-03",
-      "inactive": false
-    },
-    {
-      "text": "We choose to be in control or choose to surrender.",
-      "author": "Ryan Holiday",
-      "date": "2026-11-03",
-      "inactive": false
-    },
-    {
-      "text": "However late you think you are, however many chances you think you have missed, you have not traveled beyond the reach of divine love.",
-      "author": "Jeffrey R. Holland",
-      "date": "2026-11-03",
-      "inactive": false
-    },
-    {
-      "text": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.",
-      "author": "J.K. Rowling",
-      "date": "2026-11-03",
-      "inactive": false
-    },
-    {
-      "text": "It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.",
-      "author": "Seneca",
-      "date": "2026-11-03",
-      "inactive": false
-    },
-    {
-      "text": "If you are a dreamer, come in.",
-      "author": "Shel Silverstein",
-      "date": "2026-11-02",
       "inactive": false
     },
     {
@@ -1506,14 +1507,6 @@
       "deactivatedDate": "2026-10-14"
     },
     {
-      "text": "Life is a performance: don’t focus on the mistakes.",
-      "author": "Dr Goodman",
-      "date": "2026-09-27",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-10-14"
-    },
-    {
       "text": "Knowing your own darkness is the best method for dealing with the darknesses of other people.",
       "author": "Carl Jung",
       "date": "2026-09-29",
@@ -1558,13 +1551,6 @@
     {
       "text": "Well done is better than well said.",
       "author": "Benjamin Franklin",
-      "date": "2026-10-01",
-      "inactive": true,
-      "deactivatedDate": "2026-10-17"
-    },
-    {
-      "text": "Opposition is part of the divine plan.",
-      "author": "Dallin H. Oaks",
       "date": "2026-10-01",
       "inactive": true,
       "deactivatedDate": "2026-10-17"
@@ -1640,13 +1626,6 @@
       "deactivatedDate": "2026-10-21"
     },
     {
-      "text": "Desire is the father of action.",
-      "author": "Dallin H. Oaks",
-      "date": "2026-10-05",
-      "inactive": true,
-      "deactivatedDate": "2026-10-21"
-    },
-    {
       "text": "Energy and persistence conquer all things.",
       "author": "Benjamin Franklin",
       "date": "2026-10-05",
@@ -1696,13 +1675,6 @@
       "deactivatedDate": "2026-10-23"
     },
     {
-      "text": "You do not rise to the level of your goals. You fall to the level of your systems.",
-      "author": "James Clear",
-      "date": "2026-10-08",
-      "inactive": true,
-      "deactivatedDate": "2026-10-24"
-    },
-    {
       "text": "Fantasy is hardly an escape from reality. It's a way of understanding it.",
       "author": "Lloyd Alexander",
       "date": "2026-10-08",
@@ -1748,13 +1720,6 @@
     {
       "text": "A single sunbeam is enough to drive away many shadows.",
       "author": "St. Francis of Assisi",
-      "date": "2026-10-10",
-      "inactive": true,
-      "deactivatedDate": "2026-10-26"
-    },
-    {
-      "text": "Education is the most powerful weapon which you can use to change the world.",
-      "author": "Nelson Mandela",
       "date": "2026-10-10",
       "inactive": true,
       "deactivatedDate": "2026-10-26"
@@ -2446,9 +2411,44 @@
       "date": "2026-11-01",
       "inactive": true,
       "deactivatedDate": "2026-11-18"
+    },
+    {
+      "text": "We choose to be in control or choose to surrender.",
+      "author": "Ryan Holiday",
+      "date": "2026-11-03",
+      "inactive": true,
+      "deactivatedDate": "2026-11-19"
+    },
+    {
+      "text": "However late you think you are, however many chances you think you have missed, you have not traveled beyond the reach of divine love.",
+      "author": "Jeffrey R. Holland",
+      "date": "2026-11-03",
+      "inactive": true,
+      "deactivatedDate": "2026-11-19"
+    },
+    {
+      "text": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.",
+      "author": "J.K. Rowling",
+      "date": "2026-11-03",
+      "inactive": true,
+      "deactivatedDate": "2026-11-19"
+    },
+    {
+      "text": "It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.",
+      "author": "Seneca",
+      "date": "2026-11-03",
+      "inactive": true,
+      "deactivatedDate": "2026-11-19"
+    },
+    {
+      "text": "If you are a dreamer, come in.",
+      "author": "Shel Silverstein",
+      "date": "2026-11-02",
+      "inactive": true,
+      "deactivatedDate": "2026-11-19"
     }
   ],
-  "lastRotation": "2026-11-18",
+  "lastRotation": "2026-11-19",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
