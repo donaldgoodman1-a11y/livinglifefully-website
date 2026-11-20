@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "I learned that courage was not the absence of fear, but the triumph over it.",
+      "author": "Nelson Mandela",
+      "date": "2026-11-20",
+      "inactive": false
+    },
+    {
+      "text": "The time is always right to do what is right.",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-11-20",
+      "inactive": false
+    },
+    {
+      "text": "Life's most persistent and urgent question is, 'What are you doing for others?'",
+      "author": "Martin Luther King Jr.",
+      "date": "2026-11-20",
+      "inactive": false
+    },
+    {
+      "text": "Knowing your own darkness is the best method for dealing with the darknesses of other people.",
+      "author": "Carl Jung",
+      "date": "2026-11-20",
+      "inactive": false
+    },
+    {
+      "text": "Not all of us can do great things. But we can do small things with great love.",
+      "author": "Mother Teresa",
+      "date": "2026-11-20",
+      "inactive": false
+    },
+    {
       "text": "Opposition is part of the divine plan.",
       "author": "Dallin H. Oaks",
       "date": "2026-11-19",
@@ -467,36 +497,6 @@
       "inactive": false
     },
     {
-      "text": "Fear thou not; for I am with thee: be not dismayed; for I am thy God.",
-      "author": "Isaiah",
-      "date": "2026-11-04",
-      "inactive": false
-    },
-    {
-      "text": "Decisions determine destiny.",
-      "author": "Thomas S. Monson",
-      "date": "2026-11-04",
-      "inactive": false
-    },
-    {
-      "text": "Breathing in, I calm body and mind. Breathing out, I smile.",
-      "author": "Thich Nhat Hanh",
-      "date": "2026-11-04",
-      "inactive": false
-    },
-    {
-      "text": "Quick to observe means quick to act.",
-      "author": "David A. Bednar",
-      "date": "2026-11-04",
-      "inactive": false
-    },
-    {
-      "text": "Life is to be enjoyed, not endured.",
-      "author": "Gordon B. Hinckley",
-      "date": "2026-11-03",
-      "inactive": false
-    },
-    {
       "text": "To be happy takes daily practice and daily gratitude.",
       "author": "Anonymous Reader",
       "date": "2026-04-17",
@@ -533,13 +533,6 @@
       "date": "2026-05-20",
       "inactive": true,
       "deactivatedDate": "2026-06-02"
-    },
-    {
-      "text": "Life's most persistent and urgent question is, 'What are you doing for others?'",
-      "author": "Martin Luther King Jr.",
-      "date": "2026-05-25",
-      "inactive": true,
-      "deactivatedDate": "2026-06-07"
     },
     {
       "text": "You know you've reached middle age when you're cautioned to slow down by your doctor, instead of by the police.",
@@ -582,13 +575,6 @@
       "date": "2026-06-26",
       "inactive": true,
       "deactivatedDate": "2026-07-11"
-    },
-    {
-      "text": "Not all of us can do great things. But we can do small things with great love.",
-      "author": "Mother Teresa",
-      "date": "2026-07-01",
-      "inactive": true,
-      "deactivatedDate": "2026-07-15"
     },
     {
       "text": "Every great dream begins with a dreamer.",
@@ -1103,13 +1089,6 @@
       "deactivatedDate": "2026-09-22"
     },
     {
-      "text": "I learned that courage was not the absence of fear, but the triumph over it.",
-      "author": "Nelson Mandela",
-      "date": "2026-09-06",
-      "inactive": true,
-      "deactivatedDate": "2026-09-22"
-    },
-    {
       "text": "A hero is someone who has given his or her life to something bigger than oneself.",
       "author": "Joseph Campbell",
       "date": "2026-09-06",
@@ -1505,13 +1484,6 @@
       "date": "2026-09-28",
       "inactive": true,
       "deactivatedDate": "2026-10-14"
-    },
-    {
-      "text": "Knowing your own darkness is the best method for dealing with the darknesses of other people.",
-      "author": "Carl Jung",
-      "date": "2026-09-29",
-      "inactive": true,
-      "deactivatedDate": "2026-10-15"
     },
     {
       "text": "You're off to great places! Today is your day! Your mountain is waiting, so get on your way!",
@@ -2143,13 +2115,6 @@
       "deactivatedDate": "2026-11-11"
     },
     {
-      "text": "The time is always right to do what is right.",
-      "author": "Martin Luther King Jr.",
-      "date": "2026-10-26",
-      "inactive": true,
-      "deactivatedDate": "2026-11-11"
-    },
-    {
       "text": "I feel that there is nothing more truly artistic than to love people.",
       "author": "Vincent Van Gogh",
       "date": "2026-10-26",
@@ -2446,9 +2411,44 @@
       "date": "2026-11-02",
       "inactive": true,
       "deactivatedDate": "2026-11-19"
+    },
+    {
+      "text": "Fear thou not; for I am with thee: be not dismayed; for I am thy God.",
+      "author": "Isaiah",
+      "date": "2026-11-04",
+      "inactive": true,
+      "deactivatedDate": "2026-11-20"
+    },
+    {
+      "text": "Decisions determine destiny.",
+      "author": "Thomas S. Monson",
+      "date": "2026-11-04",
+      "inactive": true,
+      "deactivatedDate": "2026-11-20"
+    },
+    {
+      "text": "Breathing in, I calm body and mind. Breathing out, I smile.",
+      "author": "Thich Nhat Hanh",
+      "date": "2026-11-04",
+      "inactive": true,
+      "deactivatedDate": "2026-11-20"
+    },
+    {
+      "text": "Quick to observe means quick to act.",
+      "author": "David A. Bednar",
+      "date": "2026-11-04",
+      "inactive": true,
+      "deactivatedDate": "2026-11-20"
+    },
+    {
+      "text": "Life is to be enjoyed, not endured.",
+      "author": "Gordon B. Hinckley",
+      "date": "2026-11-03",
+      "inactive": true,
+      "deactivatedDate": "2026-11-20"
     }
   ],
-  "lastRotation": "2026-11-19",
+  "lastRotation": "2026-11-20",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
