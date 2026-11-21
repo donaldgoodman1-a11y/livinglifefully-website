@@ -1,6 +1,39 @@
 {
   "quotes": [
     {
+      "text": "Hugh B. Brown wrote: We ask for strength and God gives us difficulties, which makes us \nstrong. We pray for wisdom and God sends us problems, the solution of which develops \nwisdom. We plead for prosperity and God gives us brain and brawn to work. We plead \nfor courage and God gives us dangers to overcome. We ask for favors and God gives us \nopportunities. This is the answer.”",
+      "author": "Hugh B Brown",
+      "date": "2026-11-21",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "Walk as if you are kissing the Earth with your feet.",
+      "author": "Thich Nhat Hanh",
+      "date": "2026-11-21",
+      "inactive": false
+    },
+    {
+      "text": "There is something you must remember. You are braver than you believe, stronger than you seem, and smarter than you think. But the most important thing is, even if we’re apart, I’ll always be with you.",
+      "author": "Christopher Robin",
+      "date": "2026-11-21",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "Wise men speak because they have something to say; fools because they have to say something.",
+      "author": "Plato",
+      "date": "2026-11-21",
+      "inactive": false
+    },
+    {
+      "text": "He who doesn’t see God everywhere isn’t capable of seeing Him anywhere.\nKotzker Rebbe",
+      "author": "Kotzker Rebbe",
+      "date": "2026-11-21",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
       "text": "I learned that courage was not the absence of fear, but the triumph over it.",
       "author": "Nelson Mandela",
       "date": "2026-11-20",
@@ -467,36 +500,6 @@
       "inactive": false
     },
     {
-      "text": "Walk as if you are kissing the Earth with your feet.",
-      "author": "Thich Nhat Hanh",
-      "date": "2026-11-05",
-      "inactive": false
-    },
-    {
-      "text": "The least of things with a meaning is worth more in life than the greatest of things without it.",
-      "author": "Carl Jung",
-      "date": "2026-11-05",
-      "inactive": false
-    },
-    {
-      "text": "I'm a success today because I had a friend who believed in me and I didn't have the heart to let him down.",
-      "author": "Abraham Lincoln",
-      "date": "2026-11-05",
-      "inactive": false
-    },
-    {
-      "text": "Either write something worth reading or do something worth writing.",
-      "author": "Benjamin Franklin",
-      "date": "2026-11-05",
-      "inactive": false
-    },
-    {
-      "text": "There is some good in this world, and it's worth fighting for.",
-      "author": "J.R.R. Tolkien",
-      "date": "2026-11-04",
-      "inactive": false
-    },
-    {
       "text": "To be happy takes daily practice and daily gratitude.",
       "author": "Anonymous Reader",
       "date": "2026-04-17",
@@ -518,14 +521,6 @@
       "inactive": true,
       "communitySubmission": true,
       "deactivatedDate": "2026-05-22"
-    },
-    {
-      "text": "There is something you must remember. You are braver than you believe, stronger than you seem, and smarter than you think. But the most important thing is, even if we’re apart, I’ll always be with you.",
-      "author": "Christopher Robin",
-      "date": "2026-05-12",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-05-25"
     },
     {
       "text": "Isn't it funny how day by day nothing changes, but when you look back, everything is different.",
@@ -596,14 +591,6 @@
       "date": "2026-07-02",
       "inactive": true,
       "deactivatedDate": "2026-07-17"
-    },
-    {
-      "text": "He who doesn’t see God everywhere isn’t capable of seeing Him anywhere.\nKotzker Rebbe",
-      "author": "Kotzker Rebbe",
-      "date": "2026-07-03",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-07-18"
     },
     {
       "text": "Peace comes from within. Do not seek it without.",
@@ -1457,14 +1444,6 @@
       "deactivatedDate": "2026-10-13"
     },
     {
-      "text": "Hugh B. Brown wrote: We ask for strength and God gives us difficulties, which makes us \nstrong. We pray for wisdom and God sends us problems, the solution of which develops \nwisdom. We plead for prosperity and God gives us brain and brawn to work. We plead \nfor courage and God gives us dangers to overcome. We ask for favors and God gives us \nopportunities. This is the answer.”",
-      "author": "Hugh B Brown",
-      "date": "2026-09-27",
-      "inactive": true,
-      "communitySubmission": true,
-      "deactivatedDate": "2026-10-13"
-    },
-    {
       "text": "A goal without a plan is just a wish.",
       "author": "Antoine de Saint-Exupéry",
       "date": "2026-09-27",
@@ -1849,13 +1828,6 @@
       "text": "A winner is a dreamer who never gives up.",
       "author": "Nelson Mandela",
       "date": "2026-10-16",
-      "inactive": true,
-      "deactivatedDate": "2026-11-01"
-    },
-    {
-      "text": "Wise men speak because they have something to say; fools because they have to say something.",
-      "author": "Plato",
-      "date": "2026-10-15",
       "inactive": true,
       "deactivatedDate": "2026-11-01"
     },
@@ -2446,9 +2418,37 @@
       "date": "2026-11-03",
       "inactive": true,
       "deactivatedDate": "2026-11-20"
+    },
+    {
+      "text": "The least of things with a meaning is worth more in life than the greatest of things without it.",
+      "author": "Carl Jung",
+      "date": "2026-11-05",
+      "inactive": true,
+      "deactivatedDate": "2026-11-21"
+    },
+    {
+      "text": "I'm a success today because I had a friend who believed in me and I didn't have the heart to let him down.",
+      "author": "Abraham Lincoln",
+      "date": "2026-11-05",
+      "inactive": true,
+      "deactivatedDate": "2026-11-21"
+    },
+    {
+      "text": "Either write something worth reading or do something worth writing.",
+      "author": "Benjamin Franklin",
+      "date": "2026-11-05",
+      "inactive": true,
+      "deactivatedDate": "2026-11-21"
+    },
+    {
+      "text": "There is some good in this world, and it's worth fighting for.",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-11-04",
+      "inactive": true,
+      "deactivatedDate": "2026-11-21"
     }
   ],
-  "lastRotation": "2026-11-20",
+  "lastRotation": "2026-11-21",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
