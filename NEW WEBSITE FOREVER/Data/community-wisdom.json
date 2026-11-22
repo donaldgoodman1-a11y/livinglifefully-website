@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live by the light that I have.",
+      "author": "Abraham Lincoln",
+      "date": "2026-11-22",
+      "inactive": false
+    },
+    {
+      "text": "A small act is worth a million thoughts.",
+      "author": "Ai Weiwei",
+      "date": "2026-11-22",
+      "inactive": false
+    },
+    {
+      "text": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-11-22",
+      "inactive": false
+    },
+    {
+      "text": "Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.",
+      "author": "Brené Brown",
+      "date": "2026-11-22",
+      "inactive": false
+    },
+    {
+      "text": "A little nonsense now and then is relished by the wisest men.",
+      "author": "Roald Dahl",
+      "date": "2026-11-22",
+      "inactive": false
+    },
+    {
       "text": "Hugh B. Brown wrote: We ask for strength and God gives us difficulties, which makes us \nstrong. We pray for wisdom and God sends us problems, the solution of which develops \nwisdom. We plead for prosperity and God gives us brain and brawn to work. We plead \nfor courage and God gives us dangers to overcome. We ask for favors and God gives us \nopportunities. This is the answer.”",
       "author": "Hugh B Brown",
       "date": "2026-11-21",
@@ -470,36 +500,6 @@
       "inactive": false
     },
     {
-      "text": "What we insistently desire, over time, is what we will eventually become.",
-      "author": "Neal A. Maxwell",
-      "date": "2026-11-06",
-      "inactive": false
-    },
-    {
-      "text": "Go confidently in the direction of your dreams. Live the life you have imagined.",
-      "author": "Henry David Thoreau",
-      "date": "2026-11-06",
-      "inactive": false
-    },
-    {
-      "text": "No one can make you feel inferior without your consent.",
-      "author": "Eleanor Roosevelt",
-      "date": "2026-11-06",
-      "inactive": false
-    },
-    {
-      "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
-      "author": "Aristotle",
-      "date": "2026-11-06",
-      "inactive": false
-    },
-    {
-      "text": "All our dreams can come true, if we have the courage to pursue them.",
-      "author": "Walt Disney",
-      "date": "2026-11-05",
-      "inactive": false
-    },
-    {
       "text": "To be happy takes daily practice and daily gratitude.",
       "author": "Anonymous Reader",
       "date": "2026-04-17",
@@ -772,13 +772,6 @@
       "deactivatedDate": "2026-08-18"
     },
     {
-      "text": "Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.",
-      "author": "Brené Brown",
-      "date": "2026-08-04",
-      "inactive": true,
-      "deactivatedDate": "2026-08-20"
-    },
-    {
       "text": "The gathering of Israel is the most important thing taking place on earth today.",
       "author": "Russell M. Nelson",
       "date": "2026-08-06",
@@ -999,13 +992,6 @@
       "deactivatedDate": "2026-09-14"
     },
     {
-      "text": "A small act is worth a million thoughts.",
-      "author": "Ai Weiwei",
-      "date": "2026-08-28",
-      "inactive": true,
-      "deactivatedDate": "2026-09-14"
-    },
-    {
       "text": "In the end, it's not the years in your life that count. It's the life in your years.",
       "author": "Abraham Lincoln",
       "date": "2026-08-29",
@@ -1083,13 +1069,6 @@
       "deactivatedDate": "2026-09-22"
     },
     {
-      "text": "A little nonsense now and then is relished by the wisest men.",
-      "author": "Roald Dahl",
-      "date": "2026-09-05",
-      "inactive": true,
-      "deactivatedDate": "2026-09-22"
-    },
-    {
       "text": "Draw a crazy picture, Write a nutty poem, Sing a mumble-gumble song, Whistle through your comb.",
       "author": "Shel Silverstein",
       "date": "2026-09-07",
@@ -1142,13 +1121,6 @@
     {
       "text": "To pull a friend out of the mire, don’t hesitate to get dirty.\nBaal Shem",
       "author": "Baal Shem Tov",
-      "date": "2026-09-09",
-      "inactive": true,
-      "deactivatedDate": "2026-09-25"
-    },
-    {
-      "text": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
-      "author": "Ralph Waldo Emerson",
       "date": "2026-09-09",
       "inactive": true,
       "deactivatedDate": "2026-09-25"
@@ -1713,13 +1685,6 @@
     {
       "text": "The cave you fear to enter holds the treasure you seek.",
       "author": "Joseph Campbell",
-      "date": "2026-10-13",
-      "inactive": true,
-      "deactivatedDate": "2026-10-29"
-    },
-    {
-      "text": "I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live by the light that I have.",
-      "author": "Abraham Lincoln",
       "date": "2026-10-13",
       "inactive": true,
       "deactivatedDate": "2026-10-29"
@@ -2446,9 +2411,44 @@
       "date": "2026-11-04",
       "inactive": true,
       "deactivatedDate": "2026-11-21"
+    },
+    {
+      "text": "What we insistently desire, over time, is what we will eventually become.",
+      "author": "Neal A. Maxwell",
+      "date": "2026-11-06",
+      "inactive": true,
+      "deactivatedDate": "2026-11-22"
+    },
+    {
+      "text": "Go confidently in the direction of your dreams. Live the life you have imagined.",
+      "author": "Henry David Thoreau",
+      "date": "2026-11-06",
+      "inactive": true,
+      "deactivatedDate": "2026-11-22"
+    },
+    {
+      "text": "No one can make you feel inferior without your consent.",
+      "author": "Eleanor Roosevelt",
+      "date": "2026-11-06",
+      "inactive": true,
+      "deactivatedDate": "2026-11-22"
+    },
+    {
+      "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+      "author": "Aristotle",
+      "date": "2026-11-06",
+      "inactive": true,
+      "deactivatedDate": "2026-11-22"
+    },
+    {
+      "text": "All our dreams can come true, if we have the courage to pursue them.",
+      "author": "Walt Disney",
+      "date": "2026-11-05",
+      "inactive": true,
+      "deactivatedDate": "2026-11-22"
     }
   ],
-  "lastRotation": "2026-11-21",
+  "lastRotation": "2026-11-22",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
