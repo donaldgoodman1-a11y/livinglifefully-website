@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Listen to the mustn'ts, child. Listen to the don'ts. Listen to the shouldn'ts, the impossibles, the won'ts. Then listen close to me... Anything can happen, child. Anything can be.",
+      "author": "Shel Silverstein",
+      "date": "2026-11-24",
+      "inactive": false
+    },
+    {
+      "text": "And we know that all things work together for good to them that love God.",
+      "author": "Paul the Apostle",
+      "date": "2026-11-24",
+      "inactive": false
+    },
+    {
+      "text": "People often say that motivation doesn't last. Well, neither does bathing—that's why we recommend it daily.",
+      "author": "Zig Ziglar",
+      "date": "2026-11-24",
+      "inactive": false
+    },
+    {
+      "text": "Start by doing what's necessary; then do what's possible; and suddenly you are doing the impossible.",
+      "author": "St. Francis of Assisi",
+      "date": "2026-11-24",
+      "inactive": false
+    },
+    {
+      "text": "It's kind of fun to do the impossible.",
+      "author": "Walt Disney",
+      "date": "2026-11-24",
+      "inactive": false
+    },
+    {
       "text": "Sometimes the future changes quickly and completely, and we’re left with only the choice of what to do next. We can choose to be afraid of it. Just stand there trembling, not moving, assuming the worst that can happen. Or we step forward into the unknown, and assume it will be brilliant.\nDr. Cristina Yang (Sandra Oh) in “Grey’s Anatomy”",
       "author": "Anonymous Reader",
       "date": "2026-11-23",
@@ -468,36 +498,6 @@
       "text": "If there is no struggle, there is no progress.",
       "author": "Frederick Douglass",
       "date": "2026-11-08",
-      "inactive": false
-    },
-    {
-      "text": "When it's over, I want to say: all my life I was a bride married to amazement.",
-      "author": "Mary Oliver",
-      "date": "2026-11-08",
-      "inactive": false
-    },
-    {
-      "text": "If you're going through hell, keep going.",
-      "author": "Winston Churchill",
-      "date": "2026-11-08",
-      "inactive": false
-    },
-    {
-      "text": "The way to get started is to quit talking and begin doing.",
-      "author": "Walt Disney",
-      "date": "2026-11-08",
-      "inactive": false
-    },
-    {
-      "text": "It does not matter how slowly you go as long as you do not stop.",
-      "author": "Confucius",
-      "date": "2026-11-08",
-      "inactive": false
-    },
-    {
-      "text": "The Lord is my shepherd; I shall not want.",
-      "author": "King David",
-      "date": "2026-11-07",
       "inactive": false
     },
     {
@@ -1430,13 +1430,6 @@
       "deactivatedDate": "2026-10-16"
     },
     {
-      "text": "It's kind of fun to do the impossible.",
-      "author": "Walt Disney",
-      "date": "2026-09-30",
-      "inactive": true,
-      "deactivatedDate": "2026-10-16"
-    },
-    {
       "text": "You are never too old to set another goal or to dream a new dream.",
       "author": "C.S. Lewis",
       "date": "2026-10-01",
@@ -2031,13 +2024,6 @@
       "deactivatedDate": "2026-11-11"
     },
     {
-      "text": "Start by doing what's necessary; then do what's possible; and suddenly you are doing the impossible.",
-      "author": "St. Francis of Assisi",
-      "date": "2026-10-25",
-      "inactive": true,
-      "deactivatedDate": "2026-11-11"
-    },
-    {
       "text": "Those who have a 'why' to live, can bear with almost any 'how'.",
       "author": "Viktor Frankl",
       "date": "2026-10-27",
@@ -2062,13 +2048,6 @@
       "text": "The more that you read, the more things you will know. The more that you learn, the more places you'll go.",
       "author": "Dr. Seuss",
       "date": "2026-10-27",
-      "inactive": true,
-      "deactivatedDate": "2026-11-12"
-    },
-    {
-      "text": "People often say that motivation doesn't last. Well, neither does bathing—that's why we recommend it daily.",
-      "author": "Zig Ziglar",
-      "date": "2026-10-26",
       "inactive": true,
       "deactivatedDate": "2026-11-12"
     },
@@ -2176,13 +2155,6 @@
     {
       "text": "Luck is what happens when preparation meets opportunity.",
       "author": "Seneca",
-      "date": "2026-10-31",
-      "inactive": true,
-      "deactivatedDate": "2026-11-16"
-    },
-    {
-      "text": "And we know that all things work together for good to them that love God.",
-      "author": "Paul the Apostle",
       "date": "2026-10-31",
       "inactive": true,
       "deactivatedDate": "2026-11-16"
@@ -2434,21 +2406,49 @@
       "deactivatedDate": "2026-11-23"
     },
     {
-      "text": "Listen to the mustn'ts, child. Listen to the don'ts. Listen to the shouldn'ts, the impossibles, the won'ts. Then listen close to me... Anything can happen, child. Anything can be.",
-      "author": "Shel Silverstein",
-      "date": "2026-11-07",
-      "inactive": true,
-      "deactivatedDate": "2026-11-23"
-    },
-    {
       "text": "You don't have to see the whole staircase, just take the first step.",
       "author": "Martin Luther King Jr.",
       "date": "2026-11-06",
       "inactive": true,
       "deactivatedDate": "2026-11-23"
+    },
+    {
+      "text": "When it's over, I want to say: all my life I was a bride married to amazement.",
+      "author": "Mary Oliver",
+      "date": "2026-11-08",
+      "inactive": true,
+      "deactivatedDate": "2026-11-24"
+    },
+    {
+      "text": "If you're going through hell, keep going.",
+      "author": "Winston Churchill",
+      "date": "2026-11-08",
+      "inactive": true,
+      "deactivatedDate": "2026-11-24"
+    },
+    {
+      "text": "The way to get started is to quit talking and begin doing.",
+      "author": "Walt Disney",
+      "date": "2026-11-08",
+      "inactive": true,
+      "deactivatedDate": "2026-11-24"
+    },
+    {
+      "text": "It does not matter how slowly you go as long as you do not stop.",
+      "author": "Confucius",
+      "date": "2026-11-08",
+      "inactive": true,
+      "deactivatedDate": "2026-11-24"
+    },
+    {
+      "text": "The Lord is my shepherd; I shall not want.",
+      "author": "King David",
+      "date": "2026-11-07",
+      "inactive": true,
+      "deactivatedDate": "2026-11-24"
     }
   ],
-  "lastRotation": "2026-11-23",
+  "lastRotation": "2026-11-24",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
