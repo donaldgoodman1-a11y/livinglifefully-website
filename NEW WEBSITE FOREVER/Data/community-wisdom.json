@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Today you are you, that is truer than true. There is no one alive who is youer than you.",
+      "author": "Dr. Seuss",
+      "date": "2026-11-25",
+      "inactive": false
+    },
+    {
+      "text": "I can't die but once.",
+      "author": "Harriet Tubman",
+      "date": "2026-11-25",
+      "inactive": false
+    },
+    {
+      "text": "Sometimes the questions are complicated and the answers are simple.",
+      "author": "Dr. Seuss",
+      "date": "2026-11-25",
+      "inactive": false
+    },
+    {
+      "text": "Without a struggle, there can be no progress.",
+      "author": "Frederick Douglass",
+      "date": "2026-11-25",
+      "inactive": false
+    },
+    {
+      "text": "It does not matter how slowly you go as long as you do not stop.",
+      "author": "Confucius",
+      "date": "2026-11-25",
+      "inactive": false
+    },
+    {
       "text": "Listen to the mustn'ts, child. Listen to the don'ts. Listen to the shouldn'ts, the impossibles, the won'ts. Then listen close to me... Anything can happen, child. Anything can be.",
       "author": "Shel Silverstein",
       "date": "2026-11-24",
@@ -471,36 +501,6 @@
       "inactive": false
     },
     {
-      "text": "Choose faith over fear, and doubt not.",
-      "author": "David A. Bednar",
-      "date": "2026-11-09",
-      "inactive": false
-    },
-    {
-      "text": "Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.",
-      "author": "Carl Jung",
-      "date": "2026-11-09",
-      "inactive": false
-    },
-    {
-      "text": "Thousands of candles can be lighted from a single candle. Happiness never decreases by being shared.",
-      "author": "Buddha",
-      "date": "2026-11-09",
-      "inactive": false
-    },
-    {
-      "text": "No man is crushed by misfortune unless he has first been deceived by prosperity.\n-Seneca",
-      "author": "Seneca",
-      "date": "2026-11-09",
-      "inactive": false
-    },
-    {
-      "text": "If there is no struggle, there is no progress.",
-      "author": "Frederick Douglass",
-      "date": "2026-11-08",
-      "inactive": false
-    },
-    {
       "text": "To be happy takes daily practice and daily gratitude.",
       "author": "Anonymous Reader",
       "date": "2026-04-17",
@@ -543,13 +543,6 @@
       "date": "2026-06-09",
       "inactive": true,
       "deactivatedDate": "2026-06-23"
-    },
-    {
-      "text": "Sometimes the questions are complicated and the answers are simple.",
-      "author": "Dr. Seuss",
-      "date": "2026-06-10",
-      "inactive": true,
-      "deactivatedDate": "2026-06-24"
     },
     {
       "text": "Happiness can be found even in the darkest of times, if one only remembers to turn on the light.",
@@ -1989,13 +1982,6 @@
       "deactivatedDate": "2026-11-10"
     },
     {
-      "text": "Today you are you, that is truer than true. There is no one alive who is youer than you.",
-      "author": "Dr. Seuss",
-      "date": "2026-10-25",
-      "inactive": true,
-      "deactivatedDate": "2026-11-10"
-    },
-    {
       "text": "That which does not kill us makes us stronger.",
       "author": "Friedrich Nietzsche",
       "date": "2026-10-25",
@@ -2245,13 +2231,6 @@
       "deactivatedDate": "2026-11-18"
     },
     {
-      "text": "Without a struggle, there can be no progress.",
-      "author": "Frederick Douglass",
-      "date": "2026-11-01",
-      "inactive": true,
-      "deactivatedDate": "2026-11-18"
-    },
-    {
       "text": "We choose to be in control or choose to surrender.",
       "author": "Ryan Holiday",
       "date": "2026-11-03",
@@ -2392,13 +2371,6 @@
       "deactivatedDate": "2026-11-23"
     },
     {
-      "text": "I can't die but once.",
-      "author": "Harriet Tubman",
-      "date": "2026-11-07",
-      "inactive": true,
-      "deactivatedDate": "2026-11-23"
-    },
-    {
       "text": "Hope is being able to see that there is light despite all of the darkness.",
       "author": "Desmond Tutu",
       "date": "2026-11-07",
@@ -2434,21 +2406,49 @@
       "deactivatedDate": "2026-11-24"
     },
     {
-      "text": "It does not matter how slowly you go as long as you do not stop.",
-      "author": "Confucius",
-      "date": "2026-11-08",
-      "inactive": true,
-      "deactivatedDate": "2026-11-24"
-    },
-    {
       "text": "The Lord is my shepherd; I shall not want.",
       "author": "King David",
       "date": "2026-11-07",
       "inactive": true,
       "deactivatedDate": "2026-11-24"
+    },
+    {
+      "text": "Choose faith over fear, and doubt not.",
+      "author": "David A. Bednar",
+      "date": "2026-11-09",
+      "inactive": true,
+      "deactivatedDate": "2026-11-25"
+    },
+    {
+      "text": "Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.",
+      "author": "Carl Jung",
+      "date": "2026-11-09",
+      "inactive": true,
+      "deactivatedDate": "2026-11-25"
+    },
+    {
+      "text": "Thousands of candles can be lighted from a single candle. Happiness never decreases by being shared.",
+      "author": "Buddha",
+      "date": "2026-11-09",
+      "inactive": true,
+      "deactivatedDate": "2026-11-25"
+    },
+    {
+      "text": "No man is crushed by misfortune unless he has first been deceived by prosperity.\n-Seneca",
+      "author": "Seneca",
+      "date": "2026-11-09",
+      "inactive": true,
+      "deactivatedDate": "2026-11-25"
+    },
+    {
+      "text": "If there is no struggle, there is no progress.",
+      "author": "Frederick Douglass",
+      "date": "2026-11-08",
+      "inactive": true,
+      "deactivatedDate": "2026-11-25"
     }
   ],
-  "lastRotation": "2026-11-24",
+  "lastRotation": "2026-11-25",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
