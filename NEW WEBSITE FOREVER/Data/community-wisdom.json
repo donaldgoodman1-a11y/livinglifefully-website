@@ -1,6 +1,37 @@
 {
   "quotes": [
     {
+      "text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
+      "author": "Helen Keller",
+      "date": "2026-11-26",
+      "inactive": false
+    },
+    {
+      "text": "You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes.",
+      "author": "A.A. Milne",
+      "date": "2026-11-26",
+      "inactive": false
+    },
+    {
+      "text": "Never get so busy making a living that you forget to make a life.",
+      "author": "Dolly Parton",
+      "date": "2026-11-26",
+      "inactive": false,
+      "communitySubmission": true
+    },
+    {
+      "text": "I'm a success today because I had a friend who believed in me and I didn't have the heart to let him down.",
+      "author": "Abraham Lincoln",
+      "date": "2026-11-26",
+      "inactive": false
+    },
+    {
+      "text": "When I do good, I feel good. When I do bad, I feel bad. That's my religion.",
+      "author": "Abraham Lincoln",
+      "date": "2026-11-26",
+      "inactive": false
+    },
+    {
       "text": "Today you are you, that is truer than true. There is no one alive who is youer than you.",
       "author": "Dr. Seuss",
       "date": "2026-11-25",
@@ -467,37 +498,6 @@
       "text": "Not all those who wander are lost.",
       "author": "J.R.R. Tolkien",
       "date": "2026-11-10",
-      "inactive": false
-    },
-    {
-      "text": "Write it on your heart that every day is the best day in the year.",
-      "author": "Ralph Waldo Emerson",
-      "date": "2026-11-10",
-      "inactive": false
-    },
-    {
-      "text": "Life is like riding a bicycle: to keep your balance you must keep moving.",
-      "author": "Albert Einstein",
-      "date": "2026-11-10",
-      "inactive": false,
-      "communitySubmission": true
-    },
-    {
-      "text": "Faith does not eliminate questions. But faith knows where to take them.",
-      "author": "Elisabeth Elliot",
-      "date": "2026-11-10",
-      "inactive": false
-    },
-    {
-      "text": "Habits are the compound interest of self-improvement.",
-      "author": "James Clear",
-      "date": "2026-11-10",
-      "inactive": false
-    },
-    {
-      "text": "let GO",
-      "author": "Anonymous Reader",
-      "date": "2026-11-09",
       "inactive": false
     },
     {
@@ -1528,13 +1528,6 @@
       "deactivatedDate": "2026-10-22"
     },
     {
-      "text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
-      "author": "Helen Keller",
-      "date": "2026-10-07",
-      "inactive": true,
-      "deactivatedDate": "2026-10-23"
-    },
-    {
       "text": "You must do the things you think you cannot do.",
       "author": "Eleanor Roosevelt",
       "date": "2026-10-07",
@@ -1932,13 +1925,6 @@
       "deactivatedDate": "2026-11-08"
     },
     {
-      "text": "You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes.",
-      "author": "A.A. Milne",
-      "date": "2026-10-22",
-      "inactive": true,
-      "deactivatedDate": "2026-11-08"
-    },
-    {
       "text": "It always helps to have people we love beside us when we have to do difficult things in life.",
       "author": "Fred Rogers",
       "date": "2026-10-24",
@@ -2074,25 +2060,10 @@
       "deactivatedDate": "2026-11-13"
     },
     {
-      "text": "When I do good, I feel good. When I do bad, I feel bad. That's my religion.",
-      "author": "Abraham Lincoln",
-      "date": "2026-10-29",
-      "inactive": true,
-      "deactivatedDate": "2026-11-14"
-    },
-    {
       "text": "Everything can be taken from a man but one thing: the last of the human freedoms—to choose one's attitude in any given set of circumstances.",
       "author": "Viktor Frankl",
       "date": "2026-10-29",
       "inactive": true,
-      "deactivatedDate": "2026-11-14"
-    },
-    {
-      "text": "Never get so busy making a living that you forget to make a life.",
-      "author": "Dolly Parton",
-      "date": "2026-10-29",
-      "inactive": true,
-      "communitySubmission": true,
       "deactivatedDate": "2026-11-14"
     },
     {
@@ -2308,13 +2279,6 @@
       "deactivatedDate": "2026-11-21"
     },
     {
-      "text": "I'm a success today because I had a friend who believed in me and I didn't have the heart to let him down.",
-      "author": "Abraham Lincoln",
-      "date": "2026-11-05",
-      "inactive": true,
-      "deactivatedDate": "2026-11-21"
-    },
-    {
       "text": "Either write something worth reading or do something worth writing.",
       "author": "Benjamin Franklin",
       "date": "2026-11-05",
@@ -2446,9 +2410,45 @@
       "date": "2026-11-08",
       "inactive": true,
       "deactivatedDate": "2026-11-25"
+    },
+    {
+      "text": "Write it on your heart that every day is the best day in the year.",
+      "author": "Ralph Waldo Emerson",
+      "date": "2026-11-10",
+      "inactive": true,
+      "deactivatedDate": "2026-11-26"
+    },
+    {
+      "text": "Life is like riding a bicycle: to keep your balance you must keep moving.",
+      "author": "Albert Einstein",
+      "date": "2026-11-10",
+      "inactive": true,
+      "communitySubmission": true,
+      "deactivatedDate": "2026-11-26"
+    },
+    {
+      "text": "Faith does not eliminate questions. But faith knows where to take them.",
+      "author": "Elisabeth Elliot",
+      "date": "2026-11-10",
+      "inactive": true,
+      "deactivatedDate": "2026-11-26"
+    },
+    {
+      "text": "Habits are the compound interest of self-improvement.",
+      "author": "James Clear",
+      "date": "2026-11-10",
+      "inactive": true,
+      "deactivatedDate": "2026-11-26"
+    },
+    {
+      "text": "let GO",
+      "author": "Anonymous Reader",
+      "date": "2026-11-09",
+      "inactive": true,
+      "deactivatedDate": "2026-11-26"
     }
   ],
-  "lastRotation": "2026-11-25",
+  "lastRotation": "2026-11-26",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
