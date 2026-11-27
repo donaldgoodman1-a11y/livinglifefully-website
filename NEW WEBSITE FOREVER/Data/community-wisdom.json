@@ -1,6 +1,36 @@
 {
   "quotes": [
     {
+      "text": "Faith does not eliminate questions. But faith knows where to take them.",
+      "author": "Elisabeth Elliot",
+      "date": "2026-11-27",
+      "inactive": false
+    },
+    {
+      "text": "Peace comes from within. Do not seek it without.",
+      "author": "Buddha",
+      "date": "2026-11-27",
+      "inactive": false
+    },
+    {
+      "text": "You know you've reached middle age when you're cautioned to slow down by your doctor, instead of by the police.",
+      "author": "Joan Rivers",
+      "date": "2026-11-27",
+      "inactive": false
+    },
+    {
+      "text": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt",
+      "date": "2026-11-27",
+      "inactive": false
+    },
+    {
+      "text": "Be who God meant you to be and you will set the world on fire.",
+      "author": "St. Catherine of Siena",
+      "date": "2026-11-27",
+      "inactive": false
+    },
+    {
       "text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
       "author": "Helen Keller",
       "date": "2026-11-26",
@@ -471,36 +501,6 @@
       "communitySubmission": true
     },
     {
-      "text": "The most glorious moments in your life are not the so-called days of success, but rather those days when out of dejection and despair you feel rise in you a challenge to life.",
-      "author": "Gustave Flaubert",
-      "date": "2026-11-11",
-      "inactive": false
-    },
-    {
-      "text": "Sometimes we're tested not to show our weaknesses, but to discover our strengths.",
-      "author": "Rafiki, The Lion King",
-      "date": "2026-11-11",
-      "inactive": false
-    },
-    {
-      "text": "Why fit in when you were born to stand out?",
-      "author": "Dr. Seuss",
-      "date": "2026-11-11",
-      "inactive": false
-    },
-    {
-      "text": "The Lord loves effort.",
-      "author": "Russell M. Nelson",
-      "date": "2026-11-11",
-      "inactive": false
-    },
-    {
-      "text": "Not all those who wander are lost.",
-      "author": "J.R.R. Tolkien",
-      "date": "2026-11-10",
-      "inactive": false
-    },
-    {
       "text": "To be happy takes daily practice and daily gratitude.",
       "author": "Anonymous Reader",
       "date": "2026-04-17",
@@ -529,13 +529,6 @@
       "date": "2026-05-20",
       "inactive": true,
       "deactivatedDate": "2026-06-02"
-    },
-    {
-      "text": "You know you've reached middle age when you're cautioned to slow down by your doctor, instead of by the police.",
-      "author": "Joan Rivers",
-      "date": "2026-05-29",
-      "inactive": true,
-      "deactivatedDate": "2026-06-12"
     },
     {
       "text": "Knowing yourself is the beginning of all wisdom.",
@@ -585,13 +578,6 @@
       "date": "2026-07-02",
       "inactive": true,
       "deactivatedDate": "2026-07-17"
-    },
-    {
-      "text": "Peace comes from within. Do not seek it without.",
-      "author": "Buddha",
-      "date": "2026-07-04",
-      "inactive": true,
-      "deactivatedDate": "2026-07-19"
     },
     {
       "text": "I would unite with anybody to do right and with nobody to do wrong.",
@@ -729,13 +715,6 @@
       "date": "2026-07-26",
       "inactive": true,
       "deactivatedDate": "2026-08-11"
-    },
-    {
-      "text": "Believe you can and you're halfway there.",
-      "author": "Theodore Roosevelt",
-      "date": "2026-07-28",
-      "inactive": true,
-      "deactivatedDate": "2026-08-12"
     },
     {
       "text": "I have learned that if one advances confidently in the direction of his dreams, he will meet with a success unexpected in common hours.",
@@ -1334,13 +1313,6 @@
     {
       "text": "For every minute you are angry you lose sixty seconds of happiness.",
       "author": "Ralph Waldo Emerson",
-      "date": "2026-09-25",
-      "inactive": true,
-      "deactivatedDate": "2026-10-11"
-    },
-    {
-      "text": "Be who God meant you to be and you will set the world on fire.",
-      "author": "St. Catherine of Siena",
       "date": "2026-09-25",
       "inactive": true,
       "deactivatedDate": "2026-10-11"
@@ -2427,13 +2399,6 @@
       "deactivatedDate": "2026-11-26"
     },
     {
-      "text": "Faith does not eliminate questions. But faith knows where to take them.",
-      "author": "Elisabeth Elliot",
-      "date": "2026-11-10",
-      "inactive": true,
-      "deactivatedDate": "2026-11-26"
-    },
-    {
       "text": "Habits are the compound interest of self-improvement.",
       "author": "James Clear",
       "date": "2026-11-10",
@@ -2446,9 +2411,44 @@
       "date": "2026-11-09",
       "inactive": true,
       "deactivatedDate": "2026-11-26"
+    },
+    {
+      "text": "The most glorious moments in your life are not the so-called days of success, but rather those days when out of dejection and despair you feel rise in you a challenge to life.",
+      "author": "Gustave Flaubert",
+      "date": "2026-11-11",
+      "inactive": true,
+      "deactivatedDate": "2026-11-27"
+    },
+    {
+      "text": "Sometimes we're tested not to show our weaknesses, but to discover our strengths.",
+      "author": "Rafiki, The Lion King",
+      "date": "2026-11-11",
+      "inactive": true,
+      "deactivatedDate": "2026-11-27"
+    },
+    {
+      "text": "Why fit in when you were born to stand out?",
+      "author": "Dr. Seuss",
+      "date": "2026-11-11",
+      "inactive": true,
+      "deactivatedDate": "2026-11-27"
+    },
+    {
+      "text": "The Lord loves effort.",
+      "author": "Russell M. Nelson",
+      "date": "2026-11-11",
+      "inactive": true,
+      "deactivatedDate": "2026-11-27"
+    },
+    {
+      "text": "Not all those who wander are lost.",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-11-10",
+      "inactive": true,
+      "deactivatedDate": "2026-11-27"
     }
   ],
-  "lastRotation": "2026-11-26",
+  "lastRotation": "2026-11-27",
   "totalQuotes": 356,
   "activeQuotes": 81,
   "inactiveQuotes": 275
